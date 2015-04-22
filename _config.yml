@@ -1,5 +1,5 @@
 # Site settings
-title: Testing Conferences
+title: Software Testing Conferences
 email: your-email@kenst.com
 description: > # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kenst.com" # the base hostname & protocol for your site
 twitter_username: ckenst
-github_username:  ckenst
+github_username: ckenst
 
 # Build settings
 markdown: kramdown
