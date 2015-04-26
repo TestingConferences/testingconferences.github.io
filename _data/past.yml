@@ -1,0 +1,17 @@
+- name: STPCon Spring 2015
+  location: San Deigo, CA
+  dates: "March 30 to April 2, 2015"
+  url: http://www.stpcon.com
+  twitter: softwaretestpro
+
+- name: CAST 2014
+  location: New York, NY
+  dates: "August 11-13, 2014"
+  url: http://www.associationforsoftwaretesting.org/conference/cast-2014/
+  twitter: AST_News
+  video_link: https://www.youtube.com/watch?list=PLQB4l9iafcelXpJnK6IyDsoFeEb1icqrl&v=JLVP_Z5AoyM
+
+- name: WTST 13
+  location: Melbourne, FL
+  dates: "January 24-26, 2014"
+  url: http://wtst.org

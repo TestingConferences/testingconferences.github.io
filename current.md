@@ -9,7 +9,7 @@ This basic list is generated from the current data file:
 <ul>
 {% for current in site.data.current %}
   <li>
-      <a href="http://{{current.url}}">{{ current.name }}</a>, {{ current.reg_phrase }},
+      <a href="{{current.url}}">{{ current.name }}</a>, {{ current.reg_phrase }},
       {{ current.dates }}, {{ current.location }}, {{ current.twitter }}
   </li>
 
