@@ -4,16 +4,14 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">News</h1>
+  <h1 class="page-heading">Current</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for current in site.data.current %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a href="{{current.url}}">{{ current.name }}</a>, {{ current.reg_phrase }}
+        <p>
+          {{ current.dates }}, {{ current.location }}, <a href="https://www.twitter.com/{{current.twitter}}">@{{ current.twitter }}</a>
       </li>
     {% endfor %}
   </ul>

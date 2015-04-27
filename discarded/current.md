@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Current
-permalink: /current/
+layout: default
 ---
 
 This basic list is generated from the current data file:

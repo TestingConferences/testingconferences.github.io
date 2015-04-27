@@ -4,8 +4,6 @@ title: Past
 permalink: /past/
 ---
 
-This basic list is generated from the past data file:
-
 <ul>
 {% for past in site.data.past %}
   <li>

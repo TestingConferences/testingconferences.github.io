@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Jekyll
-permalink: /jekyll/
 ---
 
 This is my page for putting Jekyll information and references.
