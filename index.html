@@ -7,9 +7,9 @@ layout: default
   <ul class="post-list">
     {% for current in site.data.current %}
       <li>
-        <a href="{{current.url}}">{{ current.name }}</a>, {{ current.reg_phrase }}
+        <a href="{{current.url}}">{{ current.name }}</a>
         <p>
-          {{ current.dates }}, {{ current.location }}, <a href="https://www.twitter.com/{{current.twitter}}">@{{ current.twitter }}</a>
+          {{ current.dates }} - {{ current.location }} - <a href="https://www.twitter.com/{{current.twitter}}">@{{ current.twitter }}</a>
       </li>
     {% endfor %}
   </ul>
