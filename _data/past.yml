@@ -1,3 +1,10 @@
+- name: STAREAST 2015
+  location: Orlando, FL
+  dates: "May 3-8, 2015"
+  url: http://stareast.techwell.com
+  twitter: TechWell
+  reg_phrase: Registration is open
+
 - name: STPCon Spring 2015
   location: San Deigo, CA
   dates: "March 30-April 2, 2015"

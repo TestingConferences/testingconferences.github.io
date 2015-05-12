@@ -1,10 +1,3 @@
-- name: STAREAST 2015
-  location: Orlando, FL
-  dates: "May 3-8, 2015"
-  url: http://stareast.techwell.com
-  twitter: TechWell
-  reg_phrase: Registration is open
-
 - name: Let's Test 2015
   location: Stockholm, Sweden
   dates: "May 25-27, 2015"
@@ -49,3 +42,10 @@
   reg_phrase: Registration is open
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
+
+- name: EuroSTAR 2015
+  location: Maastricht, Netherlands
+  dates: "November 2-5, 2015"
+  url: http://conference.eurostarsoftwaretesting.com/
+  twitter: esconfs
+  reg_phrase: Registration is open
