@@ -1,32 +1,38 @@
-- name: Let's Test 2015
+- name: Let's Test
   location: Stockholm, Sweden
   dates: "May 25-27, 2015"
   url: http://lets-test.com
   twitter: LetsTest_Conf
   reg_phrase: Registration is open
 
-- name: STARCANADA 2015
+- name: STARCANADA
   location: Vancouver, BC, Canada
   dates: "June 21-25, 2015"
   url: http://starcanada.techwell.com
   twitter: TechWell
   reg_phrase: Registration is open
 
-- name: CAST 2015
+- name: TestRetreat-Grand Rapids
+  location: Grand Rapids, MI
+  dates: "August 1, 2015"
+  url: http://www.eventbrite.com/e/testretreat-grand-rapids-tickets-16403567512
+  twitter: ExcelonDevelopm
+
+- name: CAST
   location: Grand Rapids, MI
   dates: "August 3-5, 2015"
   url: http://www.associationforsoftwaretesting.org/conference/cast-2015/
   twitter: AST_News
   reg_phrase: Registration is open
 
-- name: STARWEST 2015
+- name: STARWEST
   location: Anaheim, CA
   dates: "September 27-October 2, 2015"
   url: http://starwest.techwell.com
   twitter: TechWell
   reg_phrase: Registration is open
 
-- name: STPCon Fall 2015
+- name: STPCon Fall
   location: Boston, MA
   dates: "October 5-8, 2015"
   url: http://www.stpcon.com
@@ -34,7 +40,7 @@
   cfp_phrase: Call for Proposals is Open
   cfp_date: "May 15, 2015"
 
-- name: PNSQC 2015
+- name: PNSQC
   location: Portland, Oregon
   dates: "October 12-14, 2015"
   url: http://www.pnsqc.org/2015-conference/
@@ -43,9 +49,15 @@
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
 
-- name: EuroSTAR 2015
+- name: EuroSTAR
   location: Maastricht, Netherlands
   dates: "November 2-5, 2015"
   url: http://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
   reg_phrase: Registration is open
+
+- name: Agile Testing Days
+  location: Potsdam, Germany
+  dates: "November 9-12, 2015"
+  url: http://www.agiletestingdays.com/
+  twitter: AgileTD

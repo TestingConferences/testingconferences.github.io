@@ -7,7 +7,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
 #About
 TestingConferences.org is a simple list of software testing conferences and workshops published collaboratively with the testing community.
 
-_Eligible Conferences_
+_Eligible Conferences and Workshops_
 
 Focus is a goal of this project and as a result, only conferences and workshops that are specifically for software testing are listed. That means that if a conference covers software testing, but is not specifically for testers, then it is left out.
 
