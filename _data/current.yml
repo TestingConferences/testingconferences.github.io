@@ -5,6 +5,13 @@
   twitter: LetsTest_Conf
   reg_phrase: Registration is open
 
+- name: Nordic Testing Days
+  location: Tallinn, Estonia
+  dates: "June 3-5, 2015"
+  url: http://nordictestingdays.eu/
+  twitter: nordictestdays
+  reg_phrase: Registration is open
+
 - name: STARCANADA
   location: Vancouver, BC, Canada
   dates: "June 21-25, 2015"
@@ -61,10 +68,3 @@
   dates: "November 9-12, 2015"
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
-
-- name: Nordic Testing Days
-  location: Tallinn, Estonia
-  dates: "June 3-5, 2015"
-  url: http://nordictestingdays.eu/
-  twitter: nordictestdays
-  reg_phrase: Registration is open
