@@ -1,9 +1,14 @@
+- name: Belgium Testing Days
+  location: Brussels, Belgium
+  dates: "May 18-21, 2015"
+  url: http://btdconf.com/
+  twitter: BTDconf
+  
 - name: STAREAST 2015
   location: Orlando, FL
   dates: "May 3-8, 2015"
   url: http://stareast.techwell.com
   twitter: TechWell
-  reg_phrase: Registration is open
 
 - name: STPCon Spring 2015
   location: San Deigo, CA
