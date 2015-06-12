@@ -55,8 +55,20 @@
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
   
+- name: Let's Test South Africa
+  location: Magaliesberg, South Africa
+  dates: "November 15–17, 2015"
+  url: http://lets-test.com/?page_id=4070
+  twitter: LetsTest_Conf
+  
 - name: Software Quality Days
   location: Vienna, Austria
   dates: "January 18-21, 2016"
   url: http://2016.software-quality-days.com/en/
   twitter: swqd
+
+- name: Let's Test
+  location: Magaliesberg, South Africa
+  dates: "May 23-25, 2016"
+  url: http://lets-test.com/
+  twitter: LetsTest_Conf
