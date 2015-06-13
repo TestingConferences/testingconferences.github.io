@@ -41,6 +41,12 @@
   reg_phrase: Registration is open
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
+  
+- name: TinyTestBash 
+  location: Brighton, England
+  dates: "October 23, 2015"
+  url: http://www.ministryoftesting.com/training-events/tinytestbash2015/
+  twitter: ministryoftest
 
 - name: EuroSTAR
   location: Maastricht, Netherlands
