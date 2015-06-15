@@ -42,6 +42,12 @@
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
   
+- name: Workshop on Performance and Reliability 
+  location: Mountain View, California
+  dates: "October 22-24, 2015"
+  url: http://www.performance-workshop.org/wopr24/
+  twitter: WOPR_Workshop
+  
 - name: TinyTestBash 
   location: Brighton, England
   dates: "October 23, 2015"
