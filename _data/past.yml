@@ -1,3 +1,9 @@
+- name: STARCANADA
+  location: Vancouver, BC, Canada
+  dates: "June 21-25, 2015"
+  url: http://starcanada.techwell.com
+  twitter: TechWell
+
 - name: Nordic Testing Days
   location: Tallinn, Estonia
   dates: "June 3-5, 2015"
