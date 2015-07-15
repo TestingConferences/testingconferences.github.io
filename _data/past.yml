@@ -3,6 +3,12 @@
   dates: "June 21-25, 2015"
   url: http://starcanada.techwell.com
   twitter: TechWell
+  
+- name: Test Automation Day
+  location: WTC Rotterdam, the Netherlands
+  dates: "June 18, 2015"
+  url: http://www.testautomationday.com/
+  twitter: testautomationd
 
 - name: Nordic Testing Days
   location: Tallinn, Estonia
