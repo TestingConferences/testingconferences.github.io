@@ -59,6 +59,12 @@
   dates: "November 9-12, 2015"
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
+
+- name: GTAC
+  location: Cambridge, MA
+  dates: "November 10-11, 2015"
+  url: https://developers.google.com/google-test-automation-conference/
+  twitter: googletesting
   
 - name: Let's Test South Africa
   location: Magaliesberg, South Africa
