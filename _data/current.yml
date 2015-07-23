@@ -18,6 +18,12 @@
   twitter: TechWell
   reg_phrase: Registration is open
 
+- name: TestWorks
+  location: Amsterdam
+  dates: " October 2, 2015"
+  url: http://www.testworksconf.com/
+  twitter: testworksconf
+
 - name: STPCon Fall
   location: Boston, MA
   dates: "October 5-8, 2015"
@@ -30,7 +36,7 @@
   location: Kitchener, ON Canada
   dates: "October 8-9, 2015"
   url: http://kwsqa.org/conference/
-  twitter: kwsqa
+  twitter: KWSQA
 
 - name: PNSQC
   location: Portland, OR
@@ -59,6 +65,12 @@
   url: http://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
   reg_phrase: Registration is open
+
+- name: TestBashNY
+  location: New York, NY
+  dates: "November 5-6, 2015"
+  url: http://www.ministryoftesting.com/training-events/testbashny/
+  twitter: ministryoftest
 
 - name: Agile Testing Days
   location: Potsdam, Germany
@@ -89,3 +101,9 @@
   dates: "May 23-25, 2016"
   url: http://lets-test.com/
   twitter: LetsTest_Conf
+
+- name: London Tester Gathering Workshops
+  location: London, England
+  dates: "June 2-3, 2016"
+  url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
+  twitter: LTGWorkshops
