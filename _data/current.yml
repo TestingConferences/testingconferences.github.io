@@ -26,22 +26,28 @@
   cfp_phrase: Call for Proposals is Open
   cfp_date: "May 15, 2015"
 
+- name: Targeting Quality
+  location: Kitchener, ON Canada
+  dates: "October 8-9, 2015"
+  url: http://kwsqa.org/conference/
+  twitter: kwsqa
+
 - name: PNSQC
-  location: Portland, Oregon
+  location: Portland, OR
   dates: "October 12-14, 2015"
   url: http://www.pnsqc.org/2015-conference/
   twitter: PNSQC
   reg_phrase: Registration is open
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
-  
-- name: Workshop on Performance and Reliability 
-  location: Mountain View, California
+
+- name: Workshop on Performance and Reliability
+  location: Mountain View, CA
   dates: "October 22-24, 2015"
   url: http://www.performance-workshop.org/wopr24/
   twitter: WOPR_Workshop
-  
-- name: TinyTestBash 
+
+- name: TinyTestBash
   location: Brighton, England
   dates: "October 23, 2015"
   url: http://www.ministryoftesting.com/training-events/tinytestbash2015/
@@ -65,13 +71,13 @@
   dates: "November 10-11, 2015"
   url: https://developers.google.com/google-test-automation-conference/
   twitter: googletesting
-  
+
 - name: Let's Test South Africa
   location: Magaliesberg, South Africa
   dates: "November 15–17, 2015"
   url: http://lets-test.com/?page_id=4070
   twitter: LetsTest_Conf
-  
+
 - name: Software Quality Days
   location: Vienna, Austria
   dates: "January 18-21, 2016"
