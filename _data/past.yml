@@ -34,6 +34,12 @@
   url: http://btdconf.com/
   twitter: BTDconf
 
+- name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "May 14-15, 2015"
+  url: http://www.romaniatesting.ro/
+  twitter:
+
 - name: STAREAST 2015
   location: Orlando, FL
   dates: "May 3-8, 2015"

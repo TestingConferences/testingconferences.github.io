@@ -11,6 +11,12 @@
   twitter: AST_News
   reg_phrase: Registration is open
 
+- name: Black Ops Testing Workshop
+  location: London
+  dates: "September 15, 2015"
+  url: http://blackopstesting.com/post/event/training/20150420_september_2015_software_testing_training_in_london/
+  twitter: BlackOpsTesting
+
 - name: STARWEST
   location: Anaheim, CA
   dates: "September 27-October 2, 2015"
