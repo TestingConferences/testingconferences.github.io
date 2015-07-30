@@ -9,7 +9,11 @@
   dates: "August 3-5, 2015"
   url: http://www.associationforsoftwaretesting.org/conference/cast-2015/
   twitter: AST_News
-  reg_phrase: Registration is open
+
+- name: South West Exploratory Workshop in Testing
+  location: Bristol, England
+  dates: "August 9, 2015"
+  twitter: TheTestDoctor
 
 - name: Black Ops Testing Workshop
   location: London
@@ -53,7 +57,13 @@
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
 
-- name: Workshop on Performance and Reliability
+- name: Software Testing Atlanta (STAC)
+  location: Atlanta, GA
+  dates: "October 22, 2015"
+  url: http://www.softwaretestingatlcon.com/
+  twitter: STACAtlanta
+
+- name: Workshop on Performance and Reliability (WOPR)
   location: Mountain View, CA
   dates: "October 22-24, 2015"
   url: http://www.performance-workshop.org/wopr24/
