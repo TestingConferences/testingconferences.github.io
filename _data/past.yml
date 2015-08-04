@@ -3,7 +3,25 @@
   dates: "August 1, 2015"
   url: http://www.eventbrite.com/e/testretreat-grand-rapids-tickets-16403567512
   twitter: ExcelonDevelopm
-  
+
+- name: STeP-IN SUMMIT 2015
+  location: Bangalore, India
+  dates: "July 2-3, 2015"
+  url: http://www.stepinsummit.stepinforum.org/conference-program/
+  twitter: @stepin_forum
+
+- name: STeP-IN SUMMIT Pune
+  location: Pune, India
+  dates: "June 24, 2015"
+  url: http://www.stepinsummit.stepinforum.org/conference-program/
+  twitter: @stepin_forum
+
+- name: STeP-IN SUMMIT Hyderabad
+  location: Hyderabad, India
+  dates: "June 23, 2015"
+  url: http://www.stepinsummit.stepinforum.org/conference-program/
+  twitter: @stepin_forum
+
 - name: STARCANADA
   location: Vancouver, BC, Canada
   dates: "June 21-25, 2015"
