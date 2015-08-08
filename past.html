@@ -8,7 +8,7 @@ permalink: /past/
   <li>
       <h2><a href="{{past.url}}">{{ past.name }}</a></h2>
       <p>
-      {{ past.dates }} · {{ past.location }} · <a href="https://www.twitter.com/@{{past.twitter}}">{{ past.twitter }}</a>
+      <i class="fa fa-calendar"></i> {{ past.dates }} <i class="fa fa-map-marker"></i> {{ past.location }} <i class="fa fa-twitter"></i> <a href="https://www.twitter.com/@{{past.twitter}}">{{ past.twitter }}</a>
   </li>
 
 {% endfor %}

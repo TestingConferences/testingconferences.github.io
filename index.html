@@ -8,7 +8,7 @@ layout: default
       <li>
         <h2><a href="{{current.url}}">{{ current.name }}</a></h2>
         <p>
-          {{ current.dates }} · {{ current.location }} · <a href="https://www.twitter.com/{{current.twitter}}">@{{ current.twitter }}</a>
+          <i class="fa fa-calendar"></i> {{ current.dates }} <i class="fa fa-map-marker"></i> {{ current.location }} <i class="fa fa-twitter"></i> <a href="https://www.twitter.com/{{current.twitter}}">{{ current.twitter }}</a>
       </li>
     {% endfor %}
   </ul>
