@@ -1,3 +1,9 @@
+- name: CAST
+  location: Grand Rapids, MI
+  dates: "August 3-5, 2015"
+  url: http://www.associationforsoftwaretesting.org/conference/cast-2015/
+  twitter: AST_News
+
 - name: TestRetreat-Grand Rapids
   location: Grand Rapids, MI
   dates: "August 1, 2015"
