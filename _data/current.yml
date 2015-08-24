@@ -31,6 +31,12 @@
   url: http://kwsqa.org/conference/
   twitter: KWSQA
 
+- name: Midlands Exploratory Workshop on Testing (MEWT)
+  location: Nottingham, UK
+  dates: "October 10, 2015"
+  url: https://mewtblog.wordpress.com/2015/07/05/mewt4-call-for-papers/
+  twitter: FriendlyTester
+
 - name: PNSQC
   location: Portland, OR
   dates: "October 12-14, 2015"
