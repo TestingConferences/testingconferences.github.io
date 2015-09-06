@@ -29,7 +29,7 @@
   url: http://www.citconf.com/annarbor2015/index.html
   twitter: citcon
 
-- name: STPCon Fall
+- name: STPCon Fall 2015
   location: Boston, MA
   dates: "October 5-8, 2015"
   url: http://www.stpcon.com
@@ -49,7 +49,7 @@
   url: https://mewtblog.wordpress.com/2015/07/05/mewt4-call-for-papers/
   twitter: FriendlyTester
 
-- name: PNSQC
+- name: PNSQC 2015
   location: Portland, OR
   dates: "October 12-14, 2015"
   url: http://www.pnsqc.org/2015-conference/
@@ -76,7 +76,7 @@
   url: http://www.ministryoftesting.com/training-events/tinytestbash2015/
   twitter: ministryoftest
 
-- name: EuroSTAR
+- name: EuroSTAR 2015
   location: Maastricht, Netherlands
   dates: "November 2-5, 2015"
   url: http://conference.eurostarsoftwaretesting.com/
@@ -89,13 +89,13 @@
   url: http://www.ministryoftesting.com/training-events/testbashny/
   twitter: ministryoftest
 
-- name: Agile Testing Days
+- name: Agile Testing Days 2015
   location: Potsdam, Germany
   dates: "November 9-12, 2015"
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
 
-- name: GTAC
+- name: GTAC 2015
   location: Cambridge, MA
   dates: "November 10-11, 2015"
   url: https://developers.google.com/google-test-automation-conference/
@@ -107,7 +107,13 @@
   url: http://lets-test.com/?page_id=4070
   twitter: LetsTest_Conf
 
-- name: Software Quality Days
+- name: ThinkTest 2015
+  location: New Delhi, India
+  dates: "December 4th, 2015"
+  url: http://www.confengine.com/thinktest-2015
+  twitter: smita_qazone
+
+- name: Software Quality Days 2016
   location: Vienna, Austria
   dates: "January 18-21, 2016"
   url: http://2016.software-quality-days.com/en/
