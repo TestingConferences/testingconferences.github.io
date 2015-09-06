@@ -4,7 +4,7 @@ permalink: /about/
 ---
 **About**
 
-TestingConferences.org is a simple list of conferences and workshops in (software) testing published collaboratively with the testing community.
+TestingConferences.org is a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 
 **Eligible Conferences**
 
