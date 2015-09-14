@@ -95,6 +95,9 @@
     letter-spacing: 1px;
     word-spacing: 20px;
 
+    &:active {
+        text-decoration: underline;
+    }
 }
 
 
@@ -188,7 +191,7 @@
     }
 
     h2 {
-      font-size: 30px;
+      font-size: 26px;
       margin-bottom: 1px;
     }
 }
