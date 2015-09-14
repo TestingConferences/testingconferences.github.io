@@ -88,14 +88,14 @@
 }
 
 .main-nav {
-    float: center;
-    font-size: 24px;
+    font-size: 26px;
     padding: 5px 40px;
     text-transform: uppercase;
     letter-spacing: 1px;
     word-spacing: 20px;
+    text-shadow: 2px 2px 2px #CCC;
 
-    &:active {
+    .active {
         text-decoration: underline;
     }
 }

@@ -1,7 +1,7 @@
 <div class="main-nav">
   <ul>
-    <a href="/" class="active">Current</a>
-    <a href="/past">Past</a>
-    <!--<a href="/news">News</a> -->
+    <a href="/" {% if page.url == '/index.html' %}class='active'{% endif %}>Current</a>
+    <a href="/past" {% if page.url == '/past/' %}class='active'{% endif %}>Past</a>
+    <!--<a href="/news" {% if page.url == '/news/' %}class='active'{% endif %}>News</a>-->
   </ul>
 </div>
