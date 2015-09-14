@@ -1,3 +1,9 @@
+- name: CITCON Europe 2015
+  location: Helsinki, Finland
+  dates: "September 11-12, 2015"
+  url: http://www.citconf.com/helsinki2015/index.html
+  twitter: citcon
+
 - name: Testing In the Archipelago Network (TITAN)
   location: Karlskrona, Sweden
   dates: "August 28-30, 2015"

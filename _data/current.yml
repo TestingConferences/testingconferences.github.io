@@ -1,16 +1,10 @@
-- name: CITCON Europe 2015
-  location: Helsinki, Finland
-  dates: "September 11-12, 2015"
-  url: http://www.citconf.com/helsinki2015/index.html
-  twitter: citcon
-
 - name: Black Ops Testing Workshop
   location: London
   dates: "September 15, 2015"
   url: http://blackopstesting.com/post/event/training/20150420_september_2015_software_testing_training_in_london/
   twitter: BlackOpsTesting
 
-- name: STARWEST
+- name: STARWEST 2015
   location: Anaheim, CA
   dates: "September 27-October 2, 2015"
   url: http://starwest.techwell.com
@@ -58,7 +52,7 @@
   cfp_phrase: Call for Abstracts is open
   cfp_date: "May, 2015"
 
-- name: Software Testing Atlanta (STAC)
+- name: Software Testing Atlanta (STAC) 2015
   location: Atlanta, GA
   dates: "October 22, 2015"
   url: http://www.softwaretestingatlcon.com/
