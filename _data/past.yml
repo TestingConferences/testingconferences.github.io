@@ -1,9 +1,21 @@
+- name: Targeting Quality 2015 (KWSQA)
+  location: Kitchener, ON Canada
+  dates: "October 8-9, 2015"
+  url: http://kwsqa.org/conference/
+  twitter: KWSQA
+
+- name: Testwarez 2015
+  location: Warsaw, Poland
+  dates: "October 7-9, 2015"
+  url: http://www.testwarez.pl/
+  twitter: SjsiOrg
+
 - name: TestRetreat:KW (KWSQA)
   location: Kitchener, ON Canada
   dates: "October 7, 2015"
   url: http://www.eventbrite.com/e/testretreatkw-tickets-18423753944
   twitter: ExcelonDevelopm
-  
+
 - name: STPCon Fall 2015
   location: Boston, MA, USA
   dates: "October 5-8, 2015"
