@@ -77,7 +77,7 @@
   twitter: techwell
 
 - name: Let's Test 2016
-  location: Magaliesberg, South Africa
+  location: Stockholm, Sweden
   dates: "May 23-25, 2016"
   url: http://lets-test.com/
   twitter: LetsTest_Conf
@@ -87,3 +87,9 @@
   dates: "June 2-3, 2016"
   url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
   twitter: LTGWorkshops
+
+- name: CAST 2016
+  location: Vancouver, BC, Canada
+  dates: "August 8-10, 2016"
+  url: http://us2.campaign-archive2.com/?u=bcd81e69d2b3451e4cc5d1f57&id=913dd472cb
+  twitter: AST_News
