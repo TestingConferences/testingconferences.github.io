@@ -22,6 +22,18 @@
   url: https://developers.google.com/google-test-automation-conference/
   twitter: googletesting
 
+- name: EXTENT-V Trading Technology Trends & Quality Assurance
+  location: St. Petersburg, Russia
+  dates: "November 11, 2015"
+  url: http://extentconf.com/
+  twitter: exactpro
+
+- name: TMPA-2015 Tools & Methods of Program Analysis
+  location: St. Petersburg, Russia
+  dates: "November 12-14, 2015"
+  url: http://tmpaconf.org/
+  twitter: exactpro
+
 - name: Let's Test South Africa
   location: Magaliesberg, South Africa
   dates: "November 15–17, 2015"
