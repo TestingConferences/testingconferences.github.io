@@ -82,6 +82,12 @@
   url: http://www.citconf.com/helsinki2015/index.html
   twitter: citcon
 
+- name: Selenium Conference 2015
+  location: Portland, OR, USA
+  dates: "September 8-10, 2015"
+  url: http://year-2015.seleniumconf.org/
+  twitter: seleniumconf
+
 - name: Testing In the Archipelago Network (TITAN)
   location: Karlskrona, Sweden
   dates: "August 28-30, 2015"
