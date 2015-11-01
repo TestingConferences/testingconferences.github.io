@@ -87,6 +87,12 @@
   dates: "May 23-25, 2016"
   url: http://lets-test.com/
   twitter: LetsTest_Conf
+  
+- name: Nordic Testing Days
+  location: Tallin, Estonia
+  dates: "June 1-3, 2016"
+  url: http://www.nordictestingdays.eu/
+  twitter: nordictestdays
 
 - name: London Tester Gathering Workshops 2016
   location: London, England
