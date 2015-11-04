@@ -28,12 +28,18 @@
   url: http://lets-test.com/?page_id=4070
   twitter: LetsTest_Conf
 
+- name: SIGIST Winter 2015 Conference
+  location: London, UK
+  dates: "December 2nd, 2015"
+  url: http://www.bcs.org/category/9264
+  twitter: SIGiST
+
 - name: ThinkTest 2015
   location: New Delhi, India
   dates: "December 4th, 2015"
   url: http://www.confengine.com/thinktest-2015
   twitter: smita_qazone
-
+  
 - name: Software Quality Days 2016
   location: Vienna, Austria
   dates: "January 18-21, 2016"
