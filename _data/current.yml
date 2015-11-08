@@ -87,6 +87,12 @@
   dates: "May 1-6, 2016"
   url: http://stareast.techwell.com/
   twitter: techwell
+  
+- name: Australian Testing Days 2016
+  location: Melbourne, Australia 
+  dates: "May 20 -21, 2016"
+  url: https://testengineeringalliance.com/australian-testing-days-2016/
+  twitter: @AussieTesters
 
 - name: Let's Test 2016
   location: Stockholm, Sweden
