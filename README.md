@@ -1,11 +1,12 @@
 # Testing Conferences
-A simple list of conferences and workshops in (software) testing, published collaboratively with the software testing community.
+This is a simple list of software testing conferences and workshops published collaboratively with the testing community.
 
-# Contributing
+# Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR. The _order_ of the events listed in ```current.yml``` and ```past.yml``` dictates the _order_ displayed, please make sure to properly insert events.
 
-#About
-TestingConferences.org is a simple list of software testing conferences and workshops published collaboratively with the testing community.
+  - If possible, spell out the conference name and add the abbreviation. Otherwise just use the abbreviation
+  - Include the year
+  - Don't include the @ symbol for the twitter handle
 
 _Eligible Conferences and Workshops_
 
