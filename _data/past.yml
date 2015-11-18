@@ -1,3 +1,9 @@
+- name: Let's Test South Africa 2015
+  location: Magaliesberg, South Africa
+  dates: "November 15–17, 2015"
+  url: http://lets-test.com/?page_id=4070
+  twitter: LetsTest_Conf
+
 - name: GTAC 2015
   location: Cambridge, MA, USA
   dates: "November 10-11, 2015"
