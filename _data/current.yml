@@ -150,13 +150,13 @@
   
 - name: STARCanada 2016
   location: Toronto, Canada
-  dates: October 23-27, 2016"
+  dates: "October 23-27, 2016"
   url: http://starcanada.techwell.com/
   twitter: starcanada
   
 - name: EuroSTAR 2016
   location: Stockholm, Sweden
-  dates: "November 31 - December 03, 2016"
+  dates: "November 31-December 03, 2016"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
   
