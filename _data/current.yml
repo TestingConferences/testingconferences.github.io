@@ -64,6 +64,12 @@
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
   twitter: ministryoftest
 
+- name: Software Test Professionals Conference 2016
+  location: Millbrae, California, USA
+  dates: "April 4-7, 2016"
+  url: http://www.stpcon.com/
+  twitter: stpcon
+  
 - name: Mobile Dev + Test 2016
   location: San Deigo, CA, USA
   dates: "April 17-22, 2016"
@@ -88,9 +94,15 @@
   url: http://stareast.techwell.com/
   twitter: techwell
 
+- name: Romanian Testing Conference 2016
+  location: Cluj-Napoca, Romania
+  dates: "May 19-20, 2016"
+  url: http://www.romaniatesting.ro/
+  twitter: romaniatesting
+  
 - name: Australian Testing Days 2016
   location: Melbourne, Australia
-  dates: "May 20 -21, 2016"
+  dates: "May 20-21, 2016"
   url: https://testengineeringalliance.com/australian-testing-days-2016/
   twitter: AussieTesters
 
@@ -112,6 +124,18 @@
   url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
   twitter: LTGWorkshops
 
+- name: Belgium Testing Day 2016
+  location: Brussels, Belgium
+  dates: "June 13-16, 2016"
+  url: http://btdconf.com/
+  twitter: btdconf
+  
+- name: Test Automation Day 2016
+  location: unkown
+  dates: "June 23, 2016"
+  url: http://www.testautomationday.com/
+  twitter: -
+
 - name: CAST 2016
   location: Vancouver, BC, Canada
   dates: "August 8-10, 2016"
@@ -123,3 +147,76 @@
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
   twitter: testivaleu
+  
+- name: StarWest 2016
+  location: Anaheim, California, USA
+  dates: "October 2-7, 2016"
+  url: starwest.techwell.com
+  twitter: starwest
+  
+- name: StarCanada 2016
+  location: Toronto, Canada
+  dates: October 23-27, 2016"
+  url: http://starcanada.techwell.com/
+  twitter: starcanada
+  
+- name: Better Software East 2016
+  location: Orlando, Florida, USA
+  dates: "November 13-18, 2016"
+  url: http://bsceast.techwell.com/
+  twitter: bettersoftwarecon
+  
+- name: EuroSTAR Software Testing Conference 2016
+  location: Stockholm, Sweden
+  dates: "November 31 - December 03, 2016"
+  url: https://conference.eurostarsoftwaretesting.com/
+  twitter: esconfs
+  
+
+- name: Google Test Automation Conference 2016
+  location: unkown
+  dates: unkown
+  url: https://developers.google.com/google-test-automation-conference/
+  twitter: google
+  
+- name: Agile Testing Day Netherlands 2016
+  location: unkown
+  dates: unkown
+  url: http://www.agiletestingday.nl/
+  twitter: agiletd
+  
+- name: CITCON ANZ 2016
+  location: Perth, Australia
+  dates: unkown
+  url: http://www.citconf.com/
+  twitter: -
+  
+- name: CITCON Europe 2016
+  location: unkown
+  dates: unkown
+  url: http://www.citconf.com/
+  twitter: -
+
+- name: CITCON North America 2016
+  location: New York, USA
+  dates: unkown
+  url: http://www.citconf.com/
+  twitter: -
+
+- name: CITCON Asia 2016
+  location: Bangalore and Pune, India
+  dates: unkown
+  url: http://www.citconf.com/
+  twitter: -
+  
+- name: TestWorks Conf 2016
+  location: unkown
+  dates: unkown
+  url: http://www.testworksconf.com/
+  twitter: testworksconf
+  
+- name: Agile Testing Days 2016
+  location: Potsdam, Germany
+  dates: unkown
+  url: http://www.agiletestingdays.com/
+  twitter: AgileTD
