@@ -119,10 +119,10 @@
   twitter: btdconf
   
 - name: Test Automation Day 2016
-  location: unkown
+  location: unknown
   dates: "June 23, 2016"
   url: http://www.testautomationday.com/
-  twitter: -
+  twitter:
 
 - name: CAST 2016
   location: Vancouver, BC, Canada
@@ -142,7 +142,7 @@
   url: starwest.techwell.com
   twitter: starwest
   
-- name: QA&Test 2016 - 15th International Conference on Software QA and Testing on Embedded Systems
+- name: QA&Test 2016
   location: Bilbao, Spain
   dates: "October 18-21, 2016"
   url: http://www.qatest.org/en/
@@ -154,63 +154,9 @@
   url: http://starcanada.techwell.com/
   twitter: starcanada
   
-- name: Better Software East 2016
-  location: Orlando, Florida, USA
-  dates: "November 13-18, 2016"
-  url: http://bsceast.techwell.com/
-  twitter: bettersoftwarecon
-  
-- name: EuroSTAR Software Testing Conference 2016
+- name: EuroSTAR 2016
   location: Stockholm, Sweden
   dates: "November 31 - December 03, 2016"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
   
-
-- name: Google Test Automation Conference 2016
-  location: unkown
-  dates: unkown
-  url: https://developers.google.com/google-test-automation-conference/
-  twitter: google
-  
-- name: Agile Testing Day Netherlands 2016
-  location: unkown
-  dates: unkown
-  url: http://www.agiletestingday.nl/
-  twitter: agiletd
-  
-- name: CITCON ANZ 2016
-  location: Perth, Australia
-  dates: unkown
-  url: http://www.citconf.com/
-  twitter: -
-  
-- name: CITCON Europe 2016
-  location: unkown
-  dates: unkown
-  url: http://www.citconf.com/
-  twitter: -
-
-- name: CITCON North America 2016
-  location: New York, USA
-  dates: unkown
-  url: http://www.citconf.com/
-  twitter: -
-
-- name: CITCON Asia 2016
-  location: Bangalore and Pune, India
-  dates: unkown
-  url: http://www.citconf.com/
-  twitter: -
-  
-- name: TestWorks Conf 2016
-  location: unkown
-  dates: unkown
-  url: http://www.testworksconf.com/
-  twitter: testworksconf
-  
-- name: Agile Testing Days 2016
-  location: Potsdam, Germany
-  dates: unkown
-  url: http://www.agiletestingdays.com/
-  twitter: AgileTD
