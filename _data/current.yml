@@ -119,7 +119,7 @@
   twitter: btdconf
   
 - name: Test Automation Day 2016
-  location: unknown
+  location:
   dates: "June 23, 2016"
   url: http://www.testautomationday.com/
   twitter:
