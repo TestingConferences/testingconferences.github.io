@@ -64,6 +64,12 @@
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
   twitter: ministryoftest
 
+- name: Swiss Testing Day 2016
+  location: Zurich, Switzerland
+  dates: "March 16, 2016"
+  url: http://swisstestingday.ch/
+  twitter: swisstesting
+
 - name: Software Test Professionals Conference 2016
   location: Millbrae, California, USA
   dates: "April 4-7, 2016"
@@ -153,6 +159,12 @@
   dates: "October 2-7, 2016"
   url: starwest.techwell.com
   twitter: starwest
+  
+- name: QA&Test 2016 - 15th International Conference on Software QA and Testing on Embedded Systems
+  location: Bilbao, Spain
+  dates: "October 18-21, 2016"
+  url: http://www.qatest.org/en/
+  twitter: qatest_bilbao
   
 - name: StarCanada 2016
   location: Toronto, Canada
