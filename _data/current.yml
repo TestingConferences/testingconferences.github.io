@@ -69,6 +69,12 @@
   dates: "March 15, 2016"
   url: https://events.bcs.org/book/1825/
   twitter: bcs
+  
+- name: Innovations in Testing Conference 2016
+  location: Florida, USA
+  dates: "March 20-23, 2016"
+  url: http://www.innovationsintesting.org/index.aspx
+  twitter: atpconf
 
 - name: ICST 2016
   location: Chicago, USA
@@ -141,3 +147,9 @@
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
   twitter: testivaleu
+  
+- name: International Test Conference 2016
+  location: Fort Worth, TX, USA
+  dates: "November 15-17, 2016"
+  url: http://www.itctestweek.org/
+  twitter: itctestweek
