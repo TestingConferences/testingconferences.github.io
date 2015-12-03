@@ -64,6 +64,18 @@
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
   twitter: ministryoftest
 
+- name: BCS Software Testing SG 2016
+  location: London, England
+  dates: "March 15, 2016"
+  url: https://events.bcs.org/book/1825/
+  twitter: bcs
+
+- name: ICST 2016
+  location: Chicago, USA
+  dates: "April 10-15, 2016"
+  url: https://www.cs.uic.edu/~icst2016/
+  twitter: 
+  
 - name: Mobile Dev + Test 2016
   location: San Deigo, CA, USA
   dates: "April 17-22, 2016"
@@ -111,6 +123,12 @@
   dates: "June 2-3, 2016"
   url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
   twitter: LTGWorkshops
+  
+- name: German Testing Day 2016
+  location: Frankfurt, Germany
+  dates: "June 13-14, 2016"
+  url: http://germantestingday.info/
+  twitter: GermanTesting
 
 - name: CAST 2016
   location: Vancouver, BC, Canada
