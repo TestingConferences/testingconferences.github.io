@@ -1,3 +1,15 @@
+- name: STC 2015
+  location: Bangalore, India
+  dates: "December 3-4, 2015"
+  url: http://qaistc.com/
+  twitter: QAISTC
+
+- name: ThinkTest 2015
+  location: New Delhi, India
+  dates: "December 4th, 2015"
+  url: http://www.confengine.com/thinktest-2015
+  twitter: smita_qazone
+
 - name: PSTC 2015
   location: Pune, India
   dates: "November 25, 2015"
