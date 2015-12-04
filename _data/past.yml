@@ -52,7 +52,7 @@
   url: http://www.softwaretestingatlcon.com/
   twitter: STACAtlanta
 
-- name: Workshop on Performance and Reliability (WOPR)
+- name: Workshop on Performance and Reliability (WOPR) 24
   location: Mountain View, CA, USA
   dates: "October 22-24, 2015"
   url: http://www.performance-workshop.org/wopr24/
@@ -76,7 +76,7 @@
   url: https://mewtblog.wordpress.com/2015/07/05/mewt4-call-for-papers/
   twitter: FriendlyTester
 
-- name: Targeting Quality 2015 (KWSQA)
+- name: Targeting Quality (KWSQA) 2015
   location: Kitchener, ON Canada
   dates: "October 8-9, 2015"
   url: http://kwsqa.org/conference/
@@ -118,7 +118,7 @@
   url: http://starwest.techwell.com
   twitter: TechWell
 
-- name: Testival eu
+- name: Testival eu 2015
   location: Split, Croatia
   dates: "September 18-September 19, 2015"
   url: http://www.testival.eu/
@@ -142,7 +142,7 @@
   url: http://year-2015.seleniumconf.org/
   twitter: seleniumconf
 
-- name: Testing In the Archipelago Network (TITAN)
+- name: Testing In the Archipelago Network (TITAN) 2015
   location: Karlskrona, Sweden
   dates: "August 28-30, 2015"
   url: http://www.karlskronatestgathering.se/titan.html
@@ -153,7 +153,7 @@
   dates: "August 19, 2015"
   twitter: TheTestDoctor
 
-- name: CAST
+- name: CAST 2015
   location: Grand Rapids, MI
   dates: "August 3-5, 2015"
   url: http://www.associationforsoftwaretesting.org/conference/cast-2015/
@@ -183,43 +183,43 @@
   url: http://www.stepinsummit.stepinforum.org/conference-program/
   twitter: stepin_forum
 
-- name: STARCANADA
+- name: STARCanada 2015
   location: Vancouver, BC, Canada
   dates: "June 21-25, 2015"
   url: http://starcanada.techwell.com
   twitter: TechWell
 
-- name: QAGeekWeek
+- name: QAGeekWeek 2015
   location: Israel
   dates: "June 21-25, 2015"
   url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
   twitter:
 
-- name: Test Automation Day
+- name: Test Automation Day 2015
   location: WTC Rotterdam, the Netherlands
   dates: "June 18, 2015"
   url: http://www.testautomationday.com/
   twitter: testautomationd
 
-- name: Nordic Testing Days
+- name: Nordic Testing Days 2015
   location: Tallinn, Estonia
   dates: "June 3-5, 2015"
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
 
-- name: Let's Test
+- name: Let's Test 2015
   location: Stockholm, Sweden
   dates: "May 25-27, 2015"
   url: http://lets-test.com
   twitter: LetsTest_Conf
 
-- name: Belgium Testing Days
+- name: Belgium Testing Days 2015
   location: Brussels, Belgium
   dates: "May 18-21, 2015"
   url: http://btdconf.com/
   twitter: BTDconf
 
-- name: Romanian Testing Conference
+- name: Romanian Testing Conference 2015
   location: Cluj-Napoca, Romania
   dates: "May 14-15, 2015"
   url: http://www.romaniatesting.ro/
@@ -254,3 +254,9 @@
   url: http://www.associationforsoftwaretesting.org/conference/cast-2014/
   twitter: AST_News
   video_link: https://www.youtube.com/watch?list=PLQB4l9iafcelXpJnK6IyDsoFeEb1icqrl&v=JLVP_Z5AoyM
+
+- name: Workshop on Teach Software Testing (WTST) 13
+  location: Melbourne, FL, USA
+  dates: "January 24-26, 2014"
+  url: http://wtst.org/
+  twitter: 
