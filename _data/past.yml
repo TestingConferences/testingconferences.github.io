@@ -1,8 +1,20 @@
-- name: PSTC 2015
-  location: Pune, India
-  dates: "November 25, 2015"
-  url: http://pstc.stepinforum.org/
-  twitter: stepin_forum
+- name: ThinkTest 2015
+  location: New Delhi, India
+  dates: "December 4th, 2015"
+  url: http://www.confengine.com/thinktest-2015
+  twitter: smita_qazone
+
+- name: STC 2015
+  location: Bangalore, India
+  dates: "December 3-4, 2015"
+  url: http://qaistc.com/
+  twitter: QAISTC
+
+- name: BCS SIGiST Winter 2015
+  location: London, UK
+  dates: "December 2nd, 2015"
+  url: http://www.bcs.org/category/9264
+  twitter: SIGiST
 
 - name: HSTC 2015
   location: Hyderabad, India
@@ -10,11 +22,11 @@
   url: http://www.hstc.stepinforum.org/
   twitter: stepin_forum
 
-- name: BCS SIGiST Winter 2015
-  location: London, UK
-  dates: "December 2nd, 2015"
-  url: http://www.bcs.org/category/9264
-  twitter: SIGiST
+- name: PSTC 2015
+  location: Pune, India
+  dates: "November 25, 2015"
+  url: http://pstc.stepinforum.org/
+  twitter: stepin_forum
 
 - name: Let's Test South Africa 2015
   location: Magaliesberg, South Africa
@@ -259,4 +271,4 @@
   location: Melbourne, FL, USA
   dates: "January 24-26, 2014"
   url: http://wtst.org/
-  twitter: 
+  twitter:
