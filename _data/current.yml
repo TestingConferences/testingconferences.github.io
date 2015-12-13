@@ -1,14 +1,12 @@
-- name: STC 2015
-  location: Bangalore, India
-  dates: "December 3-4, 2015"
-  url: http://qaistc.com/
-  twitter: QAISTC
+- name: Test Automation Bazaar 2016
+  location: Austin, Texas, USA
+  dates: January 15-16, 2016
+  url: https://www.eventbrite.com/e/test-automation-bazaar-austin-2016-tickets-19830142490?aff=testingwithvision
 
-- name: ThinkTest 2015
-  location: New Delhi, India
-  dates: "December 4th, 2015"
-  url: http://www.confengine.com/thinktest-2015
-  twitter: smita_qazone
+- name: MOntreal Insights Into Software Testing (MOIIST) 2016
+  location: Montreal, Canada
+  dates: "January 16, 2016"
+  url: http://www.moiist.org/
 
 - name: Software Quality Days 2016
   location: Vienna, Austria
