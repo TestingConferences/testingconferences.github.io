@@ -110,17 +110,22 @@
   url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
   twitter: LTGWorkshops
 
-- name: Belgium Testing Day 2016
-  location: Brussels, Belgium
-  dates: "June 13-16, 2016"
-  url: http://btdconf.com/
-  twitter: btdconf
+- name: expo:QA 16
+  location: Madrid, Spain
+  dates: "June 7-9, 2016"
+  url: http://www.expoqa.com/en/preprograma.php?pagina=4
 
 - name: German Testing Day 2016
   location: Frankfurt, Germany
   dates: "June 13-14, 2016"
   url: http://germantestingday.info/
   twitter: GermanTesting
+
+- name: Belgium Testing Day 2016
+  location: Brussels, Belgium
+  dates: "June 13-16, 2016"
+  url: http://btdconf.com/
+  twitter: btdconf
 
 - name: Test Automation Day 2016
   location: TBA
