@@ -13,7 +13,7 @@
 - name: QA or the Highway 2016
   location: Columbus, OH, USA
   dates: "February 16, 2016"
-  url: http://qaorthehighway.com/2016-qa-or-the-highway/2016-call-for-speakers-qa-or-the-highway-feb-16-2016-columbus-oh/
+  url: http://qaorthehighway.com/2016-qa-or-the-highway/2016-conference-schedule/
   twitter: QAortheHighway
 
 - name: CopenhagenContext 2016
@@ -26,7 +26,7 @@
   location: New York, NY, USA
   dates: "February 26, 2016"
   url: http://usrsystems.com/Agile_Testing_and_Test_Automation_Summit_Newyork/
-  twitter: 
+  twitter:
 
 - name: TISQA 2016
   location: Chapel Hill, NC, USA
@@ -82,7 +82,7 @@
   url: http://www.romaniatesting.ro/
   twitter: romaniatesting
 
-- name: SQA Days - 19 
+- name: SQA Days - 19
   location: Sankt-Petersburg, Russia
   dates: "May 20-21, 2016"
   url: http://sqadays.com/en/index
