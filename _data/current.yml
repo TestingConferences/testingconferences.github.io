@@ -52,6 +52,12 @@
   url: http://www.stpcon.com/
   twitter: stpcon
 
+- name: Journée Française des tests logiciels (JFTL) 2016
+  location: Montrouge, France
+  dates: "April 12, 2016"
+  url: http://www.cftl.fr/JFTL
+  twitter:
+
 - name: Mobile Dev + Test 2016
   location: San Deigo, CA, USA
   dates: "April 17-22, 2016"
