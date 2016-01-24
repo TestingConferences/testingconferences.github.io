@@ -1,8 +1,14 @@
+- name: Software Quality Days 2016
+  location: Vienna, Austria
+  dates: "January 18-21, 2016"
+  url: http://2016.software-quality-days.com/en/
+  twitter: swqd
+
 - name: MOntreal Insights Into Software Testing (MOIIST) 2016
   location: Montreal, Canada
   dates: "January 16, 2016"
   url: http://www.moiist.org/
-  
+
 - name: Test Automation Bazaar 2016
   location: Austin, Texas, USA
   dates: January 15-16, 2016
