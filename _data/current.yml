@@ -22,11 +22,23 @@
   url: http://usrsystems.com/Agile_Testing_and_Test_Automation_Summit_Newyork/
   twitter:
 
+- name: Selenium Camp
+  location: Kyiv, Ukraine
+  dates: "February 26-27, 2016"
+  url: http://seleniumcamp.com/
+  twitter: SeleniumCamp
+
 - name: TISQA 2016
   location: Chapel Hill, NC, USA
   dates: "March 2-3, 2016"
   url: http://tisqa-rtp.squarespace.com/
   twitter: TISQA_RTP
+
+- name: Software Quality Conference 2016
+  location: Ede, Netherlands
+  dates: "March 8, 2016"
+  url: https://softwarequality.heliview.nl/
+  twitter: sqconference
 
 - name: TestBash 2016
   location: Brighton, England
@@ -75,6 +87,12 @@
   dates: "May 1-6, 2016"
   url: http://stareast.techwell.com/
   twitter: techwell
+
+- name: National Software Testing Conference 2016
+  location: London, England
+  dates: "May 17-18, 2016"
+  url: http://www.softwaretestingconference.com/
+  twitter: testmagazine
 
 - name: Romanian Testing Conference 2016
   location: Cluj-Napoca, Romania
@@ -140,6 +158,12 @@
   dates: "August 8-10, 2016"
   url: http://www.associationforsoftwaretesting.org/conference/cast-2016/
   twitter: AST_News
+
+- name: SoCraTes 2016
+  location: Soltau, Germany
+  dates: "August 25-28, 2016"
+  url: https://www.socrates-conference.de/
+  twitter: socrates_2016
 
 - name: Testival eu 2016
   location: Rijeka, Croatia
