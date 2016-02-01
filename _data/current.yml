@@ -40,7 +40,7 @@
   url: https://softwarequality.heliview.nl/
   twitter: sqconference
 
-- name: TestBash 2016
+- name: TestBash Brighton 2016
   location: Brighton, England
   dates: "March 10-11, 2016"
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
@@ -87,6 +87,12 @@
   dates: "May 1-6, 2016"
   url: http://stareast.techwell.com/
   twitter: techwell
+
+- name: SoCraTes Italy 2016
+  location: Rimini, Italy
+  dates: "May 12-14, 2016"
+  url: http://www.socrates-conference.it/
+  twitter:
 
 - name: National Software Testing Conference 2016
   location: London, England

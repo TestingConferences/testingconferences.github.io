@@ -1,3 +1,9 @@
+- name: 49th Test Management Forum
+  location: London, England
+  dates: "January 27, 2016"
+  url: http://2016.software-quality-days.com/en/
+  twitter: paul_gerrard
+
 - name: Software Quality Days 2016
   location: Vienna, Austria
   dates: "January 18-21, 2016"
