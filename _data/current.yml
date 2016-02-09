@@ -159,6 +159,12 @@
   url: http://www.testautomationday.com/
   twitter: ckcseminars
 
+- name: Selenium Conference (SeConf) 2016
+  location: Bangalore, India
+  dates: "June 24-26, 2016"
+  url: http://2016.seleniumconf.in/
+  twitter: seleniumconf
+
 - name: CAST 2016
   location: Vancouver, BC, Canada
   dates: "August 8-10, 2016"
