@@ -195,6 +195,12 @@
   url: http://www.qatest.org/en/
   twitter: qatest_bilbao
 
+  - name: TestBash Manchester
+  location: Manchester, England
+  dates: "October 21, 2016"
+  url: www.ministryoftesting.com/2016/02/testbash-manchester/
+  twitter: ministryoftest
+
 - name: STARCanada 2016
   location: Toronto, Canada
   dates: "October 23-27, 2016"
