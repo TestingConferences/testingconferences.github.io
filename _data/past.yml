@@ -1,3 +1,9 @@
+- name: European Testing Conference 2016
+  location: Bucharest, Romania
+  dates: "February 11-12, 2016"
+  url: http://europeantestingconference.eu/
+  twitter: EuroTestingConf
+
 - name: 49th Test Management Forum
   location: London, England
   dates: "January 27, 2016"
