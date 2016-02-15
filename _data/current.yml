@@ -1,9 +1,3 @@
-- name: European Testing Conference 2016
-  location: Bucharest, Romania
-  dates: "February 11-12, 2016"
-  url: http://europeantestingconference.eu/
-  twitter: EuroTestingConf
-
 - name: QA or the Highway 2016
   location: Columbus, OH, USA
   dates: "February 16, 2016"
@@ -195,7 +189,7 @@
   url: http://www.qatest.org/en/
   twitter: qatest_bilbao
 
-  - name: TestBash Manchester
+- name: TestBash Manchester
   location: Manchester, England
   dates: "October 21, 2016"
   url: www.ministryoftesting.com/2016/02/testbash-manchester/
