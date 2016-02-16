@@ -58,6 +58,12 @@
   url: http://www.cftl.fr/JFTL
   twitter:
 
+- name: Quality Jam 2016
+  location: Atlanta, GA, USA
+  dates: "April 13, 2016"
+  url: http://qualityjam.net/
+  twitter: qasymphony
+
 - name: Mobile Dev + Test 2016
   location: San Deigo, CA, USA
   dates: "April 17-22, 2016"
@@ -75,6 +81,12 @@
   dates: "April 18-22, 2016"
   url: http://qaiquest.org/2016/
   twitter: QAIquest
+
+- name: Test Leadership Congress/QA EXPO
+  location: New York, NY, USA
+  dates: "April 27, 2016"
+  url: http://testmastersacademy.org/conference.html
+  twitter: QA_nna
 
 - name: STAREAST 2016
   location: Orlando, FL, USA
