@@ -192,7 +192,7 @@
 - name: STARWEST 2016
   location: Anaheim, California, USA
   dates: "October 2-7, 2016"
-  url: starwest.techwell.com
+  url: http://starwest.techwell.com
   twitter: starwest
 
 - name: QA&Test 2016
@@ -204,7 +204,7 @@
 - name: TestBash Manchester
   location: Manchester, England
   dates: "October 21, 2016"
-  url: www.ministryoftesting.com/2016/02/testbash-manchester/
+  url: http://ministryoftesting.com/2016/02/testbash-manchester/
   twitter: ministryoftest
 
 - name: STARCanada 2016
