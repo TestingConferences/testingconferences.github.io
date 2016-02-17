@@ -52,6 +52,12 @@
   url: http://www.stpcon.com/
   twitter: stpcon
 
+- name: Midlands Exploratory Workshop on Testing (MEWT) 5
+  location: Nottingham, UK
+  dates: "April 9, 2016"
+  url: https://mewtblog.wordpress.com/2016/02/06/what-is-professional-testing/
+  twitter:
+
 - name: Journée Française des tests logiciels (JFTL) 2016
   location: Montrouge, France
   dates: "April 12, 2016"
