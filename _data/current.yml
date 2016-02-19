@@ -46,6 +46,12 @@
   url: http://www.stpcon.com/
   twitter: stpcon
 
+- name: Midlands Exploratory Workshop on Testing (MEWT) 5
+  location: Nottingham, UK
+  dates: "April 9, 2016"
+  url: https://mewtblog.wordpress.com/2016/02/06/what-is-professional-testing/
+  twitter:
+
 - name: Journée Française des tests logiciels (JFTL) 2016
   location: Montrouge, France
   dates: "April 12, 2016"
@@ -186,7 +192,7 @@
 - name: STARWEST 2016
   location: Anaheim, California, USA
   dates: "October 2-7, 2016"
-  url: starwest.techwell.com
+  url: http://starwest.techwell.com
   twitter: starwest
 
 - name: QA&Test 2016
@@ -198,7 +204,7 @@
 - name: TestBash Manchester
   location: Manchester, England
   dates: "October 21, 2016"
-  url: www.ministryoftesting.com/2016/02/testbash-manchester/
+  url: http://ministryoftesting.com/2016/02/testbash-manchester/
   twitter: ministryoftest
 
 - name: STARCanada 2016
