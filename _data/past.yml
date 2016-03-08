@@ -301,7 +301,7 @@
   url: http://stareast.techwell.com
   twitter: TechWell
 
-  - name: TestingUY
+- name: TestingUY
   location: Montevideo, Uruguay
   dates: "April 13-14, 2015"
   url: http://www.testing.uy/
@@ -331,13 +331,13 @@
   twitter: AST_News
   video_link: https://www.youtube.com/watch?list=PLQB4l9iafcelXpJnK6IyDsoFeEb1icqrl&v=JLVP_Z5AoyM
 
-  - name: TestingUY
+- name: TestingUY
   location: Montevideo, Uruguay
   dates: "April 3, 2014"
   url: http://www.testing.uy/
   twitter: @testingUY 
   
-  - name: Workshop on Teach Software Testing (WTST) 13
+- name: Workshop on Teach Software Testing (WTST) 13
   location: Melbourne, FL, USA
   dates: "January 24-26, 2014"
   url: http://wtst.org/
