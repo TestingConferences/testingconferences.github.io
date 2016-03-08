@@ -305,7 +305,7 @@
   location: Montevideo, Uruguay
   dates: "April 13-14, 2015"
   url: http://www.testing.uy/
-  twitter: @testingUY 
+  twitter: testingUY 
   
 - name: STPCon Spring 2015
   location: San Deigo, CA
@@ -335,7 +335,7 @@
   location: Montevideo, Uruguay
   dates: "April 3, 2014"
   url: http://www.testing.uy/
-  twitter: @testingUY 
+  twitter: testingUY 
   
 - name: Workshop on Teach Software Testing (WTST) 13
   location: Melbourne, FL, USA
