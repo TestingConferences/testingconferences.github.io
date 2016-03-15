@@ -1,3 +1,15 @@
+- name: TestBash Brighton 2016
+  location: Brighton, England
+  dates: "March 10-11, 2016"
+  url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
+  twitter: ministryoftest
+
+- name: Software Quality Conference 2016
+  location: Ede, Netherlands
+  dates: "March 8, 2016"
+  url: https://softwarequality.heliview.nl/
+  twitter: sqconference
+
 - name: TISQA 2016
   location: Chapel Hill, NC, USA
   dates: "March 2-3, 2016"
@@ -305,8 +317,8 @@
   location: Montevideo, Uruguay
   dates: "April 13-14, 2015"
   url: http://www.testing.uy/
-  twitter: testingUY 
-  
+  twitter: testingUY
+
 - name: STPCon Spring 2015
   location: San Deigo, CA
   dates: "March 30-April 2, 2015"
@@ -335,8 +347,8 @@
   location: Montevideo, Uruguay
   dates: "April 3, 2014"
   url: http://www.testing.uy/
-  twitter: testingUY 
-  
+  twitter: testingUY
+
 - name: Workshop on Teach Software Testing (WTST) 13
   location: Melbourne, FL, USA
   dates: "January 24-26, 2014"

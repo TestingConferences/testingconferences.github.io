@@ -1,15 +1,3 @@
-- name: Software Quality Conference 2016
-  location: Ede, Netherlands
-  dates: "March 8, 2016"
-  url: https://softwarequality.heliview.nl/
-  twitter: sqconference
-
-- name: TestBash Brighton 2016
-  location: Brighton, England
-  dates: "March 10-11, 2016"
-  url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
-  twitter: ministryoftest
-
 - name: Swiss Testing Day 2016
   location: Zurich, Switzerland
   dates: "March 16, 2016"
@@ -62,8 +50,8 @@
   location: Montevideo, Uruguay
   dates: "April 26-27, 2016"
   url: http://www.testing.uy/
-  twitter: testingUY 
-  
+  twitter: testingUY
+
 - name: Test Leadership Congress/QA EXPO
   location: New York, NY, USA
   dates: "April 27, 2016"
