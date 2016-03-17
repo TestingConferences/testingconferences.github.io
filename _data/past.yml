@@ -1,3 +1,9 @@
+- name: Swiss Testing Day 2016
+  location: Zurich, Switzerland
+  dates: "March 16, 2016"
+  url: http://swisstestingday.ch/
+  twitter: swisstesting
+
 - name: TestBash Brighton 2016
   location: Brighton, England
   dates: "March 10-11, 2016"
