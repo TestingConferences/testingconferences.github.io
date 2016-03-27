@@ -135,6 +135,12 @@
   url: http://2016.seleniumconf.in/
   twitter: seleniumconf
 
+- name: Quality Excites 2016
+  location: Gliwice, Poland
+  dates: "June 25, 2016"
+  url: https://qualityexcites.pl/en/
+  twitter: QualityExcites
+
 - name: CAST 2016
   location: Vancouver, BC, Canada
   dates: "August 8-10, 2016"
