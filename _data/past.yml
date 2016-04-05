@@ -1,3 +1,9 @@
+- name: North West Exploratory Workshop on Testing (NWEWT) 1
+  location: Liverpool, England
+  dates: "April 2-3, 2016"
+  url: https://nwewt.wordpress.com/
+  twitter: DuncNisbet
+
 - name: Swiss Testing Day 2016
   location: Zurich, Switzerland
   dates: "March 16, 2016"
@@ -58,6 +64,11 @@
   url: http://2016.software-quality-days.com/en/
   twitter: paul_gerrard
 
+- name: Dutch Exploratory Workshop on Testing (DEWT) 6
+  location: Driebergen, the Netherlands
+  dates: "January 22-24, 2016"
+  url: https://dewt.wordpress.com/2016/01/27/dewt6-the-medium-is-the-message/
+
 - name: Software Quality Days 2016
   location: Vienna, Austria
   dates: "January 18-21, 2016"
@@ -73,6 +84,11 @@
   location: Austin, Texas, USA
   dates: January 15-16, 2016
   url: https://www.eventbrite.com/e/test-automation-bazaar-austin-2016-tickets-19830142490?aff=testingwithvision
+
+- name: WACATE 2015 Winter
+  location: Miura City, Kanagawa Prefecture, JAPAN
+  dates: "January 9-10, 2016"
+  url: http://wacate.jp/
 
 - name: ThinkTest 2015
   location: New Delhi, India
@@ -206,9 +222,15 @@
   url: http://starwest.techwell.com
   twitter: TechWell
 
+- name: South West Exploratory Workshop in Testing (SWEWT) 1
+  location: Bristol, England
+  dates: "September 19, 2015"
+  url: https://swewt.wordpress.com/2015/08/11/swewt-1-emotions-in-testing/
+  twitter:
+
 - name: Testival eu 2015
   location: Split, Croatia
-  dates: "September 18-September 19, 2015"
+  dates: "September 18-19, 2015"
   url: http://www.testival.eu/
   twitter: testivaleu
 
