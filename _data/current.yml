@@ -8,7 +8,7 @@
   location: Nottingham, UK
   dates: "April 9, 2016"
   url: https://mewtblog.wordpress.com/2016/02/06/what-is-professional-testing/
-  twitter:
+  twitter: sjpknight
 
 - name: Journée Française des tests logiciels (JFTL) 2016
   location: Montrouge, France
@@ -141,7 +141,13 @@
   url: https://qualityexcites.pl/en/
   twitter: QualityExcites
 
-- name: CAST 2016
+- name: TestRetreat 2016
+  location: Vancouver, BC, Canada
+  dates: "August 6, 2016"
+  url: https://www.associationforsoftwaretesting.org/conference/cast-2016/cast-2016-testretreat/
+  twitter: AST_News
+
+- name: Conference for the Association for Software Testing (CAST) 2016
   location: Vancouver, BC, Canada
   dates: "August 8-10, 2016"
   url: http://www.associationforsoftwaretesting.org/conference/cast-2016/
@@ -164,6 +170,12 @@
   dates: "October 2-7, 2016"
   url: http://starwest.techwell.com
   twitter: starwest
+
+- name: Theory and Practice of Software Testing (TAPOST) 2016
+  location: Riga, Latvia
+  dates: "October 12, 2016"
+  url: http://www.tapost.org/call-for-papers/
+  twitter: TAPOST_LV
 
 - name: QA&Test 2016
   location: Bilbao, Spain
