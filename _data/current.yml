@@ -1,9 +1,3 @@
-- name: Software Test Professionals (STPcon) 2016
-  location: Millbrae, California, USA
-  dates: "April 4-7, 2016"
-  url: http://www.stpcon.com/
-  twitter: stpcon
-
 - name: Midlands Exploratory Workshop on Testing (MEWT) 5
   location: Nottingham, UK
   dates: "April 9, 2016"
@@ -126,6 +120,11 @@
   url: http://btdconf.com/
   twitter: btdconf
 
+- name: QAGeekWeek 2016
+  location: Herzliya, Israel
+  dates: "June 19-23, 2016"
+  url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
+
 - name: Test Automation Day 2016
   location: Rotterdam, the Netherlands
   dates: "June 23, 2016"
@@ -163,10 +162,16 @@
   twitter: socrates_2016
 
 - name: Testival eu 2016
+  location: Kitchener, ON, Canada
+  dates: "September 26-27, 2016"
+  url: http://kwsqa.org/conference/
+  twitter: testivaleu
+
+- name: Targeting Quality 2016
   location: Rijeka, Croatia
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
-  twitter: testivaleu
+  twitter: kwsqa
 
 - name: STARWEST 2016
   location: Anaheim, California, USA
