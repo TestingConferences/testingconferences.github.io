@@ -1,3 +1,9 @@
+- name: Software Test Professionals (STPcon) 2016
+  location: Millbrae, California, USA
+  dates: "April 4-7, 2016"
+  url: http://www.stpcon.com/
+  twitter: stpcon
+
 - name: North West Exploratory Workshop on Testing (NWEWT) 1
   location: Liverpool, England
   dates: "April 2-3, 2016"
@@ -226,7 +232,7 @@
   location: Bristol, England
   dates: "September 19, 2015"
   url: https://swewt.wordpress.com/2015/08/11/swewt-1-emotions-in-testing/
-  twitter:
+  twitter: TheTestDoctor
 
 - name: Testival eu 2015
   location: Split, Croatia
@@ -257,11 +263,6 @@
   dates: "August 28-30, 2015"
   url: http://www.karlskronatestgathering.se/titan.html
   twitter: kristoffer_nord
-
-- name: South West Exploratory Workshop in Testing
-  location: Bristol, England
-  dates: "August 19, 2015"
-  twitter: TheTestDoctor
 
 - name: CAST 2015
   location: Grand Rapids, MI
