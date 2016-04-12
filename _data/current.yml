@@ -161,17 +161,23 @@
   url: https://www.socrates-conference.de/
   twitter: socrates_2016
 
-- name: Testival eu 2016
-  location: Kitchener, ON, Canada
-  dates: "September 26-27, 2016"
-  url: http://kwsqa.org/conference/
-  twitter: testivaleu
-
 - name: Targeting Quality 2016
   location: Rijeka, Croatia
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
   twitter: kwsqa
+
+- name: STPCon Fall 2016
+  location: Dallas, Texas, USA
+  dates: "September 19-22, 2016"
+  url: https://t.co/jiKJ2PaXXl
+  twitter: softwaretestpro
+
+- name: Testival eu 2016
+  location: Kitchener, ON, Canada
+  dates: "September 26-27, 2016"
+  url: http://kwsqa.org/conference/
+  twitter: testivaleu
 
 - name: STARWEST 2016
   location: Anaheim, California, USA
