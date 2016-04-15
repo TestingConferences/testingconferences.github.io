@@ -1,20 +1,3 @@
-- name: Midlands Exploratory Workshop on Testing (MEWT) 5
-  location: Nottingham, UK
-  dates: "April 9, 2016"
-  url: https://mewtblog.wordpress.com/2016/02/06/what-is-professional-testing/
-  twitter: sjpknight
-
-- name: Journée Française des tests logiciels (JFTL) 2016
-  location: Montrouge, France
-  dates: "April 12, 2016"
-  url: http://www.cftl.fr/JFTL
-
-- name: Quality Jam 2016
-  location: Atlanta, GA, USA
-  dates: "April 13, 2016"
-  url: http://qualityjam.net/
-  twitter: qasymphony
-
 - name: Mobile Dev + Test 2016
   location: San Deigo, CA, USA
   dates: "April 17-22, 2016"
@@ -32,6 +15,12 @@
   dates: "April 18-22, 2016"
   url: http://qaiquest.org/2016/
   twitter: QAIquest
+
+- name: DSTC 2016
+  location: Dwarka, New Delhi, India
+  dates: "April 19-20, 2016"
+  url: http://dstc.stepinforum.org/
+  twitter: stepin_forum
 
 - name: TestingUY
   location: Montevideo, Uruguay
@@ -51,10 +40,21 @@
   url: http://stareast.techwell.com/
   twitter: techwell
 
+- name: Workshop on Regulated Software Testing (WREST) 2016
+  location: Orlando, FL, USA
+  dates: "May 6, 2016"
+  url: https://stareast.techwell.com/program/bonus-session/workshop-regulated-software-testing-wrest
+  twitter: Griff0Jones
+
 - name: SoCraTes Italy 2016
   location: Rimini, Italy
   dates: "May 12-14, 2016"
   url: http://www.socrates-conference.it/
+
+- name: Workshop on Search-Based Software Testing (SBST) 2016
+  location: Austin, Texas, USA
+  dates: "May 16-17, 2016"
+  url: https://cse.sc.edu/~ggay/sbst2016/
 
 - name: National Software Testing Conference 2016
   location: London, England
@@ -167,7 +167,7 @@
   url: http://www.testival.eu/
   twitter: kwsqa
 
-- name: STPCon Fall 2016
+- name: Software Test Professionals (STPCon) Fall 2016
   location: Dallas, Texas, USA
   dates: "September 19-22, 2016"
   url: https://t.co/jiKJ2PaXXl
