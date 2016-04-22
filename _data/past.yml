@@ -1,3 +1,27 @@
+- name: DSTC 2016
+  location: Dwarka, New Delhi, India
+  dates: "April 19-20, 2016"
+  url: http://dstc.stepinforum.org/
+  twitter: stepin_forum
+
+- name: QAI QUEST 2016
+  location: Chicago, IL, USA
+  dates: "April 18-22, 2016"
+  url: http://qaiquest.org/2016/
+  twitter: QAIquest
+
+- name: Mobile Dev + Test 2016
+  location: San Deigo, CA, USA
+  dates: "April 17-22, 2016"
+  url: http://mobiledevtest.techwell.com/
+  twitter: TechWell
+
+- name: IoT Dev + Test 2016
+  location: San Deigo, CA, USA
+  dates: "April 17-22, 2016"
+  url: http://iotdevtest.techwell.com/
+  twitter: TechWell
+
 - name: Quality Jam 2016
   location: Atlanta, GA, USA
   dates: "April 13, 2016"
