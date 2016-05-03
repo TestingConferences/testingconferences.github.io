@@ -196,7 +196,13 @@
   dates: "October 31-November 03, 2016"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
-
+  
+- name: ImPACt 2016 by CMG (Performance and Capacity) 
+  location: La Jolla, CA USA
+  dates: "November 7-10th 2016"
+  url: https://www.cmg.org/conferences/impact-2016/
+  twitter: cmgnews
+  
 - name: TestBash Philadelphia 2016
   location: Philadelphia, PA USA
   dates: "November 10-11th 2016"
