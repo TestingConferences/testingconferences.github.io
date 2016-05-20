@@ -1,3 +1,25 @@
+- name: Romanian Testing Conference 2016
+  location: Cluj-Napoca, Romania
+  dates: "May 19-20, 2016"
+  url: http://www.romaniatesting.ro/
+  twitter: romaniatesting
+
+- name: National Software Testing Conference 2016
+  location: London, England
+  dates: "May 17-18, 2016"
+  url: http://www.softwaretestingconference.com/
+  twitter: testmagazine
+
+- name: Workshop on Search-Based Software Testing (SBST) 2016
+  location: Austin, Texas, USA
+  dates: "May 16-17, 2016"
+  url: https://cse.sc.edu/~ggay/sbst2016/
+
+- name: SoCraTes Italy 2016
+  location: Rimini, Italy
+  dates: "May 12-14, 2016"
+  url: http://www.socrates-conference.it/
+
 - name: Workshop on Regulated Software Testing (WREST) 2016
   location: Orlando, FL, USA
   dates: "May 6, 2016"
