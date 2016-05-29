@@ -1,3 +1,26 @@
+- name: Agile Testing and Test Automation Summit - LA 2016
+  location: Los Angeles, CA, USA
+  dates: "May 25, 2016"
+  url: http://usrsystems.com/Agile_Testing_and_Test_Automation_Summit_LosAngeles/
+
+- name: Let's Test 2016
+  location: Stockholm, Sweden
+  dates: "May 23-25, 2016"
+  url: http://lets-test.com/
+  twitter: LetsTest_Conf
+
+- name: Australian Testing Days 2016
+  location: Melbourne, Australia
+  dates: "May 20-21, 2016"
+  url: https://testengineeringalliance.com/australian-testing-days-2016/
+  twitter: AussieTesters
+
+- name: SQA Days - 19
+  location: Sankt-Petersburg, Russia
+  dates: "May 20-21, 2016"
+  url: http://sqadays.com/en/index
+  twitter: sqadays
+
 - name: Romanian Testing Conference 2016
   location: Cluj-Napoca, Romania
   dates: "May 19-20, 2016"
