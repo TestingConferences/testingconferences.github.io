@@ -1,3 +1,108 @@
+- name: London Tester Gathering Workshops 2016
+  location: London, England
+  dates: "June 2-3, 2016"
+  url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
+  twitter: LTGWorkshops
+
+- name: Nordic Testing Days 2016
+  location: Tallin, Estonia
+  dates: "June 1-3, 2016"
+  url: http://www.nordictestingdays.eu/
+  twitter: nordictestdays
+
+- name: Agile Testing and Test Automation Summit - LA 2016
+  location: Los Angeles, CA, USA
+  dates: "May 25, 2016"
+  url: http://usrsystems.com/Agile_Testing_and_Test_Automation_Summit_LosAngeles/
+
+- name: Let's Test 2016
+  location: Stockholm, Sweden
+  dates: "May 23-25, 2016"
+  url: http://lets-test.com/
+  twitter: LetsTest_Conf
+
+- name: Australian Testing Days 2016
+  location: Melbourne, Australia
+  dates: "May 20-21, 2016"
+  url: https://testengineeringalliance.com/australian-testing-days-2016/
+  twitter: AussieTesters
+
+- name: SQA Days - 19
+  location: Sankt-Petersburg, Russia
+  dates: "May 20-21, 2016"
+  url: http://sqadays.com/en/index
+  twitter: sqadays
+
+- name: Romanian Testing Conference 2016
+  location: Cluj-Napoca, Romania
+  dates: "May 19-20, 2016"
+  url: http://www.romaniatesting.ro/
+  twitter: romaniatesting
+
+- name: National Software Testing Conference 2016
+  location: London, England
+  dates: "May 17-18, 2016"
+  url: http://www.softwaretestingconference.com/
+  twitter: testmagazine
+
+- name: SoCraTes Italy 2016
+  location: Rimini, Italy
+  dates: "May 12-14, 2016"
+  url: http://www.socrates-conference.it/
+
+- name: STAREAST 2016
+  location: Orlando, FL, USA
+  dates: "May 1-6, 2016"
+  url: http://stareast.techwell.com/
+  twitter: techwell
+
+- name: Test Leadership Congress/QA EXPO
+  location: New York, NY, USA
+  dates: "April 27, 2016"
+  url: http://testmastersacademy.org/conference.html
+  twitter: QA_nna
+
+- name: TestingUY
+  location: Montevideo, Uruguay
+  dates: "April 26-27, 2016"
+  url: http://www.testing.uy/
+  twitter: testingUY
+
+- name: QAI QUEST 2016
+  location: Chicago, IL, USA
+  dates: "April 18-22, 2016"
+  url: http://qaiquest.org/2016/
+  twitter: QAIquest
+
+- name: IoT Dev + Test 2016
+  location: San Deigo, CA, USA
+  dates: "April 17-22, 2016"
+  url: http://iotdevtest.techwell.com/
+  twitter: TechWell
+
+- name: Mobile Dev + Test 2016
+  location: San Deigo, CA, USA
+  dates: "April 17-22, 2016"
+  url: http://mobiledevtest.techwell.com/
+  twitter: TechWell
+
+- name: Quality Jam 2016
+  location: Atlanta, GA, USA
+  dates: "April 13, 2016"
+  url: http://qualityjam.net/
+  twitter: qasymphony
+
+- name: Journée Française des tests logiciels (JFTL) 2016
+  location: Montrouge, France
+  dates: "April 12, 2016"
+  url: http://www.cftl.fr/JFTL
+
+- name: Midlands Exploratory Workshop on Testing (MEWT) 5
+  location: Nottingham, UK
+  dates: "April 9, 2016"
+  url: https://mewtblog.wordpress.com/2016/02/06/what-is-professional-testing/
+  twitter: sjpknight
+
 - name: Software Test Professionals (STPcon) 2016
   location: Millbrae, California, USA
   dates: "April 4-7, 2016"
