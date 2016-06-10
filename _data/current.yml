@@ -56,13 +56,19 @@
   url: https://www.socrates-conference.de/
   twitter: socrates_2016
 
+- name: South Eastern Europe Testing Conference (SEETEST) 2016
+  location: Bucharest, Romania
+  dates: "September 15-16, 2016"
+  url: http://seetest.org/index.php
+  twitter: SEETESTConf
+
 - name: Targeting Quality 2016
   location: Rijeka, Croatia
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
   twitter: kwsqa
 
-- name: STPCon Fall 2016
+- name: Software Test Professionals (STPCon) Fall 2016
   location: Dallas, Texas, USA
   dates: "September 19-22, 2016"
   url: https://t.co/jiKJ2PaXXl
@@ -85,6 +91,12 @@
   dates: "October 2-7, 2016"
   url: http://starwest.techwell.com
   twitter: starwest
+
+- name: TestWorks Conf 2016
+  location: Amsterdam
+  dates: "October 6-7, 2016"
+  url: http://testworksconf.com/
+  twitter: testworksconf
 
 - name: Theory and Practice of Software Testing (TAPOST) 2016
   location: Riga, Latvia
@@ -127,3 +139,8 @@
   dates: "December 5-8, 2016"
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
+
+- name: Workshop on Search-Based Software Testing (SBST) 2017
+  location: Buenos Aires, Argentina
+  dates: "May 20-28 2017"
+  url: http://sbst2017.lafhis.dc.uba.ar/
