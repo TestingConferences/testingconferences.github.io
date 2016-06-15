@@ -141,6 +141,11 @@
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
 
+- name: Workshop on Performance and Reliability (WOPR25)
+  location: Wellington, New Zealand (Tentative)
+  dates: "February 2017"
+  url: http://www.performance-workshop.org/
+
 - name: Workshop on Search-Based Software Testing (SBST) 2017
   location: Buenos Aires, Argentina
   dates: "May 20-28 2017"
