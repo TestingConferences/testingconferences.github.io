@@ -32,6 +32,12 @@
   dates: "June 25, 2016"
   url: https://qualityexcites.pl/en/
   twitter: QualityExcites
+  
+- name: QUASIG July Meeting
+  location: Seattle, USA
+  dates: "July 13, 2016"
+  url: http://www.qasig.org/events/julyqasigmeeting/
+  twitter: QuardevQASIG
 
 - name: TestRetreat 2016
   location: Vancouver, BC, Canada
