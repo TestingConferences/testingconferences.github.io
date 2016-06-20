@@ -1,3 +1,15 @@
+- name: Belgium Testing Day 2016
+  location: Brussels, Belgium
+  dates: "June 13-16, 2016"
+  url: http://btdconf.com/
+  twitter: btdconf
+
+- name: German Testing Day 2016
+  location: Frankfurt, Germany
+  dates: "June 13-14, 2016"
+  url: http://germantestingday.info/
+  twitter: GermanTesting
+
 - name: expo:QA 16
   location: Madrid, Spain
   dates: "June 7-9, 2016"
