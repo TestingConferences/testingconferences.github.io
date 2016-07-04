@@ -21,7 +21,7 @@
   dates: "September 15, 2016"
   url: http://www.testwest.org
   twitter: TestWestWA
-  
+
 - name: South Eastern Europe Testing Conference (SEETEST) 2016
   location: Bucharest, Romania
   dates: "September 15-16, 2016"
@@ -127,3 +127,9 @@
   location: Buenos Aires, Argentina
   dates: "May 20-28 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
+
+- name: US Agile Testing Days (ATD) 2017
+  location: Boston, MA, USA
+  dates: "June 19-21 2017"
+  url: http://agiletestingdays.us/
+  twitter: Agile_USA
