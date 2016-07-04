@@ -108,9 +108,15 @@
 
 - name: TestBash Philadelphia 2016
   location: Philadelphia, PA USA
-  dates: "November 10-11th 2016"
+  dates: "November 10-11th, 2016"
   url: http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/
   twitter: ministryoftest
+
+- name: SeleniumConf UK 2016
+  location: London, UK
+  dates: "November 14-16th, 2016"
+  url: http://seleniumconf.co.uk/
+  twitter: seleniumconf
 
 - name: Agile Testing Days 2016
   location: Potsdam, Germany
