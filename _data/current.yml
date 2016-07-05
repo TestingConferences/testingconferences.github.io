@@ -140,10 +140,17 @@
   url: http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
   twitter: ministryoftest
 
+- name: European Testing Conference 2017
+  location: Helsinki, Finland
+  dates: "February 8-10th, 2017"
+  url: http://europeantestingconference.eu/
+  twitter: EuroTestingConf
+
 - name: Workshop on Performance and Reliability (WOPR25)
   location: Wellington, New Zealand (Tentative)
   dates: "February 2017"
   url: http://www.performance-workshop.org/
+  twitter: WOPR_Workshop
 
 - name: Workshop on Search-Based Software Testing (SBST) 2017
   location: Buenos Aires, Argentina
