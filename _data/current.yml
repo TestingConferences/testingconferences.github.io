@@ -1,3 +1,19 @@
+- name: Next Generation Testing 2016
+  location: London, England
+  dates: "July 14, 2016"
+  url: http://conferences.unicom.co.uk/next-generation-testing/
+
+- name: Ho Chi Minh City Testing Conference (HCMC) 2016
+  location: Ho Chi Minh City, Vietnam
+  dates: "July 16, 2016"
+  url: http://www.hcmc-stc.org/july-2016-conference.html
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2016
+  location: Saarbrücken, Germany
+  dates: "July 18–20, 2016"
+  url: https://issta2016.cispa.saarland/
+  twitter: issta_conf
+
 - name: TestRetreat 2016
   location: Vancouver, BC, Canada
   dates: "August 6, 2016"
