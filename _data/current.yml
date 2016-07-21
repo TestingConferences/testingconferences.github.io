@@ -1,9 +1,3 @@
-- name: International Symposium on Software Testing and Analysis (ISSTA) 2016
-  location: Saarbrücken, Germany
-  dates: "July 18–20, 2016"
-  url: https://issta2016.cispa.saarland/
-  twitter: issta_conf
-
 - name: TestRetreat 2016
   location: Vancouver, BC, Canada
   dates: "August 6, 2016"

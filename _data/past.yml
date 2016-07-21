@@ -1,3 +1,9 @@
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2016
+  location: Saarbrücken, Germany
+  dates: "July 18–20, 2016"
+  url: https://issta2016.cispa.saarland/
+  twitter: issta_conf
+
 - name: Ho Chi Minh City Testing Conference (HCMC) 2016
   location: Ho Chi Minh City, Vietnam
   dates: "July 16, 2016"
