@@ -118,9 +118,14 @@
 
 - name: EuroSTAR 2016
   location: Stockholm, Sweden
-  dates: "October 31-November 03, 2016"
+  dates: "October 31-November 3, 2016"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
+
+- name: Cambridge Exploratory Workshop on Testing (CEWT) 3
+  location: Cambridge, UK
+  dates: "November 6, 2016"
+  url: http://cewtblog.blogspot.co.uk/
 
 - name: TestBash Philadelphia 2016
   location: Philadelphia, PA USA
