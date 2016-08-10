@@ -157,6 +157,12 @@
   url: http://europeantestingconference.eu/
   twitter: EuroTestingConf
 
+- name: Conference for the Association for Software Testing X 17 (CASTx17)
+  location: Sydney, Australia
+  dates: "February 20-21, 2017"
+  url: http://www.associationforsoftwaretesting.org/
+  twitter: AST_News
+
 - name: Workshop on Performance and Reliability (WOPR25)
   location: Wellington, New Zealand (Tentative)
   dates: "February 2017"
