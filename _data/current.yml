@@ -1,9 +1,3 @@
-- name: Conference for the Association for Software Testing (CAST) 2016
-  location: Vancouver, BC, Canada
-  dates: "August 8-10, 2016"
-  url: http://www.associationforsoftwaretesting.org/conference/cast-2016/
-  twitter: AST_News
-
 - name: SoCraTes 2016
   location: Soltau, Germany
   dates: "August 25-28, 2016"
@@ -129,13 +123,13 @@
 
 - name: TestBash Philadelphia 2016
   location: Philadelphia, PA USA
-  dates: "November 10-11th, 2016"
+  dates: "November 10-11, 2016"
   url: http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/
   twitter: ministryoftest
 
 - name: SeleniumConf UK 2016
   location: London, UK
-  dates: "November 14-16th, 2016"
+  dates: "November 14-16, 2016"
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf
 
@@ -147,15 +141,21 @@
 
 - name: TestBash Netherlands 2017
   location: Utrecht, Netherlands
-  dates: "January 26-27th, 2017"
+  dates: "January 26-27, 2017"
   url: http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
   twitter: ministryoftest
 
 - name: European Testing Conference 2017
   location: Helsinki, Finland
-  dates: "February 8-10th, 2017"
+  dates: "February 8-10, 2017"
   url: http://europeantestingconference.eu/
   twitter: EuroTestingConf
+
+- name: Workshop on Performance and Reliability (WOPR25)
+  location: Wellington, New Zealand
+  dates: "February 15-17, 2017"
+  url: http://www.performance-workshop.org/
+  twitter: WOPR_Workshop
 
 - name: Conference for the Association for Software Testing X 17 (CASTx17)
   location: Sydney, Australia
@@ -163,25 +163,19 @@
   url: http://www.associationforsoftwaretesting.org/
   twitter: AST_News
 
-- name: Workshop on Performance and Reliability (WOPR25)
-  location: Wellington, New Zealand (Tentative)
-  dates: "February 2017"
-  url: http://www.performance-workshop.org/
-  twitter: WOPR_Workshop
-
 - name: TestBash Brighton 2017
   location: Brighton, England
-  dates: "March 23-24th, 2017"
+  dates: "March 23-24, 2017"
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2017/
   twitter: ministryoftest
 
 - name: Workshop on Search-Based Software Testing (SBST) 2017
   location: Buenos Aires, Argentina
-  dates: "May 20-28 2017"
+  dates: "May 20-28, 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
-  dates: "June 19-21 2017"
+  dates: "June 19-21, 2017"
   url: http://agiletestingdays.us/
   twitter: Agile_USA
