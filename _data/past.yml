@@ -1,3 +1,9 @@
+- name: Conference for the Association for Software Testing (CAST) 2016
+  location: Vancouver, BC, Canada
+  dates: "August 8-10, 2016"
+  url: http://www.associationforsoftwaretesting.org/conference/cast-2016/
+  twitter: AST_News
+
 - name: TestRetreat 2016
   location: Vancouver, BC, Canada
   dates: "August 6, 2016"
