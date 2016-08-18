@@ -133,6 +133,12 @@
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf
 
+- name: Online Testing Conference
+  location: N/A
+  dates: "November 29-30, 2016"
+  url: http://www.onlinetestconf.com/
+  twitter: OnlineTestConf
+
 - name: Agile Testing Days 2016
   location: Potsdam, Germany
   dates: "December 5-8, 2016"
