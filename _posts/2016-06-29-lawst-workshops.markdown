@@ -3,6 +3,7 @@ layout: post
 title:  "LAWST-style Workshops"
 date:   2016-06-29 09:35:00
 categories: news
+author: Chris Kenst
 ---
 
 The following is a list of [LAWST](http://lawst.com/)-style workshops from around the world. Some of these are active and others aren't. If you find any missing from this list please feel free to add to it.
