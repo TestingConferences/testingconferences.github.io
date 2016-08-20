@@ -10,7 +10,7 @@ permalink: /past/
       <p>
       <i class="fa fa-calendar"></i> {{ past.dates }} <i class="fa fa-map-marker"></i> {{ past.location }}
       {% if past.twitter != nil %}<a href="https://www.twitter.com/{{past.twitter}}"><i class="fa fa-twitter"></i>{{past.twitter}}</a>{% endif %}
-      {% if past.video_url != nil %}<a href="{{video.url}}"><i class="fa fa-video-camera"></i> Event Videos</a>{% endif %}
+      {% if past.video_url != nil %}<a href="{{ past.video_url }}"><i class="fa fa-video-camera"></i> Event Videos</a>{% endif %}
   </li>
 {% endfor %}
 </ul>
