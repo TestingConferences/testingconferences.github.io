@@ -45,6 +45,7 @@
   dates: "June 24-26, 2016"
   url: http://2016.seleniumconf.in/
   twitter: seleniumconf
+  video_url: https://www.youtube.com/watch?v=MZ_wEaLRW-o&list=PL9Z-JgiTsOYTd-lsY6fC4zCMLXk1bFzxo
 
 - name: Test Automation Day 2016
   location: Rotterdam, the Netherlands
@@ -244,12 +245,12 @@
   dates: "February 26-27, 2016"
   url: http://seleniumcamp.com/
   twitter: SeleniumCamp
+  video_url: https://www.youtube.com/watch?v=mwSOmFNWFZU&list=PL4Xdj6CMk6HSfO7ejBQO44KYLX0JvT5YS
 
 - name: Agile Testing and Test Automation Summit - NY 2016
   location: New York, NY, USA
   dates: "February 26, 2016"
   url: http://usrsystems.com/Agile_Testing_and_Test_Automation_Summit_Newyork/
-  twitter:
 
 - name: CopenhagenContext 2016
   location: Copenhagen, Denmark
