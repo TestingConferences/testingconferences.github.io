@@ -72,12 +72,11 @@
   url: http://www.tapost.org/call-for-papers/
   twitter: TAPOST_LV
 
-- name: Quest for Quality, DevOps and Software Testing conference 2016
+- name: Quest for Quality, DevOps and Software Testing Conference 2016
   location: Ljubljana, Slovenia
   dates: "October 13-14, 2016"
-  url: http://www.questforquality.eu 
-  twitter: @Quest_4_Quality and #Q4Q2016
-
+  url: http://www.questforquality.eu
+  twitter: Quest_4_Quality
 
 - name: WeTest Auckland 2016
   location: Auckland, New Zealand
