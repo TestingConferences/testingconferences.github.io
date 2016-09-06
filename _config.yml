@@ -5,7 +5,7 @@ description: A simple list of software testing conferences and workshops, publis
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://testingconferences.org" # the base hostname & protocol for your site
 twitter_username: ckenst
-github_username: ckenst
+github_username: TestingConferences
 
 # Build settings
 markdown: kramdown
