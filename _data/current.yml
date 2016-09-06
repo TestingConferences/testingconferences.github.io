@@ -137,6 +137,12 @@
   twitter: OnlineTestConf
   status: CFP is open
 
+- name: Peers of Estonian Software Testing Conference (PEST) 6
+  location: Tartu, Estonia
+  dates: "December 3-4, 2016"
+  url: https://kristjanuba.wordpress.com/2016/09/02/pest-6-gaining-consciousness/
+  twitter: kristjanuba
+
 - name: Agile Testing Days 2016
   location: Potsdam, Germany
   dates: "December 5-8, 2016"
@@ -149,6 +155,7 @@
   dates: "January 26-27, 2017"
   url: http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
   twitter: ministryoftest
+  status: Registration is open
 
 - name: European Testing Conference 2017
   location: Helsinki, Finland
@@ -156,14 +163,14 @@
   url: http://europeantestingconference.eu/
   twitter: EuroTestingConf
 
-- name: Workshop on Performance and Reliability (WOPR25) 25
+- name: Workshop on Performance and Reliability (WOPR) 25
   location: Wellington, New Zealand
   dates: "February 15-17, 2017"
   url: http://www.performance-workshop.org/
   twitter: WOPR_Workshop
   status: Applications are open
 
-- name: Conference for the Association for Software Testing (CASTx-17) x17
+- name: Conference for the Association for Software Testing (CASTx) 17
   location: Sydney, Australia
   dates: "February 20-21, 2017"
   url: https://www.associationforsoftwaretesting.org/conference/castx17-call-for-proposals/
@@ -205,7 +212,7 @@
 
 - name: Conference for the Association for Software Testing (CAST) 2017
   location: Nashville, TN, USA
-  dates: "August 2016"
+  dates: "August, 2017"
   url: http://www.associationforsoftwaretesting.org/
   twitter: AST_News
   status: TBA
