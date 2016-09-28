@@ -1,3 +1,15 @@
+- name: Testival eu 2016
+  location: Kitchener, ON, Canada
+  dates: "September 26-27, 2016"
+  url: http://kwsqa.org/conference/
+  twitter: testivaleu
+
+- name: New Testing Conference
+  location: New York, NY, USA
+  dates: "September 26-27, 2016"
+  url: http://testmastersacademy.org/index.html
+  twitter: testmastersacad
+
 - name: Software Testing Atlanta (STAC) 2016
   location: Atlanta, GA, USA
   dates: "September 26, 2016"
