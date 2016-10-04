@@ -128,6 +128,12 @@
   twitter: AST_News
   status: CFP is open
 
+- name: UKSTAR 2017
+  location: London, England
+  dates: "February 27-28, 2017"
+  url: https://ukstar.eurostarsoftwaretesting.com/call-submissions-ukstar-2017/
+  status: Call for Submissions
+
 - name: TestBash Brighton 2017 (TestBash-by-the-Sea)
   location: Brighton, England
   dates: "March 23-24, 2017"
