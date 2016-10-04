@@ -2,7 +2,7 @@
   location: Anaheim, California, USA
   dates: "October 2-7, 2016"
   url: http://starwest.techwell.com
-  twitter: starwest
+  twitter: techwell
 
 - name: TestWorks Conf 2016
   location: Amsterdam
@@ -54,13 +54,13 @@
   location: Toronto, Canada
   dates: "October 23-27, 2016"
   url: http://starcanada.techwell.com/
-  twitter: starcanada
+  twitter: techwell
 
 - name: EuroSTAR 2016
   location: Stockholm, Sweden
   dates: "October 31-November 3, 2016"
   url: https://conference.eurostarsoftwaretesting.com/
-  twitter: esconfs
+  twitter: testhuddle
 
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 3
   location: Cambridge, UK
