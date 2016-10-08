@@ -1,3 +1,15 @@
+- name: TestWorks Conf 2016
+  location: Amsterdam
+  dates: "October 6-7, 2016"
+  url: http://testworksconf.com/
+  twitter: testworksconf
+
+- name: STARWEST 2016
+  location: Anaheim, California, USA
+  dates: "October 2-7, 2016"
+  url: http://starwest.techwell.com
+  twitter: techwell
+
 - name: Software Testing Conference NORTH 2016
   location: London, England
   dates: "September 27-28, 2016"
