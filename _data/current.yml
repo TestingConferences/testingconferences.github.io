@@ -68,7 +68,12 @@
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf_UK
   status: Registration is open
-
+  
+- name: Testing Portugal 2016 - Test of Things   
+  location: Lisbon, Portugal   
+  dates: "November 22, 2016"   
+  url: http://www.pstqb.pt/testing-portugal  
+    
 - name: Online Testing Conference
   location: N/A
   dates: "November 29-30, 2016"
