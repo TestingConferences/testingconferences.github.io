@@ -68,12 +68,12 @@
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf_UK
   status: Registration is open
-  
-- name: Testing Portugal 2016 - Test of Things   
-  location: Lisbon, Portugal   
-  dates: "November 22, 2016"   
-  url: http://www.pstqb.pt/testing-portugal  
-    
+
+- name: Testing Portugal 2016
+  location: Lisbon, Portugal
+  dates: "November 22, 2016"
+  url: http://www.pstqb.pt/testing-portugal
+
 - name: Online Testing Conference
   location: N/A
   dates: "November 29-30, 2016"
@@ -100,6 +100,13 @@
   url: http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
   twitter: ministryoftest
   status: Registration is open
+
+- name: QA or the Highway (QAoTH) 2017
+  location: Columbus, Ohio, USA
+  dates: "February 7, 2017"
+  url: https://qaorthehighway.com/
+  twitter: QAortheHighway
+  status: CFP is closed
 
 - name: European Testing Conference 2017
   location: Helsinki, Finland
