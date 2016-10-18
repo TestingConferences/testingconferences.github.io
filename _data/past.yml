@@ -1,3 +1,14 @@
+- name: WeTest Auckland 2016
+  location: Auckland, New Zealand
+  dates: "October 17, 2016"
+  url: http://www.wetest.co.nz/
+
+- name: Quest for Quality, DevOps and Software Testing Conference 2016
+  location: Ljubljana, Slovenia
+  dates: "October 13-14, 2016"
+  url: http://www.questforquality.eu
+  twitter: Quest_4_Quality
+
 - name: Theory and Practice of Software Testing (TAPOST) 2016
   location: Riga, Latvia
   dates: "October 12, 2016"
