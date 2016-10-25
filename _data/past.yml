@@ -1,3 +1,20 @@
+- name: TestBash Manchester 2016
+  location: Manchester, England
+  dates: "October 21, 2016"
+  url: http://ministryoftesting.com/2016/02/testbash-manchester/
+  twitter: ministryoftest
+
+- name: WeTest Wellington 2016
+  location: Wellington, New Zealand
+  dates: "October 20th, 2016"
+  url: http://www.wetest.co.nz/
+
+- name: QA&Test 2016
+  location: Bilbao, Spain
+  dates: "October 18-21, 2016"
+  url: http://www.qatest.org/en/
+  twitter: qatest_bilbao
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2016
   location: Portland, Oregon, USA
   dates: "October 17-19, 2016"
