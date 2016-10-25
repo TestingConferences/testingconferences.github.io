@@ -113,7 +113,7 @@
   dates: "March 23-24, 2017"
   url: http://www.ministryoftesting.com/training-events/testbash-brighton-2017/
   twitter: ministryoftest
-  status: CFP is closed
+  status: Registration is open
 
 - name: Mobile Dev + Test 2017
   location: San Deigo, CA USA
@@ -148,6 +148,13 @@
   url: http://romaniatesting.ro/
   twitter: romaniatesting
   status: CFP is open
+
+- name: Let's Test 2017
+  location: Runö, Sweden
+  dates: "May 15-16, 2017"
+  url: http://lets-test.com/
+  twitter: LetsTest_Conf
+  status: Registration is open
 
 - name: Workshop on Search-Based Software Testing (SBST) 2017
   location: Buenos Aires, Argentina
