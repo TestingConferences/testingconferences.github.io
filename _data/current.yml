@@ -29,6 +29,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Agile Testing & BDD eXchange 2016
+  location: London, UK
+  dates: "November 10-11, 2016"
+  url: https://skillsmatter.com/conferences/7428-agile-testing-and-bdd-exchange-2016
+  status: Registration is open
+
 - name: SeleniumConf UK 2016
   location: London, UK
   dates: "November 14-16, 2016"
@@ -46,7 +52,7 @@
   dates: "November 29-30, 2016"
   url: http://www.onlinetestconf.com/
   twitter: OnlineTestConf
-  status: CFP is open
+  status: Registration is open
 
 - name: Peers of Estonian Software Testing Conference (PEST) 6
   location: Tartu, Estonia
@@ -93,7 +99,7 @@
   dates: "February 20-21, 2017"
   url: https://www.associationforsoftwaretesting.org/conference/castx17-call-for-proposals/
   twitter: AST_News
-  status: CFP Closes October 15
+  status: CFP is closed
 
 - name: UKSTAR 2017
   location: London, England
@@ -106,7 +112,7 @@
   dates: "March 13-17, 2017"
   url: http://softwaretestpro.bmeurl.co/67E71AB
   twitter: softwaretestpro
-  status: CFP is closed
+  status: Registration is open
 
 - name: TestBash Brighton 2017 (TestBash-by-the-Sea)
   location: Brighton, England
