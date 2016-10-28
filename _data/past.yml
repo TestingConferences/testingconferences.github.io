@@ -1,3 +1,15 @@
+- name: Project Quality Day 2016
+  location: Ludwigsburg, Germany
+  dates: "October 26, 2016"
+  url: https://www.eclipsecon.org/europe2016/pqd
+  twitter: EclipseCon
+
+- name: STARCanada 2016
+  location: Toronto, Canada
+  dates: "October 23-27, 2016"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+
 - name: TestBash Manchester 2016
   location: Manchester, England
   dates: "October 21, 2016"
