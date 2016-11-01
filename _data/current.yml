@@ -27,12 +27,12 @@
   dates: "November 14-16, 2016"
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf_UK
-  status: Registration is open
+  status: Registration is closed
 
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
   dates: "November 22, 2016"
-  url: http://www.pstqb.pt/testing-portugal
+  url: http://www.pstqb.pt/testing-portugal-2016
 
 - name: Online Testing Conference
   location: N/A
@@ -57,7 +57,7 @@
 - name: TestBash Netherlands 2017
   location: Utrecht, Netherlands
   dates: "January 26-27, 2017"
-  url: http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
+  url: http://www.ministryoftesting.com/training-events/testbash-netherlands-2017/
   twitter: ministryoftest
   status: Registration is open
 
@@ -71,13 +71,13 @@
 - name: European Testing Conference 2017
   location: Helsinki, Finland
   dates: "February 8-10, 2017"
-  url: http://europeantestingconference.eu/
+  url: http://europeantestingconference.eu/2017/
   twitter: EuroTestingConf
 
 - name: Workshop on Performance and Reliability (WOPR) 25
   location: Wellington, New Zealand
   dates: "February 15-17, 2017"
-  url: http://www.performance-workshop.org/
+  url: http://www.performance-workshop.org/wopr25/
   twitter: WOPR_Workshop
   status: Applications are open
 
@@ -99,12 +99,12 @@
   dates: "March 13-17, 2017"
   url: http://softwaretestpro.bmeurl.co/67E71AB
   twitter: softwaretestpro
-  status: Registration is open
+  status: CFP is closed
 
 - name: TestBash Brighton 2017 (TestBash-by-the-Sea)
   location: Brighton, England
   dates: "March 23-24, 2017"
-  url: http://www.ministryoftesting.com/training-events/testbash-brighton-2017/
+  url: https://dojo.ministryoftesting.com/events/testbash-brighton-2017
   twitter: ministryoftest
   status: Registration is open
 
