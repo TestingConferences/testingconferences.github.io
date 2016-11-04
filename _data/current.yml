@@ -23,6 +23,11 @@
   twitter: seleniumconf_UK
   status: Registration is closed
 
+- name: TConf 2016
+  location: Melbourne, Australia
+  dates: "November 18, 2016"
+  url: https://tconf.io
+  
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
   dates: "November 22, 2016"
