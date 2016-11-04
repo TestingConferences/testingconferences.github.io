@@ -1,3 +1,9 @@
+- name: EuroSTAR 2016
+  location: Stockholm, Sweden
+  dates: "October 31-November 3, 2016"
+  url: https://conference.eurostarsoftwaretesting.com/
+  twitter: testhuddle
+
 - name: Project Quality Day 2016
   location: Ludwigsburg, Germany
   dates: "October 26, 2016"
