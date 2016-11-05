@@ -27,7 +27,7 @@
   location: Melbourne, Australia
   dates: "November 18, 2016"
   url: https://tconf.io
-  
+
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
   dates: "November 22, 2016"
@@ -91,7 +91,7 @@
   location: London, England
   dates: "February 27-28, 2017"
   url: https://ukstar.eurostarsoftwaretesting.com/call-submissions-ukstar-2017/
-  status: Call for Submissions
+  status: CFP is open
 
 - name: STPcon Spring 2017
   location: Phoenix, AZ USA
@@ -164,7 +164,7 @@
   dates: "June 7-9, 2017"
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
-  status: CFP is open
+  status: CFP is closed
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
