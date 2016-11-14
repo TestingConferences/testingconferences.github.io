@@ -136,6 +136,13 @@
   twitter: techwell
   status: CFP is open
 
+- name: Quality Software Australia 2017 (QSA2017)
+  location: Melbourne, Australia
+  dates: "May 10-12, 2017"
+  url: http://qualitysoftware.com.au/
+  twitter: AussieTesters
+  status: CFP is open
+
 - name: Romanian Testing Conference 2017
   location: Cluj-Napoca, Romania
   dates: "May 10-12, 2017"
