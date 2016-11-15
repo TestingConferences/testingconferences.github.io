@@ -11,6 +11,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Pune Software Testing Conference (PSTC) 2016
+  location: Pune, India
+  dates: "November 9-10, 2016"
+  url: http://pstc.stepinforum.org/
+  twitter: stepin_forum
+
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 3
   location: Cambridge, UK
   dates: "November 6, 2016"
