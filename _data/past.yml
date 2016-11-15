@@ -1,3 +1,16 @@
+- name: Agile Testing & BDD eXchange 2016
+  location: London, UK
+  dates: "November 10-11, 2016"
+  url: https://skillsmatter.com/conferences/7428-agile-testing-and-bdd-exchange-2016
+  status: Registration is open
+
+- name: TestBash Philadelphia 2016
+  location: Philadelphia, PA USA
+  dates: "November 10-11, 2016"
+  url: http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/
+  twitter: ministryoftest
+  status: Registration is open
+
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 3
   location: Cambridge, UK
   dates: "November 6, 2016"
