@@ -95,6 +95,12 @@
   twitter: softwaretestpro
   status: CFP is closed
 
+- name: Global Testing Retreat (GTR) 2017
+  location: Pune, India
+  dates: "March 16-17, 2017"
+  url: http://gtr.agiletestingalliance.org/
+  status: CFRP is open
+
 - name: TestBash Brighton 2017 (TestBash-by-the-Sea)
   location: Brighton, England
   dates: "March 23-24, 2017"
@@ -187,3 +193,9 @@
   url: http://copenhagencontext.com/
   twitter: CPHcontext
   status: CFP is open
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2017"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
