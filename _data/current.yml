@@ -115,6 +115,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Selenium Conference (SeConf) 2017
+  location: Austin, Texas, USA
+  dates: "April 3-5, 2017"
+  url: http://docs.seleniumhq.org/
+  twitter: seleniumconf
+
 - name: Mobile Dev + Test 2017
   location: San Deigo, CA USA
   dates: "April 24-28, 2017"
@@ -199,7 +205,7 @@
   dates: "September 21-22, 2017"
   url: http://copenhagencontext.com/
   twitter: CPHcontext
-  status: CFP is open
+  status: CFP is closed
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2017
   location: Portland, Oregon, USA
