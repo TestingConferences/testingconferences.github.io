@@ -1,3 +1,11 @@
+- name: SeleniumConf UK 2016
+  location: London, UK
+  dates: "November 14-16, 2016"
+  url: http://seleniumconf.co.uk/
+  twitter: seleniumconf_UK
+  status: Registration is closed
+  video_url: https://www.youtube.com/playlist?list=PLPJWVzLeEy93T9EBvfn9KAmrYYez3oGcD
+
 - name: Agile Testing & BDD eXchange 2016
   location: London, UK
   dates: "November 10-11, 2016"

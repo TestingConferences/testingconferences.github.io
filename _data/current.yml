@@ -1,10 +1,3 @@
-- name: SeleniumConf UK 2016
-  location: London, UK
-  dates: "November 14-16, 2016"
-  url: http://seleniumconf.co.uk/
-  twitter: seleniumconf_UK
-  status: Registration is closed
-
 - name: TConf 2016
   location: Melbourne, Australia
   dates: "November 18, 2016"
@@ -186,7 +179,7 @@
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
   status: CFP is closed
-  
+
 - name: Testing Cup 2017
   location: Gdańsk, Poland
   dates: "June 8-9, 2017"
