@@ -1,3 +1,13 @@
+- name: Testing Portugal 2016
+  location: Lisbon, Portugal
+  dates: "November 22, 2016"
+  url: http://www.pstqb.pt/testing-portugal-2016
+
+- name: TConf 2016
+  location: Melbourne, Australia
+  dates: "November 18, 2016"
+  url: https://tconf.io
+
 - name: SeleniumConf UK 2016
   location: London, UK
   dates: "November 14-16, 2016"
