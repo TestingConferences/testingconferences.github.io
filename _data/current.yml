@@ -1,16 +1,3 @@
-- name: Online Testing Conference
-  location: N/A
-  dates: "November 29-30, 2016"
-  url: http://www.onlinetestconf.com/
-  twitter: OnlineTestConf
-  status: Registration is open
-
-- name: Peers of Estonian Software Testing Conference (PEST) 6
-  location: Tartu, Estonia
-  dates: "December 3-4, 2016"
-  url: https://kristjanuba.wordpress.com/2016/09/02/pest-6-gaining-consciousness/
-  twitter: kristjanuba
-
 - name: Agile Testing Days 2016
   location: Potsdam, Germany
   dates: "December 5-8, 2016"
