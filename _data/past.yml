@@ -1,3 +1,9 @@
+- name: Agile Testing Days 2016
+  location: Potsdam, Germany
+  dates: "December 5-8, 2016"
+  url: http://www.agiletestingdays.com/
+  twitter: AgileTD
+
 - name: Peers of Estonian Software Testing Conference (PEST) 6
   location: Tartu, Estonia
   dates: "December 3-4, 2016"
@@ -10,6 +16,7 @@
   url: http://www.onlinetestconf.com/
   twitter: OnlineTestConf
   status: Registration is open
+  video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfG6dxeLw8vrHQGu9Yt4gwp-
 
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
