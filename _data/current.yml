@@ -45,7 +45,7 @@
   twitter: AST_News
   status: Registration is open
   
-  name: Selenium Camp 2017
+- name: Selenium Camp 2017
   location: Kiev, Ukraine
   dates: "February 24-25, 2017"
   url: http://seleniumcamp.com/
@@ -132,7 +132,7 @@
   twitter: romaniatesting
   status: CFP is open
   
-  name: TinyTestBash Belfast 2017
+- name: TinyTestBash Belfast 2017
   location: Belfast, Northern Ireland
   dates: "May 18, 2017"
   url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
