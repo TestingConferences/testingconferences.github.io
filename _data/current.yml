@@ -41,15 +41,22 @@
 - name: Conference for the Association for Software Testing (CASTx) 17
   location: Sydney, Australia
   dates: "February 20-21, 2017"
-  url: hhttps://www.associationforsoftwaretesting.org/conference/castx17-call-for-proposals/packages-and-pricing/
+  url: https://www.associationforsoftwaretesting.org/conference/castx17-call-for-proposals/packages-and-pricing/
   twitter: AST_News
   status: Registration is open
+  
+  name: Selenium Camp 2017
+  location: Kiev, Ukraine
+  dates: "February 24-25, 2017"
+  url: http://seleniumcamp.com/
+  twitter: seleniumcamp
+  status: CFP is open
 
 - name: UKSTAR 2017
   location: London, England
   dates: "February 27-28, 2017"
   url: https://ukstar.eurostarsoftwaretesting.com/call-submissions-ukstar-2017/
-  status: CFP is open
+  status: Registration is open
 
 - name: STPcon Spring 2017
   location: Phoenix, AZ USA
@@ -81,7 +88,7 @@
 - name: Selenium Conference (SeConf) 2017
   location: Austin, Texas, USA
   dates: "April 3-5, 2017"
-  url: http://docs.seleniumhq.org/
+  url: http://seleniumconf.com/
   twitter: seleniumconf
 
 - name: Mobile Dev + Test 2017
@@ -100,7 +107,7 @@
 
 - name: TestCon Moscow 2017
   location: Moscow, Russia
-  dates: "April 16-27, 2017"
+  dates: "April 26-27, 2017"
   url: http://testconf.ru/
   status: CFP is open
 
@@ -123,6 +130,13 @@
   dates: "May 10-12, 2017"
   url: http://romaniatesting.ro/
   twitter: romaniatesting
+  status: CFP is open
+  
+  name: TinyTestBash Belfast 2017
+  location: Belfast, Northern Ireland
+  dates: "May 18, 2017"
+  url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
+  twitter: ministryoftest
   status: CFP is open
 
 - name: Let's Test 2017
