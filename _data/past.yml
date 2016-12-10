@@ -129,7 +129,7 @@
   dates: "October 2-7, 2016"
   url: http://starwest.techwell.com
   twitter: techwell
-  video_url: https://vts.inxpo.com/Launch/Event.htm?ShowKey=33704
+  video_url: https://www.youtube.com/playlist?list=PLk81My95-GE9PnMmosaQooWspv5MpjZqD
 
 - name: Software Testing Conference NORTH 2016
   location: London, England
@@ -339,6 +339,7 @@
   dates: "May 1-6, 2016"
   url: http://stareast.techwell.com/
   twitter: techwell
+  video_url: https://www.youtube.com/playlist?list=PLk81My95-GE-WxT-xwx0YZZMRaOhMY-O4
 
 - name: Test Leadership Congress/QA EXPO
   location: New York, NY, USA
@@ -533,6 +534,7 @@
   dates: "November 10-11, 2015"
   url: https://developers.google.com/google-test-automation-conference/
   twitter: googletesting
+  video_url: https://www.youtube.com/playlist?list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM
 
 - name: Agile Testing Days 2015
   location: Potsdam, Germany
