@@ -44,7 +44,7 @@
   url: https://www.associationforsoftwaretesting.org/conference/castx17-call-for-proposals/packages-and-pricing/
   twitter: AST_News
   status: Registration is open
-  
+
 - name: Selenium Camp 2017
   location: Kiev, Ukraine
   dates: "February 24-25, 2017"
@@ -131,7 +131,7 @@
   url: http://romaniatesting.ro/
   twitter: romaniatesting
   status: CFP is open
-  
+
 - name: TinyTestBash Belfast 2017
   location: Belfast, Northern Ireland
   dates: "May 18, 2017"
@@ -180,9 +180,10 @@
 
 - name: Conference for the Association for Software Testing (CAST) 2017
   location: Nashville, TN, USA
-  dates: "August, 2017"
-  url: http://www.associationforsoftwaretesting.org/
+  dates: "August 16-18, 2017"
+  url: https://www.associationforsoftwaretesting.org/conference/cast-2017/
   twitter: AST_News
+  status: CFP is open
 
 - name: CopenhagenContext 2017
   location: Copenhagen, Denmark
@@ -196,3 +197,9 @@
   dates: "October 9-11, 2017"
   url: http://www.pnsqc.org/
   twitter: PNSQC
+
+- name: TestBash Germany 2017
+  location: Munich, Germany
+  dates: "October 6, 2017"
+  url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
+  twitter: ministryoftest
