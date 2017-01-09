@@ -23,13 +23,14 @@
   dates: "February 7, 2017"
   url: https://qaorthehighway.com/
   twitter: QAortheHighway
-  status: CFP is closed
+  status: Registration is open
 
 - name: European Testing Conference 2017
   location: Helsinki, Finland
   dates: "February 8-10, 2017"
   url: http://europeantestingconference.eu/2017/
   twitter: EuroTestingConf
+  status: Registration is open
 
 - name: Workshop on Performance and Reliability (WOPR) 25
   location: Wellington, New Zealand
@@ -63,7 +64,7 @@
   dates: "March 13-17, 2017"
   url: http://softwaretestpro.bmeurl.co/67E71AB
   twitter: softwaretestpro
-  status: CFP is closed
+  status: Registration is open
 
 - name: 10th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2017
   location: Tokyo, Japan
@@ -90,6 +91,7 @@
   dates: "April 3-5, 2017"
   url: http://seleniumconf.com/
   twitter: seleniumconf
+  status: CFP is open
 
 - name: Mobile Dev + Test 2017
   location: San Deigo, CA USA
@@ -162,7 +164,7 @@
   dates: "June 7-9, 2017"
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
-  status: CFP is closed
+  status: Registration is open
 
 - name: Testing Cup 2017
   location: Gdańsk, Poland
@@ -176,7 +178,7 @@
   dates: "June 19-21, 2017"
   url: http://agiletestingdays.us/
   twitter: Agile_USA
-  status: CFP is open
+  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CAST) 2017
   location: Nashville, TN, USA
@@ -190,7 +192,7 @@
   dates: "September 21-22, 2017"
   url: http://copenhagencontext.com/
   twitter: CPHcontext
-  status: CFP is closed
+  status: Registration is open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2017
   location: Portland, Oregon, USA
@@ -203,3 +205,5 @@
   dates: "October 6, 2017"
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
   twitter: ministryoftest
+  status: CFP is open
+  
