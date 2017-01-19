@@ -173,6 +173,12 @@
   twitter: Agile_USA
   status: Registration is open
 
+- name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2017
+  location: Prague, Czech Republic
+  dates: "July 25-29, 2017"
+  url: http://paris.utdallas.edu/cta17/
+  status: CFP is open
+
 - name: Conference for the Association for Software Testing (CAST) 2017
   location: Nashville, TN, USA
   dates: "August 16-18, 2017"
@@ -198,10 +204,4 @@
   dates: "October 6, 2017"
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
   twitter: ministryoftest
-  status: CFP is open
-  
-- name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA 2017)
-  location: Prague, Czech Republic
-  dates: "July 25-29, 2017"
-  url: http://paris.utdallas.edu/cta17/
   status: CFP is open
