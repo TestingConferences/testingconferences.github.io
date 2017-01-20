@@ -1,0 +1,7 @@
+## Customize test commands
+
+machine:
+  ruby:
+    version: 2.1.2
+
+test:
