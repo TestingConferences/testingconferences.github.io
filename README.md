@@ -1,5 +1,8 @@
 # Testing Conferences
+[![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=shield)](https://circleci.com/gh/TestingConferences/testingconferences.github.io)
+
 This is a simple list of software testing conferences and workshops published collaboratively with the testing community.
+
 
 ## Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.
