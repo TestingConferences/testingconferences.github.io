@@ -1,18 +1,15 @@
 require 'selenium-webdriver'
 require 'rspec/expectations'
-require 'headless'
 
 describe 'Load Site' do
 
   def setup
-    @headless = Headless.new(reuse: false)
-    @headless.start
-    @driver = Selenium::WebDriver.for :firefox
+
+    @driver = Selenium::WebDriver.for :chrome
   end
 
   def teardown
     @driver.quit
-    @headless.destroy
   end
 
   it 'succeeded' do
