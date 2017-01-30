@@ -5,7 +5,7 @@ require 'headless'
 describe 'Load Site' do
 
   def setup
-    @headless = Headless.new
+    @headless = Headless.new(reuse: false)
     @headless.start
     @driver = Selenium::WebDriver.for :firefox
   end
