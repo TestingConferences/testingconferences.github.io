@@ -3,7 +3,7 @@ require 'rspec/expectations'
 include ::RSpec::Matchers
 
 def setup
-  @driver = Selenium::WebDriver.for :chrome
+  @driver = Selenium::WebDriver.for :firefox
 end
 
 def teardown
