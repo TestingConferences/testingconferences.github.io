@@ -18,7 +18,7 @@ describe 'Load Site' do
     @driver.get 'http://testingconferences.org/'
     heading_text = @driver.find_element(class: 'site-title').text
     puts heading_text
-    expect(heading_text).to eql 'Software Testing Conferences'
+    expect(heading_text).to eql 'duh'
 
     teardown
   end
