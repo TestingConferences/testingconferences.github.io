@@ -104,7 +104,7 @@
   dates: "May 10-12, 2017"
   url: http://qualitysoftware.com.au/
   twitter: AussieTesters
-  status: CFP is open
+  status: Registration is open
 
 - name: Romanian Testing Conference 2017
   location: Cluj-Napoca, Romania
@@ -144,6 +144,13 @@
   url: https://skillsmatter.com/conferences/8189-london-tester-gathering-workshops-2017
   twitter: LTGWorkshops
 
+- name: SauceCon 2017
+  location: San Francisco, CA, USA
+  dates: "June 6-8, 2017"
+  url: http://saucecon.wpengine.com/
+  twitter: saucelabs
+  status: Registration is open
+  
 - name: Nordic Testing Days (NTD) 2017
   location: Tallinn, Estonia
   dates: "June 7-9, 2017"
@@ -178,6 +185,20 @@
   twitter: AST_News
   status: CFP is open
 
+- name: WeTest Wellington 2017
+  location: Wellington, NZ
+  dates: "September 18, 2017"
+  url: http://www.wetest.co.nz/
+  twitter: WeTestNZ
+  status: CFP is open
+  
+  - name: WeTest Auckland 2017
+  location: Auckland, NZ
+  dates: "September 20, 2017"
+  url: http://www.wetest.co.nz/
+  twitter: WeTestNZ
+  status: CFP is open
+  
 - name: CopenhagenContext 2017
   location: Copenhagen, Denmark
   dates: "September 21-22, 2017"
