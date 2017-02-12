@@ -2,4 +2,5 @@ source 'https://rubygems.org'
 
 gem 'selenium-webdriver'
 gem 'rspec'
-gem 'headless'
+gem 'kramdown'
+gem 'jekyll-watch'
