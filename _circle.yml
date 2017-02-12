@@ -5,7 +5,6 @@ machine:
 
 dependencies:
   post:
-    - bundle exec jekyll build
     - bundle exec jekyll serve
 
 test:
