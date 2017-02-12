@@ -15,7 +15,7 @@ describe 'Load Site' do
   it 'succeeded' do
     setup
 
-    @driver.get 'http://testingconferences.org/'
+    @driver.get 'http://localhost:4000'
     heading_text = @driver.find_element(class: 'site-title').text
     puts heading_text
     expect(heading_text).to eql 'Software Testing Conferences'
