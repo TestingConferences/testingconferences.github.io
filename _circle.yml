@@ -5,8 +5,10 @@ machine:
 
 dependencies:
   post:
-    - bundle exec jekyll serve
+    - bundle exec jekyll build
 
 test:
+  pre: # also try override
+    - bundle exec jekyll serve
   post:
     - bundle exec rspec
