@@ -1,3 +1,10 @@
+- name: European Testing Conference 2017
+  location: Helsinki, Finland
+  dates: "February 8-10, 2017"
+  url: http://europeantestingconference.eu/2017/
+  twitter: EuroTestingConf
+  status: Registration is open
+
 - name: QA or the Highway (QAoTH) 2017
   location: Columbus, Ohio, USA
   dates: "February 7, 2017"
