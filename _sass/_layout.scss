@@ -19,12 +19,7 @@
     margin-bottom: 0;
     float: left;
     text-shadow: 2px 2px 2px #CCC;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
     }
-}
 
 .site-nav {
     float: right;
@@ -99,7 +94,8 @@
     text-align: center;
 
     .active {
-        text-decoration: underline;
+        font-weight: bold;
+        text-decoration: none;
     }
 }
 
@@ -188,6 +184,8 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    border: 1px;
+    border-color: #e8e8e8;
 
     > li {
         margin-bottom: $spacing-unit;
@@ -201,6 +199,10 @@
 
     .fa {
         margin-left: 10px;
+    }
+
+    li:nth-child(even) {
+        background-color: #F6F6F6;
     }
 }
 
