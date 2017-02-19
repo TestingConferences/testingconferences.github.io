@@ -5,6 +5,8 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background-color: #F5F5F5;
+    text-align: center;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -12,7 +14,7 @@
 
 .site-title {
     font-size: 50px;
-    line-height: 56px;
+    line-height: 64px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -94,6 +96,7 @@
     letter-spacing: 1px;
     word-spacing: 20px;
     text-shadow: 2px 2px 2px #CCC;
+    text-align: center;
 
     .active {
         text-decoration: underline;
