@@ -225,7 +225,13 @@
   url: http://www.testwest.org
   twitter: TestWestWA
   status: Registration is closed
-
+  
+  - name: Tricentis Accelerate 2016
+  location: Vienna, Austria
+  dates: "September 12-13, 2016"
+  url: https://www.tricentis.com/tricentis-accelerate-2016/
+  twitter: Tricentis
+  
 - name: SoCraTes 2016
   location: Soltau, Germany
   dates: "August 25-28, 2016"
@@ -593,6 +599,12 @@
   url: http://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
 
+ - name: Tricentis Accelerate 2015
+  location: Vienna, Austria
+  dates: "October 22, 2015"
+  url: https://www.tricentis.com/tricentis-accelerate-2015/
+  twitter: Tricentis
+
 - name: Software Testing Atlanta (STAC) 2015
   location: Atlanta, GA, USA
   dates: "October 22, 2015"
@@ -803,6 +815,12 @@
   location: Montreal, QC Canada
   dates: "January 17-18, 2015"
   url: http://www.moiist.org/
+
+- name: Tricentis Accelerate 2014
+  location: Vienna, Austria
+  dates: "September 18, 2014"
+  url: https://support.tricentis.com/community/announcements_detail.do?number=NEW0000004
+  twitter: Tricentis
 
 - name: CAST 2014
   location: New York, NY
