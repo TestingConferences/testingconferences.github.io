@@ -51,6 +51,13 @@
   url: http://seleniumconf.com/
   twitter: seleniumconf
   status: Registration is open
+  
+- name: Quality Jam 2017
+  location: Atlanta, Georgia, USA
+  dates: "April 18-19, 2017"
+  url: http://qualityjam.net/?utm_campaign=SoftwareTestingConference.org%20Quality%20Jam%202017&utm_medium=Listing&utm_source=Other
+  twitter: qasymphony
+  status: Registration is open
 
 - name: Mobile Dev + Test 2017
   location: San Deigo, CA USA
@@ -205,6 +212,13 @@
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
   twitter: ministryoftest
   status: CFP is open
+  
+- name: Tricentis Accelerate 2017
+  location: Vienna, Austria
+  dates: "October 16-17, 2017"
+  url: https://www.tricentis.com/accelerate2017/
+  status: CFP is open
+  twitter: Tricentis
 
 - name: EuroSTAR 2017
   location: Copenhagen, Denmark
