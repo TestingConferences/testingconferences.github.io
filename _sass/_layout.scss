@@ -17,7 +17,6 @@
     line-height: 64px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
     text-shadow: 2px 2px 2px #CCC;
     }
 
@@ -96,7 +95,10 @@
     .active {
         font-weight: bold;
         text-decoration: none;
-        color:  #225c80;
+    }
+
+    a {
+        color: #225c80
     }
 }
 
