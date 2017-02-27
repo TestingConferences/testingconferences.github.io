@@ -152,19 +152,19 @@
   twitter: nordictestdays
   status: Registration is open
 
-- name: Online Testing Conference (OTC) 2017
-  location: worldwide
-  dates: "June 13-14, 2017"
-  url: http://www.onlinetestconf.com/
-  twitter: onlinetestconf
-  status: Registration is open
-
 - name: Testing Cup 2017
   location: Gdańsk, Poland
   dates: "June 8-9, 2017"
   url: http://cfp.testingcup.com/register_speaker
   twitter: TestingCup
   status: CFP is open
+  
+  - name: Online Testing Conference (OTC) 2017
+  location: worldwide
+  dates: "June 13-14, 2017"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+  status: CFP & Registration are open
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
