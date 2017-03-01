@@ -179,6 +179,13 @@
   twitter: AST_News
   status: CFP is open
 
+- name: ASTQB Summit 2017
+  location: Irvine, CA, USA
+  dates: "September 15, 2017"
+  url: https://www.astqb.org/certified-tester-resources/astqb-software-testing-conference/
+  twitter: astqb
+  status: Registration is open
+
 - name: WeTest Wellington 2017
   location: Wellington, NZ
   dates: "September 18, 2017"
