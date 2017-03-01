@@ -150,6 +150,13 @@
   url: http://cfp.testingcup.com/register_speaker
   twitter: TestingCup
   status: CFP is open
+  
+  - name: Spring Online Testing Conference (OTC) 2017
+  location: worldwide
+  dates: "June 13-14, 2017"
+  url: http://onlinetestconf.com
+  twitter: OnlineTestConf
+  status: Registration is open
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
