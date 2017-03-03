@@ -49,6 +49,12 @@
   url: http://www.ministryoftesting.com/training-events/testbash-netherlands-2017/
   twitter: ministryoftest
 
+- name: Test Academy 2017
+  location: Barcelona, Spain
+  dates: "January 25, 2017"
+  url: http://www.expoqa.com/testacademy/en.html
+  twitter: expoqa
+
 - name: Automation Guild Online Conference 2017
   location: Online
   dates: 'January 9-13, 2017'
@@ -75,6 +81,11 @@
   twitter: OnlineTestConf
   status: Registration is open
   video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfG6dxeLw8vrHQGu9Yt4gwp-
+
+- name: Agile & Automation Days 2016
+  location: Warsaw, Poland
+  dates: "November 21-22, 2016"
+  url: http://aadays.pl/
 
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
