@@ -10,7 +10,14 @@
   dates: "March 13-18, 2017"
   url: http://aster.or.jp/conference/icst2017/
   twitter: ICST2017
-  status: CFP is open
+  status: Registration is open
+
+- name: Swiss Testing Day 2017
+  location: Zurich, Switzerland
+  dates: "March 15, 2017"
+  url: http://swisstestingday.ch/
+  twitter: swisstesting
+  status: Registration is open
 
 - name: Global Testing Retreat (GTR) 2017
   location: Pune, India
