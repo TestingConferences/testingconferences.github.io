@@ -247,3 +247,10 @@
   dates: "November 6, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
   status: CFP is open
+
+- name: Agile Testing Days (ATD) 2017
+  location: Potsdam, Germany
+  dates: "November 13-17, 2017"
+  url: http://agiletestingdays.com
+  twitter: AgileTD
+  status: CFP is open
