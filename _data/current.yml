@@ -101,19 +101,19 @@
   twitter: romaniatesting
   status: CFP is open
 
-- name: TinyTestBash Belfast 2017
-  location: Belfast, Northern Ireland
-  dates: "May 18, 2017"
-  url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
-  twitter: ministryoftest
-  status: CFP is open
-
 - name: Let's Test 2017
   location: Runö, Sweden
   dates: "May 15-16, 2017"
   url: http://lets-test.com/
   twitter: LetsTest_Conf
   status: Registration is open
+
+- name: TinyTestBash Belfast 2017
+  location: Belfast, Northern Ireland
+  dates: "May 18, 2017"
+  url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
+  twitter: ministryoftest
+  status: CFP is open
 
 - name: The 12th IEEE/ACM International Workshop on Automation of Software Test (AST 2017)
   location: Buenos Aires, Argentina
@@ -126,11 +126,11 @@
   dates: "May 20-28, 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
 
-- name: London Tester Gathering Workshops 2017
+- name: London Tester Tester Tutorials 2017
   location: London, England
   dates: "May 25-26, 2017"
-  url: https://skillsmatter.com/conferences/8189-london-tester-gathering-workshops-2017
-  twitter: LTGWorkshops
+  url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2017
+  status: Registration is open
 
 - name: SauceCon 2017
   location: San Francisco, CA, USA
@@ -167,12 +167,37 @@
   twitter: expoqa
   status: CFP is closed
 
+- name: German Testing Day 2017
+  location: Frankfurt, Germany
+  dates: "June 19-20, 2017"
+  url: http://germantestingday.info/
+  twitter: GermanTesting
+
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
   dates: "June 19-21, 2017"
   url: http://agiletestingdays.us/
   twitter: Agile_USA
   status: Cancelled
+
+- name: Test Automation Day 2017
+  location: Rotterdam, the Netherlands
+  dates: "June 22, 2017"
+  url: http://www.testautomationday.com/
+  twitter: ckcseminars
+
+- name: London Tester Gathering Workshops
+  location: London, England
+  dates: "June 29-30, 2017"
+  url: https://dojo.ministryoftesting.com/events/london-tester-gathering-workshops
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2017
+  location: Santa Barbara, CA, USA
+  dates: "July 10–14, 2017"
+  url: http://conf.researchr.org/home/issta-2017
+  twitter: issta_conf
 
 - name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2017
   location: Prague, Czech Republic
