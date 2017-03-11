@@ -1,3 +1,67 @@
+- name: UKSTAR 2017
+  location: London, England
+  dates: "February 27-28, 2017"
+  url: https://ukstar.eurostarsoftwaretesting.com/call-submissions-ukstar-2017/
+
+- name: Selenium Camp 2017
+  location: Kiev, Ukraine
+  dates: "February 24-25, 2017"
+  url: http://seleniumcamp.com/
+  twitter: seleniumcamp
+  status: Registration is open
+
+- name: Conference for the Association for Software Testing (CASTx) 17
+  location: Sydney, Australia
+  dates: "February 20-21, 2017"
+  url: https://www.associationforsoftwaretesting.org/conference/castx17/packages-and-pricing/
+  twitter: AST_News
+  status: Registration is open
+
+- name: Workshop on Performance and Reliability (WOPR) 25
+  location: Wellington, New Zealand
+  dates: "February 15-17, 2017"
+  url: http://www.performance-workshop.org/wopr25/
+  twitter: WOPR_Workshop
+
+- name: European Testing Conference 2017
+  location: Helsinki, Finland
+  dates: "February 8-10, 2017"
+  url: http://europeantestingconference.eu/2017/
+  twitter: EuroTestingConf
+  status: Registration is open
+
+- name: QA or the Highway (QAoTH) 2017
+  location: Columbus, Ohio, USA
+  dates: "February 7, 2017"
+  url: https://qaorthehighway.com/
+  twitter: QAortheHighway
+  status: Registration is open
+
+- name: Dutch Exploratory Workshop on Testing (DEWT) 7
+  location: Driebergen, the Netherlands
+  dates: "January 27-29, 2017"
+  url: https://dewt.wordpress.com/category/dewt7/
+  twitter: TestSideStory
+
+- name: TestBash Netherlands 2017
+  location: Utrecht, Netherlands
+  dates: "January 26-27, 2017"
+  url: http://www.ministryoftesting.com/training-events/testbash-netherlands-2017/
+  twitter: ministryoftest
+
+- name: Test Academy 2017
+  location: Barcelona, Spain
+  dates: "January 25, 2017"
+  url: http://www.expoqa.com/testacademy/en.html
+  twitter: expoqa
+
+- name: Automation Guild Online Conference 2017
+  location: Online
+  dates: 'January 9-13, 2017'
+  url: https://automationguild.com/
+  twitter: jcolantonio
+  status: Registration is open
+
 - name: Agile Testing Days 2016
   location: Potsdam, Germany
   dates: "December 5-8, 2016"
@@ -17,6 +81,11 @@
   twitter: OnlineTestConf
   status: Registration is open
   video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfG6dxeLw8vrHQGu9Yt4gwp-
+
+- name: Agile & Automation Days 2016
+  location: Warsaw, Poland
+  dates: "November 21-22, 2016"
+  url: http://aadays.pl/
 
 - name: Testing Portugal 2016
   location: Lisbon, Portugal
@@ -129,7 +198,7 @@
   dates: "October 2-7, 2016"
   url: http://starwest.techwell.com
   twitter: techwell
-  video_url: https://vts.inxpo.com/Launch/Event.htm?ShowKey=33704
+  video_url: https://www.youtube.com/playlist?list=PLk81My95-GE9PnMmosaQooWspv5MpjZqD
 
 - name: Software Testing Conference NORTH 2016
   location: London, England
@@ -339,6 +408,7 @@
   dates: "May 1-6, 2016"
   url: http://stareast.techwell.com/
   twitter: techwell
+  video_url: https://www.youtube.com/playlist?list=PLk81My95-GE-WxT-xwx0YZZMRaOhMY-O4
 
 - name: Test Leadership Congress/QA EXPO
   location: New York, NY, USA
@@ -533,6 +603,7 @@
   dates: "November 10-11, 2015"
   url: https://developers.google.com/google-test-automation-conference/
   twitter: googletesting
+  video_url: https://www.youtube.com/playlist?list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM
 
 - name: Agile Testing Days 2015
   location: Potsdam, Germany
