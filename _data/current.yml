@@ -99,7 +99,7 @@
   dates: "May 10-12, 2017"
   url: http://romaniatesting.ro/
   twitter: romaniatesting
-  status: CFP is open
+  status: Registration is open
 
 - name: Let's Test 2017
   location: Runö, Sweden
@@ -113,7 +113,7 @@
   dates: "May 18, 2017"
   url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
   twitter: ministryoftest
-  status: CFP is open
+  status: Registration is open
 
 - name: The 12th IEEE/ACM International Workshop on Automation of Software Test (AST 2017)
   location: Buenos Aires, Argentina
@@ -258,7 +258,7 @@
   dates: "October 6, 2017"
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
   twitter: ministryoftest
-  status: CFP is open
+  status: CFP is closed
 
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
@@ -271,7 +271,7 @@
   location: Copenhagen, Denmark
   dates: "November 6, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
-  status: CFP is open
+  status: CFP is closed
 
 - name: Agile Testing Days (ATD) 2017
   location: Potsdam, Germany
