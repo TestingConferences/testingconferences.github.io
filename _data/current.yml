@@ -67,6 +67,12 @@
   twitter: TechWell
   status: Registration is open
 
+- name: 8th International TestIstanbul (2017)
+  location: Istanbul, Turkey
+  dates: "April 25, 2017"
+  url: https://testistanbul.org/
+  status: Registration is open
+
 - name: TestCon Moscow 2017
   location: Moscow, Russia
   dates: "April 26-27, 2017"
@@ -152,6 +158,12 @@
   url: http://cfp.testingcup.com/register_speaker
   twitter: TestingCup
   status: CFP is open
+
+- name: Cambridge Exploratory Workshop on Testing (CEWT) 4
+  location: Cambridge, UK
+  dates: "June 11, 2017"
+  url: http://cewtblog.blogspot.co.uk/2017/03/cewt-4-is-coming.html
+  twitter: qahiccups
 
 - name: Spring Online Testing Conference (OTC) 2017
   location: worldwide
