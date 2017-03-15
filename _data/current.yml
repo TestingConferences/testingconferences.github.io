@@ -279,11 +279,25 @@
   status: CFP is open
   twitter: Tricentis
 
+- name: TestBash Manchester 2017
+  location: Manchester, UK
+  dates: "October 26-27, 2017"
+  url: https://www.ministryoftesting.com/2017/02/testbash-is-returning-to-manchester/
+  status: CFP is open
+  twitter: ministryoftest
+
 - name: EuroSTAR 2017
   location: Copenhagen, Denmark
   dates: "November 6, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
   status: CFP is closed
+  
+- name: TestBash Philadelphia 2017
+  location: Philadelphia, USA
+  dates: "November 9-10, 2017"
+  url: https://www.ministryoftesting.com/2017/02/testbash-is-returning-to-philadelphia/
+  status: CFP is open
+  twitter: ministryoftest
 
 - name: Agile Testing Days (ATD) 2017
   location: Potsdam, Germany
