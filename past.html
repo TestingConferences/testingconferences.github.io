@@ -8,8 +8,9 @@ permalink: /past/
   <li>
       <h2><a href="{{past.url}}">{{ past.name }}</a></h2>
       <p>
-      <i class="fa fa-calendar"></i> {{ past.dates }} <i class="fa fa-map-marker"></i> {{ past.location }} <i class="fa fa-twitter"></i> <a href="https://www.twitter.com/@{{past.twitter}}">{{ past.twitter }}</a>
+      <i class="fa fa-calendar"></i> {{ past.dates }} <i class="fa fa-map-marker"></i> {{ past.location }}
+      {% if past.twitter != nil %}<a href="https://www.twitter.com/{{past.twitter}}"><i class="fa fa-twitter"></i>{{past.twitter}}</a>{% endif %}
+      {% if past.video_url != nil %}<a href="{{ past.video_url }}"><i class="fa fa-video-camera"></i> Event Videos</a>{% endif %}
   </li>
-
 {% endfor %}
 </ul>

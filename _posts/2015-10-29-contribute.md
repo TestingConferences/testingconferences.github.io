@@ -3,6 +3,7 @@ layout: post
 title:  "How to Contribute"
 date:   2015-10-29 09:35:00
 categories: news
+author: Chris Kenst
 ---
 Welcome to [TestingConferences.org](http://testingconferences.org), a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 

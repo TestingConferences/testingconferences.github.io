@@ -8,7 +8,9 @@ layout: default
       <li>
         <h2><a href="{{current.url}}">{{ current.name }}</a></h2>
         <p>
-          <i class="fa fa-calendar"></i> {{ current.dates }} <i class="fa fa-map-marker"></i> {{ current.location }} <i class="fa fa-twitter"></i> <a href="https://www.twitter.com/{{current.twitter}}">{{ current.twitter }}</a>
+          <i class="fa fa-calendar"></i> {{ current.dates }} <i class="fa fa-map-marker"></i> {{ current.location }}
+          {% if current.twitter != nil %}<a href="https://www.twitter.com/{{current.twitter}}"><i class="fa fa-twitter"></i>{{current.twitter}}</a>{% endif %}
+          {% if current.status != nil %}<i class="fa fa-bell"></i> {{current.status}}{% endif %}
       </li>
     {% endfor %}
   </ul>
