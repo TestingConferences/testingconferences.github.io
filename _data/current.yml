@@ -5,19 +5,6 @@
   twitter: ICST2017
   status: Registration is open
 
-- name: Swiss Testing Day 2017
-  location: Zurich, Switzerland
-  dates: "March 15, 2017"
-  url: http://swisstestingday.ch/
-  twitter: swisstesting
-  status: Registration is open
-
-- name: Global Testing Retreat (GTR) 2017
-  location: Pune, India
-  dates: "March 16-17, 2017"
-  url: http://gtr.agiletestingalliance.org/
-  status: CFP is open
-
 - name: TestBash Brighton (TestBash-by-the-Sea) 2017
   location: Brighton, England
   dates: "March 23-24, 2017"
