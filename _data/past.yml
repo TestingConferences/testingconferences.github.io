@@ -1,3 +1,9 @@
+- name: TestBash Brighton (TestBash-by-the-Sea) 2017
+  location: Brighton, England
+  dates: "March 23-24, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-brighton-2017
+  twitter: ministryoftest
+
 - name: 10th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2017
   location: Tokyo, Japan
   dates: "March 13-18, 2017"
