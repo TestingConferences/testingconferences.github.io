@@ -1,3 +1,16 @@
+- name: QAI QUEST 2017
+  location: Chicago, IL, USAf
+  dates: "April 3-7, 2017"
+  url: http://qaiquest.org/2017/
+  twitter: QAIquest
+
+- name: Selenium Conference (SeConf) 2017
+  location: Austin, Texas, USA
+  dates: "April 3-5, 2017"
+  url: http://seleniumconf.com/
+  twitter: seleniumconf
+  video_url: https://www.youtube.com/playlist?list=PLRdSclUtJDYXFVU37NEqh4KkT78BLqjcG
+
 - name: TestBash Brighton (TestBash-by-the-Sea) 2017
   location: Brighton, England
   dates: "March 23-24, 2017"
@@ -26,7 +39,7 @@
   dates: "March 13-17, 2017"
   url: http://softwaretestpro.bmeurl.co/67E71AB
   twitter: softwaretestpro
-  
+
 - name: UKSTAR 2017
   location: London, England
   dates: "February 27-28, 2017"
