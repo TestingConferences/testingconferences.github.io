@@ -218,19 +218,26 @@
   twitter: techwell
   status: CFP is open
 
-- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
-  location: Portland, Oregon, USA
-  dates: "October 9-11, 2017"
-  url: http://www.pnsqc.org/
-  twitter: PNSQC
-
 - name: TestBash Germany 2017
   location: Munich, Germany
   dates: "October 6, 2017"
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
   twitter: ministryoftest
   status: CFP is closed
+  
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2017"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
 
+- name: SeleniumConf Berlin 2017
+  location: Berlin, Germany
+  dates: "October 9-11, 2017"
+  url: http://seleniumconf.de/
+  twitter: seleniumconf
+  status: CFP is open
+  
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
   dates: "October 16-17, 2017"
