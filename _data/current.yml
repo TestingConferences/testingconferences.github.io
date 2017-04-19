@@ -238,6 +238,12 @@
   twitter: seleniumconf
   status: CFP is open
   
+- name: SDLForum Budapest 2017
+  location: Budapest, Hungary
+  dates: "October 9-11, 2017"
+  url: http://www.sdl2017.hte.hu
+  status: CFP is open
+  
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
   dates: "October 16-17, 2017"
