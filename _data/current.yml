@@ -1,10 +1,3 @@
-- name: Quality Jam 2017
-  location: Atlanta, Georgia, USA
-  dates: "April 18-19, 2017"
-  url: http://qualityjam.net/?utm_campaign=SoftwareTestingConference.org%20Quality%20Jam%202017&utm_medium=Listing&utm_source=Other
-  twitter: qasymphony
-  status: Registration is open
-
 - name: Mobile Dev + Test 2017
   location: San Deigo, CA USA
   dates: "April 24-28, 2017"
@@ -100,7 +93,7 @@
 - name: SauceCon 2017
   location: San Francisco, CA, USA
   dates: "June 6-8, 2017"
-  url: http://saucecon.wpengine.com/
+  url: http://saucecon.com/
   twitter: saucelabs
   status: Registration is open
 
