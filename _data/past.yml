@@ -1,3 +1,25 @@
+- name: TestCon Moscow 2017
+  location: Moscow, Russia
+  dates: "April 26-27, 2017"
+  url: http://testconf.ru/
+
+- name: 8th International TestIstanbul (2017)
+  location: Istanbul, Turkey
+  dates: "April 25, 2017"
+  url: https://testistanbul.org/
+
+- name: IoT Dev + Test 2017
+  location: San Deigo, CA USA
+  dates: "April 24-28, 2017"
+  url: https://iotdevtest.techwell.com/
+  twitter: TechWell
+
+- name: Mobile Dev + Test 2017
+  location: San Deigo, CA USA
+  dates: "April 24-28, 2017"
+  url: https://mobiledevtest.techwell.com/
+  twitter: TechWell
+
 - name: Quality Jam 2017
   location: Atlanta, Georgia, USA
   dates: "April 18-19, 2017"
@@ -7,7 +29,7 @@
 - name: Pakistan Software Quality Conference (PSQC) 2017
   location: Islamabad, Pakistan
   dates: "April 8, 2017"
-  url: http://pstb.pk/psqc/ 
+  url: http://pstb.pk/psqc/
 
 - name: QAI QUEST 2017
   location: Chicago, IL, USAf
