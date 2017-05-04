@@ -140,7 +140,7 @@
 - name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2017
   location: Prague, Czech Republic
   dates: "July 25-29, 2017"
-  url: http://paris.utdallas.edu/cta17/
+-  url: http://paris.utdallas.edu/cta17/
   status: CFP is open
 
 - name: Conference for the Association for Software Testing (CAST) 2017
@@ -150,7 +150,7 @@
   twitter: AST_News
   status: CFP is closed
 
-- name: ASTQB Summit 2017
+4- name: ASTQB Summit 2017
   location: Irvine, CA, USA
   dates: "September 15, 2017"
   url: https://www.astqb.org/certified-tester-resources/astqb-software-testing-conference/
@@ -185,7 +185,13 @@
   twitter: techwell
   status: CFP is open
 
-- name: TestBash Germany 2017
+- name: Quest for Quality 2017
+  location: Dublin, Ireland
+  dates: "October 4-5, 2017"
+  url: http://questforquality.eu/
+  twitter: Quest_4_Quality
+  
+  - name: TestBash Germany 2017
   location: Munich, Germany
   dates: "October 6, 2017"
   url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
