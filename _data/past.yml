@@ -1,3 +1,9 @@
+- name: 2nd Annual Test Leadership Congress
+  location: New York, NY, USA
+  dates: "May 1-3rd, 2017"
+  url: http://testleadershipcongress-ny.com/
+  twitter: QA_nna
+
 - name: TestCon Moscow 2017
   location: Moscow, Russia
   dates: "April 26-27, 2017"
