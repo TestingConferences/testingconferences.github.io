@@ -1,3 +1,21 @@
+- name: Romanian Testing Conference 2017
+  location: Cluj-Napoca, Romania
+  dates: "May 10-12, 2017"
+  url: http://romaniatesting.ro/
+  twitter: romaniatesting
+
+- name: Quality Software Australia (QSA) 2017
+  location: Melbourne, Australia
+  dates: "May 10-12, 2017"
+  url: http://qualitysoftware.com.au/
+  twitter: AussieTesters
+
+- name: STAREAST 2017
+  location: Orlando, FL, USA
+  dates: "May 7-12, 2017"
+  url: http://stareast.techwell.com/
+  twitter: techwell
+
 - name: 2nd Annual Test Leadership Congress
   location: New York, NY, USA
   dates: "May 1-3rd, 2017"
