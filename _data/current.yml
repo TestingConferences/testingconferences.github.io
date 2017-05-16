@@ -73,6 +73,13 @@
   url: http://cfp.testingcup.com/register_speaker
   twitter: TestingCup
   status: CFP is open
+  
+  - name: Spring OnlineTestConf
+  location: worldwide (online conference)
+  dates: "June 13-14, 2017"
+  url: http://www.onlinetestconf.com/
+  twitter: OnlineTestConf
+  status: CFP is open, Registration is open
 
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 4
   location: Cambridge, UK
