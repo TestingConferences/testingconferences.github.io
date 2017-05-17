@@ -1,17 +1,3 @@
-- name: Let's Test 2017
-  location: Runö, Sweden
-  dates: "May 15-16, 2017"
-  url: http://lets-test.com/
-  twitter: LetsTest_Conf
-  status: Registration is open
-
-- name: TestingUy 2017
-  location: Montevideo, Uruguay
-  dates: "May 15-16, 2017"
-  url: http://testinguy.org/en/
-  twitter: testingUY
-  status: Registration is open
-
 - name: TinyTestBash Belfast 2017
   location: Belfast, Northern Ireland
   dates: "May 18, 2017"
