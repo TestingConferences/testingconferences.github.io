@@ -68,9 +68,9 @@
 - name: expo:QA 17
   location: Madrid, Spain
   dates: "June 13-15, 2017"
-  url: http://www.expoqa.com/expoqa17/es.html
+  url: http://www.expoqa.com/
   twitter: expoqa
-  status: CFP is closed
+  status: Registration is open
 
 - name: German Testing Day 2017
   location: Frankfurt, Germany
