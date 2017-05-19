@@ -127,16 +127,16 @@
 - name: WeTest Wellington 2017
   location: Wellington, NZ
   dates: "September 18, 2017"
-  url: http://www.wetest.co.nz/
+  url: http://www.wetest.co.nz/wetest-2017/
   twitter: WeTestNZ
-  status: CFP is open
+  status: Registration is open
 
 - name: WeTest Auckland 2017
   location: Auckland, NZ
   dates: "September 20, 2017"
-  url: http://www.wetest.co.nz/
+  url: http://www.wetest.co.nz/wetest-2017/
   twitter: WeTestNZ
-  status: CFP is open
+  status: Registration is open
 
 - name: CopenhagenContext 2017
   location: Copenhagen, Denmark
