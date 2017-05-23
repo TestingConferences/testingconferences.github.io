@@ -1,9 +1,13 @@
+- name: The 12th IEEE/ACM International Workshop on Automation of Software Test (AST 2017)
+  location: Buenos Aires, Argentina
+  dates: "May 20-21, 2017"
+  url: http://tech.brookes.ac.uk/AST2017/
+
 - name: TinyTestBash Belfast 2017
   location: Belfast, Northern Ireland
   dates: "May 18, 2017"
   url: http://www.ministryoftesting.com/2016/11/tinytestbash-belfast/
   twitter: ministryoftest
-  status: Registration is open
 
 - name: TestingUy 2017
   location: Montevideo, Uruguay
