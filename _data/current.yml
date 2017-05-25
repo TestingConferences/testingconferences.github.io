@@ -3,24 +3,12 @@
   dates: "May 20-28, 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
 
-- name: National Software Testing Conference 2017
-  location: London, England
-  dates: "May 22-23, 2017"
-  url: http://www.softwaretestingconference.com/
-  twitter: testmagazine
-
-- name: London Tester Tester Tutorials 2017
-  location: London, England
-  dates: "May 25-26, 2017"
-  url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2017
-  status: Registration is open
-  
 - name: Heisenbug 2017 Piter
   location: Saint Petersburg, Russia
   dates: "June 4, 2017"
   url: https://heisenbug-piter.ru/en/
   twitter: HeisenbugConf
-  status: Registration is open 
+  status: Registration is open
 
 - name: SoCraTes Italy 2017
   location: Rimini, Italy
@@ -163,15 +151,16 @@
 - name: TestBash Germany 2017
   location: Munich, Germany
   dates: "October 6, 2017"
-  url: http://www.ministryoftesting.com/2016/12/testbash-coming-germany/
+  url: https://dojo.ministryoftesting.com/events/testbash-germany-2017
   twitter: ministryoftest
-  status: CFP is closed
+  status: Registration is open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2017
   location: Portland, Oregon, USA
   dates: "October 9-11, 2017"
   url: http://www.pnsqc.org/
   twitter: PNSQC
+  status: CFP is closed
 
 - name: SeleniumConf Berlin 2017
   location: Berlin, Germany
@@ -184,28 +173,28 @@
   location: Vienna, Austria
   dates: "October 16-17, 2017"
   url: https://www.tricentis.com/accelerate2017/
-  status: CFP is open
+  status: Registration is open
   twitter: Tricentis
 
 - name: TestBash Manchester 2017
   location: Manchester, UK
   dates: "October 26-27, 2017"
-  url: https://www.ministryoftesting.com/2017/02/testbash-is-returning-to-manchester/
-  status: CFP is closed
+  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
   twitter: ministryoftest
+  status: Registration is open
 
 - name: EuroSTAR 2017
   location: Copenhagen, Denmark
   dates: "November 6, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
-  status: CFP is closed
+  status: Registration is open
 
 - name: TestBash Philadelphia 2017
   location: Philadelphia, USA
   dates: "November 9-10, 2017"
-  url: https://www.ministryoftesting.com/2017/02/testbash-is-returning-to-philadelphia/
-  status: CFP is open
+  url: https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
   twitter: ministryoftest
+  status: Registration is open
 
 - name: Hungarian Software Testing Forum (HUSTEF) 2017
   location: Budapest, Hungary
@@ -226,4 +215,10 @@
   dates: "November 26–28, 2017"
   url: http://lets-test.com/?page_id=5304
   twitter: LetsTest_Conf
+  status: Registration is open
+
+- name: London Tester Tutorials 2018
+  location: London, England
+  dates: "January 29-31, 2018"
+  url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2018
   status: Registration is open
