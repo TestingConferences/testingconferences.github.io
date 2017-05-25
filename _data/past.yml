@@ -1,3 +1,9 @@
+- name: National Software Testing Conference 2017
+  location: London, England
+  dates: "May 22-23, 2017"
+  url: http://www.softwaretestingconference.com/
+  twitter: testmagazine
+
 - name: The 12th IEEE/ACM International Workshop on Automation of Software Test (AST 2017)
   location: Buenos Aires, Argentina
   dates: "May 20-21, 2017"
