@@ -2,6 +2,12 @@
   location: Buenos Aires, Argentina
   dates: "May 20-28, 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
+  
+  name: Testing Stage'17 (TS) 2017
+  location: Kiev, Ukraine
+  dates: "June 2-3, 2017"
+  url: https://testingstage.com/
+  status: Registration is open
 
 - name: Heisenbug 2017 Piter
   location: Saint Petersburg, Russia
