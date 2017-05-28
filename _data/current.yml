@@ -1,9 +1,4 @@
-- name: Workshop on Search-Based Software Testing (SBST) 2017
-  location: Buenos Aires, Argentina
-  dates: "May 20-28, 2017"
-  url: http://sbst2017.lafhis.dc.uba.ar/
-  
-  name: Testing Stage'17 (TS) 2017
+- name: Testing Stage'17 (TS) 2017
   location: Kiev, Ukraine
   dates: "June 2-3, 2017"
   url: https://testingstage.com/
