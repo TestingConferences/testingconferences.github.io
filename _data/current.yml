@@ -170,12 +170,12 @@
   twitter: PNSQC
   status: CFP is closed
 
-- name: SeleniumConf Berlin 2017
+- name: SeleniumConf (SeConf) Berlin 2017
   location: Berlin, Germany
   dates: "October 9-11, 2017"
   url: http://seleniumconf.de/
   twitter: seleniumconf
-  status: CFP is open
+  status: CFP is open until June 2nd
 
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
