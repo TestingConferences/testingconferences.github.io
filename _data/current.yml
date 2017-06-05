@@ -170,6 +170,12 @@
   twitter: PNSQC
   status: CFP is closed
 
+- name: Test Dive Conference 2017
+  location: Kraków, Poland
+  dates: "October 24, 2017"
+  url: http://www.testdive.pl/
+  status: CFP is open
+  
 - name: SeleniumConf (SeConf) Berlin 2017
   location: Berlin, Germany
   dates: "October 9-11, 2017"
