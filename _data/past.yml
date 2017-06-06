@@ -1,3 +1,14 @@
+- name: Heisenbug 2017 Piter
+  location: Saint Petersburg, Russia
+  dates: "June 4, 2017"
+  url: https://heisenbug-piter.ru/en/
+  twitter: HeisenbugConf
+
+- name: Testing Stage'17 (TS) 2017
+  location: Kiev, Ukraine
+  dates: "June 2-3, 2017"
+  url: https://testingstage.com/
+
 - name: National Software Testing Conference 2017
   location: London, England
   dates: "May 22-23, 2017"
