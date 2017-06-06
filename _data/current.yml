@@ -125,7 +125,7 @@
 - name: Targeting Quality (KWSQA) 2017
   location: Kitchener, ON Canada
   dates: "September 25-26, 2017"
-  url: http://kwsqa.org/conference/
+  url: http://kwsqa.org/conference/registration/
   twitter: KWSQA
   status: Registration is open
 
@@ -217,3 +217,10 @@
   dates: "January 29-31, 2018"
   url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2018
   status: Registration is open
+
+- name: Conference for the Association for Software Testing (CASTx) 18
+  location: Melbourne, Australia
+  dates: "Early 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/64851-2/castx18-program-committee/
+  twitter: AST_News
+  status: TBA
