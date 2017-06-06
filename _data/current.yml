@@ -170,7 +170,13 @@
   url: https://www.tricentis.com/accelerate2017/
   status: Registration is open
   twitter: Tricentis
-
+  
+- name: Test Dive Conference 2017
+  location: Kraków, Poland
+  dates: "October 24, 2017"
+  url: http://www.testdive.pl/
+  status: CFP is open
+  
 - name: TestBash Manchester 2017
   location: Manchester, UK
   dates: "October 26-27, 2017"
