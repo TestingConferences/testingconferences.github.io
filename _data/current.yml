@@ -1,14 +1,3 @@
-- name: SoCraTes Italy 2017
-  location: Rimini, Italy
-  dates: "May 25-27, 2016"
-  url: http://www.socrates-conference.it/
-
-- name: SQA Days - 21
-  location: Moscow, Russia
-  dates: "May 26-27, 2017"
-  url: http://sqadays.com/en/index
-  twitter: sqadays
-
 - name: SauceCon 2017
   location: San Francisco, CA, USA
   dates: "June 6-8, 2017"
@@ -162,7 +151,7 @@
   dates: "October 9-11, 2017"
   url: http://seleniumconf.de/
   twitter: seleniumconf
-  status: CFP is open until June 2nd
+  status: Registration is open
 
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
@@ -170,13 +159,13 @@
   url: https://www.tricentis.com/accelerate2017/
   status: Registration is open
   twitter: Tricentis
-  
+
 - name: Test Dive Conference 2017
   location: Kraków, Poland
   dates: "October 24, 2017"
   url: http://www.testdive.pl/
   status: CFP is open
-  
+
 - name: TestBash Manchester 2017
   location: Manchester, UK
   dates: "October 26-27, 2017"
