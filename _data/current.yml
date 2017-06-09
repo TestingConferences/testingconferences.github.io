@@ -65,6 +65,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Selenium Committer Day 2017
+  location: Chiyoda-ku, TOKYO, JAPAN
+  dates: "July 1, 2017"
+  url: https://seleniumjp.connpass.com/event/55364/
+  twitter: seleniumjp
+
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2017
   location: Santa Barbara, CA, USA
   dates: "July 10–14, 2017"
