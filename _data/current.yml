@@ -1,16 +1,3 @@
-- name: Nordic Testing Days (NTD) 2017
-  location: Tallinn, Estonia
-  dates: "June 7-9, 2017"
-  url: http://nordictestingdays.eu/
-  twitter: nordictestdays
-  status: Registration is open
-
-- name: Testing Cup 2017
-  location: Gdańsk, Poland
-  dates: "June 8-9, 2017"
-  url: http://cfp.testingcup.com/register_speaker
-  twitter: TestingCup
-
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 4
   location: Cambridge, UK
   dates: "June 11, 2017"
