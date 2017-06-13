@@ -1,15 +1,9 @@
-- name: Cambridge Exploratory Workshop on Testing (CEWT) 4
-  location: Cambridge, UK
-  dates: "June 11, 2017"
-  url: http://cewtblog.blogspot.co.uk/2017/03/cewt-4-is-coming.html
-  twitter: qahiccups
-
 - name: Spring Online Testing Conference (OTC) 2017
   location: worldwide
   dates: "June 13-14, 2017"
   url: http://onlinetestconf.com
   twitter: OnlineTestConf
-  status: CFP is closed
+  status: Registration is open
 
 - name: expo:QA 17
   location: Madrid, Spain
@@ -38,6 +32,13 @@
   twitter: ckcseminars
   status: Registration is open
 
+- name: Quality Excites 2017
+  location: Gliwice, Poland
+  dates: "June 23-24, 2017"
+  url: https://qualityexcites.pl/en/
+  twitter: QualityExcites
+  status: Registration is open
+
 - name: London Tester Gathering Workshops
   location: London, England
   dates: "June 29-30, 2017"
@@ -50,6 +51,11 @@
   dates: "July 1, 2017"
   url: https://seleniumjp.connpass.com/event/55364/
   twitter: seleniumjp
+
+- name: Next Generation Testing 2017
+  location: London, England
+  dates: "July 5-6, 2017"
+  url: http://conferences.unicom.co.uk/next-generation-testing/2017/
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2017
   location: Santa Barbara, CA, USA
@@ -139,12 +145,19 @@
   twitter: seleniumconf
   status: Registration is open
 
+- name: STARCanada 2017
+  location: Toronto, Canada
+  dates: "October 15-20, 2017"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+  status: Registration is open
+
 - name: Tricentis Accelerate 2017
   location: Vienna, Austria
   dates: "October 16-17, 2017"
   url: https://www.tricentis.com/accelerate2017/
-  status: Registration is open
   twitter: Tricentis
+  status: Registration is open
 
 - name: Test Dive Conference 2017
   location: Kraków, Poland
@@ -163,6 +176,7 @@
   location: Copenhagen, Denmark
   dates: "November 6, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
+  twitter: techwell
   status: Registration is open
 
 - name: TestBash Philadelphia 2017
