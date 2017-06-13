@@ -3,7 +3,7 @@
   dates: "June 13-14, 2017"
   url: http://onlinetestconf.com
   twitter: OnlineTestConf
-  status: Registration is open
+  status: In Progress
 
 - name: expo:QA 17
   location: Madrid, Spain
@@ -23,6 +23,7 @@
   dates: "June 19-20, 2017"
   url: http://germantestingday.info/
   twitter: GermanTesting
+  status: Registration is open
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
@@ -49,6 +50,7 @@
   location: Tel-Aviv, Israel
   dates: "June 25-26, 2017"
   url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
+  status: Registration is open
 
 - name: London Tester Gathering Workshops 2017
   location: London, England
@@ -84,7 +86,7 @@
   dates: "August 16-18, 2017"
   url: https://www.associationforsoftwaretesting.org/conference/cast-2017/
   twitter: AST_News
-  status: CFP is closed
+  status: Registration is open
 
 - name: ASTQB Summit 2017
   location: Irvine, CA, USA
