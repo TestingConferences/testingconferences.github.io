@@ -227,6 +227,12 @@
   twitter: LetsTest_Conf
   status: Registration is open
 
+- name: ConTEST NYC 2017
+  location: New York, NY, USA
+  dates: "November 29-December 1 2017"
+  url: http://testmastersacademy.org/?p=33
+  twitter: QA_nna
+
 - name: London Tester Tutorials 2018
   location: London, England
   dates: "January 29-31, 2018"
