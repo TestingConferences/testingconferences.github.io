@@ -12,6 +12,12 @@
   twitter: expoqa
   status: Registration is open
 
+- name: QAGeekWeek 2017
+  location: Herzliya, Israel
+  dates: "June 18-22, 2017"
+  url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
+  status: Registration is open
+
 - name: German Testing Day 2017
   location: Frankfurt, Germany
   dates: "June 19-20, 2017"
@@ -38,6 +44,11 @@
   url: https://qualityexcites.pl/en/
   twitter: QualityExcites
   status: Registration is open
+
+- name: QAGeekWeek Workshops 2017
+  location: Tel-Aviv, Israel
+  dates: "June 25-26, 2017"
+  url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
 
 - name: London Tester Gathering Workshops
   location: London, England
@@ -163,6 +174,13 @@
   location: Kraków, Poland
   dates: "October 24, 2017"
   url: http://www.testdive.pl/
+  status: CFP is open
+
+- name: Belgium Testing Day (BTD) 2017
+  location: Brussels, Belgium
+  dates: "October 25, 2017"
+  url: http://btdconf.com/
+  twitter: btdconf
   status: CFP is open
 
 - name: TestBash Manchester 2017
