@@ -342,6 +342,11 @@
   dates: "October 20th, 2016"
   url: http://www.wetest.co.nz/
 
+- name: Argentesting 2016
+  location: Buenos Aires, Argentina
+  dates: "October 18th, 2016"
+  url: http://argentesting.com/ediciones/edicion-2016/
+
 - name: QA&Test 2016
   location: Bilbao, Spain
   dates: "October 18-21, 2016"
