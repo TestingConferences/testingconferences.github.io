@@ -1,3 +1,9 @@
+- name: Spring Online Testing Conference (OTC) 2017
+  location: worldwide
+  dates: "June 13-14, 2017"
+  url: http://onlinetestconf.com
+  twitter: OnlineTestConf
+
 - name: Cambridge Exploratory Workshop on Testing (CEWT) 4
   location: Cambridge, UK
   dates: "June 11, 2017"
