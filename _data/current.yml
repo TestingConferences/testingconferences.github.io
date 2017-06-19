@@ -1,10 +1,3 @@
-- name: expo:QA 17
-  location: Madrid, Spain
-  dates: "June 13-15, 2017"
-  url: http://www.expoqa.com/
-  twitter: expoqa
-  status: Registration is open
-
 - name: QAGeekWeek 2017
   location: Herzliya, Israel
   dates: "June 18-22, 2017"
