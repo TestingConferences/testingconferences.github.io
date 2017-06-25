@@ -1,10 +1,3 @@
-- name: German Testing Day 2017
-  location: Frankfurt, Germany
-  dates: "June 19-20, 2017"
-  url: http://germantestingday.info/
-  twitter: GermanTesting
-  status: Registration is open
-
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
   dates: "June 19-21, 2017"
