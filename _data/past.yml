@@ -1,3 +1,9 @@
+- name: German Testing Day 2017
+  location: Frankfurt, Germany
+  dates: "June 19-20, 2017"
+  url: http://germantestingday.info/
+  twitter: GermanTesting
+
 - name: QAGeekWeek 2017
   location: Herzliya, Israel
   dates: "June 18-22, 2017"
