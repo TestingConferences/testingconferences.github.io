@@ -145,6 +145,12 @@
   twitter: Tricentis
   status: Registration is open
 
+- name: TestCon Vilnius 2017
+  location: Vilnius, Lithuania
+  dates: "October 18-20, 2017"
+  url: http://www.testcon.lt/
+  status: Registration is open
+
 - name: Argentesting 2017
   location: Buenos Aires, Argentina
   dates: "October 23-24, 2017"
@@ -226,7 +232,7 @@
   url: https://www.associationforsoftwaretesting.org/conference/64851-2/castx18-program-committee/
   twitter: AST_News
   status: TBA
-  
+
 - name: UKSTAR Software Testing Conference 2018
   location: London, England
   dates: "March 12-13, 2018"
