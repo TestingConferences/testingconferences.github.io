@@ -1,3 +1,21 @@
+- name: Quality Excites 2017
+  location: Gliwice, Poland
+  dates: "June 23-24, 2017"
+  url: https://qualityexcites.pl/en/
+  twitter: QualityExcites
+
+- name: Test Automation Day 2017
+  location: Rotterdam, the Netherlands
+  dates: "June 22, 2017"
+  url: http://www.testautomationday.com/
+  twitter: ckcseminars
+
+- name: US Agile Testing Days (ATD) 2017
+  location: Boston, MA, USA
+  dates: "June 19-21, 2017"
+  url: http://agiletestingdays.us/
+  twitter: Agile_USA
+
 - name: German Testing Day 2017
   location: Frankfurt, Germany
   dates: "June 19-20, 2017"
