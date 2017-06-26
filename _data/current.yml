@@ -172,11 +172,11 @@
   twitter: ministryoftest
   status: Registration is open
 
-- name: EuroSTAR 2017
+- name: EuroSTAR Software Testing Conference 2017
   location: Copenhagen, Denmark
-  dates: "November 6, 2017"
+  dates: "November 6-9, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
-  twitter: techwell
+  twitter: esconfs
   status: Registration is open
 
 - name: TestBash Philadelphia 2017
@@ -226,3 +226,10 @@
   url: https://www.associationforsoftwaretesting.org/conference/64851-2/castx18-program-committee/
   twitter: AST_News
   status: TBA
+  
+- name: UKSTAR Software Testing Conference 2018
+  location: London, England
+  dates: "March 12-13, 2018"
+  url: https://ukstar.eurostarsoftwaretesting.com/
+  twitter: ukstarconfs
+  status: CFP Open
