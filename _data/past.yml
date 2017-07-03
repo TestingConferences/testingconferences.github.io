@@ -1,3 +1,20 @@
+- name: Selenium Committer Day 2017
+  location: Chiyoda-ku, TOKYO, JAPAN
+  dates: "July 1, 2017"
+  url: https://seleniumjp.connpass.com/event/55364/
+  twitter: seleniumjp
+
+- name: London Tester Gathering Workshops 2017
+  location: London, England
+  dates: "June 29-30, 2017"
+  url: https://dojo.ministryoftesting.com/events/london-tester-gathering-workshops
+  twitter: ministryoftest
+
+- name: QAGeekWeek Workshops 2017
+  location: Tel-Aviv, Israel
+  dates: "June 25-26, 2017"
+  url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
+
 - name: Quality Excites 2017
   location: Gliwice, Poland
   dates: "June 23-24, 2017"
