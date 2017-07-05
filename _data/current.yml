@@ -187,6 +187,13 @@
   url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2018
   status: Registration is open
 
+- name: European Testing Conference 2018
+  location: Amsterdam, Netherlands
+  dates: "February 19-20, 2018"
+  url: http://europeantestingconference.eu/2018/
+  twitter: EuroTestingConf
+  status: CFP is open
+
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
   dates: "Early 2018"
