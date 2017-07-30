@@ -186,3 +186,10 @@
   url: http://copenhagencontext.com/
   twitter: CPHcontext
   status: CFP is open
+
+- name: TConf 2017
+  location: Melbourne, Australia
+  dates: "December 08, 2017"
+  url: https://tconf.io/
+  twitter: tconfmelbourne
+  status: Registration is open
