@@ -220,6 +220,20 @@
   twitter: ministryoftest
   status: CFP Open
 
+- name: TestBash Netherlands 2018
+  location: Utrecht, Netherlands
+  dates: "April 12-13, 2018"
+  url: https://www.ministryoftesting.com/2017/07/testbash-netherlands-2018/
+  twitter: ministryoftest
+  status: CFP Open
+
+- name: TestBash Dublin 2018
+  location: Dublin, Ireland
+  dates: "May 18, 2018"
+  url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
+  twitter: ministryoftest
+  status: CFP Open
+
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
   dates: "Early 2018"
