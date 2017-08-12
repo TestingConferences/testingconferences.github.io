@@ -206,6 +206,13 @@
   twitter: EuroTestingConf
   status: CFP is open
 
+- name: Conference for the Association for Software Testing (CASTx) 18
+  location: Melbourne, Australia
+  dates: "February 28 - March 1, 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/castx18/
+  twitter: AST_News
+  status: Registration is open
+
 - name: UKSTAR Software Testing Conference 2018
   location: London, England
   dates: "March 12-13, 2018"
@@ -233,10 +240,3 @@
   url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
   twitter: ministryoftest
   status: CFP Open
-
-- name: Conference for the Association for Software Testing (CASTx) 18
-  location: Melbourne, Australia
-  dates: "Early 2018"
-  url: https://www.associationforsoftwaretesting.org/conference/64851-2/castx18-program-committee/
-  twitter: AST_News
-  status: TBA
