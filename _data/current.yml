@@ -198,6 +198,13 @@
   twitter: TestMastersAcad
   status: CFP is open
 
+- name: TConf 2017
+  location: Melbourne, Australia
+  dates: "December 8, 2017"
+  url: https://tconf.io/
+  twitter: tconfmelbourne
+  status: Registration is open
+
 - name: Heisenbug Moscow 2017
   location: Moscow, Russia
   dates: "December 8-9, 2017"
@@ -224,13 +231,6 @@
   url: https://ukstar.eurostarsoftwaretesting.com/
   twitter: ukstarconfs
   status: CFP Open
-
-- name: TConf 2017
-  location: Melbourne, Australia
-  dates: "December 08, 2017"
-  url: https://tconf.io/
-  twitter: tconfmelbourne
-  status: Registration is open
 
 - name: TestBash Brighton 2018
   location: Brighton, England
