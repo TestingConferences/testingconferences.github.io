@@ -88,7 +88,14 @@
   url: http://seleniumconf.de/
   twitter: seleniumconf
   status: Registration is open
-
+    
+- name: Quality Jam London 2017
+  location: London, England
+  dates: "October 11, 2017"
+  url: http://qualityjam.net/uk/?utm_source=Other&utm_medium=Listing&utm_campaign=TestingConferences.org%20Quality%20Jam%20London%202017
+  twitter: qasymphony
+  status: Registration is open
+  
 - name: STARCanada 2017
   location: Toronto, Canada
   dates: "October 15-20, 2017"
