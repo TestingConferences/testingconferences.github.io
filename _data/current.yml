@@ -1,27 +1,9 @@
-- name: Conference for the Association for Software Testing (CAST) 2017
-  location: Nashville, TN, USA
-  dates: "August 16-18, 2017"
-  url: https://www.associationforsoftwaretesting.org/conference/cast-2017/
-  twitter: AST_News
-  status: Registration is open
-
-- name: Agile Testing, Test Automation & BDD
-  location: San Francisco, CA, USA
-  dates: "August, 24, 2017"
-  url: https://www.testingmind.com/event/agile-testing-test-automation-bdd-san-francisco/
-  status: Registration is open
-
 - name: SoCraTes 2017
   location: Soltau, Germany
   dates: "August 24-27, 2017"
   url: https://www.socrates-conference.de/
   twitter: SoCraTes_Conf
   status: Registration is open
-
-- name: 8th A-Test 2017 Workshop
-  location: Paderborn, Germany
-  dates: "September 4-5, 2017"
-  url: https://a-test.org/
 
 - name: ASTQB Summit 2017
   location: Irvine, CA, USA
@@ -91,20 +73,13 @@
   dates: "October 9-11, 2017"
   url: http://www.pnsqc.org/
   twitter: PNSQC
-  status: Registration is open
+  status: CFP is closed
 
 - name: SeleniumConf (SeConf) Berlin 2017
   location: Berlin, Germany
   dates: "October 9-11, 2017"
   url: http://seleniumconf.de/
   twitter: seleniumconf
-  status: Registration is open
-
-- name: Quality Jam London 2017
-  location: London, England
-  dates: "October 11, 2017"
-  url: http://qualityjam.net/uk/?utm_source=Other&utm_medium=Listing&utm_campaign=TestingConferences.org%20Quality%20Jam%20London%202017
-  twitter: qasymphony
   status: Registration is open
 
 - name: STARCanada 2017
@@ -203,19 +178,6 @@
   url: http://testmastersacademy.org/?p=33
   twitter: TestMastersAcad
   status: CFP is open
-
-- name: STC 2017
-  location: Bangalore, India
-  dates: "December 7-8, 2017"
-  url: http://qaistc.com/2017/
-  twitter: QAISTC
-
-- name: TConf 2017
-  location: Melbourne, Australia
-  dates: "December 8, 2017"
-  url: https://tconf.io/
-  twitter: tconfmelbourne
-  status: Registration is open
 
 - name: Heisenbug Moscow 2017
   location: Moscow, Russia

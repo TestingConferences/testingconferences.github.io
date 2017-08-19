@@ -1,3 +1,9 @@
+- name: Conference for the Association for Software Testing (CAST) 2017
+  location: Nashville, TN, USA
+  dates: "August 16-18, 2017"
+  url: https://www.associationforsoftwaretesting.org/conference/cast-2017/
+  twitter: AST_News
+
 - name: Perfguild 2017
   location: Online
   dates: "July 31 - August 2, 2017"
@@ -65,11 +71,6 @@
   location: Herzliya, Israel
   dates: "June 18-22, 2017"
   url: http://devgeekweek.jbh.co.il/learning-track/qa-geekweek/
-
-- name: 6th Agile Testing Conference
-  location: Delhi, India
-  dates: "June 16, 2017"
-  url: http://www.agileglobalevent.com/conference/agile-testing/agile-testing-conference-delhi
 
 - name: expo:QA 17
   location: Madrid, Spain
@@ -267,12 +268,6 @@
   url: http://softwaretestpro.bmeurl.co/67E71AB
   twitter: softwaretestpro
 
-- name: Agile Testing Days Asia 2017
-  location: Bengaluru, India
-  dates: "March 1-3, 2017"
-  url: http://agiletestingdays.asia/
-  twitter: stepin_forum
-
 - name: UKSTAR 2017
   location: London, England
   dates: "February 27-28, 2017"
@@ -283,12 +278,14 @@
   dates: "February 24-25, 2017"
   url: http://seleniumcamp.com/
   twitter: seleniumcamp
+  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CASTx) 17
   location: Sydney, Australia
   dates: "February 20-21, 2017"
   url: https://www.associationforsoftwaretesting.org/conference/castx17/packages-and-pricing/
   twitter: AST_News
+  status: Registration is open
 
 - name: Workshop on Performance and Reliability (WOPR) 25
   location: Wellington, New Zealand
@@ -307,6 +304,7 @@
   dates: "February 7, 2017"
   url: https://qaorthehighway.com/
   twitter: QAortheHighway
+  status: Registration is open
 
 - name: Dutch Exploratory Workshop on Testing (DEWT) 7
   location: Driebergen, the Netherlands
