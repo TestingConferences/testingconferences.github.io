@@ -172,6 +172,13 @@
   twitter: LetsTest_Conf
   status: Registration is open
 
+- name: Fall OnlineTestConf 17
+  location: worldwide
+  dates: "November 28-29, 2017"
+  url: http://onlinetestconf.com
+  twitter: OnlineTestConf
+  status: CFP is open
+
 - name: ConTEST NYC 2017
   location: New York, NY, USA
   dates: "November 29-December 1 2017"
