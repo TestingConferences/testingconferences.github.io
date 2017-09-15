@@ -111,9 +111,9 @@
 - name: Argentesting 2017
   location: Buenos Aires, Argentina
   dates: "October 23-24, 2017"
-  url: http://argentesting.com/
+  url: https://argentesting.com/
   twitter: argentesting
-  status: CFP is open
+  status: CFP is closed
 
 - name: Test Dive Conference 2017
   location: Kraków, Poland
