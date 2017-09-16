@@ -58,7 +58,7 @@
   dates: "October 4-5 2017"
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
-  status: CFP is open
+  status: Registration is open
   
 - name: Luxembourg Software Testing Event 2017
   location: Luxembourg-city, Luxembourg
@@ -106,6 +106,13 @@
   location: Vilnius, Lithuania
   dates: "October 18-20, 2017"
   url: http://www.testcon.lt/
+  status: Registration is open
+  
+- name: SoftTest 2017
+  location: Dublin, Ireland
+  dates: "October 19, 2017"
+  url: http://www.softwareskillnet.ie/events/81/softtest-conference-2017-smart-testing-in-technology-driven-world/
+  twitter: SoftTestIreland
   status: Registration is open
 
 - name: Argentesting 2017
@@ -224,7 +231,7 @@
   dates: "March 12-13, 2018"
   url: https://ukstar.eurostarsoftwaretesting.com/
   twitter: ukstarconfs
-  status: CFP Open
+  status: CFP is Closed
 
 - name: TestBash Brighton 2018
   location: Brighton, England
