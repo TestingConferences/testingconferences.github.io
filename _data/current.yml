@@ -59,7 +59,7 @@
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
   status: Registration is open
-  
+
 - name: Luxembourg Software Testing Event 2017
   location: Luxembourg-city, Luxembourg
   dates: "October 5, 2017"
@@ -88,6 +88,13 @@
   twitter: seleniumconf
   status: Registration is open
 
+- name: Quality Jam London 2017
+  location: London, UK
+  dates: "October 11, 2017"
+  url: http://qualityjam.net/uk/
+  twitter: qasymphony
+  status: Registration is open
+
 - name: STARCanada 2017
   location: Toronto, Canada
   dates: "October 15-20, 2017"
@@ -107,7 +114,7 @@
   dates: "October 18-20, 2017"
   url: http://www.testcon.lt/
   status: Registration is open
-  
+
 - name: SoftTest 2017
   location: Dublin, Ireland
   dates: "October 19, 2017"
@@ -239,6 +246,13 @@
   url: https://www.ministryoftesting.com/2017/06/testbash-brighton-2018-come/
   twitter: ministryoftest
   status: CFP Open
+
+- name: Quality Jam ATL 2018
+  location: Atlanta, Georgia, USA
+  dates: "April 10-11, 2018"
+  url: http://qualityjam.net/atlanta/
+  twitter: qasymphony
+  status: Registration is open
 
 - name: TestBash Netherlands 2018
   location: Utrecht, Netherlands
