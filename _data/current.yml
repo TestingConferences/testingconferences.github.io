@@ -213,6 +213,13 @@
   twitter: AST_News
   status: Registration is open
 
+- name: SauceCon 2018
+  location: San Francisco, CA, USA
+  dates: "March 1-2, 2018"
+  url: http://saucecon.com/
+  twitter: saucelabs
+  status: CFP open until October 17th, 2017
+
 - name: UKSTAR Software Testing Conference 2018
   location: London, England
   dates: "March 12-13, 2018"
