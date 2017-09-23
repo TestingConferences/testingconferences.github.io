@@ -218,7 +218,14 @@
   dates: "March 15-16, 2018"
   url: https://www.ministryoftesting.com/2017/06/testbash-brighton-2018-come/
   twitter: ministryoftest
-  status: CFP Open
+  status: CFP is open
+
+- name: STPCon Spring 2018
+  location: Newport Beach, CA
+  dates: "April 9-12, 2018"
+  url: http://www.stpcon.com/submit/
+  twitter: softwaretestpro
+  status: CFP is open
 
 - name: Quality Jam ATL 2018
   location: Atlanta, Georgia, USA
