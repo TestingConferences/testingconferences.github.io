@@ -185,6 +185,13 @@
   twitter: EuroTestingConf
   status: Registration is open
 
+- name: QA or the Highway 2018
+  location: Columbus, OH, USA
+  dates: "February 27, 2018"
+  url: https://qaorthehighway.com/call-for-speakers/
+  twitter: QAortheHighway
+  status: CFP open until October 15th
+
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
   dates: "February 28 - March 1, 2018"
