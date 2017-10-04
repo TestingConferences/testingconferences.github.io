@@ -165,6 +165,13 @@
   twitter: HeisenbugConf
   status: CFP is open
 
+- name: Automation Guild Online Conference 2018
+  location: Online
+  dates: 'January 8-10, 2018'
+  url: https://automationguild.com/
+  twitter: AutomationGuild
+  status: Registration is open
+
 - name: London Tester Tutorials 2018
   location: London, England
   dates: "January 29-31, 2018"
@@ -176,7 +183,7 @@
   dates: "February 19-20, 2018"
   url: http://europeantestingconference.eu/2018/
   twitter: EuroTestingConf
-  status: CFP is open
+  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
@@ -197,7 +204,7 @@
   dates: "March 12-13, 2018"
   url: https://ukstar.eurostarsoftwaretesting.com/
   twitter: ukstarconfs
-  status: CFP is Closed
+  status: Registration is open
 
 - name: TestBash Brighton 2018
   location: Brighton, England
