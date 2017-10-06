@@ -1,3 +1,15 @@
+- name: Luxembourg Software Testing Event 2017
+  location: Luxembourg-city, Luxembourg
+  dates: "October 5, 2017"
+  url: https://www.q-leap.eu/index.php/about-us/q-leap-events/231-luxembourg-software-testing-event-2017
+  twitter: qleap_sa
+
+- name: Quest for Quality 2017
+  location: Dublin, Ireland
+  dates: "October 4-5 2017"
+  url: http://questforquality.eu/
+  twitter: Quest_4_Quality
+
 - name: Targeting Quality (KWSQA) 2017
   location: Kitchener, ON Canada
   dates: "September 25-26, 2017"
