@@ -1,3 +1,15 @@
+- name: TestBash Germany 2017
+  location: Munich, Germany
+  dates: "October 6, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-germany-2017
+  twitter: ministryoftest
+
+- name: STARWEST 2017
+  location: Anaheim, CA, USA
+  dates: "October 1-6, 2017"
+  url: https://starwest.techwell.com/
+  twitter: techwell
+
 - name: Luxembourg Software Testing Event 2017
   location: Luxembourg-city, Luxembourg
   dates: "October 5, 2017"
