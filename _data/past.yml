@@ -442,26 +442,29 @@
   dates: "November 18, 2016"
   url: https://tconf.io
 
+- name: GTAC 2016
+  location: Sunnyvale, CA, USA
+  dates: "November 15-16, 2017"
+  url: https://developers.google.com/google-test-automation-conference/2016/
+  video_url: https://developers.google.com/google-test-automation-conference/2016/presentations
+
 - name: SeleniumConf UK 2016
   location: London, UK
   dates: "November 14-16, 2016"
   url: http://seleniumconf.co.uk/
   twitter: seleniumconf_UK
-  status: Registration is closed
   video_url: https://www.youtube.com/playlist?list=PLPJWVzLeEy93T9EBvfn9KAmrYYez3oGcD
 
 - name: Agile Testing & BDD eXchange 2016
   location: London, UK
   dates: "November 10-11, 2016"
   url: https://skillsmatter.com/conferences/7428-agile-testing-and-bdd-exchange-2016
-  status: Registration is open
 
 - name: TestBash Philadelphia 2016
   location: Philadelphia, PA USA
   dates: "November 10-11, 2016"
   url: http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/
   twitter: ministryoftest
-  status: Registration is open
 
 - name: Pune Software Testing Conference (PSTC) 2016
   location: Pune, India
