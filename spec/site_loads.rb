@@ -4,7 +4,6 @@ require 'rspec/expectations'
 describe 'Load Site' do
 
   def setup
-
     @driver = Selenium::WebDriver.for :chrome
   end
 
