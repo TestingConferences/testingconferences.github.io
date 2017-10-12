@@ -218,3 +218,9 @@
   dates: "September 20-21, 2018"
   url: http://copenhagencontext.com/
   twitter: CPHcontext
+
+- name: SeleniumConf (SeConf) Chicago 2018
+  location: Chicago, IL, USA
+  dates: "Autumn 2018"
+  url: http://seleniumconf.us/
+  twitter: seleniumconf
