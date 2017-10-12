@@ -1,3 +1,10 @@
+- name: SeleniumConf (SeConf) Berlin 2017
+  location: Berlin, Germany
+  dates: "October 9-11, 2017"
+  url: http://seleniumconf.de/
+  twitter: seleniumconf
+  video_url: https://www.seleniumconf.de/talks
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2017
   location: Portland, Oregon, USA
   dates: "October 9-11, 2017"
