@@ -1,3 +1,9 @@
+- name: Quality Jam London 2017
+  location: London, UK
+  dates: "October 11, 2017"
+  url: http://qualityjam.net/uk/
+  twitter: qasymphony
+
 - name: SeleniumConf (SeConf) Berlin 2017
   location: Berlin, Germany
   dates: "October 9-11, 2017"
