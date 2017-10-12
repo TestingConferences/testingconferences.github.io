@@ -1,10 +1,3 @@
-- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
-  location: Portland, Oregon, USA
-  dates: "October 9-11, 2017"
-  url: http://www.pnsqc.org/
-  twitter: PNSQC
-  status: Registration is open
-
 - name: SeleniumConf (SeConf) Berlin 2017
   location: Berlin, Germany
   dates: "October 9-11, 2017"

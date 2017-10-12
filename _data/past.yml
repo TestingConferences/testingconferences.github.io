@@ -1,3 +1,9 @@
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2017"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
+
 - name: TestBash Germany 2017
   location: Munich, Germany
   dates: "October 6, 2017"
