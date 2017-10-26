@@ -1,3 +1,26 @@
+- name: SoftTest 2017
+  location: Dublin, Ireland
+  dates: "October 19, 2017"
+  url: http://www.softwareskillnet.ie/events/81/softtest-conference-2017-smart-testing-in-technology-driven-world/
+  twitter: SoftTestIreland
+
+- name: TestCon Vilnius 2017
+  location: Vilnius, Lithuania
+  dates: "October 18-20, 2017"
+  url: http://www.testcon.lt/
+
+- name: Tricentis Accelerate 2017
+  location: Vienna, Austria
+  dates: "October 16-17, 2017"
+  url: https://www.tricentis.com/accelerate2017/
+  twitter: Tricentis
+
+- name: STARCanada 2017
+  location: Toronto, Canada
+  dates: "October 15-20, 2017"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+
 - name: Quality Jam London 2017
   location: London, UK
   dates: "October 11, 2017"
