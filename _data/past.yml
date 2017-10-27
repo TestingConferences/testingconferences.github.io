@@ -1,3 +1,9 @@
+- name: Belgium Testing Day (BTD) 2017
+  location: Brussels, Belgium
+  dates: "October 25, 2017"
+  url: http://btdconf.com/
+  twitter: btdconf
+
 - name: Test Dive Conference 2017
   location: Kraków, Poland
   dates: "October 24, 2017"
@@ -76,11 +82,18 @@
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
 
+- name: Software Testing Conference NORTH 2017
+  location: The Principal York, York
+  dates: "September 26-27, 2017"
+  url: http://north.softwaretestingconference.com/
+  twitter: testmagazine
+
 - name: Targeting Quality (KWSQA) 2017
   location: Kitchener, ON Canada
   dates: "September 25-26, 2017"
   url: http://kwsqa.org/conference/registration/
   twitter: KWSQA
+  video_url: http://kwsqa.org/tq2018/past-conferences/tq2017/keynotelive/
 
 - name: Software Test Professionals (STPCon) Fall 2017
   location: Washington, DC, USA
