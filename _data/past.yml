@@ -1,3 +1,9 @@
+- name: Argentesting 2017
+  location: Buenos Aires, Argentina
+  dates: "October 23-24, 2017"
+  url: https://argentesting.com/
+  twitter: argentesting
+
 - name: TestBash Germany 2017
   location: Munich, Germany
   dates: "October 6, 2017"
