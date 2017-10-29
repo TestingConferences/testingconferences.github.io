@@ -1,3 +1,15 @@
+- name: TestBash Manchester 2017
+  location: Manchester, UK
+  dates: "October 26-27, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
+  twitter: ministryoftest
+
+- name: QA&Test 2017
+  location: Bilbao, Spain
+  dates: "October 25-27, 2017"
+  url: http://www.qatest.org/en/
+  twitter: qatest_bilbao
+
 - name: Belgium Testing Day (BTD) 2017
   location: Brussels, Belgium
   dates: "October 25, 2017"

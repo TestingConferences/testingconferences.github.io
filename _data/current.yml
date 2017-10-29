@@ -1,17 +1,3 @@
-- name: QA&Test 2017
-  location: Bilbao, Spain
-  dates: "October 25-27, 2017"
-  url: http://www.qatest.org/en/
-  twitter: qatest_bilbao
-  status: Registration is open
-
-- name: TestBash Manchester 2017
-  location: Manchester, UK
-  dates: "October 26-27, 2017"
-  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: EuroSTAR Software Testing Conference 2017
   location: Copenhagen, Denmark
   dates: "November 6-9, 2017"
