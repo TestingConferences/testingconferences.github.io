@@ -151,6 +151,13 @@
   twitter: issta_conf
   status: CFP Open until January 29, 2018
 
+- name: TestBash Germany 2018
+  location: Munich, Germany
+  dates: "September 14, 2018"
+  url: https://www.ministryoftesting.com/continuous-call-papers/
+  twitter: ministryoftest
+  status: CFP Open until February 14, 2018
+
 - name: CopenhagenContext 2018
   location: Copenhagen, Denmark
   dates: "September 20-21, 2018"
