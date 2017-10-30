@@ -132,10 +132,17 @@
 
 - name: TestBash Dublin 2018
   location: Dublin, Ireland
-  dates: "May 18, 2018"
-  url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
+  dates: "May 9-10, 2018"
+  url: https://www.romaniatesting.ro/call-papers-rtc2018/
   twitter: ministryoftest
   status: Launching soon
+  
+- name: Romanian Testing Conference 2018
+  location: Cluj, Romania
+  dates: "May 18, 2018"
+  url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
+  twitter: RomaniaTesting
+  status: CFP Open until November 19, 2017
 
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
