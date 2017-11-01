@@ -1,17 +1,3 @@
-- name: QA&Test 2017
-  location: Bilbao, Spain
-  dates: "October 25-27, 2017"
-  url: http://www.qatest.org/en/
-  twitter: qatest_bilbao
-  status: Registration is open
-
-- name: TestBash Manchester 2017
-  location: Manchester, UK
-  dates: "October 26-27, 2017"
-  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: EuroSTAR Software Testing Conference 2017
   location: Copenhagen, Denmark
   dates: "November 6-9, 2017"
@@ -147,16 +133,23 @@
 - name: TestBash Netherlands 2018
   location: Utrecht, Netherlands
   dates: "April 12-13, 2018"
-  url: https://www.ministryoftesting.com/2017/07/testbash-netherlands-2018/
+  url: https://ti.to/mot/testbash-netherlands-2018?source=testingconferences
   twitter: ministryoftest
-  status: CFP Open
+  status: Registration is open
 
+- name: Romanian Testing Conference 2018
+  location: Cluj, Romania
+  dates: "May 9-11, 2018"
+  url: https://www.romaniatesting.ro/
+  twitter: RomaniaTesting
+  status: CFP Open until November 19, 2017
+  
 - name: TestBash Dublin 2018
   location: Dublin, Ireland
   dates: "May 18, 2018"
   url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
   twitter: ministryoftest
-  status: CFP Open
+  status: Launching soon
 
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
@@ -171,6 +164,13 @@
   url: http://conf.researchr.org/home/issta-2018
   twitter: issta_conf
   status: CFP Open until January 29, 2018
+
+- name: TestBash Germany 2018
+  location: Munich, Germany
+  dates: "September 14, 2018"
+  url: https://www.ministryoftesting.com/continuous-call-papers/
+  twitter: ministryoftest
+  status: CFP Open until February 14, 2018
 
 - name: CopenhagenContext 2018
   location: Copenhagen, Denmark
