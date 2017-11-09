@@ -1,3 +1,10 @@
+- name: Belgrade Testing Conference (BTC) 2017
+  location: Belgrade, Serbia
+  dates: "November 1, 2017"
+  url: https://bg-testconference.rs/
+  twitter: BGTestConf
+  video_url: https://www.youtube.com/channel/UCcyzv5x1slhb4vEALzgDcOQ/videos
+
 - name: TestBash Manchester 2017
   location: Manchester, UK
   dates: "October 26-27, 2017"
