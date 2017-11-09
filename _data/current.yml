@@ -157,6 +157,13 @@
   twitter: ministryoftest
   status: Launching soon
 
+- name: expo:QA 18
+  location: Madrid, Spain
+  dates: "June 4-6, 2018"
+  url: http://www.expoqa.com/
+  twitter: expoqa
+  status: CFP Open until January 12, 2018
+
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
   dates: "June 6-8, 2018"
