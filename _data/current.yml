@@ -1,17 +1,3 @@
-- name: EuroSTAR Software Testing Conference 2017
-  location: Copenhagen, Denmark
-  dates: "November 6-9, 2017"
-  url: https://conference.eurostarsoftwaretesting.com/
-  twitter: esconfs
-  status: Registration is open
-
-- name: TestBash Philadelphia 2017
-  location: Philadelphia, USA
-  dates: "November 9-10, 2017"
-  url: https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: Hungarian Software Testing Forum (HUSTEF) 2017
   location: Budapest, Hungary
   dates: "November 13-15, 2017"
