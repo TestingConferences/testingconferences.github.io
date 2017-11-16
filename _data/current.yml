@@ -53,6 +53,13 @@
   twitter: EuroTestingConf
   status: Registration is open
 
+- nam: Assert(js) 2018 - an all JavaScript Testing Conference
+  location: San Antonio, TX, USA
+  dates: "February 22, 2018"
+  url: https://www.assertjs.com/
+  twitter: assertjs
+  status: Registration is open
+
 - name: TISQA 2018
   location: Chapel Hill, NC, USA
   dates: "February 27, 2018"
