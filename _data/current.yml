@@ -46,6 +46,13 @@
   url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2018
   status: Registration is open
 
+- nam: Assert(js) 2018 - an all JavaScript Testing Conference
+  location: San Antonio, TX, USA
+  dates: "February 22, 2018"
+  url: https://www.assertjs.com/
+  twitter: assertjs
+  status: Registration is open
+
 - name: European Testing Conference 2018
   location: Amsterdam, Netherlands
   dates: "February 19-20, 2018"
