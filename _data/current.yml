@@ -175,3 +175,10 @@
   dates: "Autumn 2018"
   url: http://seleniumconf.us/
   twitter: seleniumconf
+
+- name: TestBash Australia 2018
+  location: Sydney, Australia
+  dates: "October 19, 2018"
+  url: https://www.ministryoftesting.com/continuous-call-papers/
+  twitter: ministryoftest
+  status: CFP Open until March 12, 2018
