@@ -155,6 +155,13 @@
   url: http://seleniumconf.us/
   twitter: seleniumconf
 
+- name: Quest for Quality 2018
+  location: Dublin, Ireland
+  dates: "October 3-4, 2018"
+  url: http://questforquality.eu/
+  twitter: Quest_4_Quality
+  status: Pre-registration is open
+
 - name: TestBash Australia 2018
   location: Sydney, Australia
   dates: "October 19, 2018"
