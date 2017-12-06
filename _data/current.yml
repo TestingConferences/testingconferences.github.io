@@ -101,6 +101,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: TestCon Moscow 2018
+  location: Moscow, Russia
+  dates: "April 18-19, 2018"
+  url: http://testconf.ru/
+  status: CFP is open
+
 - name: Romanian Testing Conference 2018
   location: Cluj, Romania
   dates: "May 9-11, 2018"
