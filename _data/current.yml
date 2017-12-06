@@ -136,6 +136,13 @@
   twitter: issta_conf
   status: CFP Open until January 29, 2018
 
+- name: Conference for the Association for Software Testing (CAST) 2018
+  location: Cocoa Beach, FL, USA
+  dates: "August 6-9, 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
+  twitter: AST_News
+  status: CFP Open until February 11, 2018
+
 - name: TestBash Germany 2018
   location: Munich, Germany
   dates: "September 14, 2018"
