@@ -22,6 +22,12 @@
   url: http://lets-test.com/?page_id=5304
   twitter: LetsTest_Conf
 
+- name: Ph Testing Conference 2017
+  location: Bonifacio City, Manila, Philippines
+  dates: "November 25, 2017"
+  url: https://www.phtestcon.com/
+  twitter: testers_ph
+
 - name: Agile Testing Days (ATD) 2017
   location: Potsdam, Germany
   dates: "November 13-17, 2017"
