@@ -1,3 +1,9 @@
+- name: Heisenbug Moscow 2017
+  location: Moscow, Russia
+  dates: "December 8-9, 2017"
+  url: https://heisenbug-moscow.ru/en/
+  twitter: HeisenbugConf
+
 - name: ConTEST NYC 2017
   location: New York, NY, USA
   dates: "November 29-December 1 2017"
