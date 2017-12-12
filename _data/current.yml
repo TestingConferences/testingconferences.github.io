@@ -94,6 +94,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: TestIstanbul Conference 2018
+  location: Istanbul, Turkey
+  dates: "April 17, 2018"
+  url: https://testistanbul.org/
+  status: Registration is open
+
 - name: TestCon Moscow 2018
   location: Moscow, Russia
   dates: "April 18-19, 2018"
