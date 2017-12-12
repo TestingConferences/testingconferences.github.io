@@ -141,6 +141,12 @@
   twitter: issta_conf
   status: CFP Open until January 29, 2018
 
+- name: Agile Testing Days USA 2018
+  location: Boston, MA, USA
+  dates: "June 25-29, 2018"
+  url: http://agiletestingdays.us/
+  twitter: Agile_USA
+
 - name: Conference for the Association for Software Testing (CAST) 2018
   location: Cocoa Beach, FL, USA
   dates: "August 6-9, 2018"
