@@ -145,6 +145,7 @@
   dates: "October 1-6, 2017"
   url: https://starwest.techwell.com/
   twitter: techwell
+  video_url: https://www.youtube.com/watch?v=JlVRxJIVAQs&index=35&list=PLk81My95-GE9k51HEkcY_H0X0wbwxeHnz
 
 - name: Luxembourg Software Testing Event 2017
   location: Luxembourg-city, Luxembourg
@@ -315,6 +316,7 @@
   dates: "June 7-9, 2017"
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
+  video_url: https://www.youtube.com/watch?v=aopOwwwkwLk&list=PLF_V0R0nbO9xc6sxT5CEuzBmKfp0YmVsA
 
 - name: SauceCon 2017
   location: San Francisco, CA, USA
@@ -397,6 +399,7 @@
   dates: "May 7-12, 2017"
   url: http://stareast.techwell.com/
   twitter: techwell
+  video_url: https://www.youtube.com/watch?v=xi2GuEJh2MU&list=PLk81My95-GE9fOtfu6gp-K6OaVt6zWiIm
 
 - name: 2nd Annual Test Leadership Congress
   location: New York, NY, USA
@@ -453,7 +456,7 @@
   url: http://qaiquest.org/2017/
   twitter: QAIquest
 
-- name: Selenium Conference (SeConf) 2017
+- name: Selenium Conference Austin (SeConf) 2017
   location: Austin, Texas, USA
   dates: "April 3-5, 2017"
   url: http://seleniumconf.com/
