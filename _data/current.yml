@@ -109,9 +109,10 @@
   
 - name: CukenFest London 2018
   location: London, UK
+  dates: "April 19-20, 2018"
   url: http://cukenfest.cucumber.io/
   twitter: cukenfest
-  status: Registration and CfP is open
+  status: Registration and CFP is open
 
 - name: Romanian Testing Conference 2018
   location: Cluj, Romania
