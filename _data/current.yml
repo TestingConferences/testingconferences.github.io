@@ -255,6 +255,19 @@
   twitter: ministryoftest
   status: CFP Open until March 12, 2018
 
+- name: Agile Testing & BDD eXchange 2018
+  location: London, UK
+  dates: "November 8-9, 2018"
+  url: https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018
+  status: Registration is open
+
+- name: EuroSTAR Software Testing Conference 2018
+  location: Hague, Netherlands
+  dates: "November 12-15, 2017"
+  url: https://conference.eurostarsoftwaretesting.com/
+  twitter: esconfs
+  status: CFP Open until Feburary 5, 2018
+
 - name: Agile Testing Days (ATD) 2018
   location: Potsdam, Germany
   dates: "November 12-16, 2018"
