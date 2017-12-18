@@ -215,11 +215,24 @@
   url: http://copenhagencontext.com/
   twitter: CPHcontext
 
+- name: Targeting Quality (KWSQA) 2018
+  location: Kitchener, ON Canada
+  dates: "September 24-25, 2018"
+  url: http://kwsqa.org/tq2018/
+  twitter: KWSQA
+
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
   dates: "Autumn 2018"
   url: http://seleniumconf.us/
   twitter: seleniumconf
+
+- name: STARWEST 2018
+  location: Anaheim, CA, USA
+  dates: "September 30-October 5, 2018"
+  url: https://starwest.techwell.com/
+  twitter: techwell
+  status: Registration is open
 
 - name: Quest for Quality 2018
   location: Dublin, Ireland
@@ -227,6 +240,13 @@
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
   status: Pre-registration is open
+
+- name: STARCANADA 2018
+  location: Toronto, Canada
+  dates: "October 14-19, 2018"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+  status: Registration is open
 
 - name: TestBash Australia 2018
   location: Sydney, Australia
