@@ -140,6 +140,13 @@
   url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
   twitter: ministryoftest
   status: Registration is open
+  
+- name: QUEST 2018
+  location: San Antonio, TX, USA
+  dates: "May 21-25, 2018"
+  url: http://qaiquest.org/2018/
+  twitter: QAIquest
+  status: Registration is open
 
 - name: expo:QA 18
   location: Madrid, Spain
