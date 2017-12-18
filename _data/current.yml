@@ -5,7 +5,7 @@
   twitter: AutomationGuild
   status: Registration is open
 
-- name: Cambridge Exploratory Workshop on Testing (CEWT #5)
+- name: Cambridge Exploratory Workshop on Testing (CEWT 5)
   location: Cambridge, England
   dates: "January 28th, 2018"
   url: https://cewtblog.blogspot.co.uk/2017/11/cewt-5-is-coming.html
@@ -93,6 +93,12 @@
   twitter: softwaretestpro
   status: CFP is open
 
+- name: 11th IEEE Conference on Software Testing, Validation and Verification (ICST 2018)
+  location: Västerås, Sweden
+  dates: "April 9-13, 2018"
+  url: http://www.es.mdh.se/icst2018/
+  twitter: icstconference
+
 - name: Quality Jam ATL 2018
   location: Atlanta, Georgia, USA
   dates: "April 10-11, 2018"
@@ -127,6 +133,13 @@
   twitter: cukenfest
   status: Registration and CFP is open
 
+- name: STAREAST 2018
+  location: Orlando, FL, USA
+  dates: "April 29-May 4, 2018"
+  url: http://stareast.techwell.com/
+  twitter: techwell
+  status: Registration is open
+
 - name: Romanian Testing Conference 2018
   location: Cluj, Romania
   dates: "May 9-11, 2018"
@@ -140,7 +153,7 @@
   url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
   twitter: ministryoftest
   status: Registration is open
-  
+
 - name: QUEST 2018
   location: San Antonio, TX, USA
   dates: "May 21-25, 2018"
@@ -161,7 +174,7 @@
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
   status: CFP Open until October 31, 2017
-  
+
 - name: The Online Testing Conference (OnlineTestConf) 2018
   location: Online
   dates: "June 12-13, 2018"
