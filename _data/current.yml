@@ -154,6 +154,13 @@
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
   status: CFP Open until October 31, 2017
+  
+- name: The Online Testing Conference (OnlineTestConf) 2018
+  location: Online
+  dates: "June 12-13, 2018"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+  status: CFP Open until April 1st, 2018
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2018
   location: Amsterdam, Netherlands
