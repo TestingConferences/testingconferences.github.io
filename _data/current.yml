@@ -79,6 +79,13 @@
   twitter: ukstarconfs
   status: Registration is open
 
+- name: Swiss Testing Day 2018
+  location: Zurich, Switzerland
+  dates: "March 14, 2018"
+  url: http://swisstestingday.ch/
+  twitter: SwissTesting
+  status: Registration is open
+
 - name: TestBash (by the Sea) Brighton 2018
   location: Brighton, England
   dates: "March 15-16, 2018"
