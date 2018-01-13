@@ -1,3 +1,10 @@
+- name: Automation Guild Online Conference 2018
+  location: Online
+  dates: "January 8-10, 2018"
+  url: https://automationguild.com/
+  twitter: AutomationGuild
+  video_url: https://guildconferences.com/product/automation-guild-2018-ticket/
+
 - name: Heisenbug Moscow 2017
   location: Moscow, Russia
   dates: "December 8-9, 2017"
