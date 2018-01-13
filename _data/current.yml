@@ -31,6 +31,12 @@
   twitter: assertjs
   status: Registration is open
 
+- name: test:fest 2018
+  location: Wrocław, Poland
+  dates: "February 24, 2018"
+  url: http://testfest.pl/en/partnerzy-2/
+  status: Registration is open
+
 - name: TISQA 2018
   location: Chapel Hill, NC, USA
   dates: "February 27, 2018"
