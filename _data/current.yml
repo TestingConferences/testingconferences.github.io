@@ -234,6 +234,13 @@
   url: http://kwsqa.org/tq2018/
   twitter: KWSQA
 
+- name: SEETEST 2018 Conference
+  location: Belgrade, Serbia
+  dates: "September 27-28, 2018"
+  url: https://seetest.org/
+  twitter: SEETESTConf
+  status: Registration is open
+
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
   dates: "Autumn 2018"
