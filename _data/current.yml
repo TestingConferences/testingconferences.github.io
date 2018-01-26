@@ -281,6 +281,13 @@
   url: https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018
   status: Registration is open
 
+- name: TestBash San Francisco 2018
+  location: San Francisco, CA, USA
+  dates: "November 8-9, 2018"
+  url: https://dojo.ministryoftesting.com/events/testbash-san-francisco-2018
+  twitter: ministryoftest
+  status: CFP Open until March 11, 2018
+
 - name: EuroSTAR Software Testing Conference 2018
   location: Hague, Netherlands
   dates: "November 12-15, 2017"
