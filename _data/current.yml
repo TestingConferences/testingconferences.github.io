@@ -234,12 +234,26 @@
   url: http://kwsqa.org/tq2018/
   twitter: KWSQA
 
+- name: TestBash Manchester 2018
+  location: Manchester, UK
+  dates: "September 27, 2018"
+  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2018
+  twitter: ministryoftest
+  status: CFP Open until February 25, 2018
+
 - name: SEETEST 2018 Conference
   location: Belgrade, Serbia
   dates: "September 27-28, 2018"
   url: https://seetest.org/
   twitter: SEETESTConf
   status: Registration is open
+
+- name: Test.bash() 2018
+  location: Manchester, UK
+  dates: "September 28, 2018"
+  url: https://dojo.ministryoftesting.com/events/test-dot-bash-2018
+  twitter: ministryoftest
+  status: CFP Open until February 25, 2018
 
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
