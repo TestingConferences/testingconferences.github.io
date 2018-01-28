@@ -181,6 +181,13 @@
   twitter: expoqa
   status: CFP Open until January 12, 2018
 
+- name: Test Leadership Congress
+  location: New York, NY, USA
+  dates: "June 4-6, 2018"
+  url: http://testleadershipcongress-ny.com/
+  twitter: TestMastersAcad
+  status: CFP Open until February 11th, 2018
+
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
   dates: "June 6-8, 2018"
@@ -302,12 +309,19 @@
   twitter: ministryoftest
   status: CFP Open until March 11, 2018
 
+- name: ConTEST NYC 2018
+  location: New York, NY, USA
+  dates: "November 12-14 2018"
+  url: http://testleadershipcongress-ny.com/
+  twitter: TestMastersAcad
+  status: CFP Open until February 11, 2018
+
 - name: EuroSTAR Software Testing Conference 2018
   location: Hague, Netherlands
   dates: "November 12-15, 2017"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
-  status: CFP Open until Feburary 5, 2018
+  status: CFP Open until February 5, 2018
 
 - name: Agile Testing Days (ATD) 2018
   location: Potsdam, Germany
