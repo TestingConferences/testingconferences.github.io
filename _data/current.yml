@@ -37,7 +37,7 @@
   dates: "February 27, 2018"
   url: https://qaorthehighway.com/call-for-speakers/
   twitter: QAortheHighway
-  status: CFP open until October 15th
+  status: Registration is open 
 
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
@@ -78,6 +78,13 @@
   dates: "March 14, 2018"
   url: http://swisstestingday.ch/
   twitter: SwissTesting
+  status: Registration is open
+
+- name: TESTWEST 2018
+  location: Perth, Western Australia
+  dates: "March 14, 2018"
+  url: http://www.testwest.org
+  twitter: TestWestWA
   status: Registration is open
 
 - name: TestBash (by the Sea) Brighton 2018
