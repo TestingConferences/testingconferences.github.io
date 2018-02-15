@@ -37,7 +37,7 @@
   dates: "February 27, 2018"
   url: https://qaorthehighway.com/call-for-speakers/
   twitter: QAortheHighway
-  status: Registration is open 
+  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
@@ -208,6 +208,7 @@
   dates: "June 25-29, 2018"
   url: http://agiletestingdays.us/
   twitter: AgileTDUSA
+  status: CFP Open until April 1st, 2018
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2018
   location: Amsterdam, Netherlands
