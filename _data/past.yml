@@ -1,3 +1,15 @@
+- name: European Testing Conference 2018
+  location: Amsterdam, Netherlands
+  dates: "February 19-20, 2018"
+  url: http://europeantestingconference.eu/2018/
+  twitter: EuroTestingConf
+
+- name: Delex Conf 2018 DevOps & Test Automation
+  location: Minsk, Belarus
+  dates: "February 17, 2018"
+  url: http://delex-conf.com
+  twitter: delex_conf
+
 - name: London Tester Tutorials 2018
   location: London, England
   dates: "January 29-31, 2018"
