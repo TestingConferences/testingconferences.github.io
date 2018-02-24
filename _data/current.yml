@@ -1,10 +1,3 @@
-- name: Assert(js) 2018 an all JavaScript Testing Conference
-  location: San Antonio, TX, USA
-  dates: "February 22, 2018"
-  url: https://www.assertjs.com/
-  twitter: assertjs
-  status: Registration is open
-
 - name: test:fest 2018
   location: Wrocław, Poland
   dates: "February 24, 2018"
