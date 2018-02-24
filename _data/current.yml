@@ -196,6 +196,13 @@
   twitter: AgileTDUSA
   status: CFP Open until April 1st, 2018
 
+- name: Selenium Conference India  (SeConf) 2018
+  location: Bengaluru, India
+  dates: "June 28-30, 2018"
+  url: https://2018.seleniumconf.in/
+  twitter: seleniumconf
+  status: CFP Open until March 15, 2018
+
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2018
   location: Amsterdam, Netherlands
   dates: "July 16-22, 2018"
@@ -269,6 +276,13 @@
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
   status: Pre-registration is open
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2018
+  location: Portland, Oregon, USA
+  dates: "October 8-10, 2018"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
+  status: CFP OPen until April 1st, 2018
 
 - name: STARCANADA 2018
   location: Toronto, Canada
