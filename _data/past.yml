@@ -1,3 +1,16 @@
+- name: SeleniumCamp 2018
+  location: Kyiv, Ukraine
+  dates: "March 2-3, 2018"
+  url: http://seleniumcamp.com/
+  twitter: SeleniumCamp
+
+- name: SauceCon 2018
+  location: San Francisco, CA, USA
+  dates: "March 1-2, 2018"
+  url: http://saucecon.com/
+  twitter: saucelabs
+  video_url: https://www.youtube.com/watch?v=B-s1JS_wpaA&list=PL67l1VPxOnT4B8ClvBQXPwIV5LwQomF2o
+
 - name: Conference for the Association for Software Testing (CASTx) 18
   location: Melbourne, Australia
   dates: "February 28 - March 1, 2018"
