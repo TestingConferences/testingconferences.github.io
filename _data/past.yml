@@ -1,3 +1,26 @@
+- name: Conference for the Association for Software Testing (CASTx) 18
+  location: Melbourne, Australia
+  dates: "February 28 - March 1, 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/castx18/
+  twitter: AST_News
+
+- name: QA or the Highway 2018
+  location: Columbus, OH, USA
+  dates: "February 27, 2018"
+  url: https://qaorthehighway.com/call-for-speakers/
+  twitter: QAortheHighway
+
+- name: TISQA 2018
+  location: Chapel Hill, NC, USA
+  dates: "February 27, 2018"
+  url: http://tisqa-rtp.squarespace.com/
+  twitter: TISQA_RTP
+
+- name: test:fest 2018
+  location: Wrocław, Poland
+  dates: "February 24, 2018"
+  url: http://testfest.pl/en/partnerzy-2/
+
 - name: Assert(js) 2018 an all JavaScript Testing Conference
   location: San Antonio, TX, USA
   dates: "February 22, 2018"
