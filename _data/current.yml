@@ -185,7 +185,7 @@
 - name: TestBash Germany 2018
   location: Munich, Germany
   dates: "September 14, 2018"
-  url: https://ti.to/mot/testbash-germany-2017?source=testingconferences
+  url: https://ti.to/mot/testbash-germany-2018?source=testingconferences
   twitter: ministryoftest
   status: Registration is open
 
@@ -239,14 +239,14 @@
   dates: "October 3-4, 2018"
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
-  status: Pre-registration is open
+  status: CFP Open until March 30th, 2018
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2018
   location: Portland, Oregon, USA
   dates: "October 8-10, 2018"
   url: http://www.pnsqc.org/
   twitter: PNSQC
-  status: CFP OPen until April 1st, 2018
+  status: CFP Open until April 1st, 2018
 
 - name: STARCANADA 2018
   location: Toronto, Canada
@@ -279,14 +279,14 @@
   dates: "November 12-14 2018"
   url: http://testleadershipcongress-ny.com/
   twitter: TestMastersAcad
-  status: CFP Open until February 11, 2018
+  status: Registration is open
 
 - name: EuroSTAR Software Testing Conference 2018
   location: Hague, Netherlands
-  dates: "November 12-15, 2017"
+  dates: "November 12-15, 2018"
   url: https://conference.eurostarsoftwaretesting.com/
   twitter: esconfs
-  status: CFP Open until February 5, 2018
+  status: Registration is open
 
 - name: Agile Testing Days (ATD) 2018
   location: Potsdam, Germany
