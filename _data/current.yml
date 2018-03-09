@@ -125,14 +125,14 @@
   dates: "June 4-6, 2018"
   url: http://www.expoqa.com/
   twitter: expoqa
-  status: CFP Open until January 12, 2018
+  status: Registration is open
 
 - name: Test Leadership Congress
   location: New York, NY, USA
   dates: "June 4-6, 2018"
   url: http://testleadershipcongress-ny.com/
   twitter: TestMastersAcad
-  status: CFP Open until February 11th, 2018
+  status: Registration is open
 
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
@@ -161,7 +161,7 @@
   url: https://ti.to/mot/london-tester-gathering-workshops-2018?source=testingconferences
   twitter: LTGWorkshops
 
-- name: Selenium Conference India  (SeConf) 2018
+- name: Selenium Conference India (SeConf) 2018
   location: Bengaluru, India
   dates: "June 28-30, 2018"
   url: https://2018.seleniumconf.in/
@@ -180,7 +180,7 @@
   dates: "August 6-9, 2018"
   url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
   twitter: AST_News
-  status: CFP Open until February 11, 2018
+  status: CFP is closed
 
 - name: TestBash Germany 2018
   location: Munich, Germany
@@ -206,7 +206,7 @@
   dates: "September 27, 2018"
   url: https://dojo.ministryoftesting.com/events/testbash-manchester-2018
   twitter: ministryoftest
-  status: CFP Open until February 25, 2018
+  status: Registration is open
 
 - name: SEETEST 2018 Conference
   location: Belgrade, Serbia
