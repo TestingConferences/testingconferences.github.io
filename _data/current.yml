@@ -96,7 +96,7 @@
 - name: TestBash Dublin 2018
   location: Dublin, Ireland
   dates: "May 18, 2018"
-  url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
+  url: https://ti.to/mot/testbash-dublin-2018?source=testingconferences
   twitter: ministryoftest
   status: Registration is open
 
@@ -158,7 +158,7 @@
 - name: London Tester Gathering Workshops 2018
   location: London, England
   dates: "June 28-29, 2018"
-  url: hhttps://ti.to/mot/london-tester-gathering-workshops-2018
+  url: https://ti.to/mot/london-tester-gathering-workshops-2018?source=testingconferences
   twitter: LTGWorkshops
 
 - name: Selenium Conference India  (SeConf) 2018
@@ -185,9 +185,9 @@
 - name: TestBash Germany 2018
   location: Munich, Germany
   dates: "September 14, 2018"
-  url: https://www.ministryoftesting.com/continuous-call-papers/
+  url: https://ti.to/mot/testbash-germany-2017?source=testingconferences
   twitter: ministryoftest
-  status: CFP Open until February 14, 2018
+  status: Registration is open
 
 - name: CopenhagenContext 2018
   location: Copenhagen, Denmark
@@ -220,7 +220,6 @@
   dates: "September 28, 2018"
   url: https://dojo.ministryoftesting.com/events/test-dot-bash-2018
   twitter: ministryoftest
-  status: CFP Open until February 25, 2018
 
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
@@ -261,7 +260,6 @@
   dates: "October 19, 2018"
   url: https://www.ministryoftesting.com/continuous-call-papers/
   twitter: ministryoftest
-  status: CFP Open until March 12, 2018
 
 - name: Agile Testing & BDD eXchange 2018
   location: London, UK
