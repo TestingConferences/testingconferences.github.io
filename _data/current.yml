@@ -220,12 +220,6 @@
   url: https://dojo.ministryoftesting.com/events/test-dot-bash-2018
   twitter: ministryoftest
 
-- name: SeleniumConf (SeConf) Chicago 2018
-  location: Chicago, IL, USA
-  dates: "Autumn 2018"
-  url: http://seleniumconf.us/
-  twitter: seleniumconf
-
 - name: STARWEST 2018
   location: Anaheim, CA, USA
   dates: "September 30-October 5, 2018"
@@ -253,6 +247,12 @@
   url: http://starcanada.techwell.com/
   twitter: techwell
   status: Registration is open
+
+- name: SeleniumConf (SeConf) Chicago 2018
+  location: Chicago, IL, USA
+  dates: "October 18-19, 2018"
+  url: http://seleniumconf.us/
+  twitter: seleniumconf
 
 - name: TestBash Australia 2018
   location: Sydney, Australia
