@@ -254,6 +254,13 @@
   url: http://seleniumconf.us/
   twitter: seleniumconf
 
+- name: Argentesting 2018
+  location: Buenos Aires, Argentina
+  dates: "October 18-19, 2018"
+  url: https://argentesting.com/
+  twitter: argentesting
+  status: CFP is open
+
 - name: TestBash Australia 2018
   location: Sydney, Australia
   dates: "October 19, 2018"
