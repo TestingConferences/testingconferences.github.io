@@ -1,11 +1,4 @@
-- name: Argentesting 2018
-  location: Buenos Aires, Argentina
-  dates: "October, 18 and 19"
-  url: https://argentesting.com
-  twitter: argentesting
-  status: CFP is open
-  
-  - name: Moldova Software Testing & Automation Conference (MSTAC) 2018
+- name: Moldova Software Testing & Automation Conference (MSTAC) 2018
   location: Chișinău, Moldova
   dates: "March 10, 2018"
   url: https://www.facebook.com/events/2026954654248150/
@@ -260,6 +253,13 @@
   dates: "October 18-19, 2018"
   url: http://seleniumconf.us/
   twitter: seleniumconf
+
+- name: Argentesting 2018
+  location: Buenos Aires, Argentina
+  dates: "October 18-19, 2018"
+  url: https://argentesting.com/
+  twitter: argentesting
+  status: CFP is open
 
 - name: TestBash Australia 2018
   location: Sydney, Australia
