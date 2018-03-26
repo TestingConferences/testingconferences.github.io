@@ -29,4 +29,6 @@ _Easy_. GitHub makes it easy for people to contribute by doing the following:
 6. Save your changes
 7. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/).
 
+_Then wait_. Your work is now done. Changes within your Pull Request will now be reviewed by a project member for accuracy and if it looks good we will merge it on your behalf.  
+
 Any questions, concerns or comments? Reach out on [Twitter](https://twitter.com/ckenst).
