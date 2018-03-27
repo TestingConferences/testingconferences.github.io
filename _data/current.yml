@@ -1,37 +1,9 @@
-- name: UKSTAR Software Testing Conference 2018
-  location: London, England
-  dates: "March 12-13, 2018"
-  url: https://ukstar.eurostarsoftwaretesting.com/
-  twitter: ukstarconfs
-  status: Registration is open
-
-- name: Swiss Testing Day 2018
-  location: Zurich, Switzerland
-  dates: "March 14, 2018"
-  url: http://swisstestingday.ch/
-  twitter: SwissTesting
-  status: Registration is open
-
-- name: TESTWEST 2018
-  location: Perth, Western Australia
-  dates: "March 14, 2018"
-  url: http://www.testwest.org
-  twitter: TestWestWA
-  status: Registration is open
-
-- name: TestBash (by the Sea) Brighton 2018
-  location: Brighton, England
-  dates: "March 15-16, 2018"
-  url: https://ti.to/mot/testbash-brighton-2018?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: STPCon Spring 2018
   location: Newport Beach, CA
   dates: "April 9-12, 2018"
   url: http://www.stpcon.com/submit/
   twitter: softwaretestpro
-  status: CFP is open
+  status: Registration is open
 
 - name: 11th IEEE Conference on Software Testing, Validation and Verification (ICST 2018)
   location: Västerås, Sweden
