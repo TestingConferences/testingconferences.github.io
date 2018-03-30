@@ -1,3 +1,10 @@
+- name: AppiumConf 2018
+  location: London, UK
+  dates: "April 6, 2018"
+  url: https://appiumconf.com/
+  twitter: appium_conf
+  status: Registration is open
+
 - name: STPCon Spring 2018
   location: Newport Beach, CA
   dates: "April 9-12, 2018"
