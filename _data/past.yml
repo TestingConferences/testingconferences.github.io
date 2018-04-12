@@ -1,3 +1,15 @@
+- name: Quality Jam ATL 2018
+  location: Atlanta, Georgia, USA
+  dates: "April 10-11, 2018"
+  url: http://qualityjam.net/atlanta/
+  twitter: qasymphony
+
+- name: AppiumConf 2018
+  location: London, UK
+  dates: "April 6, 2018"
+  url: https://appiumconf.com/
+  twitter: appium_conf
+
 - name: TestBash (by the Sea) Brighton 2018
   location: Brighton, England
   dates: "March 15-16, 2018"
