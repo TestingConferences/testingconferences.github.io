@@ -18,7 +18,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
     - CFP is closed
     - Registration is open
     - Registration is closed
-  - Optionally include a link to a conference video playlist. This will only appear for past conferences and can be added directly to the ```past.yml``` file. 
+  - Optionally include a link to a conference video playlist. This will only appear for past conferences and can be added directly to the ```past.yml``` file.
     - These should be videos from the conference presentations or talks. No marketing videos please.  
 
 ## Eligible Conferences and Workshops
@@ -26,3 +26,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
 Focus is a goal of this project and as a result, only conferences, un-conferences and workshops that are specifically for software testing are listed. That means that if a conference covers software testing, but is not specifically for testers, then it is left out.
 
 A good rule of thumb for whether a conference should be included is if its name includes either Testing or Test and how it describes itself.
+
+## License
+
+TC.org is released under the [MIT License](MIT-LICENSE)
