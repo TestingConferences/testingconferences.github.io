@@ -29,4 +29,4 @@ A good rule of thumb for whether a conference should be included is if its name 
 
 ## License
 
-TC.org is released under the [MIT License](MIT-LICENSE)
+TC.org is released under the [MIT License](MIT-LICENSE).
