@@ -1,3 +1,21 @@
+- name: TestBash Netherlands 2018
+  location: Utrecht, Netherlands
+  dates: "April 12-13, 2018"
+  url: https://ti.to/mot/testbash-netherlands-2018?source=testingconferences
+  twitter: ministryoftest
+
+- name: 11th IEEE Conference on Software Testing, Validation and Verification (ICST 2018)
+  location: Västerås, Sweden
+  dates: "April 9-13, 2018"
+  url: http://www.es.mdh.se/icst2018/
+  twitter: icstconference
+
+- name: STPCon Spring 2018
+  location: Newport Beach, CA
+  dates: "April 9-12, 2018"
+  url: http://www.stpcon.com/submit/
+  twitter: softwaretestpro
+
 - name: Quality Jam ATL 2018
   location: Atlanta, Georgia, USA
   dates: "April 10-11, 2018"
