@@ -281,7 +281,14 @@
   url: http://agiletestingdays.com
   twitter: AgileTD
   status: CFP Open until April 2018
-
+  
+  - name: Testing United 2018
+  location: Bratislava, Slovakia
+  dates: "November 19-20, 2018"
+  url: https://testingunited.com
+  twitter: testing_united
+  status: CFP is Open 
+  
 - name: SQA Days EU - 1
   location: Riga, Latvia
   dates: "March 22-23, 2019"
