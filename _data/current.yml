@@ -211,8 +211,9 @@
 - name: TestBash Australia 2018
   location: Sydney, Australia
   dates: "October 19, 2018"
-  url: https://www.ministryoftesting.com/continuous-call-papers/
+  url: https://ti.to/mot/testbash-australia-2018?source=testingconferences
   twitter: ministryoftest
+  status: Registration is open
 
 - name: Software Test Professionals (STPCon) Fall 2018
   location: Washington, DC, USA
@@ -239,7 +240,7 @@
   dates: "November 8-9, 2018"
   url: https://dojo.ministryoftesting.com/events/testbash-san-francisco-2018
   twitter: ministryoftest
-  status: CFP Open until March 11, 2018
+  status: Launching soon
 
 - name: ConTEST NYC 2018
   location: New York, NY, USA
