@@ -1,3 +1,20 @@
+- name: CukenFest London 2018
+  location: London, UK
+  dates: "April 19-20, 2018"
+  url: http://cukenfest.cucumber.io/
+  twitter: cukenfest
+
+- name: TestCon Moscow 2018
+  location: Moscow, Russia
+  dates: "April 18-19, 2018"
+  url: http://testconf.ru/
+
+- name: TestIstanbul Conference 2018
+  location: Istanbul, Turkey
+  dates: "April 17, 2018"
+  url: https://testistanbul.org/
+  twitter: testistanbul
+
 - name: TestBash Netherlands 2018
   location: Utrecht, Netherlands
   dates: "April 12-13, 2018"

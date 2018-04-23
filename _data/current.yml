@@ -1,23 +1,3 @@
-- name: TestIstanbul Conference 2018
-  location: Istanbul, Turkey
-  dates: "April 17, 2018"
-  url: https://testistanbul.org/
-  twitter: testistanbul
-  status: Registration is open
-
-- name: TestCon Moscow 2018
-  location: Moscow, Russia
-  dates: "April 18-19, 2018"
-  url: http://testconf.ru/
-  status: Registration and CFP is open
-
-- name: CukenFest London 2018
-  location: London, UK
-  dates: "April 19-20, 2018"
-  url: http://cukenfest.cucumber.io/
-  twitter: cukenfest
-  status: Registration and CFP is open
-
 - name: STAREAST 2018
   location: Orlando, FL, USA
   dates: "April 29-May 4, 2018"
