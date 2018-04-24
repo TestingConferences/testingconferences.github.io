@@ -1,0 +1,11 @@
+## Customize test commands
+version: 2
+
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.1.2
+    steps:
+      - checkout
+      - run: bundle exec jekyll build
+      - run: bundle exec htmlproofer ./_site --check-html --disable-external
