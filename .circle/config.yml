@@ -7,5 +7,15 @@ jobs:
       - image: circleci/ruby:2.1.2
     steps:
       - checkout
-      - run: bundle exec jekyll build
-      - run: bundle exec htmlproofer ./_site --check-html --disable-external
+
+      - run:
+          name: Dependencies
+          command: bundle install
+
+      - run:
+          name: Build
+          command: bundle exec jekyll build --verbose
+
+      - run:
+          name: Test
+          command: bundle exec htmlproofer ./_site --check-html --disable-external
