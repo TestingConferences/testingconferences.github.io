@@ -1,21 +1,16 @@
-## Customize test commands
 version: 2
-
 jobs:
   build:
     docker:
       - image: circleci/ruby:2.1.2
     steps:
       - checkout
-
       - run:
           name: Dependencies
           command: bundle install
-
       - run:
           name: Build
           command: bundle exec jekyll build --verbose
-
       - run:
           name: Test
           command: bundle exec htmlproofer ./_site --check-html --disable-external
