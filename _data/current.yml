@@ -123,9 +123,9 @@
 - name: TestBash Manchester 2018
   location: Manchester, UK
   dates: "September 27, 2018"
-  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2018
+  url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
   twitter: ministryoftest
-  status: Launching soon
+  status: Registration is open
 
 - name: SEETEST 2018 Conference
   location: Belgrade, Serbia
@@ -137,9 +137,9 @@
 - name: Test.bash() 2018
   location: Manchester, UK
   dates: "September 28, 2018"
-  url: https://dojo.ministryoftesting.com/events/test-dot-bash-2018
+  url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
   twitter: ministryoftest
-  status: Launching soon
+  status: Registration is open
 
 - name: STARWEST 2018
   location: Anaheim, CA, USA
