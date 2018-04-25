@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.2.10'
-
 gem 'selenium-webdriver'
 gem 'rspec'
 gem 'kramdown'
