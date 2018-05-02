@@ -65,14 +65,14 @@
   dates: "June 12-13, 2018"
   url: http://www.onlinetestconf.com/
   twitter: onlinetestconf
-  status: CFP Open until April 1st, 2018
+  status: Registration is open
 
 - name: Agile Testing Days USA 2018
   location: Boston, MA, USA
   dates: "June 25-29, 2018"
   url: http://agiletestingdays.us/
   twitter: AgileTDUSA
-  status: CFP Open until April 1st, 2018
+  status: Registration is open
 
 - name: London Tester Gathering Workshops 2018
   location: London, England
@@ -92,14 +92,14 @@
   dates: "July 16-22, 2018"
   url: http://conf.researchr.org/home/issta-2018
   twitter: issta_conf
-  status: CFP Open until January 29, 2018
+  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CAST) 2018
   location: Cocoa Beach, FL, USA
   dates: "August 6-9, 2018"
   url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
   twitter: AST_News
-  status: CFP is closed
+  status: Registration is open
 
 - name: TestBash Germany 2018
   location: Munich, Germany
@@ -153,14 +153,14 @@
   dates: "October 3-4, 2018"
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
-  status: CFP Open until March 30th, 2018
+  status: Registration is open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2018
   location: Portland, Oregon, USA
   dates: "October 8-10, 2018"
   url: http://www.pnsqc.org/
   twitter: PNSQC
-  status: CFP Open until April 1st, 2018
+  status: Registration is open
 
 - name: STARCANADA 2018
   location: Toronto, Canada
@@ -202,14 +202,14 @@
   dates: "October 22-25, 2018"
   url: http://www.stpcon.com/
   twitter: softwaretestpro
-  status: CFP is open until April 27th, 2018
+  status: Registration is open
 
 - name: Belgrade Test Conference
   location: Belgrade, Serbia
   dates: "November 5-6, 2018"
   url: https://bg-testconference.rs/
   twitter: BGTestConf
-  status: CFP is open from April 9th, 2018
+  status: CFP is open until July 9th, 2018
 
 - name: Agile Testing & BDD eXchange 2018
   location: London, UK
@@ -243,14 +243,21 @@
   dates: "November 12-16, 2018"
   url: http://agiletestingdays.com
   twitter: AgileTD
-  status: CFP Open until April 2018
+  status: Registration is open
 
 - name: Testing United 2018
   location: Bratislava, Slovakia
   dates: "November 19-20, 2018"
   url: https://testingunited.com
   twitter: testing_united
-  status: CFP is Open
+  status: CFP is Open (until May, 13)
+
+- name: TestBash Brighton 2019
+  location: Brighton, UK
+  dates: Not announced yet
+  url: https://ministryoftesting.com
+  twitter: ministryoftest
+  status: CFP is Open (continuous at https://ministryoftesting.com/testbash/submit)
 
 - name: SQA Days EU - 1
   location: Riga, Latvia
