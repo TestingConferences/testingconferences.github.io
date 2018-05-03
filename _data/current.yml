@@ -255,9 +255,9 @@
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: Not announced yet
-  url: https://ministryoftesting.com
+  url: https://ministryoftesting.com/testbash/submit
   twitter: ministryoftest
-  status: CFP is Open (continuous at https://ministryoftesting.com/testbash/submit)
+  status: CFP is Open
 
 - name: SQA Days EU - 1
   location: Riga, Latvia
