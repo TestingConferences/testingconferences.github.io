@@ -204,6 +204,13 @@
   twitter: softwaretestpro
   status: Registration is open
 
+- name: HUSTEF 2018
+  location: Budapest, HU
+  dates: "October 29-31, 2018"
+  url: http://www.hustef.hu/
+  twitter: HunTestingBoard
+  status: CFP is Open
+
 - name: Belgrade Test Conference
   location: Belgrade, Serbia
   dates: "November 5-6, 2018"
