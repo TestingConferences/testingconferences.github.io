@@ -52,6 +52,14 @@
   url: http://nordictestingdays.eu/
   twitter: nordictestdays
   status: Registration is open
+  
+  - name: PTM Conf 2018
+  location: Oporto, Portugal
+  dates: "June 16, 2018"
+  url: https://ptmconf.com
+  twitter: 2018Ptm (under construction)
+  facebook: https://www.facebook.com/PTMConf/
+  status: Tickets will be available soon!
 
 - name: The Online Testing Conference (OnlineTestConf) 2018
   location: Online
