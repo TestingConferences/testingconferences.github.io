@@ -1,3 +1,9 @@
+- name: TestingUY 2018
+  location: Montevideo, Uruguay
+  dates: "May 21-22, 2018"
+  url: http://www.testing.uy/
+  twitter: testingUY
+
 - name: TestBash Dublin 2018
   location: Dublin, Ireland
   dates: "May 18, 2018"
