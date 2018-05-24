@@ -239,9 +239,9 @@
 - name: TestBash San Francisco 2018
   location: San Francisco, CA, USA
   dates: "November 8-9, 2018"
-  url: https://ministryoftesting.com/events/testbash-san-francisco-2018
+  url: https://ti.to/mot/testbash-san-francisco-2018?source=testingconferences
   twitter: ministryoftest
-  status: Launching soon
+  status: Registration is open
 
 - name: ConTEST NYC 2018
   location: New York, NY, USA
