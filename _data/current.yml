@@ -1,10 +1,3 @@
-- name: QUEST 2018
-  location: San Antonio, TX, USA
-  dates: "May 21-25, 2018"
-  url: http://qaiquest.org/2018/
-  twitter: QAIquest
-  status: Registration is open
-
 - name: SQA Days - 23
   location: Minsk, Belarus
   dates: "May 25-26, 2018"
@@ -170,7 +163,7 @@
   url: https://argentesting.com/
   twitter: argentesting
   status: CFP is open
-  
+
 - name: Software-QS-Tag 2018 - Continuous ‚Everything‘
   location: Frankfurt on the Main
   dates: "October 18-19, 2018"
