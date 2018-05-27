@@ -1,3 +1,9 @@
+- name: AI Summit Guild 2018
+  location: Online
+  dates: "May 30, 2018"
+  url: https://aisummitguild.com
+  status: Registration is open
+
 - name: expo:QA 18
   location: Madrid, Spain
   dates: "June 4-6, 2018"
@@ -32,6 +38,18 @@
   dates: "June 19-20, 2018"
   url: http://www.onlinetestconf.com/
   twitter: onlinetestconf
+  status: Registration is open
+
+- name: Test Automation Day 2018
+  location: Rotterdam, the Netherlands
+  dates: "June 20-21, 2018"
+  url: http://www.testautomationday.com/
+  twitter: ckcseminars
+
+- name: Testing Guild Conference 2018
+  location: Online
+  dates: "June 20-22, 2018"
+  url: https://guildconferences.com/product/testing-guild-2018-online-ticket/
   status: Registration is open
 
 - name: Agile Testing Days USA 2018
