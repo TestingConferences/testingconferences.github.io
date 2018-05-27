@@ -142,7 +142,7 @@
   dates: "October 18-19, 2018"
   url: http://seleniumconf.us/
   twitter: seleniumconf
-  status: CFP is open until 25. May 2018, Registration is open
+  status: Registration is open
 
 - name: Argentesting 2018
   location: Buenos Aires, Argentina
@@ -171,6 +171,11 @@
   url: http://www.stpcon.com/
   twitter: softwaretestpro
   status: Registration is open
+
+- name: AgileTesters Conference 2018
+  location: Online
+  dates: "October 27-28, 2018"
+  url: http://conferenciagiletesters.com
 
 - name: HUSTEF 2018
   location: Budapest, HU
@@ -225,7 +230,7 @@
   dates: "November 19-20, 2018"
   url: https://testingunited.com
   twitter: testing_united
-  status: CFP is Open (until May, 13)
+  status: Registration is open
 
 - name: TestBash Brighton 2019
   location: Brighton, UK
@@ -239,4 +244,4 @@
   dates: "March 22-23, 2019"
   url: https://sqadays.eu/en/index
   twitter: sqadays
-  status: CFP Open until May 2018, Registration is open
+  status: Registration is open
