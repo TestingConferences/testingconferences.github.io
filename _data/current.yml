@@ -1,9 +1,3 @@
-- name: AI Summit Guild 2018
-  location: Online
-  dates: "May 30, 2018"
-  url: https://aisummitguild.com
-  status: Registration is open
-
 - name: expo:QA 18
   location: Madrid, Spain
   dates: "June 4-6, 2018"
@@ -118,6 +112,13 @@
   dates: "September 28, 2018"
   url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
   twitter: ministryoftest
+  status: Registration is open
+
+- name: Global Testing Retreat (GTR) 2018
+  location: Pune, India
+  dates: "September 28, 2018"
+  url: http://gtr.agiletestingalliance.org/
+  twitter: TestingRetreat
   status: Registration is open
 
 - name: STARWEST 2018
