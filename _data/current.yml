@@ -170,7 +170,7 @@
   twitter: argentesting
   status: CFP is open
 
-- name: Software-QS-Tag 2018 - Continuous ‚Everything‘
+- name: Software-QS-Tag 2018 - Continuous Everything
   location: Frankfurt on the Main
   dates: "October 18-19, 2018"
   url: https://www.qs-tag.de/en/
@@ -195,6 +195,7 @@
   location: Online
   dates: "October 27-28, 2018"
   url: http://conferenciagiletesters.com
+  status: Registration isn't open
 
 - name: HUSTEF 2018
   location: Budapest, HU
