@@ -79,6 +79,13 @@
   twitter: AST_News
   status: Registration is open
 
+- name: SwanseaCon (IV) 2018
+  location: Swansea, Wales
+  dates: "September 10, 2018"
+  url: https://swanseacon.co.uk?source=testingconferences
+  twitter: swanseacon
+  status: Registration is open
+
 - name: TestBash Germany 2018
   location: Munich, Germany
   dates: "September 14, 2018"
