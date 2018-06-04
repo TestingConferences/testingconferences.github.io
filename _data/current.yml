@@ -100,6 +100,13 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Global Testing Retreat (GTR) 2018
+  location: Pune, India
+  dates: "September 27, 2018"
+  url: http://gtr.agiletestingalliance.org/
+  twitter: TestingRetreat
+  status: Registration is open
+
 - name: SEETEST 2018 Conference
   location: Belgrade, Serbia
   dates: "September 27-28, 2018"
@@ -112,13 +119,6 @@
   dates: "September 28, 2018"
   url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
-
-- name: Global Testing Retreat (GTR) 2018
-  location: Pune, India
-  dates: "September 28, 2018"
-  url: http://gtr.agiletestingalliance.org/
-  twitter: TestingRetreat
   status: Registration is open
 
 - name: STARWEST 2018
