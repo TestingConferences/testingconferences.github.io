@@ -1,3 +1,15 @@
+- name: Test Leadership Congress
+  location: New York, NY, USA
+  dates: "June 4-6, 2018"
+  url: http://testleadershipcongress-ny.com/
+  twitter: TestMastersAcad
+
+- name: expo:QA 18
+  location: Madrid, Spain
+  dates: "June 4-6, 2018"
+  url: http://www.expoqa.com/
+  twitter: expoqa
+
 - name: AI Summit Guild 2018
   location: Online
   dates: "May 30, 2018"

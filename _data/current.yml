@@ -1,17 +1,3 @@
-- name: expo:QA 18
-  location: Madrid, Spain
-  dates: "June 4-6, 2018"
-  url: http://www.expoqa.com/
-  twitter: expoqa
-  status: Registration is open
-
-- name: Test Leadership Congress
-  location: New York, NY, USA
-  dates: "June 4-6, 2018"
-  url: http://testleadershipcongress-ny.com/
-  twitter: TestMastersAcad
-  status: Registration is open
-
 - name: Nordic Testing Days (NTD) 2018
   location: Tallinn, Estonia
   dates: "June 6-8, 2018"
