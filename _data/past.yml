@@ -1,3 +1,15 @@
+- name: The Online Testing Conference (OnlineTestConf) 2018
+  location: Online
+  dates: "June 19-20, 2018"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+
+- name: PTM Conf 2018
+  location: Oporto, Portugal
+  dates: "June 16, 2018"
+  url: https://ptmconf.com
+  twitter: 2018Ptm
+
 - name: Software test - From Theory to Practice
   location: Copenhagen, Denmark
   dates: "June 14, 2018"
