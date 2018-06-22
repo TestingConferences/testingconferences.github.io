@@ -62,6 +62,7 @@
   location: Kyiv, Ukraine
   dates: "September 21-22, 2018"
   url: http://qafest.com/indexe.html
+  status: CFP is Open
 
 - name: Targeting Quality (KWSQA) 2018
   location: Kitchener, ON Canada
@@ -240,6 +241,7 @@
   dates: "December 6-7, 2018"
   url: https://heisenbug-moscow.ru/en/
   twitter: HeisenbugConf
+  status: CFP is Open
 
 - name: European Testing Conference 2019
   location: Valencia, Spain
