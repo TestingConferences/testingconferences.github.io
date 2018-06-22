@@ -223,11 +223,18 @@
   twitter: testing_united
   status: Registration is open
 
-- name: TestBash Brighton 2019
-  location: Brighton, UK
-  dates: Not announced yet
-  url: https://ministryoftesting.com/testbash/submit
-  twitter: ministryoftest
+- name: SQA Days-24
+  location: Moscow, Russia
+  dates: "November 23-24, 2018"
+  url: https://sqadays.com/en/index
+  twitter: sqadays
+  status: CFP is Open
+
+- name: European Testing Conference 2019
+  location: Valencia, Spain
+  dates: "February 14-15, 2019"
+  url: http://europeantestingconference.eu/2019/
+  twitter: EuroTestingConf
   status: CFP is Open
 
 - name: SQA Days EU - 1
@@ -235,4 +242,11 @@
   dates: "March 22-23, 2019"
   url: https://sqadays.eu/en/index
   twitter: sqadays
-  status: Registration is open
+  status: CFP is Open
+
+- name: TestBash Brighton 2019
+  location: Brighton, UK
+  dates: "April 5, 2019"
+  url: https://ministryoftesting.com/testbash/submit
+  twitter: ministryoftest
+  status: CFP is Open
