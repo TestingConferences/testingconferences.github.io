@@ -58,6 +58,11 @@
   twitter: testitafrica
   status: Registration is opening soon
 
+- name: QAfest 2018
+  location: Kyiv, Ukraine
+  dates: "September 21-22, 2018"
+  url: http://qafest.com/indexe.html
+
 - name: Targeting Quality (KWSQA) 2018
   location: Kitchener, ON Canada
   dates: "September 24-25, 2018"
@@ -229,6 +234,12 @@
   url: https://sqadays.com/en/index
   twitter: sqadays
   status: CFP is Open
+
+- name: Heisenbug Moscow 2018
+  location: Moscow, Russia
+  dates: "December 6-7, 2018"
+  url: https://heisenbug-moscow.ru/en/
+  twitter: HeisenbugConf
 
 - name: European Testing Conference 2019
   location: Valencia, Spain
