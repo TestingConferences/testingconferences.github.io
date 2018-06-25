@@ -1,3 +1,9 @@
+- name: Testing Guild Conference 2018
+  location: Online
+  dates: "June 20-22, 2018"
+  url: https://guildconferences.com/product/testing-guild-2018-online-ticket/
+  status: Registration is open
+
 - name: Test Automation Day 2018
   location: Rotterdam, the Netherlands
   dates: "June 20-21, 2018"

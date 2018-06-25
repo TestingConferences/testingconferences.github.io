@@ -1,9 +1,3 @@
-- name: Testing Guild Conference 2018
-  location: Online
-  dates: "June 20-22, 2018"
-  url: https://guildconferences.com/product/testing-guild-2018-online-ticket/
-  status: Registration is open
-
 - name: Agile Testing Days USA 2018
   location: Boston, MA, USA
   dates: "June 25-29, 2018"
