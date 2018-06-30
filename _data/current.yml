@@ -1,16 +1,3 @@
-- name: Agile Testing Days USA 2018
-  location: Boston, MA, USA
-  dates: "June 25-29, 2018"
-  url: http://agiletestingdays.us/
-  twitter: AgileTDUSA
-  status: Registration is open
-
-- name: London Tester Gathering Workshops 2018
-  location: London, England
-  dates: "June 28-29, 2018"
-  url: https://ti.to/mot/london-tester-gathering-workshops-2018?source=testingconferences
-  twitter: LTGWorkshops
-
 - name: Selenium Conference India (SeConf) 2018
   location: Bengaluru, India
   dates: "June 28-30, 2018"
