@@ -1,3 +1,9 @@
+- name: Selenium Conference India (SeConf) 2018
+  location: Bengaluru, India
+  dates: "June 28-30, 2018"
+  url: https://2018.seleniumconf.in/
+  twitter: seleniumconf
+
 - name: London Tester Gathering Workshops 2018
   location: London, England
   dates: "June 28-29, 2018"
