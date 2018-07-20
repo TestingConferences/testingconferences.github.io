@@ -227,6 +227,13 @@
   twitter: HeisenbugConf
   status: CFP is Open
 
+- name: Software Quality Days 2019
+  location: Vienna, Austria
+  dates: "January 15-18, 2019"
+  url: https://www.software-quality-days.com/2019
+  twitter: SWQLab
+  status: CFP is Closed, Registration is Open
+
 - name: European Testing Conference 2019
   location: Valencia, Spain
   dates: "February 14-15, 2019"
