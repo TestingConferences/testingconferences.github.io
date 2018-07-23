@@ -117,6 +117,13 @@
   twitter: TestConVilnius
   status: CFP Open until May 30th, 2018
 
+- name: QA & TEST 2018
+  location: Bilbao, Spain
+  dates: "October 17-19, 2018"
+  url: http://qatest.org/
+  twitter: QATestBilbao
+  status: Registration is open
+  
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
   dates: "October 18-19, 2018"
