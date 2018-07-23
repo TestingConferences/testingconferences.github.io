@@ -199,19 +199,18 @@
   twitter: esconfs
   status: Registration is open
 
-- name: Testwarez 2018
-  location: Zakopane, Poland
-  dates: "November 14-16 2018"
-  url: https://www.testwarez.pl/
-  twitter: TestWarez
-  status: n/a
-
 - name: Agile Testing Days (ATD) 2018
   location: Potsdam, Germany
   dates: "November 12-16, 2018"
   url: http://agiletestingdays.com
   twitter: AgileTD
   status: Registration is open
+
+- name: Testwarez 2018
+  location: Zakopane, Poland
+  dates: "November 14-16, 2018"
+  url: https://www.testwarez.pl/
+  twitter: TestWarez
 
 - name: Testing United 2018
   location: Bratislava, Slovakia
