@@ -283,9 +283,16 @@
   twitter: sqadays
   status: CFP is Open
 
+- name: TestBash Essentials 2019
+  location: Brighton, UK
+  dates: "April 3, 2019"
+  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  twitter: ministryoftest
+  status: CFP Open until August 17, 2018
+  
 - name: TestBash Brighton 2019
   location: Brighton, UK
-  dates: "April 5, 2019"
-  url: https://ministryoftesting.com/testbash/submit
+  dates: "April 4-5, 2019"
+  url: https://ministryoftesting.com/news/testbash-brighton-2019
   twitter: ministryoftest
-  status: CFP is Open
+  status: CFP Open until August 17, 2018
