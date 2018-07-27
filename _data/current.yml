@@ -132,12 +132,19 @@
   twitter: techwell
   status: Registration is open
 
+- name: Agile & Automation Days
+  location: Krakow, Poland
+  dates: "October 15-16, 2018"
+  url: http://aadays.pl/
+  twitter: AADaysPoland
+  status: Registration is open
+
 - name: Testcon Vilnius
   location: Vilnius, Lithuania
   dates: "October 16-18, 2018"
   url: http://www.testcon.lt/
   twitter: TestConVilnius
-  status: CFP Open until May 30th, 2018
+  status: Registration is open
 
 - name: QA & TEST 2018
   location: Bilbao, Spain
@@ -289,7 +296,7 @@
   url: https://ministryoftesting.com/news/testbash-brighton-2019
   twitter: ministryoftest
   status: CFP Open until August 17, 2018
-  
+
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: "April 4-5, 2019"
