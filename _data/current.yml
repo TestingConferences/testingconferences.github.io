@@ -261,6 +261,13 @@
   url: https://sqadays.com/en/index
   twitter: sqadays
   status: CFP is Open
+  
+  - name: Fall OnlineTestConf
+  location: Online, Worldwide
+  dates: "November 27-28, 2018"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+  status: CFP is Open, Registration is Open
 
 - name: Heisenbug Moscow 2018
   location: Moscow, Russia
