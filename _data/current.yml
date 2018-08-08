@@ -105,10 +105,10 @@
   twitter: Quest_4_Quality
   status: Registration is open
   
-  name: Luxembourg Software Testing Event 2018
+- name: Luxembourg Software Testing Event 2018
   location: Luxembourg-city, Luxembourg
   dates: "October 4, 2018"
-  url: www.lste.lu
+  url: https://www.lste.lu
   twitter: qleap_sa
   status: Registration is open
 
