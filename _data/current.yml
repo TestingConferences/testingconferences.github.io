@@ -35,7 +35,7 @@
 - name: TestBash Germany 2018
   location: Munich, Germany
   dates: "September 14, 2018"
-  url: https://ti.to/mot/testbash-germany-2018?source=testingconferences
+  url: https://www.ministryoftesting.com/events/testbash-germany-2018
   twitter: ministryoftest
   status: Registration is open
 
@@ -66,7 +66,7 @@
 - name: TestBash Manchester 2018
   location: Manchester, UK
   dates: "September 27, 2018"
-  url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
+  url: https://www.ministryoftesting.com/events/testbash-manchester-2018
   twitter: ministryoftest
   status: Registration is open
 
@@ -87,7 +87,7 @@
 - name: Test.bash() 2018
   location: Manchester, UK
   dates: "September 28, 2018"
-  url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
+  url: https://www.ministryoftesting.com/events/test-dot-bash-2018
   twitter: ministryoftest
   status: Registration is open
 
@@ -184,7 +184,7 @@
 - name: TestBash Australia 2018
   location: Sydney, Australia
   dates: "October 19, 2018"
-  url: https://ti.to/mot/testbash-australia-2018?source=testingconferences
+  url: https://www.ministryoftesting.com/events/testbash-australia-2018
   twitter: ministryoftest
   status: Registration is open
 
@@ -224,7 +224,7 @@
 - name: TestBash San Francisco 2018
   location: San Francisco, CA, USA
   dates: "November 8-9, 2018"
-  url: https://ti.to/mot/testbash-san-francisco-2018?source=testingconferences
+  url: https://www.ministryoftesting.com/events/testbash-san-francisco-2018
   twitter: ministryoftest
   status: Registration is open
 
@@ -304,16 +304,16 @@
   twitter: sqadays
   status: CFP is Open
 
-- name: TestBash Essentials 2019
+- name: TestBash Essentials Brighton 2019
   location: Brighton, UK
   dates: "April 3, 2019"
-  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  url: https://www.ministryoftesting.com/events/testbash-essentials-brighton-2019
   twitter: ministryoftest
   status: CFP Open until August 17, 2018
 
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: "April 4-5, 2019"
-  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2019
   twitter: ministryoftest
   status: CFP Open until August 17, 2018
