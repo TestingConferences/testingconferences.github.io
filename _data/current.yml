@@ -289,13 +289,12 @@
   url: http://europeantestingconference.eu/2019/
   twitter: EuroTestingConf
   status: CFP is Open
-  
-- name: TiCCA19 (Testing in Context Conference Australia)
+
+- name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
   dates: "28 February – 1 March, 2019"
   url: https://www.associationforsoftwaretesting.org/conference/ticca19
   twitter: AST_News
-  status: unknown
 
 - name: SQA Days EU - 1
   location: Riga, Latvia
