@@ -1,20 +1,15 @@
-- name: 2nd IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2018
-  location: Prague, Czech Republic
-  dates: "July 16-20, 2018"
-  url: http://paris.utdallas.edu/cta18/
-
-- name: International Symposium on Software Testing and Analysis (ISSTA) 2018
-  location: Amsterdam, Netherlands
-  dates: "July 16-22, 2018"
-  url: http://conf.researchr.org/home/issta-2018
-  twitter: issta_conf
+- name: Test Automation & Digital QA Summit 2018
+  location: Chicago, IL, USA
+  dates: "August 23, 2018"
+  url: https://www.testingmind.com/event/test-automation-summit-chicago-2018/
+  twitter: testingmindcon
   status: Registration is open
 
-- name: Conference for the Association for Software Testing (CAST) 2018
-  location: Cocoa Beach, FL, USA
-  dates: "August 6-9, 2018"
-  url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
-  twitter: AST_News
+- name: Software Testing Symposium 2018
+  location: Denver, CO, USA
+  dates: "August 28, 2018"
+  url: https://www.testingmind.com/event/software-testing-symposium-denver-2018/
+  twitter: testingmindcon
   status: Registration is open
 
 - name: STeP-IN SUMMIT Bangalore
@@ -22,6 +17,13 @@
   dates: "August 30-31, 2018"
   url: https://stepinsummit.stepinforum.org
   twitter: stepin_forum
+
+- name: Test Automation & Digital QA Summit 2018
+  location: Houston, TX, USA
+  dates: "August 31, 2018"
+  url: https://www.testingmind.com/event/test-automation-summit-chicago-2018/
+  twitter: testingmindcon
+  status: Registration is open
 
 - name: TestBash Germany 2018
   location: Munich, Germany
@@ -96,12 +98,32 @@
   twitter: Quest_4_Quality
   status: Registration is open
 
+- name: Luxembourg Software Testing Event 2018
+  location: Luxembourg-city, Luxembourg
+  dates: "October 4, 2018"
+  url: https://www.lste.lu
+  twitter: qleap_sa
+  status: Registration is open
+
+- name: Test Automation & Digital QA Summit 2018
+  location: Hong Kong, Hong Kong
+  dates: "October 5, 2018"
+  url: https://www.testingmind.com/event/test-automation-summit-hong-kong-2018/
+  twitter: testingmindcon
+  status: Registration is open
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2018
   location: Portland, Oregon, USA
   dates: "October 8-10, 2018"
   url: http://www.pnsqc.org/
   twitter: PNSQC
   status: Registration is open
+
+- name: Software Testing Symposium 2018
+  location: Manila, Philippines
+  dates: "October 12, 2018"
+  twitter: testingmindcon
+  status: Registration TBD
 
 - name: STARCANADA 2018
   location: Toronto, Canada
@@ -110,12 +132,26 @@
   twitter: techwell
   status: Registration is open
 
+- name: Agile & Automation Days
+  location: Krakow, Poland
+  dates: "October 15-16, 2018"
+  url: http://aadays.pl/
+  twitter: AADaysPoland
+  status: Registration is open
+
 - name: Testcon Vilnius
   location: Vilnius, Lithuania
   dates: "October 16-18, 2018"
   url: http://www.testcon.lt/
   twitter: TestConVilnius
-  status: CFP Open until May 30th, 2018
+  status: Registration is open
+
+- name: QA & TEST 2018
+  location: Bilbao, Spain
+  dates: "October 17-19, 2018"
+  url: http://qatest.org/
+  twitter: QATestBilbao
+  status: Registration is open
 
 - name: SeleniumConf (SeConf) Chicago 2018
   location: Chicago, IL, USA
@@ -151,6 +187,13 @@
   url: http://www.stpcon.com/
   twitter: softwaretestpro
   status: Registration is open
+
+- name: Workshop on Performance and Reliability (WOPR) 27
+  location: New York, NY, USA
+  dates: "October 24-26, 2018"
+  url: http://www.performance-workshop.org/wopr27/
+  twitter: WOPR_Workshop
+  status: CFP is open
 
 - name: AgileTesters Conference 2018
   location: Online
@@ -226,6 +269,20 @@
   twitter: sqadays
   status: CFP is Open
 
+- name: Let's Test 2018
+  location: Magaliesburg, South Africa
+  dates: "November 25–27, 2018"
+  url: http://lets-test.com/?page_id=5546
+  twitter: letstest_conf
+  status: Registration open
+
+- name: Fall OnlineTestConf
+  location: Online, Worldwide
+  dates: "November 27-28, 2018"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+  status: CFP is Open, Registration is Open
+
 - name: Heisenbug Moscow 2018
   location: Moscow, Russia
   dates: "December 6-7, 2018"
@@ -238,14 +295,20 @@
   dates: "January 15-18, 2019"
   url: https://www.software-quality-days.com/2019
   twitter: SWQLab
-  status: CFP is Closed, Registration is Open
+  status: Registration is Open
 
 - name: European Testing Conference 2019
   location: Valencia, Spain
   dates: "February 14-15, 2019"
   url: http://europeantestingconference.eu/2019/
   twitter: EuroTestingConf
-  status: CFP is Open
+  status: Registration is Open and CFP is Open until August 19th, 2018
+
+- name: Testing in Context Conference Australia (TiCCA) 19
+  location: Melbourne, Australia
+  dates: "28 February – 1 March, 2019"
+  url: https://www.associationforsoftwaretesting.org/conference/ticca19
+  twitter: AST_News
 
 - name: SQA Days EU - 1
   location: Riga, Latvia
@@ -254,9 +317,16 @@
   twitter: sqadays
   status: CFP is Open
 
+- name: TestBash Essentials 2019
+  location: Brighton, UK
+  dates: "April 3, 2019"
+  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  twitter: ministryoftest
+  status: CFP Open until August 17, 2018
+
 - name: TestBash Brighton 2019
   location: Brighton, UK
-  dates: "April 5, 2019"
-  url: https://ministryoftesting.com/testbash/submit
+  dates: "April 4-5, 2019"
+  url: https://ministryoftesting.com/news/testbash-brighton-2019
   twitter: ministryoftest
-  status: CFP is Open
+  status: CFP Open until August 17, 2018

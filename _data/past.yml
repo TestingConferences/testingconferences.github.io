@@ -1,8 +1,26 @@
+- name: Conference for the Association for Software Testing (CAST) 2018
+  location: Cocoa Beach, FL, USA
+  dates: "August 6-9, 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
+  twitter: AST_News
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2018
+  location: Amsterdam, Netherlands
+  dates: "July 16-22, 2018"
+  url: http://conf.researchr.org/home/issta-2018
+  twitter: issta_conf
+
+- name: 2nd IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2018
+  location: Prague, Czech Republic
+  dates: "July 16-20, 2018"
+  url: http://paris.utdallas.edu/cta18/
+
 - name: Selenium Conference India (SeConf) 2018
   location: Bengaluru, India
   dates: "June 28-30, 2018"
   url: https://2018.seleniumconf.in/
   twitter: seleniumconf
+  video_url: https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRckLp3pVtEQ7HYHaN-M_Zq
 
 - name: London Tester Gathering Workshops 2018
   location: London, England
