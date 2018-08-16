@@ -188,6 +188,12 @@
   twitter: softwaretestpro
   status: Registration is open
 
+- name: Project Quality Day2018
+  location: Ludwigsburg, Germany
+  dates: "October 24, 2018"
+  url: https://www.eclipsecon.org/europe2018/pqd
+  twitter: EclipseCon
+
 - name: Workshop on Performance and Reliability (WOPR) 27
   location: New York, NY, USA
   dates: "October 24-26, 2018"
