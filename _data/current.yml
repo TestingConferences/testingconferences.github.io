@@ -199,21 +199,21 @@
   location: Online
   dates: "October 27-28, 2018"
   url: http://conferenciagiletesters.com
-  status: Registration isn't open
+  status: Registration is open
 
 - name: HUSTEF 2018
   location: Budapest, HU
   dates: "October 29-31, 2018"
   url: http://www.hustef.hu/
   twitter: HunTestingBoard
-  status: CFP is Open
+  status: Registration is open
 
-- name: Belgrade Test Conference
+- name: Belgrade Test Conference 2018
   location: Belgrade, Serbia
-  dates: "November 5-6, 2018"
+  dates: "November 7-10, 2018"
   url: https://bg-testconference.rs/
   twitter: BGTestConf
-  status: CFP is open until July 9th, 2018
+  status: Registration is open
 
 - name: Agile Testing & BDD eXchange 2018
   location: London, UK
@@ -274,7 +274,7 @@
   dates: "November 25–27, 2018"
   url: http://lets-test.com/?page_id=5546
   twitter: letstest_conf
-  status: Registration open
+  status: Registration is open
 
 - name: Fall OnlineTestConf
   location: Online, Worldwide
@@ -288,7 +288,14 @@
   dates: "December 6-7, 2018"
   url: https://heisenbug-moscow.ru/en/
   twitter: HeisenbugConf
-  status: CFP is Open
+  status: Registration is open
+
+- name: STC 2018
+  location: Bangalore, India
+  dates: "December 6-7, 2018"
+  url: http://www.qaistc.com/2018/
+  twitter: QAISTC
+  status: CFP closes August 30th
 
 - name: Software Quality Days 2019
   location: Vienna, Austria
