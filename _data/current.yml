@@ -188,6 +188,13 @@
   twitter: softwaretestpro
   status: Registration is open
 
+- name: Workshop on Performance and Reliability (WOPR) 27
+  location: New York, NY, USA
+  dates: "October 24-26, 2018"
+  url: http://www.performance-workshop.org/wopr27/
+  twitter: WOPR_Workshop
+  status: CFP is open
+
 - name: AgileTesters Conference 2018
   location: Online
   dates: "October 27-28, 2018"
