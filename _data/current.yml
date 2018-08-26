@@ -249,6 +249,13 @@
   twitter: esconfs
   status: Registration is open
 
+- name: Testing and Fuzzing Microconference (Linux Plumbers Conference)
+  location: Vancouver, BC, Canada
+  dates: "November 13-15, 2018"
+  url: http://blog.linuxplumbersconf.org/2018/testing-and-fuzzing-mc/
+  twitter: linuxplumbers
+  status: Registration is open
+
 - name: Agile Testing Days (ATD) 2018
   location: Potsdam, Germany
   dates: "November 12-16, 2018"
