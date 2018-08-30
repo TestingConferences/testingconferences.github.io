@@ -302,7 +302,6 @@
   dates: "December 6-7, 2018"
   url: http://www.qaistc.com/2018/
   twitter: QAISTC
-  status: CFP closes August 30th
 
 - name: Software Quality Days 2019
   location: Vienna, Austria
@@ -337,14 +336,19 @@
   dates: "April 3, 2019"
   url: https://ministryoftesting.com/news/testbash-brighton-2019
   twitter: ministryoftest
-  status: CFP Open until August 17, 2018
 
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: "April 4-5, 2019"
   url: https://ministryoftesting.com/news/testbash-brighton-2019
   twitter: ministryoftest
-  status: CFP Open until August 17, 2018
+
+- name: SeleniumConf (SeConf) Tokyo 2019
+  location: Funabori, Tokyo, Japan
+  dates: "April 18-19, 20198"
+  url: https://conf.selenium.jp/
+  twitter: seleniumconf
+  status: CFP is upcoming
 
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
