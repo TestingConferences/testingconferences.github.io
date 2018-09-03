@@ -306,7 +306,7 @@
 
 - name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
-  dates: "28 February – 1 March, 2019"
+  dates: "February 28 – March 1, 2019"
   url: https://www.associationforsoftwaretesting.org/conference/ticca19
   twitter: AST_News
   status: CFP Open until October 31, 2018
@@ -332,10 +332,17 @@
 
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
-  dates: "April 18-19, 20198"
+  dates: "April 18-19, 2019"
   url: https://conf.selenium.jp/
   twitter: seleniumconf
   status: CFP is upcoming
+
+- name: STAREAST
+  location: Orlando, Florida, USA
+  dates: "April 28 - May 3, 2019"
+  url: https://stareast.techwell.com/speak-stareast
+  twitter: TechWell
+  status: CFP is Open
 
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
@@ -343,3 +350,10 @@
   url: https://ministryoftesting.com/news/testbash-netherlands-2019
   twitter: ministryoftest
   status: CFP Open until October 14, 2018
+
+- name: Agile + DevOps West
+  location: Las Vegas, Nevada, USA
+  dates: "June 2-7, 2019"
+  url: https://agiledevopswest.techwell.com/speak-agile-devops-west
+  twitter: TechWell
+  status: CFP is Open
