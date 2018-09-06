@@ -339,7 +339,7 @@
 
 - name: STAREAST
   location: Orlando, Florida, USA
-  dates: "April 28 - May 3, 2019"
+  dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast
   twitter: TechWell
   status: CFP is Open
@@ -350,6 +350,13 @@
   url: https://ministryoftesting.com/news/testbash-netherlands-2019
   twitter: ministryoftest
   status: CFP Open until October 14, 2018
+
+- name: Nordic Testing Days (NTD) 2019
+  location: Tallinn, Estonia
+  dates: "May 29-31, 2019"
+  url: http://nordictestingdays.eu/
+  twitter: nordictestdays
+  status: CFP Open until November 18, 2018
 
 - name: Agile + DevOps West
   location: Las Vegas, Nevada, USA
