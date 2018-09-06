@@ -337,6 +337,13 @@
   twitter: seleniumconf
   status: CFP is upcoming
 
+- name: SauceCon 2019
+  location: Austin, TX, USA
+  dates: "April 24-25, 2019"
+  url: http://saucecon.com/
+  twitter: saucelabs
+  status: CFP Open until November 3, 2018
+
 - name: STAREAST
   location: Orlando, Florida, USA
   dates: "April 28-May 3, 2019"
