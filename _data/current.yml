@@ -182,6 +182,13 @@
   twitter: WOPR_Workshop
   status: CFP is open
 
+- name: SoftTest Ireland 2018
+  location: Dublin, Ireland
+  dates: "October 25, 2018"
+  url: http://softtest.ie/softtest-2018-conference/
+  twitter: SoftTestIreland
+  status: Registration is open
+
 - name: AgileTesters Conference 2018
   location: Online
   dates: "October 27-28, 2018"
