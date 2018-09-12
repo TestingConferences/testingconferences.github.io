@@ -85,6 +85,18 @@
   twitter: Sogeti_NL
   status: Registration is open
 
+- name: TestExpo 2018
+  location: London, UK
+  dates: "October 4, 2018"
+  url: http://testexpo.co.uk/2018/
+  status: Registration is open
+
+- name: Enterprise AI: It's Impact on Development and Testing 2018
+  location: London, UK
+  dates: "October 4, 2018"
+  url: http://conference.unicom.co.uk/enterprise-ai/2018/london/
+  status: Registration is open
+
 - name: Test Automation & Digital QA Summit 2018
   location: Hong Kong, Hong Kong
   dates: "October 5, 2018"
@@ -260,6 +272,12 @@
   dates: "November 19-20, 2018"
   url: https://testingunited.com
   twitter: testing_united
+  status: Registration is open
+
+- name: Agile, Testing & DevOps Showcase 2018
+  location: Amsterdam, NL
+  dates: "November 22, 2018"
+  url: http://conference.unicom.co.uk/showcases/2018/amsterdam/
   status: Registration is open
 
 - name: SQA Days-24
