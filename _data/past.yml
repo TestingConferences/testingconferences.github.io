@@ -1,3 +1,9 @@
+- name: TestBash Germany 2018
+  location: Munich, Germany
+  dates: "September 14, 2018"
+  url: https://ti.to/mot/testbash-germany-2018?source=testingconferences
+  twitter: ministryoftest
+
 - name: Test Automation & Digital QA Summit 2018
   location: Houston, TX, USA
   dates: "August 31, 2018"
