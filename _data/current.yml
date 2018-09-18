@@ -321,6 +321,13 @@
   twitter: SWQLab
   status: Registration is Open
 
+- name: Automation Guild Online Conference 2019
+  location: Online
+  dates: "February 4-6, 2019"
+  url: https://automationguild.com/
+  twitter: AutomationGuild
+  status: CFP is Open until Sep 21, 2018
+
 - name: European Testing Conference 2019
   location: Valencia, Spain
   dates: "February 14-15, 2019"
