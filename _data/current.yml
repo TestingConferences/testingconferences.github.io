@@ -1,15 +1,8 @@
-- name: TEST-IT AFRICA International Conference
-  location: Johannesburg and Cape Town (South Africa)
-  dates: "September 17-21, 2018"
-  url: http://testitafrica.com/
-  twitter: testitafrica
-  status: Registration is opening soon
-
 - name: QAfest 2018
   location: Kyiv, Ukraine
   dates: "September 21-22, 2018"
   url: http://qafest.com/indexe.html
-  status: CFP is Open
+  status: Registration is open
 
 - name: Cambridge Exploratory Workshop on Testing #6
   location: Cambridge, UK
