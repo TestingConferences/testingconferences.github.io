@@ -1,9 +1,3 @@
-- name: Targeting Quality (KWSQA) 2018
-  location: Kitchener, ON Canada
-  dates: "September 24-25, 2018"
-  url: http://kwsqa.org/tq2018/
-  twitter: KWSQA
-
 - name: TestBash Manchester 2018
   location: Manchester, UK
   dates: "September 27, 2018"
