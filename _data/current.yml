@@ -1,17 +1,3 @@
-- name: SEETEST 2018 Conference
-  location: Belgrade, Serbia
-  dates: "September 27-28, 2018"
-  url: https://seetest.org/
-  twitter: SEETESTConf
-  status: Registration is open
-
-- name: Test.bash() 2018
-  location: Manchester, UK
-  dates: "September 28, 2018"
-  url: https://ti.to/mot/testbash-manchester-2018?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: STARWEST 2018
   location: Anaheim, CA, USA
   dates: "September 30-October 5, 2018"
