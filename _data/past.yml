@@ -1,3 +1,31 @@
+- name: Luxembourg Software Testing Event 2018
+  location: Luxembourg-city, Luxembourg
+  dates: "October 4, 2018"
+  url: https://www.lste.lu
+  twitter: qleap_sa
+
+- name: Quality Experience Day 2018
+  location: Maarssen (Utrecht), Netherlands
+  dates: "October 4, 2018"
+  url: https://www.sogeti.nl/events/quality-experience-day-2018
+  twitter: Sogeti_NL
+
+- name: TestExpo 2018
+  location: London, UK
+  dates: "October 4, 2018"
+  url: http://testexpo.co.uk/2018/
+
+- name: Enterprise AI - It's Impact on Development and Testing 2018
+  location: London, UK
+  dates: "October 4, 2018"
+  url: http://conference.unicom.co.uk/enterprise-ai/2018/london/
+
+- name: Quest for Quality 2018
+  location: Dublin, Ireland
+  dates: "October 3-4, 2018"
+  url: http://questforquality.eu/
+  twitter: Quest_4_Quality
+
 - name: Test.bash() 2018
   location: Manchester, UK
   dates: "September 28, 2018"

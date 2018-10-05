@@ -5,39 +5,6 @@
   twitter: techwell
   status: Registration is open
 
-- name: Quest for Quality 2018
-  location: Dublin, Ireland
-  dates: "October 3-4, 2018"
-  url: http://questforquality.eu/
-  twitter: Quest_4_Quality
-  status: Registration is open
-
-- name: Luxembourg Software Testing Event 2018
-  location: Luxembourg-city, Luxembourg
-  dates: "October 4, 2018"
-  url: https://www.lste.lu
-  twitter: qleap_sa
-  status: Registration is open
-
-- name: Quality Experience Day 2018
-  location: Maarssen (Utrecht), Netherlands
-  dates: "October 4, 2018"
-  url: https://www.sogeti.nl/events/quality-experience-day-2018
-  twitter: Sogeti_NL
-  status: Registration is open
-
-- name: TestExpo 2018
-  location: London, UK
-  dates: "October 4, 2018"
-  url: http://testexpo.co.uk/2018/
-  status: Registration is open
-
-- name: Enterprise AI - It's Impact on Development and Testing 2018
-  location: London, UK
-  dates: "October 4, 2018"
-  url: http://conference.unicom.co.uk/enterprise-ai/2018/london/
-  status: Registration is open
-
 - name: Test Automation & Digital QA Summit 2018
   location: Hong Kong, Hong Kong
   dates: "October 5, 2018"
