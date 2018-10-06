@@ -1,3 +1,9 @@
+- name: Test Automation & Digital QA Summit 2018
+  location: Hong Kong, Hong Kong
+  dates: "October 5, 2018"
+  url: https://www.testingmind.com/event/test-automation-summit-hong-kong-2018/
+  twitter: testingmindcon
+
 - name: Luxembourg Software Testing Event 2018
   location: Luxembourg-city, Luxembourg
   dates: "October 4, 2018"
@@ -25,6 +31,12 @@
   dates: "October 3-4, 2018"
   url: http://questforquality.eu/
   twitter: Quest_4_Quality
+
+- name: STARWEST 2018
+  location: Anaheim, CA, USA
+  dates: "September 30-October 5, 2018"
+  url: https://starwest.techwell.com/
+  twitter: techwell
 
 - name: Test.bash() 2018
   location: Manchester, UK

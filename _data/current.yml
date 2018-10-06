@@ -1,17 +1,3 @@
-- name: STARWEST 2018
-  location: Anaheim, CA, USA
-  dates: "September 30-October 5, 2018"
-  url: https://starwest.techwell.com/
-  twitter: techwell
-  status: Registration is open
-
-- name: Test Automation & Digital QA Summit 2018
-  location: Hong Kong, Hong Kong
-  dates: "October 5, 2018"
-  url: https://www.testingmind.com/event/test-automation-summit-hong-kong-2018/
-  twitter: testingmindcon
-  status: Registration is open
-
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2018
   location: Portland, Oregon, USA
   dates: "October 8-10, 2018"
