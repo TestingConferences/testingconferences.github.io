@@ -86,7 +86,6 @@
   dates: "October 24-26, 2018"
   url: http://www.performance-workshop.org/wopr27/
   twitter: WOPR_Workshop
-  status: CFP is open
 
 - name: SoftTest Ireland 2018
   location: Dublin, Ireland
@@ -221,7 +220,6 @@
   dates: "February 4-6, 2019"
   url: https://automationguild.com/
   twitter: AutomationGuild
-  status: CFP is Open until Sep 21, 2018
 
 - name: European Testing Conference 2019
   location: Valencia, Spain
@@ -276,7 +274,7 @@
   twitter: saucelabs
   status: CFP Open until November 3, 2018
 
-- name: STAREAST
+- name: STAREAST 2019
   location: Orlando, Florida, USA
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast
@@ -297,14 +295,7 @@
   twitter: nordictestdays
   status: CFP Open until November 18, 2018
 
-- name: Agile + DevOps West
-  location: Las Vegas, Nevada, USA
-  dates: "June 2-7, 2019"
-  url: https://agiledevopswest.techwell.com/speak-agile-devops-west
-  twitter: TechWell
-  status: CFP is Open
-
-- name: Romanian Testing Conference
+- name: Romanian Testing Conference (RTC) 2019
   location: Cluj-Napoca, Romania
   dates: "June 12-14, 2019"
   url: https://www.romaniatesting.ro
