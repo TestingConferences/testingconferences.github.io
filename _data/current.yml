@@ -10,7 +10,7 @@
   dates: "October 12, 2018"
   url: https://www.testingmind.com/event/software-testing-symposium-manila-2018/
   twitter: testingmindcon
-  status: Registration TBD
+  status: Registration is open
 
 - name: STARCANADA 2018
   location: Toronto, Canada
@@ -52,7 +52,7 @@
   dates: "October 18-19, 2018"
   url: https://argentesting.com/
   twitter: argentesting
-  status: CFP is open
+  status: Registration is open
 
 - name: Software-QS-Tag 2018 - Continuous Everything
   location: Frankfurt on the Main
@@ -80,6 +80,7 @@
   dates: "October 24, 2018"
   url: https://www.eclipsecon.org/europe2018/pqd
   twitter: EclipseCon
+  status: Registration is open
 
 - name: Workshop on Performance and Reliability (WOPR) 27
   location: New York, NY, USA
