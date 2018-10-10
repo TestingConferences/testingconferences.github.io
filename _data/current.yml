@@ -252,14 +252,16 @@
 - name: TestBash Essentials 2019
   location: Brighton, UK
   dates: "April 3, 2019"
-  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
   twitter: ministryoftest
+  status: Registration is open
 
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: "April 4-5, 2019"
-  url: https://ministryoftesting.com/news/testbash-brighton-2019
+  url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
   twitter: ministryoftest
+  status: Registration is open
 
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
