@@ -266,8 +266,8 @@
 - name: ConSelenium 2019
   location: Łódź, PL
   dates: "April 4-5, 2019"
-  url: https://http://conselenium.pl/
-  status: CfP is open
+  url: http://conselenium.pl/
+  status: CFP is open
 
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
