@@ -262,6 +262,12 @@
   url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
   twitter: ministryoftest
   status: Registration is open
+  
+- name: ConSelenium 2019
+  location: Łódź, PL
+  dates: "April 4-5, 2019"
+  url: http://conselenium.pl/
+  status: CFP is open
 
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
