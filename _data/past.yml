@@ -1,3 +1,15 @@
+- name: Software Testing Symposium 2018
+  location: Manila, Philippines
+  dates: "October 12, 2018"
+  url: https://www.testingmind.com/event/software-testing-symposium-manila-2018/
+  twitter: testingmindcon
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2018
+  location: Portland, Oregon, USA
+  dates: "October 8-10, 2018"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
+
 - name: Test Automation & Digital QA Summit 2018
   location: Hong Kong, Hong Kong
   dates: "October 5, 2018"
