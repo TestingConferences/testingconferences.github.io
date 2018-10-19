@@ -1,3 +1,9 @@
+- name: Testcon Vilnius
+  location: Vilnius, Lithuania
+  dates: "October 16-18, 2018"
+  url: http://www.testcon.lt/
+  twitter: TestConVilnius
+
 - name: Agile & Automation Days
   location: Krakow, Poland
   dates: "October 15-16, 2018"
