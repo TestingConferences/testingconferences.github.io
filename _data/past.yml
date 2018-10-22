@@ -1,3 +1,39 @@
+- name: TestBash Australia 2018
+  location: Sydney, Australia
+  dates: "October 19, 2018"
+  url: https://ti.to/mot/testbash-australia-2018?source=testingconferences
+  twitter: ministryoftest
+
+- name: Software-QS-Tag 2018 - Continuous Everything
+  location: Frankfurt on the Main
+  dates: "October 18-19, 2018"
+  url: https://www.qs-tag.de/en/
+  twitter: SoftwareQSTag
+
+- name: Argentesting 2018
+  location: Buenos Aires, Argentina
+  dates: "October 18-19, 2018"
+  url: https://argentesting.com/
+  twitter: argentesting
+
+- name: SeleniumConf (SeConf) Chicago 2018
+  location: Chicago, IL, USA
+  dates: "October 18-19, 2018"
+  url: http://seleniumconf.us/
+  twitter: seleniumconf
+
+- name: QA & TEST 2018
+  location: Bilbao, Spain
+  dates: "October 17-19, 2018"
+  url: http://qatest.org/
+  twitter: QATestBilbao
+
+- name: STARCANADA 2018
+  location: Toronto, Canada
+  dates: "October 14-19, 2018"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+
 - name: Testcon Vilnius
   location: Vilnius, Lithuania
   dates: "October 16-18, 2018"
