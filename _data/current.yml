@@ -118,6 +118,13 @@
   url: http://lets-test.com/?page_id=5546
   twitter: letstest_conf
   status: Registration is open
+  
+- name: Spanish Test Academy
+  location: Madrid, Spain
+  dates: "November 27, 2018"
+  url: http://www.spanishtestacademy.com/madrid/index.html
+  twitter: expoQA
+  status: Registration is Open
 
 - name: Fall OnlineTestConf
   location: Online, Worldwide
@@ -145,7 +152,14 @@
   url: https://www.software-quality-days.com/2019
   twitter: SWQLab
   status: Registration is Open
-
+  
+- name: Spanish Test Academy
+  location: Valencia, Spain
+  dates: "January 30, 2019"
+  url: http://www.spanishtestacademy.com/valencia/index.html
+  twitter: expoQA
+  status: Registration is Open
+  
 - name: Automation Guild Online Conference 2019
   location: Online
   dates: "February 4-6, 2019"
@@ -178,6 +192,13 @@
   url: https://sqadays.eu/en/index
   twitter: sqadays
   status: CFP is Open
+  
+- name: Spanish Test Academy
+  location: Barcelona, Spain
+  dates: "March 27, 2019"
+  url: http://www.spanishtestacademy.com/barcelona/index.html
+  twitter: expoQA
+  status: Registration is Open
 
 - name: TestBash Essentials 2019
   location: Brighton, UK
@@ -247,6 +268,13 @@
   url: https://www.romaniatesting.ro
   twitter: romaniatesting
   status: CFP is Open until November 25, 2018
+  
+- name: expo:QA'19
+  location: Madrid, Spain
+  dates: "June 17-19, 2019"
+  url: http://www.expoqa.com
+  twitter: expoQA
+  status: CFP is Open until December 21, 2018
 
 - name: Agile Testing Days USA 2019
   location: Chicago, IL, USA
