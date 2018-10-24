@@ -118,7 +118,7 @@
   url: http://lets-test.com/?page_id=5546
   twitter: letstest_conf
   status: Registration is open
-  
+
 - name: Spanish Test Academy
   location: Madrid, Spain
   dates: "November 27, 2018"
@@ -152,14 +152,14 @@
   url: https://www.software-quality-days.com/2019
   twitter: SWQLab
   status: Registration is Open
-  
+
 - name: Spanish Test Academy
   location: Valencia, Spain
   dates: "January 30, 2019"
   url: http://www.spanishtestacademy.com/valencia/index.html
   twitter: expoQA
   status: Registration is Open
-  
+
 - name: Automation Guild Online Conference 2019
   location: Online
   dates: "February 4-6, 2019"
@@ -186,13 +186,19 @@
   twitter: AST_News
   status: CFP Open until October 31, 2018
 
+- name: Swiss Testing Day 2019
+  location: Zurich, Switzerland
+  dates: "March 20, 2019"
+  url: http://swisstestingday.ch/
+  twitter: SwissTesting
+
 - name: SQA Days EU - 1
   location: Riga, Latvia
   dates: "March 22-23, 2019"
   url: https://sqadays.eu/en/index
   twitter: sqadays
   status: CFP is Open
-  
+
 - name: Spanish Test Academy
   location: Barcelona, Spain
   dates: "March 27, 2019"
@@ -268,7 +274,7 @@
   url: https://www.romaniatesting.ro
   twitter: romaniatesting
   status: CFP is Open until November 25, 2018
-  
+
 - name: expo:QA'19
   location: Madrid, Spain
   dates: "June 17-19, 2019"
