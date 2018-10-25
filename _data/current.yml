@@ -5,13 +5,6 @@
   twitter: softwaretestpro
   status: Registration is open
 
-- name: Project Quality Day 2018
-  location: Ludwigsburg, Germany
-  dates: "October 24, 2018"
-  url: https://www.eclipsecon.org/europe2018/pqd
-  twitter: EclipseCon
-  status: Registration is open
-
 - name: Workshop on Performance and Reliability (WOPR) 27
   location: New York, NY, USA
   dates: "October 24-26, 2018"
@@ -239,7 +232,7 @@
   url: https://testistanbul.org/
   twitter: testistanbul
   status: Registration is open
-  
+
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
   dates: "April 18-19, 2019"
