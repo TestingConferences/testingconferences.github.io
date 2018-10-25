@@ -233,6 +233,13 @@
   twitter: ieeeai
   status: CFP is Open
 
+- name: TestIstanbul 2019
+  location: Istanbul, Turkey
+  dates: "April 16, 2019"
+  url: https://testistanbul.org/
+  twitter: testistanbul
+  status: Registration is open
+  
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
   dates: "April 18-19, 2019"
