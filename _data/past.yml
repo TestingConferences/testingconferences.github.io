@@ -1,8 +1,20 @@
+- name: SoftTest Ireland 2018
+  location: Dublin, Ireland
+  dates: "October 25, 2018"
+  url: http://softtest.ie/softtest-2018-conference/
+  twitter: SoftTestIreland
+
 - name: Project Quality Day 2018
   location: Ludwigsburg, Germany
   dates: "October 24, 2018"
   url: https://www.eclipsecon.org/europe2018/pqd
   twitter: EclipseCon
+
+- name: Software Test Professionals (STPCon) Fall 2018
+  location: Washington, DC, USA
+  dates: "October 22-25, 2018"
+  url: http://www.stpcon.com/
+  twitter: softwaretestpro
 
 - name: TestBash Australia 2018
   location: Sydney, Australia

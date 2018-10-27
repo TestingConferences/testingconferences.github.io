@@ -1,22 +1,8 @@
-- name: Software Test Professionals (STPCon) Fall 2018
-  location: Washington, DC, USA
-  dates: "October 22-25, 2018"
-  url: http://www.stpcon.com/
-  twitter: softwaretestpro
-  status: Registration is open
-
 - name: Workshop on Performance and Reliability (WOPR) 27
   location: New York, NY, USA
   dates: "October 24-26, 2018"
   url: http://www.performance-workshop.org/wopr27/
   twitter: WOPR_Workshop
-
-- name: SoftTest Ireland 2018
-  location: Dublin, Ireland
-  dates: "October 25, 2018"
-  url: http://softtest.ie/softtest-2018-conference/
-  twitter: SoftTestIreland
-  status: Registration is open
 
 - name: AgileTesters Conference 2018
   location: Online
