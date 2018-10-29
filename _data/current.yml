@@ -1,15 +1,3 @@
-- name: Workshop on Performance and Reliability (WOPR) 27
-  location: New York, NY, USA
-  dates: "October 24-26, 2018"
-  url: http://www.performance-workshop.org/wopr27/
-  twitter: WOPR_Workshop
-
-- name: AgileTesters Conference 2018
-  location: Online
-  dates: "October 27-28, 2018"
-  url: http://conferenciagiletesters.com
-  status: Registration is open
-
 - name: HUSTEF 2018
   location: Budapest, HU
   dates: "October 29-31, 2018"
