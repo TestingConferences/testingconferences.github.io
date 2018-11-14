@@ -1,3 +1,20 @@
+- name: TestBash San Francisco 2018
+  location: San Francisco, CA, USA
+  dates: "November 8-9, 2018"
+  url: https://ti.to/mot/testbash-san-francisco-2018?source=testingconferences
+  twitter: ministryoftest
+
+- name: Agile Testing & BDD eXchange 2018
+  location: London, UK
+  dates: "November 8-9, 2018"
+  url: https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018
+
+- name: Belgrade Test Conference 2018
+  location: Belgrade, Serbia
+  dates: "November 7-10, 2018"
+  url: https://bg-testconference.rs/
+  twitter: BGTestConf
+
 - name: HUSTEF 2018
   location: Budapest, HU
   dates: "October 29-31, 2018"
