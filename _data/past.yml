@@ -1,3 +1,9 @@
+- name: Testing United 2018
+  location: Bratislava, Slovakia
+  dates: "November 19-20, 2018"
+  url: https://testingunited.com
+  twitter: testing_united
+
 - name: Testwarez 2018
   location: Zakopane, Poland
   dates: "November 14-16, 2018"
