@@ -181,6 +181,13 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: Secure Guild Online Conference 2019
+  location: Online
+  dates: "May 23-24, 2019"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSd6QiwmvuPTA8opCqEnP5FUMPkCT5Fz7ef-1P944f8rjFw2tg/viewform
+  twitter: AutomationGuild
+  status: CFP is open
+
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
   dates: "May 29-31, 2019"
