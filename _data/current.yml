@@ -1,22 +1,8 @@
-- name: Agile, Testing & DevOps Showcase 2018
-  location: Amsterdam, NL
-  dates: "November 22, 2018"
-  url: http://conference.unicom.co.uk/showcases/2018/amsterdam/
-  status: Registration is open
-
-- name: SQA Days-24
-  location: Moscow, Russia
-  dates: "November 23-24, 2018"
-  url: https://sqadays.com/en/index
-  twitter: sqadays
-  status: CFP is Open
-
 - name: Let's Test 2018
   location: Magaliesburg, South Africa
   dates: "November 25–27, 2018"
   url: http://lets-test.com/?page_id=5546
   twitter: letstest_conf
-  status: Registration is open
 
 - name: Spanish Test Academy
   location: Madrid, Spain
@@ -64,6 +50,7 @@
   dates: "February 4-6, 2019"
   url: https://automationguild.com/
   twitter: AutomationGuild
+  status: Registration is Open
 
 - name: European Testing Conference 2019
   location: Valencia, Spain
@@ -76,7 +63,6 @@
   location: Valencia, Spain
   dates: "February 16, 2019"
   twitter: maaretp
-  status: Applications being accepted until end Octoer 31, 2018
 
 - name: QA or the Highway 2019
   location: Columbus, Oh, USA
@@ -88,7 +74,7 @@
 - name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
   dates: "February 28 – March 1, 2019"
-  url: https://www.associationforsoftwaretesting.org/conference/ticca19
+  url: https://www.associationforsoftwaretesting.org/conference/ticca19/ticca19-registration?utm_source=testingconferences
   twitter: AST_News
   status: Registration is Open
 
@@ -221,7 +207,7 @@
   dates: "June 23-28, 2019"
   url: http://agiletestingdays.us/
   twitter: AgileTDUSA
-  status: CFP is Open until November 18, 2018
+  status: CFP is Closed
 
 - name: Conference for the Association for Software Testing (CAST) 2019
   location: Cocoa Beach, FL, USA
