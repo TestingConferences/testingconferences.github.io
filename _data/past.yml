@@ -1,3 +1,14 @@
+- name: SQA Days-24
+  location: Moscow, Russia
+  dates: "November 23-24, 2018"
+  url: https://sqadays.com/en/index
+  twitter: sqadays
+
+- name: Agile, Testing & DevOps Showcase 2018
+  location: Amsterdam, NL
+  dates: "November 22, 2018"
+  url: http://conference.unicom.co.uk/showcases/2018/amsterdam/
+
 - name: Testing United 2018
   location: Bratislava, Slovakia
   dates: "November 19-20, 2018"
