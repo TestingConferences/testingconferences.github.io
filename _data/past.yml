@@ -1,3 +1,15 @@
+- name: Spanish Test Academy
+  location: Madrid, Spain
+  dates: "November 27, 2018"
+  url: http://www.spanishtestacademy.com/madrid/index.html
+  twitter: expoQA
+
+- name: Let's Test 2018
+  location: Magaliesburg, South Africa
+  dates: "November 25–27, 2018"
+  url: http://lets-test.com/?page_id=5546
+  twitter: letstest_conf
+
 - name: SQA Days-24
   location: Moscow, Russia
   dates: "November 23-24, 2018"

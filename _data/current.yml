@@ -1,16 +1,3 @@
-- name: Let's Test 2018
-  location: Magaliesburg, South Africa
-  dates: "November 25–27, 2018"
-  url: http://lets-test.com/?page_id=5546
-  twitter: letstest_conf
-
-- name: Spanish Test Academy
-  location: Madrid, Spain
-  dates: "November 27, 2018"
-  url: http://www.spanishtestacademy.com/madrid/index.html
-  twitter: expoQA
-  status: Registration is Open
-
 - name: Fall OnlineTestConf
   location: Online, Worldwide
   dates: "November 27-28, 2018"
@@ -215,7 +202,7 @@
   url: https://www.associationforsoftwaretesting.org/conference/cast2019/
   twitter: AST_News
   status: CFP is Open until February 10, 2019
-  
+
 - name: TestBash Germany 2019
   location: Munich, Germany
   dates: "September 12-13, 2019"
