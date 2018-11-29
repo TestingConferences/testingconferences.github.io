@@ -1,3 +1,9 @@
+- name: Fall OnlineTestConf
+  location: Online, Worldwide
+  dates: "November 27-28, 2018"
+  url: http://www.onlinetestconf.com/
+  twitter: onlinetestconf
+
 - name: Spanish Test Academy
   location: Madrid, Spain
   dates: "November 27, 2018"
