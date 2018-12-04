@@ -19,13 +19,6 @@
   twitter: SWQLab
   status: Registration is Open
 
-- name: Spanish Test Academy
-  location: Valencia, Spain
-  dates: "January 30, 2019"
-  url: http://www.spanishtestacademy.com/valencia/index.html
-  twitter: expoQA
-  status: Registration is Open
-
 - name: Automation Guild Online Conference 2019
   location: Online
   dates: "February 4-6, 2019"
@@ -112,6 +105,13 @@
   url: http://www.ieeeaitests.com/
   twitter: ieeeai
   status: CFP is Open
+
+- name: Spanish Test Academy
+  location: Valencia, Spain
+  dates: "April 10, 2019"
+  url: http://www.spanishtestacademy.com/valencia/index.html
+  twitter: expoQA
+  status: Registration is Open
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
