@@ -1,17 +1,3 @@
-- name: Heisenbug Moscow 2018
-  location: Moscow, Russia
-  dates: "December 6-7, 2018"
-  url: https://heisenbug-moscow.ru/en/
-  twitter: HeisenbugConf
-  status: Registration is Open
-
-- name: STC 2018
-  location: Bangalore, India
-  dates: "December 6-7, 2018"
-  url: http://www.qaistc.com/2018/
-  twitter: QAISTC
-  status: Registration is Open
-
 - name: Software Quality Days 2019
   location: Vienna, Austria
   dates: "January 15-18, 2019"

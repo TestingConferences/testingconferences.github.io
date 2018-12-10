@@ -1,3 +1,15 @@
+- name: Heisenbug Moscow 2018
+  location: Moscow, Russia
+  dates: "December 6-7, 2018"
+  url: https://heisenbug-moscow.ru/en/
+  twitter: HeisenbugConf
+
+- name: STC 2018
+  location: Bangalore, India
+  dates: "December 6-7, 2018"
+  url: http://www.qaistc.com/2018/
+  twitter: QAISTC
+
 - name: Fall OnlineTestConf
   location: Online, Worldwide
   dates: "November 27-28, 2018"
