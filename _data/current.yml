@@ -126,6 +126,13 @@
   url: https://stareast.techwell.com/speak-stareast
   twitter: TechWell
   status: CFP is Open
+  
+  - name: WeTest.Athens 2019
+  location: Athens, Greece, GR
+  dates: "May 17, 2019"
+  url: https://wetest-athens.gr/
+  twitter: WetestA
+  status: Registration starts December 15
 
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
