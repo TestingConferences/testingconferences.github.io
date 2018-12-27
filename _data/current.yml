@@ -111,7 +111,7 @@
   dates: "April 18-19, 2019"
   url: https://conf.selenium.jp/
   twitter: seleniumconf
-  status: CFP Open until December 14, 2018
+  status: Registration is open
 
 - name: SauceCon 2019
   location: Austin, TX, USA
@@ -126,13 +126,13 @@
   url: https://stareast.techwell.com/speak-stareast
   twitter: TechWell
   status: CFP is Open
-  
+
 - name: WeTest.Athens 2019
   location: Athens, Greece, GR
   dates: "May 17, 2019"
   url: https://wetest-athens.gr/
   twitter: WetestA
-  status: Registration starts December 15,2018
+  status: Registration is open
 
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
@@ -160,14 +160,21 @@
   dates: "June 12-14, 2019"
   url: https://www.romaniatesting.ro
   twitter: romaniatesting
-  status: CFP is Open until November 25, 2018
+  status: CFP is closed
+
+- name: AppiumConf 19
+  location: Bengaluru, India
+  dates: "June 13-15, 2019"
+  url: https://appiumconf.com/
+  twitter: appium_conf
+  status: Registration is open
 
 - name: expo:QA'19
   location: Madrid, Spain
   dates: "June 17-19, 2019"
   url: http://www.expoqa.com
   twitter: expoQA
-  status: CFP is Open until December 21, 2018
+  status: CFP is Closed
 
 - name: Test Automation Day 2019
   location: Utrecht, Netherlands
@@ -182,7 +189,7 @@
   url: http://agiletestingdays.us/
   twitter: AgileTDUSA
   status: CFP is Closed
-  
+
 - name: London Tester Gathering Workshops 2019
   location: London, UK
   dates: "June 26-28, 2019"
