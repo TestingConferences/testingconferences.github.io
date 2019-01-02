@@ -156,11 +156,11 @@
   status: Registration is open
 
 - name: Test Leadership Congress 2019
-  location: New York, Usa
+  location: New York, NY, USA
   dates: "June 5-7, 2019"
   url: http://testleadershipcongress-ny.com/
   twitter: TestMastersAcad
-  status: RCFP is open
+  status: CFP is open
 
 - name: Romanian Testing Conference (RTC) 2019
   location: Cluj-Napoca, Romania
