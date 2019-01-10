@@ -63,7 +63,6 @@
   dates: "April 1-4, 2019"
   url: https://www.stpcon.com/
   twitter: SoftwareTestPro
-  status: Super Early Bird Registration until December 31, 2018
 
 - name: TestBash Essentials 2019
   location: Brighton, UK
@@ -162,6 +161,13 @@
   twitter: TestMastersAcad
   status: CFP is open
 
+- name: Test & Quality
+  location: Copenhagen, Denmark
+  dates: "June 11-12, 2019"
+  url: https://dstb.dk/konference-2019/
+  twitter: DSTB_dk
+  status: Registration opens soon
+
 - name: Romanian Testing Conference (RTC) 2019
   location: Cluj-Napoca, Romania
   dates: "June 12-14, 2019"
@@ -188,7 +194,7 @@
   dates: "June 19-20, 2019"
   url: http://www.testautomationday.com
   twitter: automation_day
-  status: CFP is Open, Super Early Bird until December 31, 2018
+  status: CFP is Open
 
 - name: Agile Testing Days USA 2019
   location: Chicago, IL, USA
@@ -216,7 +222,7 @@
   url: https://ministryoftesting.com/events/testbash-germany-2019
   twitter: ministryoftest
   status: CFP is Open until January 31st, 2019
-  
+
 - name: Testing United 2019
   location: Vienna, Austria
   dates: "November 07-08, 2019"
