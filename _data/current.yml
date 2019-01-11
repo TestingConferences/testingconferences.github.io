@@ -83,6 +83,13 @@
   dates: "April 4-5, 2019"
   url: http://conselenium.pl/
   status: CFP is Open
+  
+- name: CukenFest London
+  location: London, UK
+  dates: "April 4-5, 2019"
+  url: http://cukenfest.cucumber.io/
+  twitter: cukenfest
+  status: CFP is Open
 
 - name: IEEE International Conference on AI Testing 2019
   location: San Francisco Bay Area, CA, USA
