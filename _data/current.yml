@@ -31,6 +31,13 @@
   twitter: qaorthehighway
   status: Registration is Open
 
+- name: Selenium Camp 2019
+  location: Kyiv, Ukraine
+  dates: "February 22-23, 2019"
+  url: http://seleniumcamp.com/
+  twitter: seleniumcamp
+  status: Registration is open
+
 - name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
   dates: "February 28 – March 1, 2019"
@@ -83,7 +90,7 @@
   dates: "April 4-5, 2019"
   url: http://conselenium.pl/
   status: Registration is Open
-  
+
 - name: CukenFest London
   location: London, UK
   dates: "April 4-5, 2019"
