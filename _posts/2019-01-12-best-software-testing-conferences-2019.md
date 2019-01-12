@@ -14,27 +14,67 @@ Let's look at some of the **best** software testing conferences and workshops of
 
 ## January
 
+- Software Quality Days 2019
+
 ## February
+
+- Automation Guild Online Conference 2019
+- TISQA Conference 2019
+- QA or the Highway 2019
+- Testing in Context Conference Australia (TiCCA) 19
+- European Testing Conference 2019
 
 ## March
 
+- Swiss Testing Day 2019
+
 ## April
+
+- STPCon Spring 2019
+- TestBash Essentials 2019
+- TestBash Brighton 2019
+- IEEE International Conference on AI Testing 2019
 
 ## May
 
+- WeTest.Athens 2019
+- TestBash Netherlands 2019
+- Secure Guild Online Conference 2019
+- Nordic Testing Days (NTD) 2019
+
 ## June
+
+- Test Leadership Congress 2019
+- Romanian Testing Conference (RTC) 2019
+- AppiumConf 19
+- Test Automation Day 2019
+- Agile Testing Days USA 2019
+- London Tester Gathering Workshops 2019
+
 
 ## July
 
+- ?
+
 ## August
+
+- Conference for the Association for Software Testing (CAST) 2019
 
 ## September
 
+- TestBash Germany 2019
+
 ## October
+
+- ?
 
 ## November
 
+- ?
+
 ## December
+
+- ?
 
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) for what's coming up in your area!
