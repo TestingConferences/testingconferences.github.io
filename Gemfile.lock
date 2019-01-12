@@ -88,7 +88,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll
+  jekyll (>= 3.8.4)
   jekyll-sitemap (~> 1.2)
   jekyll-watch
   kramdown
