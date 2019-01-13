@@ -1,7 +1,7 @@
 - name: Software Quality Days 2019
   location: Vienna, Austria
   dates: "January 15-18, 2019"
-  url: https://www.software-quality-days.com/2019
+  url: https://www.software-quality-days.com
   twitter: SWQLab
   status: Registration is Open
 
@@ -25,7 +25,7 @@
   twitter: maaretp
 
 - name: QA or the Highway 2019
-  location: Columbus, Oh, USA
+  location: Columbus, OH, USA
   dates: "February 19, 2019"
   url: https://www.qaorthehighway.com/
   twitter: qaorthehighway
@@ -78,7 +78,7 @@
   status: Registration is Open
 
 - name: STPCon Spring 2019
-  location: San Francisco, Ca, USA
+  location: San Francisco, CA, USA
   dates: "April 1-4, 2019"
   url: https://www.stpcon.com/
   twitter: SoftwareTestPro
@@ -129,6 +129,12 @@
   dates: "April 11, 2019"
   url: http://conference.unicom.co.uk/testing-summit/2019/april/london/
   status: Registration is open
+
+- name: QA Challenge Accepted 5.0
+  location: Sofia, Bulgaria
+  dates: "April 13, 2019"
+  url: https://www.qachallengeaccepted.com/
+  twitter: qachallenge
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
@@ -200,9 +206,9 @@
 - name: Secure Guild Online Conference 2019
   location: Online
   dates: "May 23-24, 2019"
-  url: https://docs.google.com/forms/d/e/1FAIpQLSd6QiwmvuPTA8opCqEnP5FUMPkCT5Fz7ef-1P944f8rjFw2tg/viewform
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
   twitter: AutomationGuild
-  status: CFP is open
+  status: Registration is open
 
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
@@ -297,6 +303,20 @@
   url: https://ministryoftesting.com/events/testbash-germany-2019
   twitter: ministryoftest
   status: CFP is Open until January 31st, 2019
+  
+- name: TestBash Manchester 2019
+  location: Manchester, UK
+  dates: "October 2-3, 2019"
+  url: https://ministryoftesting.com/events/testbash-manchester-2019
+  twitter: ministryoftest
+  status: CFP is Open until February 28th, 2019
+    
+- name: Test.bash(); 2019
+  location: Manchester, UK
+  dates: "October 4, 2019"
+  url: https://ministryoftesting.com/events/test-dot-bash-2019
+  twitter: ministryoftest
+  status: CFP is Open until February 28th, 2019
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
@@ -334,6 +354,6 @@
 - name: ConTEST NYC 2019
   location: New York, NY, USA
   dates: "November 20-22 2019"
-  url: http://testleadershipcongress-ny.com/
+  url: http://contest-nyc.testmastersacademy.org/
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
