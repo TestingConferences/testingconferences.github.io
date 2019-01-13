@@ -26,7 +26,12 @@ The list of events is driven by files in the ```_data``` folder - if you have an
 
 Focus is a goal of this project and as a result, only conferences, un-conferences and workshops that are specifically for software testing are listed. That means that if a conference covers software testing, but is not specifically for testers, then it is left out.
 
-A good rule of thumb for whether a conference should be included is if its name includes either Testing or Test and how it describes itself.
+A good _heuristic_ for whether a conference should be included is if its name includes Test(ing) or Quality and/or how it describes itself.
+
+## Mailing List
+
+Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
+
 
 ## License
 
