@@ -6,27 +6,25 @@ categories: news
 author: Chris Kenst
 permalink: /best-software-testing-conferences-2019/
 ---
-Attending conferences is one of the best ways to keep-up on testing/quality/automation skills and knowledge and to connect with your peers in the larger testing communities. Here is our shortlist of the most popular testing conferences and workshops in 2019.
-
-As is usual focus is a goal of this project and as a result, only conferences, un-conferences and workshops that are specifically for software testing are listed. Having said that, we definitely think people should visit other tech conferences. That allows us to become better informed and more well rounded.
+Attending conferences is one of the best ways to keep-up on the latest testing + quality knowledge and to connect with your peers in the larger testing communities. As is usual focus is a goal of this project and as a result, only conferences, un-conferences and workshops that are specifically for software testing and quality are listed. Having said that, we definitely think people should visit other tech conferences as it allows us to become better informed and more well rounded.
 
 Let's look at some of the **best** software testing conferences and workshops of 2019:
 
 ## January
 
-- Software Quality Days 2019
+- [Software Quality Days 2019](https://www.software-quality-days.com/2019) takes place in Vienna, Austria from January 15-18, 2019.
 
 ## February
 
-- Automation Guild Online Conference 2019
-- TISQA Conference 2019
-- QA or the Highway 2019
-- Testing in Context Conference Australia (TiCCA) 19
-- European Testing Conference 2019
+- [Automation Guild Online Conference 2019](https://automationguild.com/) is an online conference from February 4-6, 2019.
+- [European Testing Conference 2019](http://europeantestingconference.eu/2019/) in Valencia, Spain from February 14-15, 2019.
+- [QA or the Highway 2019](https://www.qaorthehighway.com/) takes place in Columbus, OH, USA on February 19, 2019.
+- [Testing in Context Conference Australia (TiCCA) 19](https://www.associationforsoftwaretesting.org/conference/ticca19/ticca19-registration?utm_source=testingconferences) in Melbourne, Australia from February 28 – March 1, 2019.
+
 
 ## March
 
-- Swiss Testing Day 2019
+- [Swiss Testing Day 2019](http://swisstestingday.ch/) in Zurich, Switzerland on March 20, 2019.
 
 ## April
 
@@ -53,10 +51,6 @@ Let's look at some of the **best** software testing conferences and workshops of
 - London Tester Gathering Workshops 2019
 
 
-## July
-
-- ?
-
 ## August
 
 - Conference for the Association for Software Testing (CAST) 2019
@@ -77,9 +71,6 @@ Let's look at some of the **best** software testing conferences and workshops of
 - EuroSTAR 2019
 - ConTEST NYC 2019
 
-## December
-
-- ?
 
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) for what's coming up in your area!
