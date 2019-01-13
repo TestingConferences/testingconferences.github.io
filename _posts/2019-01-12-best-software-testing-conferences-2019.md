@@ -63,14 +63,18 @@ Let's look at some of the **best** software testing conferences and workshops of
 ## September
 
 - TestBash Germany 2019
+- STARWEST 2019
 
 ## October
 
-- ?
+- Pacific Northwest Software Quality Conference (PNSQC) 2019. Not announced yet
+- Quest for Quality 2018. Not announced yet
 
 ## November
 
-- ?
+- Agile Testing Days 2019
+- EuroSTAR 2019
+- ConTEST NYC 2019
 
 ## December
 
