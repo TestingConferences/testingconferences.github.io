@@ -78,7 +78,7 @@
   status: Registration is Open
 
 - name: STPCon Spring 2019
-  location: San Francisco, Ca, USA
+  location: San Francisco, CA, USA
   dates: "April 1-4, 2019"
   url: https://www.stpcon.com/
   twitter: SoftwareTestPro
@@ -340,6 +340,6 @@
 - name: ConTEST NYC 2019
   location: New York, NY, USA
   dates: "November 20-22 2019"
-  url: http://testleadershipcongress-ny.com/
+  url: http://contest-nyc.testmastersacademy.org/
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
