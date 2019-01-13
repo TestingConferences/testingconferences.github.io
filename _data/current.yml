@@ -187,13 +187,6 @@
   twitter: nordictestdays
   status: Registration is open
 
-- name: Test Leadership Congress 2019
-  location: New York, NY, USA
-  dates: "June 5-7, 2019"
-  url: http://testleadershipcongress-ny.com/
-  twitter: TestMastersAcad
-  status: CFP is open
-
 - name: Test & Quality
   location: Copenhagen, Denmark
   dates: "June 11-12, 2019"
@@ -236,6 +229,13 @@
   twitter: AgileTDUSA
   status: CFP is Closed
 
+- name: Test Leadership Congress 2019
+  location: New York, NY, USA
+  dates: "June 26-28, 2019"
+  url: http://testleadershipcongress-ny.com/
+  twitter: TestMastersAcad
+  status: CFP is open until March 1, 2019
+
 - name: London Tester Gathering Workshops 2019
   location: London, UK
   dates: "June 26-28, 2019"
@@ -267,15 +267,42 @@
   twitter: ministryoftest
   status: CFP is Open until January 31st, 2019
 
+- name: STARWEST 2019
+  location: Anaheim, CA, USA
+  dates: "September 29-October 4, 2019"
+  url: https://starwest.techwell.com/
+  twitter: techwell
+  status: Registration is open
+
 - name: TestExpo 2019
   location: London, UK
   dates: "October 17, 2019"
   url: http://conference.unicom.co.uk/testexpo/2019/london/
   status: CFP is open
 
+- name: Agile Testing Days 2019
+  location: Potsdam, Germany
+  dates: "November 3-8, 2019"
+  url: http://www.agiletestingdays.com/
+  twitter: AgileTD
+  status: Registration is open
+
 - name: Testing United 2019
   location: Vienna, Austria
-  dates: "November 07-08, 2019"
+  dates: "November 7-8, 2019"
   url: https://testingunited.com
   twitter: testing_united
   status: CFP is Open
+
+- name: EuroSTAR 2019
+  location: Prague, Netherlands
+  dates: "November 11-14, 2019"
+  url: https://eurostarsoftwaretesting.com
+  twitter: esconfs
+
+- name: ConTEST NYC 2019
+  location: New York, NY, USA
+  dates: "November 20-22 2019"
+  url: http://testleadershipcongress-ny.com/
+  twitter: TestMastersAcad
+  status: CFP is Open until April 20th, 2019
