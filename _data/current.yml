@@ -1,7 +1,7 @@
 - name: Software Quality Days 2019
   location: Vienna, Austria
   dates: "January 15-18, 2019"
-  url: https://www.software-quality-days.com/2019
+  url: https://www.software-quality-days.com
   twitter: SWQLab
   status: Registration is Open
 
@@ -206,9 +206,9 @@
 - name: Secure Guild Online Conference 2019
   location: Online
   dates: "May 23-24, 2019"
-  url: https://docs.google.com/forms/d/e/1FAIpQLSd6QiwmvuPTA8opCqEnP5FUMPkCT5Fz7ef-1P944f8rjFw2tg/viewform
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
   twitter: AutomationGuild
-  status: CFP is open
+  status: Registration is open
 
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
