@@ -41,6 +41,7 @@ Let's look at some of the **best** software testing conferences and workshops of
 - TestBash Netherlands 2019
 - Secure Guild Online Conference 2019
 - Nordic Testing Days (NTD) 2019
+- Accelerate San Francisco
 
 ## June
 
