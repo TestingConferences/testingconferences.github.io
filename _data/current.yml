@@ -130,6 +130,12 @@
   url: http://conference.unicom.co.uk/testing-summit/2019/april/london/
   status: Registration is open
 
+- name: QA Challenge Accepted 5.0
+  location: Sofia, Bulgaria
+  dates: "April 13, 2019"
+  url: https://www.qachallengeaccepted.com/
+  twitter: qachallenge
+
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
   dates: "April 16, 2019"
