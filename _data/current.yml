@@ -135,6 +135,7 @@
   dates: "April 13, 2019"
   url: https://www.qachallengeaccepted.com/
   twitter: qachallenge
+  status: Registration is open
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
@@ -303,20 +304,21 @@
   url: https://ministryoftesting.com/events/testbash-germany-2019
   twitter: ministryoftest
   status: CFP is Open until January 31st, 2019
-  
+
 - name: TestBash Manchester 2019
   location: Manchester, UK
   dates: "October 2-3, 2019"
   url: https://ministryoftesting.com/events/testbash-manchester-2019
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
-    
+
 - name: Test.bash(); 2019
   location: Manchester, UK
   dates: "October 4, 2019"
   url: https://ministryoftesting.com/events/test-dot-bash-2019
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
+<<<<<<< HEAD
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
@@ -337,6 +339,8 @@
   url: http://www.agiletestingdays.com/
   twitter: AgileTD
   status: Registration is open
+=======
+>>>>>>> 1e889cb6fc0e19ebb3156a6d2d8671c09639ae86
 
 - name: Testing United 2019
   location: Vienna, Austria
