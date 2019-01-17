@@ -223,6 +223,13 @@
   twitter: nordictestdays
   status: Registration is open
 
+- name: TestingCup 2019
+  location: Poznań, Poland
+  dates: "June 10-11, 2019"
+  url: http://testingcup.pl/index.html
+  twitter: TestingCup
+  status: CFP is open
+
 - name: Test & Quality
   location: Copenhagen, Denmark
   dates: "June 11-12, 2019"
