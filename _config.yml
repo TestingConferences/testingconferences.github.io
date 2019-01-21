@@ -3,7 +3,7 @@ title: Software Testing Conferences
 email: ckenst@kenst.com
 description: A simple list of software testing conferences and workshops, published collaboratively with the software testing community.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://testingconferences.org" # the base hostname & protocol for your site
+url: "https://testingconferences.org" # the base hostname & protocol for your site
 twitter_username: ckenst
 github_username: TestingConferences
 plugins:
