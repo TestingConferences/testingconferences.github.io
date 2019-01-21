@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best Software Testing Conferences of 2019"
-date:   2019-01-12 14:00:00
+date:   2019-01-21 12:20:00
 categories: news
 author: Chris Kenst
 permalink: /best-software-testing-conferences-2019/
@@ -24,7 +24,7 @@ Let's look at some of the **best software testing conferences and workshops** of
 
 ## March
 
-- [UKSTAR Software Testing Conference 2019](https://ukstar.eurostarsoftwaretesting.com/?utm_source=testingconferences.org) in London on March 11 & 12, 2019. 
+- [UKSTAR Software Testing Conference 2019](https://ukstar.eurostarsoftwaretesting.com/?utm_source=testingconferences.org) in London on March 11 & 12, 2019.
 - [Swiss Testing Day 2019](http://swisstestingday.ch/?utm_source=testingconferences.org) in Zurich, Switzerland on March 20, 2019.
 
 
@@ -71,9 +71,8 @@ Let's look at some of the **best software testing conferences and workshops** of
 ## November
 
 - [Agile Testing Days 2019](http://www.agiletestingdays.com/?utm_source=testingconferences.org) in Potsdam, Germany from November 3-8, 2019.
-- [EuroSTAR 2019](https://eurostarsoftwaretesting.com?utm_source=testingconferences.org) in Prague, Netherlands from November 11-14, 2019.
+- [EuroSTAR 2019](https://eurostarsoftwaretesting.com?utm_source=testingconferences.org) in Prague, Czech Republic from November 11-14, 2019.
 - [ConTEST NYC 2019](http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences.org) in New York, NY, USA from November 20-22 2019.
-
 
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) for what's coming up in your area!
