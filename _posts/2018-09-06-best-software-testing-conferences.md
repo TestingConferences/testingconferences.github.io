@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best Remaining Software Testing Conferences of 2018"
-date:   2018-09-06 08:00:00
+date:   2019-01-12 16:40:00
 categories: news
 author: Chris Kenst
 permalink: /best-software-testing-conferences-2018/
