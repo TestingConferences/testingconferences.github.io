@@ -181,6 +181,12 @@
   dates: "April 13-17, 2019"
   url: http://qaiquest.org/2019/
   twitter: QAIquest
+  
+- name: TestingUY 2019
+  location: Montevideo, Uruguay
+  dates: "May 13-14, 2019"
+  url: http://testinguy.org
+  twitter: testingUY
 
 - name: WeTest.Athens 2019
   location: Athens, Greece, GR
