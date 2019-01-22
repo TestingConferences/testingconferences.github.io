@@ -417,7 +417,7 @@
 - name: TestingUY 2018
   location: Montevideo, Uruguay
   dates: "May 21-22, 2018"
-  url: http://www.testing.uy/
+  url: http://testinguy.org
   twitter: testingUY
 
 - name: TestBash Dublin 2018
@@ -964,10 +964,10 @@
   twitter: ministryoftest
   video_url: https://dojo.ministryoftesting.com/series/testbash-belfast-2017
 
-- name: TestingUy 2017
+- name: TestingUY 2017
   location: Montevideo, Uruguay
   dates: "May 15-16, 2017"
-  url: http://testinguy.org/en/
+  url: http://testinguy.org
   twitter: testingUY
 
 - name: Let's Test 2017
@@ -1512,10 +1512,10 @@
   url: http://testmastersacademy.org/conference.html
   twitter: QA_nna
 
-- name: TestingUY
+- name: TestingUY 2016
   location: Montevideo, Uruguay
   dates: "April 26-27, 2016"
-  url: http://www.testing.uy/
+  url: http://testinguy.org
   twitter: testingUY
 
 - name: DSTC 2016
@@ -1907,10 +1907,10 @@
   url: http://stareast.techwell.com
   twitter: TechWell
 
-- name: TestingUY
+- name: TestingUY 2015
   location: Montevideo, Uruguay
   dates: "April 13-14, 2015"
-  url: http://www.testing.uy/
+  url: http://testinguy.org
   twitter: testingUY
 
 - name: STPCon Spring 2015
@@ -1937,10 +1937,10 @@
   twitter: AST_News
   video_url: https://www.youtube.com/watch?list=PLQB4l9iafcelXpJnK6IyDsoFeEb1icqrl&v=JLVP_Z5AoyM
 
-- name: TestingUY
+- name: TestingUY 2014
   location: Montevideo, Uruguay
   dates: "April 3, 2014"
-  url: http://www.testing.uy/
+  url: http://testinguy.org
   twitter: testingUY
 
 - name: Workshop on Teach Software Testing (WTST) 13
