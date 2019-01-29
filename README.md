@@ -11,7 +11,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
   - If possible, spell out the conference name and add the abbreviation. Otherwise just use the abbreviation:
     - Example: Workshop on Performance and Reliability (WOPR)
   - Include the year
-    - Sometimes workshops use a version instead of a the year
+    - Sometimes workshops use a version instead of a year
       - Example: Workshop on Performance and Reliability (WOPR) 24
   - Don't include the @ symbol for the twitter handle. If there is no twitter option, leave it blank
   - Optionally include a status such as:
