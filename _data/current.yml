@@ -43,7 +43,7 @@
   url: http://conference.unicom.co.uk/showcases/2019/manchester/testing/?utm_source=testingconferences
   status: Registration is open
 
-- name: The QA Financial Forum: London 2019
+- name: The QA Financial Forum London 2019
   location: London, UK
   dates: "February 27, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2019?utm_source=testingconferences
@@ -88,7 +88,7 @@
   url: https://www.stpcon.com/?utm_source=testingconferences
   twitter: SoftwareTestPro
 
-- name: The QA Financial Forum: Chicago 2019
+- name: The QA Financial Forum Chicago 2019
   location: Chicago, IL, USA
   dates: "April 2, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2019?utm_source=testingconferences
@@ -367,7 +367,7 @@
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
 
-- name: The QA Financial Forum: Paris 2019
+- name: The QA Financial Forum Paris 2019
   location: Paris, FR
   dates: "October 9, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
@@ -400,13 +400,13 @@
   twitter: esconfs
   status: CFP is Open until February 4, 2019
 
-- name: The QA Financial Forum: New York 2019
+- name: The QA Financial Forum New York 2019
   location: New York, NY USA
   dates: "November 13, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2019?utm_source=testingconferences
   status: Registration is open
 
-- name: The QA E-commerce Forum: New York 2019
+- name: The QA E-commerce Forum New York 2019
   location: New York, NY USA
   dates: "November 14, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
@@ -419,7 +419,7 @@
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
 
-- name: The QA E-commerce Forum: London 2019
+- name: The QA E-commerce Forum London 2019
   location: London, UK
   dates: "December 11, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
