@@ -1,3 +1,9 @@
+- name: Automation Guild Online Conference 2019
+  location: Online
+  dates: "February 4-6, 2019"
+  url: https://automationguild.com/?utm_source=testingconferences
+  twitter: AutomationGuild
+
 - name: Agile, Testing & DevOps Showcase 2019
   location: Amsterdam, Netherlands
   dates: "January 31, 2019"
