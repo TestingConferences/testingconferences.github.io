@@ -4,6 +4,7 @@ title:  "How to Contribute"
 date:   2015-10-29 09:35:00
 categories: news
 author: Chris Kenst
+permalink: /how-to-contribute/
 ---
 Welcome to [TestingConferences.org](http://testingconferences.org), a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 
@@ -31,4 +32,4 @@ _Easy_. GitHub makes it easy for people to contribute by doing the following:
 
 _Then wait_. Your work is now done. Changes within your Pull Request will now be reviewed by a project member for accuracy and if it looks good we will merge it on your behalf.  
 
-Any questions, concerns or comments? Reach out on [Twitter](https://twitter.com/ckenst).
+Any questions, concerns or comments? Reach out on [Twitter](https://twitter.com/ckenst). Also don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**

@@ -267,3 +267,27 @@
         }
     }
 }
+
+.lower-page {
+      list-style: none;
+      border: 1px;
+      border-color: #e8e8e8;
+      list-style: none;
+      text-shadow: 2px 2px 2px #CCC;
+      text-align: left;
+
+      a {
+          color: #225c80;
+      }
+
+      > li {
+          margin-bottom: $spacing-unit;
+          padding: 5px;
+      }
+
+      h2 {
+        font-size: 26px;
+        font-weight: bold;
+        margin-left: 5px;
+      }
+}
