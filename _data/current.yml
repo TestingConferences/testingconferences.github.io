@@ -373,14 +373,14 @@
   url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
   status: CFP is open
   
- - name: TestBash Australia 2019
+- name: TestBash Australia 2019
   location: Sydney, Aus
   dates: "October 24-25, 2019"
   url: https://ministryoftesting.com/events/testbash-australia-2019
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
   
- - name: TestBash New Zealand 2019
+- name: TestBash New Zealand 2019
   location: Wellington, NZ
   dates: "October 24-25, 2019"
   url: https://ministryoftesting.com/events/testbash-new-zealand-2019
