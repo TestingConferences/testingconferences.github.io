@@ -376,14 +376,14 @@
 - name: TestBash Australia 2019
   location: Sydney, Aus
   dates: "October 24-25, 2019"
-  url: https://ministryoftesting.com/events/testbash-australia-2019
+  url: https://ministryoftesting.com/events/testbash-australia-2019?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
   
 - name: TestBash New Zealand 2019
   location: Wellington, NZ
   dates: "October 24-25, 2019"
-  url: https://ministryoftesting.com/events/testbash-new-zealand-2019
+  url: https://ministryoftesting.com/events/testbash-new-zealand-2019?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until March 8th, 2019
 
