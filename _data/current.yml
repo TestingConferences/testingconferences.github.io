@@ -1,10 +1,3 @@
-- name: Automation Guild Online Conference 2019
-  location: Online
-  dates: "February 4-6, 2019"
-  url: https://automationguild.com/?utm_source=testingconferences
-  twitter: AutomationGuild
-  status: Registration is Open
-
 - name: European Testing Conference 2019
   location: Valencia, Spain
   dates: "February 14-15, 2019"
@@ -372,14 +365,14 @@
   dates: "October 17, 2019"
   url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
   status: CFP is open
-  
+
 - name: TestBash Australia 2019
   location: Sydney, Aus
   dates: "October 24-25, 2019"
   url: https://ministryoftesting.com/events/testbash-australia-2019?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until February 28th, 2019
-  
+
 - name: TestBash New Zealand 2019
   location: Wellington, NZ
   dates: "October 24-25, 2019"
