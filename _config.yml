@@ -8,7 +8,6 @@ twitter_username: ckenst
 github_username: TestingConferences
 plugins:
     - jekyll-sitemap
-    - jekyll-last-modified-at
 
 # Build settings
 markdown: kramdown
