@@ -172,13 +172,13 @@
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open
+  status: CFP is Open until September 9, 2019
 
 - name: IEEE DTS 2019
   location: Gammarth, Tunisia
   dates: "April 28-May 1, 2019"
   url: http://www.dts-conf.org/?utm_source=testingconferences
-  status: CFP is Open until February 4, 2019
+  status: CFP is Closed
 
 - name: Yerevan Testing Days 2019
   location: Yerevan, Armenia
@@ -317,7 +317,7 @@
   dates: "August 12-15, 2019"
   url: https://www.associationforsoftwaretesting.org/conference/cast2019/?utm_source=testingconferences
   twitter: AST_News
-  status: CFP is Open until February 10, 2019
+  status: CFP is Closed
 
 - name: STeP-IN SUMMIT 2019 Bangalore
   location: Bangalore, India
@@ -331,7 +331,7 @@
   dates: "September 12-13, 2019"
   url: https://ministryoftesting.com/events/testbash-germany-2019?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until January 31st, 2019
+  status: CFP is Closed
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
@@ -399,7 +399,7 @@
   dates: "November 11-14, 2019"
   url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Open until February 4, 2019
+  status: CFP is Closed
 
 - name: The QA Financial Forum New York 2019
   location: New York, NY USA
