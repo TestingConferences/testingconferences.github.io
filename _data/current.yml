@@ -226,6 +226,12 @@
   twitter: AutomationGuild
   status: Registration is open
 
+- name: Australian Test & Tech Automation Conference (ATTAC) 2019
+  location: Melbourne CBD, AUS
+  dates: "May 24, 2019"
+  url: http://attac.tech/?utm_source=testinconferences.org
+  status: CFP is open until February 28, 2019
+
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
   dates: "May 29-31, 2019"
@@ -387,7 +393,7 @@
   url: http://www.agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Registration is open
-  
+
 - name: TestBash San Francisco 2019
   location: San Francisco, USA
   dates: "November 6-7, 2019"
