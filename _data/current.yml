@@ -298,8 +298,9 @@
 - name: London Tester Gathering Workshops 2019
   location: London, UK
   dates: "June 26-28, 2019"
-  url: https://ministryoftesting.com/events/london-tester-gathering-workshops-2019?utm_source=testingconferences
+  url: https://ti.to/mot/london-tester-gathering-workshops-2019?source=testingconferences
   twitter: ministryoftest
+  status: Registration is open
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2019
   location: Beijing, China
@@ -386,6 +387,13 @@
   url: http://www.agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Registration is open
+  
+- name: TestBash San Francisco 2019
+  location: San Francisco, USA
+  dates: "October 24-25, 2019"
+  url: https://ministryoftesting.com/events/testbash-san-francisco-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until March 15th, 2019
 
 - name: Testing United 2019
   location: Vienna, Austria
