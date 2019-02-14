@@ -373,6 +373,13 @@
   url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
   status: CFP is open
 
+- name: STARCANADA 2019
+  location: Toronto, Canada
+  dates: "October 20-25, 2019"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+  status: CFP is Open until March 3, 2019
+
 - name: TestBash Australia 2019
   location: Sydney, Aus
   dates: "October 24-25, 2019"
