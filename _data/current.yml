@@ -1,15 +1,3 @@
-- name: European Testing Conference 2019
-  location: Valencia, Spain
-  dates: "February 14-15, 2019"
-  url: http://europeantestingconference.eu/2019/?utm_source=testingconferences
-  twitter: EuroTestingConf
-  status: Registration is Open
-
-- name: Modern Exploratory Testing Peer Conference
-  location: Valencia, Spain
-  dates: "February 16, 2019"
-  twitter: maaretp
-
 - name: QA or the Highway 2019
   location: Columbus, OH, USA
   dates: "February 19, 2019"

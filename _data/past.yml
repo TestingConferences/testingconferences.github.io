@@ -1,3 +1,14 @@
+- name: Modern Exploratory Testing Peer Conference
+  location: Valencia, Spain
+  dates: "February 16, 2019"
+  twitter: maaretp
+
+- name: European Testing Conference 2019
+  location: Valencia, Spain
+  dates: "February 14-15, 2019"
+  url: http://europeantestingconference.eu/2019/?utm_source=testingconferences
+  twitter: EuroTestingConf
+
 - name: Automation Guild Online Conference 2019
   location: Online
   dates: "February 4-6, 2019"
