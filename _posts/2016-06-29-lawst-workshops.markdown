@@ -48,3 +48,5 @@ _Attendance is by application or invitation, and limited to 15-20 participants. 
 **Australia:**
 
 - [OZWST](https://ozwst.wordpress.com/) - Australian Workshop on Software Testing
+
+Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**

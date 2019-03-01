@@ -2,19 +2,17 @@
 <html>
 
   {% include head.html %}
-
   <body>
-
+    <!-- {% include banner.html %} -->
     {% include header.html %}
     <div class="page-content">
       <div class="wrapper">
         {% include nav.html %}
         {{ content }}
+        {% include lower-page.html %}
       </div>
     </div>
-
     {% include footer.html %}
-
+    <script src="https://my.hellobar.com/7049b006bdc1ff3d49681c92007cdbf32ba2f050.js" type="text/javascript" charset="utf-8" async="async"></script>
   </body>
-
 </html>
