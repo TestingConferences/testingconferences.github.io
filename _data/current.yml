@@ -316,6 +316,13 @@
   twitter: testmagazine
   status: Registration is open
 
+- name: SEETEST 2019
+  location: Bucharest, Romania
+  dates: "September 26-27, 2019"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Registration is open
+
 - name: STARWEST 2019
   location: Anaheim, CA, USA
   dates: "September 29-October 4, 2019"
@@ -388,8 +395,8 @@
   dates: "November 3-8, 2019"
   url: http://www.agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Registration is open
-
+  status: CFP Open until April 2018
+  
 - name: TestBash San Francisco 2019
   location: San Francisco, USA
   dates: "November 6-7, 2019"
