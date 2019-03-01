@@ -168,6 +168,13 @@
   twitter: WetestA
   status: Registration is open
 
+- name: National Software Testing Conference 2019
+  location: London, England
+  dates: "May 21-22, 2019"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
+
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
   dates: "May 23-24, 2019"
@@ -301,6 +308,13 @@
   url: https://ministryoftesting.com/events/testbash-germany-2019?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Closed
+
+- name: DevTEST Conference NORTH 2019
+  location: Leeds, England
+  dates: "September 24-25, 2019"
+  url: https://www.softwaretestingnews.co.uk/products/devtest-conference-north/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
