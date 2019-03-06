@@ -1,14 +1,18 @@
+- name: Testing in Context Conference Australia (TiCCA) 19
+  location: Melbourne, Australia
+  dates: "February 28 – March 1, 2019"
+  url: https://www.associationforsoftwaretesting.org/conference/ticca19/?utm_source=testingconferences
+  twitter: AST_News
+
 - name: Testing Showcase North 2019
   location: Manchester, UK
   dates: "February 27, 2019"
   url: http://conference.unicom.co.uk/showcases/2019/manchester/testing/?utm_source=testingconferences
-  status: Registration is open
 
 - name: The QA Financial Forum London 2019
   location: London, UK
   dates: "February 27, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2019?utm_source=testingconferences
-  status: Registration is open
 
 - name: Selenium Camp 2019
   location: Kyiv, Ukraine
