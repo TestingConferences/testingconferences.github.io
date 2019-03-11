@@ -76,6 +76,13 @@
   url: http://www.cftl.fr/JFTL?utm_source=testingconferences
   status: Registration is Open
 
+- name: PerfGuild Online Conference 2019
+  location: Online
+  dates: "April 8-9, 2019"
+  url: https://guildconferences.com/conferences/perfguild-2019/?utm_source=testinconferences.org
+  twitter: PerfGuild
+  status: Registration is open
+
 - name: Spanish Test Academy Valencia 2019
   location: Valencia, Spain
   dates: "April 10, 2019"
@@ -168,6 +175,13 @@
   twitter: WetestA
   status: Registration is open
 
+- name: Secure Guild Online Conference 2019
+  location: Online
+  dates: "May 20-21, 2019"
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
+  twitter: AutomationGuild
+  status: Registration is open
+
 - name: National Software Testing Conference 2019
   location: London, England
   dates: "May 21-22, 2019"
@@ -187,13 +201,6 @@
   dates: "May 23-24, 2019"
   url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
   twitter: Tricentis
-
-- name: Secure Guild Online Conference 2019
-  location: Online
-  dates: "May 23-24, 2019"
-  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
-  twitter: AutomationGuild
-  status: Registration is open
 
 - name: Australian Test & Tech Automation Conference (ATTAC) 2019
   location: Melbourne CBD, AUS

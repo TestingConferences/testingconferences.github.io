@@ -24,12 +24,10 @@ Let's take a look:
 - [QA or the Highway 2019](https://www.qaorthehighway.com/) in Columbus, OH, USA on February 19, 2019.
 - [Testing in Context Conference Australia (TiCCA) 19](https://www.associationforsoftwaretesting.org/conference/ticca19/ticca19-registration?utm_source=testingconferences.org) in Melbourne, Australia from February 28 – March 1, 2019.
 
-
 ## March
 
 - [UKSTAR Software Testing Conference 2019](https://ukstar.eurostarsoftwaretesting.com/?utm_source=testingconferences.org) in London on March 11 & 12, 2019.
 - [Swiss Testing Day 2019](http://swisstestingday.ch/?utm_source=testingconferences.org) in Zurich, Switzerland on March 20, 2019.
-
 
 ## April
 
@@ -43,12 +41,10 @@ Let's take a look:
 - [WeTest.Athens 2019](https://wetest-athens.gr/?utm_source=testingconferences.org) in Athens, Greece on May 17, 2019.
 - [TestBash Netherlands 2019](https://ti.to/mot/testbash-netherlands-2019?source=testingconferences) in Utrecht, NL from May 23-24, 2019.
 - [Accelerate San Francisco](https://www.qualityjam.com/atlanta/?utm_source=testingconferences.org) in San Francisco, CA USA from May 23-24, 2019.
-- [Secure Guild Online Conference 2019](https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testingconferences.org) is an online conference from May 23-24, 2019.
+- [Secure Guild Online Conference 2019](https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testingconferences.org) is an online conference from May 20-21, 2019.
 - [Nordic Testing Days (NTD) 2019](http://nordictestingdays.eu/?utm_source=testingconferences.org) in Tallinn, Estonia from May 29-31, 2019.
 
-
 ## June
-
 
 - [Romanian Testing Conference (RTC) 2019](https://www.romaniatesting.ro?utm_source=testingconferences.org) in Cluj-Napoca, Romania from June 12-14, 2019.
 - [AppiumConf 19](https://appiumconf.com/?utm_source=testingconferences.org) in Bengaluru, India from June 13-15, 2019.
