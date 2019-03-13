@@ -312,7 +312,7 @@
 - name: TestBash Germany 2019
   location: Munich, Germany
   dates: "September 12-13, 2019"
-  url: https://ministryoftesting.com/events/testbash-germany-2019?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-germany-2019?source=testingconferences
   twitter: ministryoftest
   status: CFP is Closed
 
