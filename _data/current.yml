@@ -303,6 +303,13 @@
   twitter: stepin_forum
   status: Registration is open
 
+- name: Assert(JS) Testing Conference
+  location: Toronto, Canada
+  dates: "September 12, 2019"
+  url: https://www.assertjs.com/
+  twitter: assertjs
+  status: CFP is open until April 30, 2019
+
 - name: TestBash Germany 2019
   location: Munich, Germany
   dates: "September 12-13, 2019"
