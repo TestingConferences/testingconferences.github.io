@@ -457,3 +457,14 @@
   dates: "December 11, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
   status: Registration is open
+  
+- name: Heisenbug Piter
+  location: Saint-Petersburg, Russia
+  dates: "May 17-18, 2019"
+  url: https://heisenbug-piter.ru
+  status: Registration is open
+- name: Heisenbug Moscow
+  location: Moscow, Russia
+  dates: "December 4-5, 2019"
+  url: https://heisenbug-moscow.ru/
+  status: CFP is open
