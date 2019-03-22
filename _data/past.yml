@@ -1,3 +1,9 @@
+- name: Swiss Testing Day 2019
+  location: Zurich, Switzerland
+  dates: "March 20, 2019"
+  url: http://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
+
 - name: UKSTAR Software Testing Conference 2019
   location: London, UK
   dates: "March 11-12, 2019"
