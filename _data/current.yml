@@ -76,7 +76,7 @@
   dates: "April 10, 2019"
   url: http://www.spanishtestacademy.com/valencia/index.html?utm_source=testingconferences
   twitter: expoQA
-  status: Registration is Open
+  status: Registration is Open 
 
 - name: Testing Summit 2019
   location: London, UK
@@ -89,6 +89,7 @@
   dates: "April 13, 2019"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
+  status: CFP is closed, Registration is open until April 7th.
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
