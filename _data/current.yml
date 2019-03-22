@@ -164,6 +164,12 @@
   twitter: WetestA
   status: Registration is open
 
+- name: Heisenbug Piter
+  location: Saint-Petersburg, Russia
+  dates: "May 17-18, 2019"
+  url: https://heisenbug-piter.ru?utm_source=testingconferences
+  status: Registration is open
+
 - name: Secure Guild Online Conference 2019
   location: Online
   dates: "May 20-21, 2019"
@@ -301,7 +307,7 @@
 - name: Assert(JS) Testing Conference
   location: Toronto, Canada
   dates: "September 12, 2019"
-  url: https://www.assertjs.com/
+  url: https://www.assertjs.com/?utm_source=testingconferences
   twitter: assertjs
   status: CFP is open until April 30, 2019
 
@@ -356,7 +362,7 @@
 - name: SeleniumConf London 2019
   location: London, UK
   dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk
+  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences
   status: CFP is Open until April 1st, 2019
 
 - name: The QA Financial Forum Paris 2019
@@ -374,14 +380,14 @@
 - name: STARCANADA 2019
   location: Toronto, Canada
   dates: "October 20-25, 2019"
-  url: http://starcanada.techwell.com/
+  url: http://starcanada.techwell.com/?utm_source=testingconferences
   twitter: techwell
   status: CFP is Open until March 3, 2019
 
 - name: SoftTest 2019
   location: Dublin, Ireland
   dates: "October 24, 2019"
-  url: http://softtest.ie/softtest-2019-conference-call-for-speakers/
+  url: http://softtest.ie/softtest-2019-conference-call-for-speakers/?utm_source=testingconferences
   twitter: SoftTestIreland
   status: CFP is Open until June 28, 2019
 
@@ -402,7 +408,7 @@
 - name: Software-QS-Tag 2019
   location: Frankfurt am Main, Germany
   dates: "October 24-25, 2019"
-  url: https://www.qs-tag.de/en/
+  url: https://www.qs-tag.de/en/?utm_source=testingconferences
   twitter: qstag
   status: CFP is open until April, 30th, 2019
 
@@ -452,6 +458,12 @@
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
+
+- name: Heisenbug Moscow
+  location: Moscow, Russia
+  dates: "December 4-5, 2019"
+  url: https://heisenbug-moscow.ru/?utm_source=testingconferences
+  status: CFP is open
 
 - name: The QA E-commerce Forum London 2019
   location: London, UK
