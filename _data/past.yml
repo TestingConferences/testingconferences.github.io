@@ -1,3 +1,9 @@
+- name: Spanish Test Academy Barcelona 2019
+  location: Barcelona, Spain
+  dates: "March 27, 2019"
+  url: http://www.spanishtestacademy.com/barcelona/index.html?utm_source=testingconferences
+  twitter: expoQA
+
 - name: SQA Days EU - 1
   location: Riga, Latvia
   dates: "March 22-23, 2019"

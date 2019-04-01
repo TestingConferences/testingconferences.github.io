@@ -1,10 +1,3 @@
-- name: Spanish Test Academy Barcelona 2019
-  location: Barcelona, Spain
-  dates: "March 27, 2019"
-  url: http://www.spanishtestacademy.com/barcelona/index.html?utm_source=testingconferences
-  twitter: expoQA
-  status: Registration is Open
-
 - name: STPCon Spring 2019
   location: San Francisco, CA, USA
   dates: "April 1-4, 2019"
@@ -123,7 +116,7 @@
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open until September 9, 2019
+  status: CFP is Open until September 15, 2019
 
 - name: IEEE DTS 2019
   location: Gammarth, Tunisia
