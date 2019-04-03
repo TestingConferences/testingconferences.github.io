@@ -370,6 +370,13 @@
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
   status: Registration is open
 
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2019
+  location: Portland, Oregon, USA
+  dates: "October 14-16, 2019"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
+  status: CFP is open until April 17, 2019
+
 - name: TestExpo 2019
   location: London, UK
   dates: "October 17, 2019"
@@ -457,7 +464,7 @@
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
-  
+
 - name: Let's Test South Africa 2019
   location: Cape Town, South Africa
   dates: "November 24-26 2019"
