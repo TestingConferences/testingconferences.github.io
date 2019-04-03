@@ -457,6 +457,12 @@
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
   status: CFP is Open until April 20th, 2019
+  
+- name: Let's Test South Africa 2019
+  location: Cape Town, South Africa
+  dates: "November 24-26 2019"
+  url: http://lets-test.com/
+  status: Registration and CFP is open
 
 - name: Heisenbug Moscow
   location: Moscow, Russia
