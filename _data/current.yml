@@ -461,7 +461,7 @@
 - name: Let's Test South Africa 2019
   location: Cape Town, South Africa
   dates: "November 24-26 2019"
-  url: http://lets-test.com/
+  url: http://lets-test.com/?utm_source=testingconferences
   status: Registration and CFP is open
 
 - name: Heisenbug Moscow
