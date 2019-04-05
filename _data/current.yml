@@ -1,22 +1,3 @@
-- name: STPCon Spring 2019
-  location: San Francisco, CA, USA
-  dates: "April 1-4, 2019"
-  url: https://www.stpcon.com/?utm_source=testingconferences
-  twitter: SoftwareTestPro
-
-- name: The QA Financial Forum Chicago 2019
-  location: Chicago, IL, USA
-  dates: "April 2, 2019"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2019?utm_source=testingconferences
-  status: Registration is open
-
-- name: TestBash Essentials 2019
-  location: Brighton, UK
-  dates: "April 3, 2019"
-  url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is open
-
 - name: TestBash Brighton 2019
   location: Brighton, UK
   dates: "April 4-5, 2019"
