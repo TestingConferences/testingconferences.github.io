@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "The Best Remaining Software Testing Conferences of 2018"
-date:   2018-09-06 08:00:00
+date:   2019-01-12 16:40:00
 categories: news
 author: Chris Kenst
+permalink: /best-software-testing-conferences-2018/
 ---
 We (should) all know attending conferences is the best way to keep our skills and knowledge up to date and a great chance to connect with peers in the larger testing community. Half of the year is gone but fear not, there are plenty of software testing conferences and workshops from around the world to attend.
 
@@ -32,3 +33,5 @@ Let's look at some of the **best** remaining software testing conferences and wo
     - The OnlineTestConf are a great and inexpensive way to benefit from going to conferences without leaving your home or office!
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) or the [Conferences of the Past](/past).
+
+Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
