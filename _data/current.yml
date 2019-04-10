@@ -1,22 +1,3 @@
-- name: IEEE International Conference on AI Testing 2019
-  location: San Francisco Bay Area, CA, USA
-  dates: "April 4-9, 2019"
-  url: http://www.ieeeaitests.com/?utm_source=testingconferences
-  twitter: ieeeai
-
-- name: Journée Française des tests logiciels (JFTL) 2019
-  location: Montrouge, France
-  dates: "April 8-9, 2019"
-  url: http://www.cftl.fr/JFTL?utm_source=testingconferences
-  status: Registration is Open
-
-- name: PerfGuild Online Conference 2019
-  location: Online
-  dates: "April 8-9, 2019"
-  url: https://guildconferences.com/conferences/perfguild-2019/?utm_source=testinconferences.org
-  twitter: PerfGuild
-  status: Registration is open
-
 - name: Spanish Test Academy Valencia 2019
   location: Valencia, Spain
   dates: "April 10, 2019"

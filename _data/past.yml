@@ -1,3 +1,20 @@
+- name: PerfGuild Online Conference 2019
+  location: Online
+  dates: "April 8-9, 2019"
+  url: https://guildconferences.com/conferences/perfguild-2019/?utm_source=testinconferences.org
+  twitter: PerfGuild
+
+- name: Journée Française des tests logiciels (JFTL) 2019
+  location: Montrouge, France
+  dates: "April 8-9, 2019"
+  url: http://www.cftl.fr/JFTL?utm_source=testingconferences
+
+- name: IEEE International Conference on AI Testing 2019
+  location: San Francisco Bay Area, CA, USA
+  dates: "April 4-9, 2019"
+  url: http://www.ieeeaitests.com/?utm_source=testingconferences
+  twitter: ieeeai
+
 - name: CukenFest London
   location: London, UK
   dates: "April 4-5, 2019"
@@ -14,7 +31,6 @@
   dates: "April 4-5, 2019"
   url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
   twitter: ministryoftest
-
 
 - name: TestBash Essentials 2019
   location: Brighton, UK
