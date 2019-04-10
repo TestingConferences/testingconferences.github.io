@@ -302,7 +302,8 @@
 - name: SeleniumConf London 2019
   location: London, UK
   dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences  status: Registration is open
+  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences  
+  status: Registration is open
 
 - name: The QA Financial Forum Paris 2019
   location: Paris, FR
