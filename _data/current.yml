@@ -470,3 +470,10 @@
   dates: "December 11, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
   status: Registration is open
+
+- name: Argentesting 2019
+  location: Buenos Aires, Argentina
+  dates: "October, 2019"
+  url: https://argentesting.com
+  twitter: argentesting
+  status: Registration is Open
