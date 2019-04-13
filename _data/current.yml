@@ -1,22 +1,9 @@
-- name: Spanish Test Academy Valencia 2019
-  location: Valencia, Spain
-  dates: "April 10, 2019"
-  url: http://www.spanishtestacademy.com/valencia/index.html?utm_source=testingconferences
-  twitter: expoQA
-  status: Registration is Open
-
-- name: Testing Summit 2019
-  location: London, UK
-  dates: "April 11, 2019"
-  url: http://conference.unicom.co.uk/testing-summit/2019/april/london/?utm_source=testingconferences
-  status: Registration is open
-
 - name: QA Challenge Accepted 5.0
   location: Sofia, Bulgaria
   dates: "April 13, 2019"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: CFP is closed, Registration is open until April 7th.
+  status: Registration is open
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
@@ -302,7 +289,7 @@
 - name: SeleniumConf London 2019
   location: London, UK
   dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences  
+  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences
   status: Registration is open
 
 - name: The QA Financial Forum Paris 2019
@@ -379,7 +366,7 @@
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
   status: CFP is Open
- 
+
 - name: EuroSTAR 2019
   location: Prague, Czech Republic
   dates: "November 11-14, 2019"

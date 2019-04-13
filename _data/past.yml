@@ -1,3 +1,14 @@
+- name: Testing Summit 2019
+  location: London, UK
+  dates: "April 11, 2019"
+  url: http://conference.unicom.co.uk/testing-summit/2019/april/london/?utm_source=testingconferences
+
+- name: Spanish Test Academy Valencia 2019
+  location: Valencia, Spain
+  dates: "April 10, 2019"
+  url: http://www.spanishtestacademy.com/valencia/index.html?utm_source=testingconferences
+  twitter: expoQA
+
 - name: PerfGuild Online Conference 2019
   location: Online
   dates: "April 8-9, 2019"
