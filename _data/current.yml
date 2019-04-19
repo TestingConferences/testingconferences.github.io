@@ -217,6 +217,12 @@
   twitter: stepin_forum
   status: Registration is open
 
+- name: SQuAD Conference (Squadcon) 2019
+  location: Denver, CO, USA
+  dates: "September 10-11, 2019"
+  url: https://squadcon.org/?utm_source=testingconferences
+  status: CFP is open until May 15, 2019
+
 - name: Assert(JS) Testing Conference
   location: Toronto, Canada
   dates: "September 12, 2019"
