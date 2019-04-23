@@ -73,7 +73,7 @@
 - name: Secure Guild Online Conference 2019
   location: Online
   dates: "May 20-21, 2019"
-  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences
   twitter: AutomationGuild
   status: Registration is open
 
@@ -100,7 +100,7 @@
 - name: Australian Test & Tech Automation Conference (ATTAC) 2019
   location: Melbourne CBD, AUS
   dates: "May 24, 2019"
-  url: http://attac.tech/?utm_source=testinconferences.org
+  url: http://attac.tech/?utm_source=testinconferences
   status: CFP is Closed
 
 - name: Workshop on Performance and Reliability (WOPR) 28
