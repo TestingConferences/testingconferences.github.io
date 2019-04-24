@@ -1,3 +1,9 @@
+- name: SeleniumConf (SeConf) Tokyo 2019
+  location: Funabori, Tokyo, Japan
+  dates: "April 18-19, 2019"
+  url: https://conf.selenium.jp/?utm_source=testingconferences
+  twitter: seleniumconf
+
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
   dates: "April 16, 2019"

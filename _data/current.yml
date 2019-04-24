@@ -1,10 +1,3 @@
-- name: SeleniumConf (SeConf) Tokyo 2019
-  location: Funabori, Tokyo, Japan
-  dates: "April 18-19, 2019"
-  url: https://conf.selenium.jp/?utm_source=testingconferences
-  twitter: seleniumconf
-  status: Registration is open
-
 - name: 12th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2019
   location: Xi'an, China
   dates: "April 22-27, 2019"
@@ -295,7 +288,14 @@
   dates: "October 14-16, 2019"
   url: http://www.pnsqc.org/
   twitter: PNSQC
-  status: CFP is open until April 17, 2019
+  status: CFP is open until May 1, 2019
+
+- name: TestCon Europe 2019
+  location: Vilnius, Lithuania
+  dates: "October 15-17, 2019"
+  url: http://www.testcon.lt/
+  twitter: TestConEurope
+  status: CFP is open
 
 - name: TestExpo 2019
   location: London, UK
