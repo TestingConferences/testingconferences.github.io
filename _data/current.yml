@@ -230,6 +230,12 @@
   twitter: ministryoftest
   status: Registration is open
 
+- name: QA Fest 2019
+  location: Kyiv, Ukraine
+  dates: "September 20-21, 2019"
+  url: https://www.qafest.com
+  status: CFP is open until August 1st, 2019
+
 - name: DevTEST Conference NORTH 2019
   location: Leeds, England
   dates: "September 24-25, 2019"
