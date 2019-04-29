@@ -1,3 +1,21 @@
+- name: STeP-IN SUMMIT Delhi (DSTC) 2019
+  location: Delhi, India
+  dates: "April 25-26, 2019"
+  url: https://dstc.stepinforum.org/?utm_source=testingconferences
+  twitter: stepin_forum
+
+- name: SauceCon 2019
+  location: Austin, TX, USA
+  dates: "April 24-25, 2019"
+  url: http://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
+- name: 12th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2019
+  location: Xi'an, China
+  dates: "April 22-27, 2019"
+  url: http://icst2019.xjtu.edu.cn?utm_source=testingconferences
+  twitter: icstconference
+
 - name: SeleniumConf (SeConf) Tokyo 2019
   location: Funabori, Tokyo, Japan
   dates: "April 18-19, 2019"
