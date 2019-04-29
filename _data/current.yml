@@ -352,6 +352,13 @@
   twitter: ministryoftest
   status: CFP is Closed
 
+- name: Argentesting 2019
+  location: Buenos Aires, Argentina
+  dates: "October 3-4, 2019"
+  url: https://argentesting.com?utm_source=testingconferences
+  twitter: argentesting
+  status: CFP is open until June 21th, 2019
+
 - name: Test.bash(); 2019
   location: Manchester, UK
   dates: "October 4, 2019"
@@ -470,10 +477,3 @@
   dates: "December 11, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
   status: Registration is open
-
-- name: Argentesting 2019
-  location: Buenos Aires, Argentina
-  dates: "October 3-4, 2019"
-  url: https://argentesting.com
-  twitter: argentesting
-  status: CFP is open until June 21th, 2019
