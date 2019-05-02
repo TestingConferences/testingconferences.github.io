@@ -338,6 +338,13 @@
   twitter: qstag
   status: CFP is open until April, 30th, 2019
 
+- name: HUSTEF 2019
+  location: Budapest, Hungary
+  dates: "October 28-30, 2019"
+  url: https://www.hustef.hu/
+  twitter: HunTestingBoard
+  status: CFP is open until May, 13th, 2019
+
 - name: Agile Testing Days 2019
   location: Potsdam, Germany
   dates: "November 3-8, 2019"
