@@ -1,3 +1,20 @@
+- name: IEEE DTS 2019
+  location: Gammarth, Tunisia
+  dates: "April 28-May 1, 2019"
+  url: http://www.dts-conf.org/?utm_source=testingconferences
+
+- name: Yerevan Testing Days 2019
+  location: Yerevan, Armenia
+  dates: "April 29-May 1, 2019"
+  url: https://evntestingdays.com?utm_source=testingconferences
+  twitter: evntestingdays
+
+- name: STAREAST 2019
+  location: Orlando, Florida, USA
+  dates: "April 28-May 3, 2019"
+  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
+  twitter: TechWell
+
 - name: STeP-IN SUMMIT Delhi (DSTC) 2019
   location: Delhi, India
   dates: "April 25-26, 2019"

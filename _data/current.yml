@@ -1,34 +1,16 @@
-- name: STAREAST 2019
-  location: Orlando, Florida, USA
-  dates: "April 28-May 3, 2019"
-  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
-  twitter: TechWell
-  status: CFP is Open until September 15, 2019
-
-- name: IEEE DTS 2019
-  location: Gammarth, Tunisia
-  dates: "April 28-May 1, 2019"
-  url: http://www.dts-conf.org/?utm_source=testingconferences
-  status: CFP is Closed
-
-- name: Yerevan Testing Days 2019
-  location: Yerevan, Armenia
-  dates: "April 29-May 1, 2019"
-  url: https://evntestingdays.com?utm_source=testingconferences
-  twitter: evntestingdays
-
 - name: TestingUY 2019
   location: Montevideo, Uruguay
   dates: "May 13-14, 2019"
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
-  status: CFP is Open until March 17, 2019
+  status: Registration is open
 
 - name: QAI QUEST 2019
   location: Chicago, IL, USA
   dates: "May 13-17, 2019"
   url: http://qaiquest.org/2019/?utm_source=testingconferences
   twitter: QAIquest
+  status: Registration is open
 
 - name: WeTest.Athens 2019
   location: Athens, Greece, GR
@@ -69,18 +51,20 @@
   dates: "May 23-24, 2019"
   url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
   twitter: Tricentis
+  status: Registration is open
 
 - name: Australian Test & Tech Automation Conference (ATTAC) 2019
   location: Melbourne CBD, AUS
   dates: "May 24, 2019"
   url: http://attac.tech/?utm_source=testinconferences
-  status: CFP is Closed
+  status: Registration is open
 
 - name: Workshop on Performance and Reliability (WOPR) 28
   location: Marseille, France
   dates: "May 29-31, 2019"
   url: https://www.performance-workshop.org/wopr28/?utm_source=testingconferences
   twitter: WOPR_Workshop
+  status: Registration is closed
 
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
