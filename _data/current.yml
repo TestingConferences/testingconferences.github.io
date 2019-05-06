@@ -165,14 +165,21 @@
   dates: "August 12-15, 2019"
   url: https://www.associationforsoftwaretesting.org/conference/cast2019/?utm_source=testingconferences
   twitter: AST_News
-  status: CFP is Closed
+  status: Early Bird Registration is Open
 
 - name: STeP-IN SUMMIT Bangalore 2019
   location: Bangalore, India
   dates: "August 22-23, 2019"
   url: https://stepinsummit.stepinforum.org?utm_source=testingconferences
   twitter: stepin_forum
-  status: Registration is open
+  status: Registration is Open
+
+- name: Test Island 2019
+  location: Saint Paul's Bay, Malta
+  dates: "August 30, 2019"
+  url: https://www.testisland.com/?utm_source=testingconferences
+  twitter: testislandmalta
+  status: Registration is Open
 
 - name: SQuAD Conference (Squadcon) 2019
   location: Denver, CO, USA
@@ -192,7 +199,7 @@
   dates: "September 12-13, 2019"
   url: https://ti.to/mot/testbash-germany-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Early Bird Registration is open
 
 - name: QA Fest 2019
   location: Kyiv, Ukraine
@@ -232,14 +239,14 @@
   dates: "September 29-October 4, 2019"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Registration is open
+  status: Super Early Bird Registration is Open
 
 - name: TestBash Manchester 2019
   location: Manchester, UK
   dates: "October 2-3, 2019"
   url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Super Early Bird Registration is Open
 
 - name: Argentesting 2019
   location: Buenos Aires, Argentina
@@ -253,26 +260,26 @@
   dates: "October 4, 2019"
   url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Super Early Bird Registration is open
 
 - name: SeleniumConf London 2019
   location: London, UK
   dates: "October 7-8, 2019"
   url: https://2019.seleniumconf.co.uk?utm_source=testingconferences
-  status: Registration is open
+  status: Registration is Open
 
 - name: The QA Financial Forum Paris 2019
   location: Paris, FR
   dates: "October 9, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
-  status: Registration is open
+  status: Registration is Open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2019
   location: Portland, Oregon, USA
   dates: "October 14-16, 2019"
   url: http://www.pnsqc.org/
   twitter: PNSQC
-  status: CFP is open until May 1, 2019
+  status: Registration is not open until June
 
 - name: TestCon Europe 2019
   location: Vilnius, Lithuania
@@ -292,7 +299,7 @@
   dates: "October 20-25, 2019"
   url: http://starcanada.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: CFP is Open until March 3, 2019
+  status: Super Early Bird is Open
 
 - name: SoftTest 2019
   location: Dublin, Ireland
@@ -306,7 +313,7 @@
   dates: "October 24-25, 2019"
   url: https://ti.to/mot/testbash-australia-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Super Early Bird Registration is Open
 
 - name: TestBash New Zealand 2019
   location: Wellington, NZ
@@ -334,14 +341,14 @@
   dates: "November 3-8, 2019"
   url: http://www.agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP Open until March 31, 2019
+  status: Early Bird Registration is Open
 
 - name: TestBash San Francisco 2019
   location: San Francisco, USA
   dates: "November 6-7, 2019"
   url: https://ti.to/mot/testbash-san-francisco-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Super Early Bird Registration is Open
 
 - name: Testing United 2019
   location: Vienna, Austria
@@ -355,7 +362,7 @@
   dates: "November 11-14, 2019"
   url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Closed
+  status: Early Bird Registration is Open
 
 - name: The QA Financial Forum New York 2019
   location: New York, NY USA
@@ -374,22 +381,21 @@
   dates: "November 20-22 2019"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
-  status: CFP is Open until April 20th, 2019
 
 - name: Let's Test South Africa 2019
   location: Cape Town, South Africa
   dates: "November 24-26 2019"
   url: http://lets-test.com/?utm_source=testingconferences
-  status: Registration and CFP is open
+  status: Registration is Open
 
 - name: Heisenbug Moscow
   location: Moscow, Russia
   dates: "December 4-5, 2019"
   url: https://heisenbug-moscow.ru/?utm_source=testingconferences
-  status: CFP is open
+  status: CFP is Open
 
 - name: The QA E-commerce Forum London 2019
   location: London, UK
   dates: "December 11, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
-  status: Registration is open
+  status: Early Bird Registration is open
