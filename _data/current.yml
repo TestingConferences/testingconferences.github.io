@@ -30,7 +30,7 @@
   dates: "May 20-21, 2019"
   url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences
   twitter: AutomationGuild
-  status: Registration is open
+  status: Registration is Open
 
 - name: National Software Testing Conference 2019
   location: London, England
@@ -44,20 +44,20 @@
   dates: "May 23-24, 2019"
   url: https://ti.to/mot/testbash-netherlands-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Registration is Open
 
 - name: Accelerate San Francisco (formerly Quality Jam)
   location: San Francisco, CA, USA
   dates: "May 23-24, 2019"
   url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
   twitter: Tricentis
-  status: Registration is open
+  status: Registration is Open
 
 - name: Australian Test & Tech Automation Conference (ATTAC) 2019
   location: Melbourne CBD, AUS
   dates: "May 24, 2019"
   url: http://attac.tech/?utm_source=testinconferences
-  status: Registration is open
+  status: Registration is Open
 
 - name: Workshop on Performance and Reliability (WOPR) 28
   location: Marseille, France
@@ -126,7 +126,7 @@
   dates: "June 23-28, 2019"
   url: http://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: CFP is Closed
+  status: Early Bird Registration is OPen
 
 - name: Leeds Testing Atelier VIII
   location: Leeds, England
@@ -140,14 +140,13 @@
   dates: "June 26-28, 2019"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
   twitter: TestMastersAcad
-  status: CFP is open until March 21, 2019
 
 - name: London Tester Gathering Workshops 2019
   location: London, UK
   dates: "June 26-28, 2019"
   url: https://ti.to/mot/london-tester-gathering-workshops-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is open
+  status: Early Bird Registration is open
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2019
   location: Beijing, China
