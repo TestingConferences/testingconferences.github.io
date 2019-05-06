@@ -339,9 +339,9 @@
 - name: TestBash San Francisco 2019
   location: San Francisco, USA
   dates: "November 6-7, 2019"
-  url: https://ministryoftesting.com/events/testbash-san-francisco-2019?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-san-francisco-2019?source=testingconferences
   twitter: ministryoftest
-  status: CFP is Closed
+  status: Registration is open
 
 - name: Testing United 2019
   location: Vienna, Austria
