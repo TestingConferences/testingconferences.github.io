@@ -73,6 +73,13 @@
   twitter: nordictestdays
   status: Registration is open
 
+- name: OnlineTestConf 2019
+  location: Online
+  dates: "June 5-6, 2019"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: Registration is open
+
 - name: TestingCup 2019
   location: Poznań, Poland
   dates: "June 10-11, 2019"
