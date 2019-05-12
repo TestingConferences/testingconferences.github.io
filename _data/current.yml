@@ -324,9 +324,9 @@
 - name: TestBash New Zealand 2019
   location: Wellington, NZ
   dates: "October 29, 2019"
-  url: https://ministryoftesting.com/events/testbash-new-zealand-2019?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
   twitter: ministryoftest
-  status: CFP is closed
+  status: Super Early Bird Registration is Open
 
 - name: Software-QS-Tag 2019
   location: Frankfurt am Main, Germany
