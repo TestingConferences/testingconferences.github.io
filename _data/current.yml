@@ -148,6 +148,11 @@
   twitter: ministryoftest
   status: Early Bird Registration is open
 
+- name: Agile, Testing & DevOps Showcase Brussels 2019
+  location: Brussels, Belgium
+  dates: "June 28, 2019"
+  url: https://conference.unicom.co.uk/showcases/2019/june/brussels/?utm_source=testingconferences
+
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2019
   location: Beijing, China
   dates: "July 15-29, 2019"
@@ -317,9 +322,9 @@
 - name: TestBash New Zealand 2019
   location: Wellington, NZ
   dates: "October 29, 2019"
-  url: https://ministryoftesting.com/events/testbash-new-zealand-2019?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
   twitter: ministryoftest
-  status: CFP is closed
+  status: Super Early Bird Registration is Open
 
 - name: Software-QS-Tag 2019
   location: Frankfurt am Main, Germany
