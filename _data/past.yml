@@ -1,3 +1,14 @@
+- name: Heisenbug Piter
+  location: Saint-Petersburg, Russia
+  dates: "May 17-18, 2019"
+  url: https://heisenbug-piter.ru?utm_source=testingconferences
+
+- name: QAI QUEST 2019
+  location: Chicago, IL, USA
+  dates: "May 13-17, 2019"
+  url: http://qaiquest.org/2019/?utm_source=testingconferences
+  twitter: QAIquest
+
 - name: TestingUY 2019
   location: Montevideo, Uruguay
   dates: "May 13-14, 2019"
