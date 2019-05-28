@@ -1,3 +1,37 @@
+- name: Australian Test & Tech Automation Conference (ATTAC) 2019
+  location: Melbourne CBD, AUS
+  dates: "May 24, 2019"
+  url: http://attac.tech/?utm_source=testinconferences
+  status: Registration is Open
+
+- name: Accelerate San Francisco (formerly Quality Jam)
+  location: San Francisco, CA, USA
+  dates: "May 23-24, 2019"
+  url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
+  twitter: Tricentis
+  status: Registration is Open
+
+- name: TestBash Netherlands 2019
+  location: Utrecht, NL
+  dates: "May 23-24, 2019"
+  url: https://ti.to/mot/testbash-netherlands-2019?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open
+
+- name: National Software Testing Conference 2019
+  location: London, England
+  dates: "May 21-22, 2019"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
+
+- name: Secure Guild Online Conference 2019
+  location: Online
+  dates: "May 20-21, 2019"
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences
+  twitter: AutomationGuild
+  status: Registration is Open
+
 - name: Heisenbug Piter
   location: Saint-Petersburg, Russia
   dates: "May 17-18, 2019"
