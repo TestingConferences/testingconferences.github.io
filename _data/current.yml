@@ -139,7 +139,14 @@
   url: https://www.qaatl.com/?utm_source=testingconferences
   twitter: qa_atl
   status: Registration is Open
-
+  
+- name: SwanseaCon 2019
+  location: Swansea, Wales
+  dates: "September 9, 2019"
+  url: https://swanseacon.co.uk/
+  twitter: SwanseaCon
+  status: Registration is Open
+  
 - name: SQuAD Conference (Squadcon) 2019
   location: Denver, CO, USA
   dates: "September 10-11, 2019"
