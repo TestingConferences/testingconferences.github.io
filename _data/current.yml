@@ -143,7 +143,7 @@
 - name: SwanseaCon 2019
   location: Swansea, Wales
   dates: "September 9, 2019"
-  url: https://swanseacon.co.uk/
+  url: https://swanseacon.co.uk/?utm_source=testingconferences
   twitter: SwanseaCon
   status: Registration is Open
   
@@ -243,14 +243,14 @@
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2019
   location: Portland, Oregon, USA
   dates: "October 14-16, 2019"
-  url: http://www.pnsqc.org/
+  url: http://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
   status: Registration is not open until June
 
 - name: TestCon Europe 2019
   location: Vilnius, Lithuania
   dates: "October 15-17, 2019"
-  url: http://www.testcon.lt/
+  url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
   status: CFP is open
 
@@ -298,7 +298,7 @@
 - name: HUSTEF 2019
   location: Budapest, Hungary
   dates: "October 28-30, 2019"
-  url: https://www.hustef.hu/
+  url: https://www.hustef.hu/?utm_source=testingconferences
   twitter: HunTestingBoard
   status: CFP is open until May, 13th, 2019
 
