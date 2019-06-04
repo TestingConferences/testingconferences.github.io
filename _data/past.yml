@@ -1,3 +1,15 @@
+- name: Nordic Testing Days (NTD) 2019
+  location: Tallinn, Estonia
+  dates: "May 29-31, 2019"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
+- name: Workshop on Performance and Reliability (WOPR) 28
+  location: Marseille, France
+  dates: "May 29-31, 2019"
+  url: https://www.performance-workshop.org/wopr28/?utm_source=testingconferences
+  twitter: WOPR_Workshop
+
 - name: Australian Test & Tech Automation Conference (ATTAC) 2019
   location: Melbourne CBD, AUS
   dates: "May 24, 2019"

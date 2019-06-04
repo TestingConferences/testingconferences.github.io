@@ -1,17 +1,3 @@
-- name: Workshop on Performance and Reliability (WOPR) 28
-  location: Marseille, France
-  dates: "May 29-31, 2019"
-  url: https://www.performance-workshop.org/wopr28/?utm_source=testingconferences
-  twitter: WOPR_Workshop
-  status: Registration is closed
-
-- name: Nordic Testing Days (NTD) 2019
-  location: Tallinn, Estonia
-  dates: "May 29-31, 2019"
-  url: http://nordictestingdays.eu/?utm_source=testingconferences
-  twitter: nordictestdays
-  status: Registration is open
-
 - name: OnlineTestConf 2019
   location: Online
   dates: "June 5-6, 2019"
@@ -132,27 +118,27 @@
   url: https://www.testisland.com/?utm_source=testingconferences
   twitter: testislandmalta
   status: Registration is Open
-  
+
 - name: QA ATL Open Space SQA Conference
   location: Atlanta, GA, USA
   dates: "September 6, 2019"
   url: https://www.qaatl.com/?utm_source=testingconferences
   twitter: qa_atl
   status: Registration is Open
-  
+
 - name: SwanseaCon 2019
   location: Swansea, Wales
   dates: "September 9, 2019"
   url: https://swanseacon.co.uk/?utm_source=testingconferences
   twitter: SwanseaCon
   status: Registration is Open
-  
+
 - name: SQuAD Conference (Squadcon) 2019
   location: Denver, CO, USA
   dates: "September 10-11, 2019"
   url: https://squadcon.org/?utm_source=testingconferences
   status: CFP is open until May 15, 2019
-  
+
 - name: Assert(JS) Testing Conference
   location: Toronto, Canada
   dates: "September 12, 2019"
