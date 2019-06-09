@@ -83,6 +83,12 @@
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
+  
+ - name: Testing Bolivia - Chile 2019
+  location: La Paz, Bolivia
+  dates: "April 26, 2019"
+  url: http://testingbolivia.com?utm_source=testingconferences
+  twitter: testingbolivia
 
 - name: STeP-IN SUMMIT Delhi (DSTC) 2019
   location: Delhi, India
