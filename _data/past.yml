@@ -1,3 +1,9 @@
+- name: OnlineTestConf 2019
+  location: Online
+  dates: "June 5-6, 2019"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
   dates: "May 29-31, 2019"
