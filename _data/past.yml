@@ -83,7 +83,13 @@
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  
+
+- name: Testing Bolivia-Chile 2019
+  location: Santiago, Chile
+  dates: "April 26, 2019"
+  url: http://testingenchile.cl?utm_source=testingconferences
+  twitter: TestingenChile
+
 - name: Testing Bolivia-Chile 2019
   location: La Paz, Bolivia
   dates: "April 26, 2019"
