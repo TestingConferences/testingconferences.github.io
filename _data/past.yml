@@ -1,3 +1,9 @@
+- name: TestingCup 2019
+  location: Poznań, Poland
+  dates: "June 10-11, 2019"
+  url: http://testingcup.pl/index.html?utm_source=testingconferences
+  twitter: TestingCup
+
 - name: OnlineTestConf 2019
   location: Online
   dates: "June 5-6, 2019"
@@ -83,7 +89,7 @@
   dates: "April 28-May 3, 2019"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  
+
 - name: Testing Bolivia-Chile 2019
   location: La Paz, Bolivia
   dates: "April 26, 2019"
