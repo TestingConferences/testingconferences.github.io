@@ -1,3 +1,14 @@
+- name: AI and Automation for Mobile Banking and E-commerce 2019
+  location: London, UK
+  dates: "June 12, 2019"
+  url: https://www.qa-financial.com/events/qa-automation-for-mobiles-apps-london-2019?utm_source=testingconferences
+
+- name: Test & Quality
+  location: Copenhagen, Denmark
+  dates: "June 11-12, 2019"
+  url: https://dstb.dk/konference-2019/?utm_source=testingconferences
+  twitter: DSTB_dk
+
 - name: TestingCup 2019
   location: Poznań, Poland
   dates: "June 10-11, 2019"
@@ -94,7 +105,13 @@
   location: La Paz, Bolivia
   dates: "April 26, 2019"
   url: http://testingbolivia.com?utm_source=testingconferences
-  twitter: testingbolivia
+  twitter: TestingBolivia
+
+- name: Testing Bolivia-Chile 2019
+  location: Santiago, Chile
+  dates: "April 26, 2019"
+  url: http://testingenchile.cl?utm_source=testingconferences
+  twitter: TestingenChile
 
 - name: STeP-IN SUMMIT Delhi (DSTC) 2019
   location: Delhi, India
