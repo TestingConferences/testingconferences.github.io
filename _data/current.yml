@@ -273,6 +273,13 @@
   url: https://www.hustef.hu/?utm_source=testingconferences
   twitter: HunTestingBoard
   status: CFP is open until May, 13th, 2019
+  
+- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems  
+  location: Bilbao, Spain
+  dates: "October 29-31, 2019"
+  url: https://www.qatest.org/?lang=en
+  twitter: https://twitter.com/QATestBilbao
+  status: Early Bird Registration is Open
 
 - name: Agile Testing Days 2019
   location: Potsdam, Germany
