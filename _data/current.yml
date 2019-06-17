@@ -1,17 +1,3 @@
-- name: Romanian Testing Conference (RTC) 2019
-  location: Cluj-Napoca, Romania
-  dates: "June 12-14, 2019"
-  url: https://www.romaniatesting.ro?utm_source=testingconferences
-  twitter: romaniatesting
-  status: Registration is open
-
-- name: AppiumConf 19
-  location: Bengaluru, India
-  dates: "June 13-15, 2019"
-  url: https://appiumconf.com/?utm_source=testingconferences
-  twitter: appium_conf
-  status: Registration is open
-
 - name: expo:QA'19
   location: Madrid, Spain
   dates: "June 17-19, 2019"
