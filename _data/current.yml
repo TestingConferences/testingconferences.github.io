@@ -48,9 +48,15 @@
 
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2019
   location: Beijing, China
-  dates: "July 15-29, 2019"
+  dates: "July 15-19, 2019"
   url: http://conf.researchr.org/home/issta-2019?utm_source=testingconferences
   twitter: issta_conf
+
+- name: World Conference Next Generation Testing 2019
+  location: Bengaluru, India
+  dates: "July 18-19, 2019"
+  url: http://www.unicomlearning.com/2019/WCNGT_2019/?utm_source=testingconferences
+  status: Registration is Open  
 
 - name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2019
   location: Prague, Czech Republic
