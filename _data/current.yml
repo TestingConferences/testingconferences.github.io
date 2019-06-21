@@ -320,5 +320,6 @@
 - name: TestBash Brighton 2020
   location: Brighton, Uk
   dates: "March 26-27, 2020"
-  url: https://ministryoftesting.com/events/testbash-brighton-2020
+  url: https://ministryoftesting.com/events/testbash-brighton-2020?utm_source=testingconferences
+  twitter: ministryoftest
   status: CFP is Open Until 2nd August 2019
