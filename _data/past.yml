@@ -1,3 +1,9 @@
+- name: Test Automation Day 2019
+  location: Utrecht, Netherlands
+  dates: "June 19-20, 2019"
+  url: http://www.testautomationday.com?utm_source=testingconferences
+  twitter: automation_day
+
 - name: expo:QA'19
   location: Madrid, Spain
   dates: "June 17-19, 2019"
