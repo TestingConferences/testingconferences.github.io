@@ -1,3 +1,26 @@
+- name: Agile, Testing & DevOps Showcase Brussels 2019
+  location: Brussels, Belgium
+  dates: "June 28, 2019"
+  url: https://conference.unicom.co.uk/showcases/2019/june/brussels/?utm_source=testingconferences
+
+- name: London Tester Gathering Workshops 2019
+  location: London, UK
+  dates: "June 26-28, 2019"
+  url: https://ti.to/mot/london-tester-gathering-workshops-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: Test Leadership Congress 2019
+  location: New York, NY, USA
+  dates: "June 26-28, 2019"
+  url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
+  twitter: TestMastersAcad
+
+- name: Agile Testing Days USA 2019
+  location: Chicago, IL, USA
+  dates: "June 23-28, 2019"
+  url: http://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+
 - name: Leeds Testing Atelier VIII
   location: Leeds, England
   dates: "June 25, 2019"
