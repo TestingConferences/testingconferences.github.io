@@ -43,6 +43,13 @@
   twitter: qa_atl
   status: Registration is Open
 
+- name: QA Barcamp
+  location: Hamburg, Germany
+  dates: "September 6 + 7, 2019"
+  url: https://www.qs-barcamp.de
+  twitter: qsbarcamp
+  status: Registration is open
+
 - name: SwanseaCon 2019
   location: Swansea, Wales
   dates: "September 9, 2019"
