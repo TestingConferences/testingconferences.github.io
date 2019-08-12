@@ -290,6 +290,13 @@
   dates: "December 4-5, 2019"
   url: https://heisenbug-moscow.ru/?utm_source=testingconferences
   status: CFP is Open
+  
+- name: ATA Global Testing Retreat 2019
+  location: Pune, India
+  dates: "December 14-15, 2019"
+  url: https://www.townscript.com/e/agiletestingalliancegtr2019?utm_source=testingconferences
+  twitter: testingretreat
+  status: Registration is open
 
 - name: The QA Financial Forum Milano 2020
   location: Milan, Italy
