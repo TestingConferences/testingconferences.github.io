@@ -138,7 +138,7 @@
   dates: "October 9, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
   status: Registration is Open
-  
+
 - name: Luxembourg Software Testing Event 2019
   location: Luxembourg-city, LU
   dates: "October 10, 2019"
@@ -290,7 +290,7 @@
   dates: "December 4-5, 2019"
   url: https://heisenbug-moscow.ru/?utm_source=testingconferences
   status: CFP is Open
-  
+
 - name: ATA Global Testing Retreat 2019
   location: Pune, India
   dates: "December 14-15, 2019"
@@ -309,6 +309,13 @@
   dates: "February 26, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020?utm_source=testingconferences
   status: Early Bird Registration is Open until TBD
+
+- name: TSQA 2020
+  location: Chapel Hill, NC, USA
+  dates: "February 26-27, 2020"
+  url: http://tsqa.org/
+  twitter: TISQA_RTP
+  status: CFP is Open until November 8th, 2019
 
 - name: TestBash Brighton 2020
   location: Brighton, Uk
