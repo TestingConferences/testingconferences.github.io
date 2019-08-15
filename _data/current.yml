@@ -318,8 +318,15 @@
   status: CFP is Open until November 8th, 2019
 
 - name: TestBash Brighton 2020
-  location: Brighton, Uk
+  location: Brighton, UK
   dates: "March 26-27, 2020"
   url: https://ministryoftesting.com/events/testbash-brighton-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open Until 2nd August 2019
+  status: CFP Closed
+  
+- name: TestBash Detroit 2020
+  location: Detroit, US
+  dates: "April 23-24, 2020"
+  url: https://ministryoftesting.com/events/testbash-detroit-2020?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until September 30th, 2019
