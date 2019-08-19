@@ -1,3 +1,9 @@
+- name: Conference for the Association for Software Testing (CAST) 2019
+  location: Cocoa Beach, FL, USA
+  dates: "August 12-15, 2019"
+  url: https://www.associationforsoftwaretesting.org/conference/cast2019/?utm_source=testingconferences
+  twitter: AST_News
+
 - name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2019
   location: Prague, Czech Republic
   dates: "July 22-26, 2019"
