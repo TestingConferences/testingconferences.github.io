@@ -102,6 +102,12 @@
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
 
+- name: SQA Days - 25 2019
+  location: Saint Petersburg, Russia
+  dates: "May 31-June 1, 2019"
+  url: https://sqadays.com/ru/index?eventId=69279
+  twitter: sqadays
+
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
   dates: "May 29-31, 2019"
@@ -302,7 +308,7 @@
 - name: SQA Days EU - 1
   location: Riga, Latvia
   dates: "March 22-23, 2019"
-  url: https://sqadays.eu/en/index?utm_source=testingconferences
+  url: https://sqadays.eu/en/index?eventId=57812
   twitter: sqadays
 
 - name: Swiss Testing Day 2019
