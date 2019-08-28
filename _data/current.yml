@@ -254,6 +254,13 @@
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
   status: Registration is open
 
+- name: SQA Days - 26 2019
+  location: Minsk, Belarus
+  dates: "November 15-16, 2019"
+  url: https://sqadays.com
+  twitter: sqadays
+  status: Registration is open
+
 - name: ConTEST NYC 2019
   location: New York, NY, USA
   dates: "November 20-22 2019"
@@ -331,8 +338,25 @@
   twitter: saucelabs
   status: CFP is Open
 
+- name: Agile Testing Days (ATD) 2018
+  location: Potsdam, Germany
+  dates: "November 12-16, 2018"
+  url: http://agiletestingdays.com
+  twitter: AgileTD
+  status: CFP Open until April 2018
+
+- name: SQA Days EU - 2 2020
+  location: Warsaw, Poland
+  dates: "March 20-21, 2020"
+  url: https://sqadays.eu
+  twitter: sqadays
+  status: Registration is open
+
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
   url: https://mailchi.mp/associationforsoftwaretesting/cast2020
   twitter: AST_News
+  
+
+
