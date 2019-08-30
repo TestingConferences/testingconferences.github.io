@@ -10,7 +10,7 @@ jobs:
       - run:
           name: Dependencies
           command: |
-            gem install bundler -v 2.0.2
+            gem install bundler
             bundle install
       - run:
           name: Build
