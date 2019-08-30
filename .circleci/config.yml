@@ -2,11 +2,12 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.3.7
+      - image: circleci/ruby:2.5.0
     steps:
       - checkout
       - run:
           name: Dependencies
+          command: gem install bundler -v 1.17.3
           command: bundle install
       - run:
           name: Build
