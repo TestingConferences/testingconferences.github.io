@@ -7,8 +7,9 @@ jobs:
       - checkout
       - run:
           name: Dependencies
-          command: gem install bundler -v 1.17.3
-          command: bundle install
+          command: |
+            gem install bundler -v 1.17.3
+            bundle install
       - run:
           name: Build
           command: bundle exec jekyll build --verbose
