@@ -2,14 +2,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.3.7
-        environment:
-          BUNDLER_VERSION: 2.0.1
+      - image: circleci/ruby:2.5.0
     steps:
       - checkout
       - run:
           name: Dependencies
-          command: bundle install
+          command: |
+            gem install bundler -v 2.0.2
+            bundle install
       - run:
           name: Build
           command: bundle exec jekyll build --verbose
