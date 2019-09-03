@@ -1,3 +1,9 @@
+- name: Test Island 2019
+  location: Saint Paul's Bay, Malta
+  dates: "August 30, 2019"
+  url: https://www.testisland.com/?utm_source=testingconferences
+  twitter: testislandmalta
+
 - name: STeP-IN SUMMIT Bangalore 2019
   location: Bangalore, India
   dates: "August 22-23, 2019"
