@@ -70,7 +70,7 @@
   dates: "September 28, 2019"
   url: https://www.eventbrite.es/e/qa-minds-europe-tickets-62842355176/?utm_source=testingconferences
   twitter: qaminds_europe
-  status: Registration is Open, cost free event
+  status: Registration is Open
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
@@ -276,7 +276,11 @@
   location: London, UK
   dates: "December 4, 2019"
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
+<<<<<<< HEAD
   status: Registration is Open
+=======
+  status: Early Bird Registration is Open until July 31st
+>>>>>>> d7b2f0af6a42254cd2ecfe33648c7f5f1b4afdc9
 
 - name: Heisenbug Moscow
   location: Moscow, Russia
@@ -345,6 +349,16 @@
   twitter: saucelabs
   status: CFP is Open
 
+<<<<<<< HEAD
+=======
+- name: SQA Days EU - 2 2020
+  location: Warsaw, Poland
+  dates: "March 20-21, 2020"
+  url: https://sqadays.eu
+  twitter: sqadays
+  status: Registration is Open
+
+>>>>>>> d7b2f0af6a42254cd2ecfe33648c7f5f1b4afdc9
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
