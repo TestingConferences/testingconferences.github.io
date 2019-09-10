@@ -149,7 +149,7 @@
   dates: "October 20-25, 2019"
   url: http://starcanada.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Early Bird open until September 20
+  status: Early Bird Registration open until September 20th
 
 - name: SoftTest 2019
   location: Dublin, Ireland
@@ -163,7 +163,7 @@
   dates: "October 24-25, 2019"
   url: https://ti.to/mot/testbash-australia-2019?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird Registration is Open
+  status: Registration is Open
 
 - name: QA ATL Open Space SQA Conference
   location: Atlanta, GA, USA
@@ -177,7 +177,7 @@
   dates: "October 29, 2019"
   url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Software-QS-Tag 2019
   location: Frankfurt am Main, Germany
@@ -219,7 +219,7 @@
   dates: "November 6-7, 2019"
   url: https://ti.to/mot/testbash-san-francisco-2019?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Testing United 2019
   location: Vienna, Austria
@@ -233,7 +233,7 @@
   dates: "November 11-14, 2019"
   url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until September 27, 2019
 
 - name: The QA Financial Forum New York 2019
   location: New York, NY USA
@@ -271,6 +271,7 @@
   dates: "December 4-5, 2019"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
+  status: Registration is Open
 
 - name: The QA E-commerce Forum London 2019
   location: London, UK
@@ -300,9 +301,9 @@
 - name: European Testing Conference 2020
   location: Amsterdam, Netherlands
   dates: "February 6-7, 2020"
-  url: https://europeantestingconference.eu/2020/
+  url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
-  status: CFP is Open till September, 15, Registration is Open
+  status: CFP is Open till September, 15. Early Bird Registration is Open
 
 - name: The QA Financial Forum London 2020
   location: London, UK
@@ -348,5 +349,6 @@
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
-  url: https://mailchi.mp/associationforsoftwaretesting/cast2020
+  url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
+  status: Blind Bad pricing is open
