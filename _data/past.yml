@@ -1,3 +1,15 @@
+- name: QA Barcamp
+  location: Hamburg, Germany
+  dates: "September 6-7, 2019"
+  url: https://www.qs-barcamp.de/?utm_source=testingconferences
+  twitter: qsbarcamp
+
+- name: SwanseaCon 2019
+  location: Swansea, Wales
+  dates: "September 9, 2019"
+  url: https://swanseacon.co.uk/?utm_source=testingconferences
+  twitter: SwanseaCon
+
 - name: Test Island 2019
   location: Saint Paul's Bay, Malta
   dates: "August 30, 2019"
