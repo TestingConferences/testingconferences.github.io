@@ -288,15 +288,22 @@
 - name: ATA Global Testing Retreat 2019
   location: Pune, India
   dates: "December 14-15, 2019"
-  url: https://www.townscript.com/e/agiletestingalliancegtr2019?utm_source=testingconferences
+  url: https://www.townscript.com/e/agiletestingalliancegtr2019/?utm_source=testingconferences
   twitter: testingretreat
   status: Registration is Open
 
 - name: The QA Financial Forum Milano 2020
   location: Milan, Italy
   dates: "January 29, 2020"
-  url: https://www.qa-financial.com/events/qa-financial-forum-milano-2020?utm_source=testingconferences
+  url: https://www.qa-financial.com/events/qa-financial-forum-milano-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open until November 1st, 2019
+
+- name: AutomationGuild Online Conference 2020
+  location: Online
+  dates: "February 3-5, 2020"
+  url: https://guildconferences.com/?utm_source=testingconferences
+  twitter: AutomationGuild
+  status: CFP is Open
 
 - name: European Testing Conference 2020
   location: Amsterdam, Netherlands
