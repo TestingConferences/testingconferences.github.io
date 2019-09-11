@@ -62,7 +62,7 @@
 - name: Quality Assurance, Automation, Security, Performance (QAASP)
   location: Minsk, Belarus
   dates: "September 27, 2019"
-  url: http://qaasp.tech/en
+  url: http://qaasp.tech/en?utm_source=testingconferences
   status: Registration is Open
 
 - name: QA Minds Europe Launch Event
@@ -102,7 +102,7 @@
 - name: SeleniumConf London 2019
   location: London, UK
   dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences
+  url: https://2019.seleniumconf.co.uk/?utm_source=testingconferences
   status: Registration is Open
 
 - name: The QA Financial Forum Paris 2019
@@ -140,7 +140,7 @@
 - name: Squish Days Europe 2019
   location: Munich, Germany
   dates: "October 17-18, 2019"
-  url: https://www.froglogic.com/news/squish-days-europe-conference-2019/
+  url: https://www.froglogic.com/news/squish-days-europe-conference-2019/?utm_source=testingconferences
   twitter: froglogic
   status: Registration is Open
 
@@ -154,7 +154,7 @@
 - name: SoftTest 2019
   location: Dublin, Ireland
   dates: "October 24, 2019"
-  url: http://softtest.ie/softtest-conference-2019-and-one-day-tutorial/
+  url: http://softtest.ie/softtest-conference-2019-and-one-day-tutorial/?utm_source=testingconferences
   twitter: SoftTestIreland
   status: Registration is Open
 
@@ -189,7 +189,7 @@
 - name: Agile & Automation Days 2019 (AADays)
   location: Gdańsk, Poland
   dates: "October 28-29, 2019"
-  url: http://aadays.pl/
+  url: http://aadays.pl/?utm_source=testingconferences
   twitter: AADaysPoland
   status: Registration is Open
 
@@ -210,7 +210,7 @@
 - name: Quest for Quality 2019
   location: Dublin, Ireland
   dates: "November 5-6, 2019"
-  url: http://questforquality.eu/
+  url: http://questforquality.eu/?utm_source=testingconferences
   twitter: Quest_4_Quality
   status: Registration is Open
 
@@ -250,7 +250,7 @@
 - name: SQA Days - 26 2019
   location: Minsk, Belarus
   dates: "November 15-16, 2019"
-  url: https://sqadays.com
+  url: https://sqadays.com?utm_source=testingconferences
   twitter: sqadays
   status: Registration is Open
 
@@ -315,20 +315,20 @@
 - name: The QA Financial Forum London 2020
   location: London, UK
   dates: "February 26, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020?utm_source=testingconferences
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open until TBD
 
 - name: TSQA 2020
   location: Chapel Hill, NC, USA
   dates: "February 26-27, 2020"
-  url: http://tsqa.org/
+  url: http://tsqa.org/?utm_source=testingconferences
   twitter: TISQA_RTP
   status: CFP is Open until November 8th, 2019
 
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
   dates: "March 20-21, 2020"
-  url: https://sqadays.eu
+  url: https://sqadays.eu/?utm_source=testingconferences
   twitter: sqadays
   status: Registration is Open
 
