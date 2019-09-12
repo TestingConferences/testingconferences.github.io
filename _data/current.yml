@@ -1,9 +1,3 @@
-- name: SQuAD Conference (Squadcon) 2019
-  location: Denver, CO, USA
-  dates: "September 10-11, 2019"
-  url: https://squadcon.org/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: Assert(JS) Testing Conference
   location: Toronto, Canada
   dates: "September 12, 2019"
@@ -303,7 +297,7 @@
   dates: "February 3-5, 2020"
   url: https://guildconferences.com/?utm_source=testingconferences
   twitter: AutomationGuild
-  status: CFP is Open
+  status: CFP is Open until September 25, 2020
 
 - name: European Testing Conference 2020
   location: Amsterdam, Netherlands

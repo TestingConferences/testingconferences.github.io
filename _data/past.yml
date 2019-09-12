@@ -1,3 +1,8 @@
+- name: SQuAD Conference (Squadcon) 2019
+  location: Denver, CO, USA
+  dates: "September 10-11, 2019"
+  url: https://squadcon.org/?utm_source=testingconferences
+
 - name: QA Barcamp
   location: Hamburg, Germany
   dates: "September 6-7, 2019"
