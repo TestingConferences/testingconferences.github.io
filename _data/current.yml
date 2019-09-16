@@ -1,17 +1,3 @@
-- name: Assert(JS) Testing Conference
-  location: Toronto, Canada
-  dates: "September 12, 2019"
-  url: https://www.assertjs.com/?utm_source=testingconferences
-  twitter: assertjs
-  status: Registration is Open
-
-- name: TestBash Germany 2019
-  location: Munich, Germany
-  dates: "September 12-13, 2019"
-  url: https://ti.to/mot/testbash-germany-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
 - name: QA Fest 2019
   location: Kyiv, Ukraine
   dates: "September 20-21, 2019"

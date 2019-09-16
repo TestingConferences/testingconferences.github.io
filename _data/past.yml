@@ -1,3 +1,15 @@
+- name: TestBash Germany 2019
+  location: Munich, Germany
+  dates: "September 12-13, 2019"
+  url: https://ti.to/mot/testbash-germany-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: Assert(JS) Testing Conference
+  location: Toronto, Canada
+  dates: "September 12, 2019"
+  url: https://www.assertjs.com/?utm_source=testingconferences
+  twitter: assertjs
+
 - name: SQuAD Conference (Squadcon) 2019
   location: Denver, CO, USA
   dates: "September 10-11, 2019"
