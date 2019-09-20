@@ -28,7 +28,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>October 2019</td>
-    <td>Pending</td>
+    <td>EuroSTAR 2019</td>
   </tr>
   <tr>
     <td>November 2019</td>
@@ -56,11 +56,11 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>May 2020</td>
-    <td>Pending</td>
+    <td>EuroSTAR 2020</td>
   </tr>
     <tr>
     <td>September 2020</td>
-    <td>Pending</td>
+    <td>EuroSTAR 2020</td>
   </tr>
 </table>
 
