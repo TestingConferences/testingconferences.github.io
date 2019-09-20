@@ -28,7 +28,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>October 2019</td>
-    <td>1/2: TestCon Europe 2019</td>
+    <td>Pending</td>
   </tr>
   <tr>
     <td>November 2019</td>
@@ -56,7 +56,11 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>May 2020</td>
-    <td>TBD</td>
+    <td>Pending</td>
+  </tr>
+    <tr>
+    <td>September 2020</td>
+    <td>Pending</td>
   </tr>
 </table>
 
