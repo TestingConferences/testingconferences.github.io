@@ -1,51 +1,3 @@
-- name: Targeting Quality (KWSQA) 2019
-  location: Cambridge, ON Canada
-  dates: "September 23-24, 2019"
-  url: http://kwsqa.org/tq2019/?utm_source=testingconferences
-  twitter: kwsqa
-  status: Registration is Open
-
-- name: STPCon Fall 2019
-  location: Boston, MA USA
-  dates: "September 23-26, 2019"
-  url: https://www.stpcon.com/?utm_source=testingconferences
-  twitter: SoftwareTestPro
-  status: Registration is Open
-
-- name: DevTEST Conference NORTH 2019
-  location: Leeds, England
-  dates: "September 24-25, 2019"
-  url: https://www.softwaretestingnews.co.uk/products/devtest-conference-north/?utm_source=testingconferences
-  twitter: testmagazine
-  status: Registration is Open
-
-- name: SEETEST 2019
-  location: Bucharest, Romania
-  dates: "September 26-27, 2019"
-  url: https://seetest.org/?utm_source=testingconferences
-  twitter: SEETESTConf
-  status: Registration is Open
-
-- name: STeP-IN SUMMIT Pune (PSTC) 2019
-  location: Pune, India
-  dates: "September 26-27, 2019"
-  url: https://pstc.stepinforum.org/?utm_source=testingconferences
-  twitter: stepin_forum
-  status: Registration is Open
-
-- name: Quality Assurance, Automation, Security, Performance (QAASP)
-  location: Minsk, Belarus
-  dates: "September 27, 2019"
-  url: http://qaasp.tech/en?utm_source=testingconferences
-  status: Registration is Open
-
-- name: QA Minds Europe Launch Event
-  location: Valencia, Spain
-  dates: "September 28, 2019"
-  url: https://www.eventbrite.es/e/qa-minds-europe-tickets-62842355176/?utm_source=testingconferences
-  twitter: qaminds_europe
-  status: Registration is Open
-
 - name: STARWEST 2019
   location: Anaheim, CA, USA
   dates: "September 29-October 4, 2019"
@@ -130,7 +82,7 @@
   dates: "October 20-25, 2019"
   url: http://starcanada.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Early Bird Registration open until September 20th
+  status: Registration is Open
 
 - name: SoftTest 2019
   location: Dublin, Ireland
