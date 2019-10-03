@@ -55,7 +55,7 @@
   dates: "October 14-16, 2019"
   url: http://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Early Bird Registration open until September 20th
+  status: Registration is open
 
 - name: TestCon Europe 2019
   location: Vilnius, Lithuania
@@ -166,7 +166,7 @@
   dates: "November 11-14, 2019"
   url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open until September 27, 2019
+  status: Registration is Open
 
 - name: The QA Financial Forum New York 2019
   location: New York, NY USA
@@ -254,7 +254,7 @@
   dates: "February 6-7, 2020"
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
-  status: CFP is Open till September, 15. Early Bird Registration is Open
+  status: Early Bird Registration is Open
 
 - name: The QA Financial Forum London 2020
   location: London, UK
@@ -288,18 +288,18 @@
   dates: "April 23-24, 2020"
   url: https://ministryoftesting.com/events/testbash-detroit-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until September 30th, 2019
+  status: CFP is Closed
 
 - name: SauceCon 2020
   location: Austin, TX, USA
   dates: "April 27-29, 2020"
   url: http://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
-  status: CFP is Open
+  status: Early Bird Pricing & CFP is Open until November 3, 2019
 
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
-  status: Blind Bat pricing is open
+  status: Blind Bat pricing (Super Early Bird) is open
