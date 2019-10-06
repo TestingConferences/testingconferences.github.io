@@ -1,3 +1,33 @@
+- name: Test.bash(); 2019
+  location: Manchester, UK
+  dates: "October 4, 2019"
+  url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: Workshop on Regulated Software Testing (WREST) 2019
+  location: Anaheim, CA, USA
+  dates: "October 4, 2019"
+  url: https://starwest.techwell.com/program/bonus-sessions/workshop-regulated-software-testing-wrest-starwest-2019?utm_source=testingconferences
+  twitter: techwell
+
+- name: Argentesting 2019
+  location: Buenos Aires, Argentina
+  dates: "October 3-4, 2019"
+  url: https://argentesting.com?utm_source=testingconferences
+  twitter: argentesting
+
+- name: TestBash Manchester 2019
+  location: Manchester, UK
+  dates: "October 2-3, 2019"
+  url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: STARWEST 2019
+  location: Anaheim, CA, USA
+  dates: "September 29-October 4, 2019"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: QA Minds Europe Launch Event
   location: Valencia, Spain
   dates: "September 28, 2019"
