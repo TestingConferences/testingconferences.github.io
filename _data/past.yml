@@ -1,8 +1,7 @@
-- name: SeleniumConf London 2019
-  location: London, UK
-  dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk/?utm_source=testingconferences
-  status: Registration is Open
+- name: Luxembourg Software Testing Event 2019
+  location: Luxembourg-city, LU
+  dates: "October 10, 2019"
+  url: https://www.lste.lu/?utm_source=testingconferences
 
 - name: The QA Financial Forum Paris 2019
   location: Paris, FR
@@ -10,11 +9,10 @@
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
   status: Registration is Open
 
-- name: Luxembourg Software Testing Event 2019
-  location: Luxembourg-city, LU
-  dates: "October 10, 2019"
-  url: https://www.lste.lu/?utm_source=testingconferences
-  status: Registration is Open, Tickets are Free
+- name: SeleniumConf London 2019
+  location: London, UK
+  dates: "October 7-8, 2019"
+  url: https://2019.seleniumconf.co.uk/?utm_source=testingconferences
 
 - name: Test.bash(); 2019
   location: Manchester, UK

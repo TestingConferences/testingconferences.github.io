@@ -231,6 +231,13 @@
   twitter: ministryoftest
   status: Super Early Bird pricing until 30th November, 2019.
 
+- name: STPCon Spring 2020
+  location: San Diego, CA USA
+  dates: "March 30-April 2, 2020"
+  url: https://spring2020.stpcon.com/submit/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+  status: CFP is Open until October 18th, 2019
+
 - name: TestBash Detroit 2020
   location: Detroit, US
   dates: "April 23-24, 2020"
