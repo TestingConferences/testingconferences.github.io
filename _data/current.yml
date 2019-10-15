@@ -227,9 +227,9 @@
 - name: TestBash Brighton 2020
   location: Brighton, UK
   dates: "March 26-27, 2020"
-  url: https://ministryoftesting.com/events/testbash-brighton-2020?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
-  status: CFP Closed
+  status: Super Early Bird pricing until 30th November, 2019.
 
 - name: STPCon Spring 2020
   location: San Diego, CA USA

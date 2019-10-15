@@ -7,6 +7,7 @@
   location: Paris, FR
   dates: "October 9, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
+  status: Registration is Open
 
 - name: SeleniumConf London 2019
   location: London, UK
