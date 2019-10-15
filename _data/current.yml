@@ -252,9 +252,16 @@
   twitter: saucelabs
   status: Early Bird Pricing & CFP is Open until November 3, 2019
 
+- name: STAREAST 2020
+  location: Orlando, Florida, USA
+  dates: "May 3-8, 2020"
+  url: https://stareast.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: Super Early Bird Pricing is Open
+
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
-  status: Blind Bat pricing (Super Early Bird) is open
+  status: Blind Bat pricing (Super Early Bird) is Open
