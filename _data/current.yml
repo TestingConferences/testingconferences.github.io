@@ -251,6 +251,13 @@
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
   status: Super Early Bird Pricing is Open
+  
+- name: TestBash Netherlands 2020
+  location: Utrecht, NL
+  dates: "May 28-29, 2020"
+  url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP Open Until October 25th 2019
 
 - name: expo:QA 20
   location: Madrid, Spain
