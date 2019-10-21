@@ -1,3 +1,20 @@
+- name: Squish Days Europe 2019
+  location: Munich, Germany
+  dates: "October 17-18, 2019"
+  url: https://www.froglogic.com/news/squish-days-europe-conference-2019/?utm_source=testingconferences
+  twitter: froglogic
+
+- name: TestExpo 2019
+  location: London, UK
+  dates: "October 17, 2019"
+  url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
+
+- name: TestCon Europe 2019
+  location: Vilnius, Lithuania
+  dates: "October 15-17, 2019"
+  url: http://www.testcon.lt/?utm_source=testingconferences
+  twitter: TestConEurope
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2019
   location: Portland, Oregon, USA
   dates: "October 14-16, 2019"
