@@ -7,4 +7,4 @@ gem 'html-proofer', '>= 3.10.0'
 gem 'jekyll-sitemap', '~> 1.2'
 gem 'jekyll-last-modified-at'
 gem 'nokogiri', '~> 1.10.4'
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', '>= 198', group: :jekyll_plugins
