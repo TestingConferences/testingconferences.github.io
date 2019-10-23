@@ -238,6 +238,13 @@
   url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP Open Until October 25th 2019
+  
+- name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "June 10-12, 2020"
+  url: https://www.romaniatesting.ro
+  twitter: romaniatesting
+  status: CFP is Open until November 25th 2019
 
 - name: expo:QA 20
   location: Madrid, Spain
