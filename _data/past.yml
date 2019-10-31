@@ -1,3 +1,51 @@
+- name: HUSTEF 2019
+  location: Budapest, Hungary
+  dates: "October 28-30, 2019"
+  url: https://www.hustef.hu/?utm_source=testingconferences
+  twitter: HunTestingBoard
+
+- name: TestBash New Zealand 2019
+  location: Wellington, NZ
+  dates: "October 29, 2019"
+  url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: Agile & Automation Days 2019 (AADays)
+  location: Gdańsk, Poland
+  dates: "October 28-29, 2019"
+  url: http://aadays.pl/?utm_source=testingconferences
+  twitter: AADaysPoland
+
+- name: QA ATL Open Space SQA Conference
+  location: Atlanta, GA, USA
+  dates: "October 28, 2019"
+  url: https://www.qaatl.com/?utm_source=testingconferences
+  twitter: qa_atl
+
+- name: Software-QS-Tag 2019
+  location: Frankfurt am Main, Germany
+  dates: "October 24-25, 2019"
+  url: https://www.qs-tag.de/en/?utm_source=testingconferences
+  twitter: qstag
+
+- name: TestBash Australia 2019
+  location: Sydney, Aus
+  dates: "October 24-25, 2019"
+  url: https://ti.to/mot/testbash-australia-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: SoftTest 2019
+  location: Dublin, Ireland
+  dates: "October 24, 2019"
+  url: http://softtest.ie/softtest-conference-2019-and-one-day-tutorial/?utm_source=testingconferences
+  twitter: SoftTestIreland
+
+- name: STARCANADA 2019
+  location: Toronto, Canada
+  dates: "October 20-25, 2019"
+  url: http://starcanada.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: Squish Days Europe 2019
   location: Munich, Germany
   dates: "October 17-18, 2019"

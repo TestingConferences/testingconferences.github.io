@@ -1,59 +1,3 @@
-- name: STARCANADA 2019
-  location: Toronto, Canada
-  dates: "October 20-25, 2019"
-  url: http://starcanada.techwell.com/?utm_source=testingconferences
-  twitter: techwell
-  status: Registration is Open
-
-- name: SoftTest 2019
-  location: Dublin, Ireland
-  dates: "October 24, 2019"
-  url: http://softtest.ie/softtest-conference-2019-and-one-day-tutorial/?utm_source=testingconferences
-  twitter: SoftTestIreland
-  status: Registration is Open
-
-- name: TestBash Australia 2019
-  location: Sydney, Aus
-  dates: "October 24-25, 2019"
-  url: https://ti.to/mot/testbash-australia-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
-- name: QA ATL Open Space SQA Conference
-  location: Atlanta, GA, USA
-  dates: "October 28, 2019"
-  url: https://www.qaatl.com/?utm_source=testingconferences
-  twitter: qa_atl
-  status: Registration is Open
-
-- name: TestBash New Zealand 2019
-  location: Wellington, NZ
-  dates: "October 29, 2019"
-  url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
-- name: Software-QS-Tag 2019
-  location: Frankfurt am Main, Germany
-  dates: "October 24-25, 2019"
-  url: https://www.qs-tag.de/en/?utm_source=testingconferences
-  twitter: qstag
-  status: Registration is Open
-
-- name: Agile & Automation Days 2019 (AADays)
-  location: Gdańsk, Poland
-  dates: "October 28-29, 2019"
-  url: http://aadays.pl/?utm_source=testingconferences
-  twitter: AADaysPoland
-  status: Registration is Open
-
-- name: HUSTEF 2019
-  location: Budapest, Hungary
-  dates: "October 28-30, 2019"
-  url: https://www.hustef.hu/?utm_source=testingconferences
-  twitter: HunTestingBoard
-  status: Registration is Open
-
 - name: Agile Testing Days 2019
   location: Potsdam, Germany
   dates: "November 3-8, 2019"
@@ -238,7 +182,7 @@
   url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP Open Until October 25th 2019
-  
+
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
   dates: "June 10-12, 2020"
