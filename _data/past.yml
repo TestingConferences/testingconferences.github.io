@@ -1,3 +1,27 @@
+- name: Testing United 2019
+  location: Vienna, Austria
+  dates: "November 7-8, 2019"
+  url: https://testingunited.com?utm_source=testingconferences
+  twitter: testing_united
+
+- name: TestBash San Francisco 2019
+  location: San Francisco, USA
+  dates: "November 6-7, 2019"
+  url: https://ti.to/mot/testbash-san-francisco-2019?source=testingconferences
+  twitter: ministryoftest
+
+- name: Agile Testing Days 2019
+  location: Potsdam, Germany
+  dates: "November 3-8, 2019"
+  url: http://www.agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+
+- name: Quest for Quality 2019
+  location: Dublin, Ireland
+  dates: "November 5-6, 2019"
+  url: http://questforquality.eu/?utm_source=testingconferences
+  twitter: Quest_4_Quality
+
 - name: HUSTEF 2019
   location: Budapest, Hungary
   dates: "October 28-30, 2019"
