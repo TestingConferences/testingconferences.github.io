@@ -5,7 +5,7 @@ permalink: /sponsorships/
 
 **Sponsoring Us**
 
-As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will allow us to bring in other people (professionals) to help design and make the site better over all. 
+As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will allow us to bring in other people (professionals) to help design and make the site better over all.
 
 _One day we hope to have free stickers for anyone who wants them_
 
@@ -15,7 +15,7 @@ Sponsors get promotion through banner across the top of this site and mention in
 
 **Pricing**
 
-Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer mutli-month purchasing discounts. 
+Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer mutli-month purchasing discounts.
 
 <table style="width:50%" align="center">
   <tr>
@@ -23,16 +23,8 @@ Pricing is based on the per thousand sessions for your given month and depends o
     <th>Sponsor Name</th>
   </tr>
   <tr>
-    <td>September 2019</td>
-    <td>STARCANADA</td>
-  </tr>
-  <tr>
-    <td>October 2019</td>
-    <td>EuroSTAR 2019</td>
-  </tr>
-  <tr>
     <td>November 2019</td>
-    <td>TBD</td>
+    <td>None</td>
   </tr>
   <tr>
     <td>December 2019</td>
@@ -58,7 +50,19 @@ Pricing is based on the per thousand sessions for your given month and depends o
     <td>May 2020</td>
     <td>EuroSTAR 2020</td>
   </tr>
-    <tr>
+  <tr>
+    <td>June 2020</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>July 2020</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>August 2020</td>
+    <td>CAST 2020</td>
+  </tr>
+  <tr>
     <td>September 2020</td>
     <td>EuroSTAR 2020</td>
   </tr>
