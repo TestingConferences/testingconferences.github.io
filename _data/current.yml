@@ -77,7 +77,6 @@
   location: Milan, Italy
   dates: "January 29, 2020"
   url: https://www.qa-financial.com/events/qa-financial-forum-milano-2020/?utm_source=testingconferences
-  status: Early Bird Registration is Open until November 1st, 2019
 
 - name: AutomationGuild Online Conference 2020
   location: Online
@@ -104,7 +103,7 @@
   dates: "February 26-27, 2020"
   url: http://tsqa.org/?utm_source=testingconferences
   twitter: TISQA_RTP
-  status: CFP is Open until November 8th, 2019
+  status: CFP is Open until November 14th, 2019
 
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
@@ -125,14 +124,12 @@
   dates: "March 30-April 2, 2020"
   url: https://spring2020.stpcon.com/submit/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: CFP is Open until October 18th, 2019
 
 - name: TestBash Detroit 2020
   location: Detroit, US
   dates: "April 23-24, 2020"
   url: https://ministryoftesting.com/events/testbash-detroit-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Closed
 
 - name: SauceCon 2020
   location: Austin, TX, USA
@@ -153,7 +150,6 @@
   dates: "May 28-29, 2020"
   url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP Open Until October 25th 2019
 
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
