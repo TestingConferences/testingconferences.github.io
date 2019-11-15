@@ -137,6 +137,13 @@
   url: http://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
   status: Registration is Open
+  
+  - name: SmartBear Connect 2020
+  location: Boston, MA, USA
+  dates: "April 27-29, 2020"
+  url: https://smartbear.com/connect/
+  twitter: SmartBear
+  status: Registration is Open
 
 - name: STAREAST 2020
   location: Orlando, Florida, USA
