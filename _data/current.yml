@@ -165,6 +165,12 @@
   twitter: expoqa
   status: CFP is Open
 
+- name: Agile Testing Days USA 2020
+  location: Chicago, IL, USA
+  dats: "June 21-25 2020"
+  url: https://agiletestingdays.us/
+  twitter: AgileTDUSA
+
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
