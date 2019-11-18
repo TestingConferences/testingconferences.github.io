@@ -1,3 +1,25 @@
+- name: SQA Days - 26 2019
+  location: Minsk, Belarus
+  dates: "November 15-16, 2019"
+  url: https://sqadays.com?utm_source=testingconferences
+  twitter: sqadays
+
+- name: The QA E-commerce Forum New York 2019
+  location: New York, NY USA
+  dates: "November 14, 2019"
+  url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
+
+- name: The QA Financial Forum New York 2019
+  location: New York, NY USA
+  dates: "November 13, 2019"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2019?utm_source=testingconferences
+
+- name: EuroSTAR 2019
+  location: Prague, Czech Republic
+  dates: "November 11-14, 2019"
+  url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
+  twitter: esconfs
+
 - name: Testing United 2019
   location: Vienna, Austria
   dates: "November 7-8, 2019"
