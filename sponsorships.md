@@ -15,7 +15,7 @@ Sponsors get promotion through banner across the top of this site and mention in
 
 **Pricing**
 
-Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer mutli-month purchasing discounts.
+Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
   <tr>
