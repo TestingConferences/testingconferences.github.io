@@ -15,16 +15,12 @@ Sponsors get promotion through banner across the top of this site and mention in
 
 **Pricing**
 
-Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer mutli-month purchasing discounts.
+Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
   <tr>
-    <th>Month</th>
-    <th>Sponsor Name</th>
-  </tr>
-  <tr>
     <td>November 2019</td>
-    <td>None</td>
+    <td>CAST 2020</td>
   </tr>
   <tr>
     <td>December 2019</td>
@@ -65,6 +61,14 @@ Pricing is based on the per thousand sessions for your given month and depends o
   <tr>
     <td>September 2020</td>
     <td>EuroSTAR 2020</td>
+  </tr>
+  <tr>
+    <td>October 2020</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>November 2020</td>
+    <td>TBD</td>
   </tr>
 </table>
 
