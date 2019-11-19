@@ -19,8 +19,12 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>December 2019</td>
+    <td>November 2019</td>
     <td>CAST 2020</td>
+  </tr>
+  <tr>
+    <td>December 2019</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>January 2020</td>

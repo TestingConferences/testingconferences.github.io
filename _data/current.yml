@@ -114,7 +114,7 @@
   url: http://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
   status: Registration is Open
-  
+
 - name: SmartBear Connect 2020
   location: Boston, MA, USA
   dates: "April 27-29, 2020"
@@ -168,3 +168,10 @@
   url: https://starwest.techwell.com/speaker-submission-form-starwest-2020/?utm_source=testingconferences
   twitter: techwell
   status: CFP is Open until February 16, 2020
+
+- name: EuroSTAR Software Testing Conference 2020
+  location: Antwerp, Belgium
+  dates: "November 16-19, 2020"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is Open
