@@ -4,13 +4,6 @@
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
 
-- name: ParisTestConf 2019
-  location: Paris, France
-  dates: "November 21, 2019"
-  url: https://paristestconf.com/?utm_source=testingconferences
-  twitter: ParisTestConf
-  status: Sold Out
-
 - name: Cambridge Exploratory Workshop on Testing #7
   location: Cambridge, UK
   dates: "November 24, 2019"
@@ -24,7 +17,7 @@
 
 - name: OnlineTestConf - Fall 2019
   location: Online
-  dates: "December 4-5, 2019"
+  dates: "December 3-4, 2019"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Registration is Open
@@ -136,6 +129,13 @@
   twitter: TechWell
   status: Super Early Bird Pricing is Open
 
+- name: German Testing Day 2020
+  location: Frankfurt, Germany
+  dates: "May 6-7, 2020"
+  url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
+  twitter: GermanTesting
+  status: Early Bird Pricing will be open in December
+
 - name: TestBash Netherlands 2020
   location: Utrecht, NL
   dates: "May 28-29, 2020"
@@ -158,7 +158,7 @@
 
 - name: Agile Testing Days USA 2020
   location: Chicago, IL, USA
-  dats: "June 21-25, 2020"
+  dates: "June 21-25, 2020"
   url: https://agiletestingdays.us/
   twitter: AgileTDUSA
 
@@ -175,6 +175,13 @@
   url: https://starwest.techwell.com/speaker-submission-form-starwest-2020/?utm_source=testingconferences
   twitter: techwell
   status: CFP is Open until February 16, 2020
+
+- name: Agile Testing Days (ATD) 2020
+  location: Potsdam, Germany
+  dates: "November 8-13, 2020"
+  url: http://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: Super Early Bird pricing is Open until December 31, 2019
 
 - name: EuroSTAR Software Testing Conference 2020
   location: Antwerp, Belgium

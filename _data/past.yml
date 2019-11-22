@@ -1,3 +1,9 @@
+- name: ParisTestConf 2019
+  location: Paris, France
+  dates: "November 21, 2019"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  twitter: ParisTestConf
+
 - name: SQA Days - 26 2019
   location: Minsk, Belarus
   dates: "November 15-16, 2019"
