@@ -81,6 +81,13 @@
   twitter: qachallenge
   status: Registration is Open, CFP is open till January 10th 2020
 
+- name: Swiss Testing Day
+  location: Zürich, Switzerland
+  dates: "March 18, 2020"
+  url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
+  twitter: swisstesting
+  status: Registration is Open, Early Bird till December 31st, 2019
+
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
   dates: "March 20-21, 2020"
