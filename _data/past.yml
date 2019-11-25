@@ -1,3 +1,14 @@
+- name: Cambridge Exploratory Workshop on Testing #7
+  location: Cambridge, UK
+  dates: "November 24, 2019"
+  url: https://cewtblog.blogspot.com/2019/09/cewt-7-is-coming.html
+
+- name: ConTEST NYC 2019
+  location: New York, NY, USA
+  dates: "November 20-22, 2019"
+  url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
+  twitter: TestMastersAcad
+
 - name: ParisTestConf 2019
   location: Paris, France
   dates: "November 21, 2019"
