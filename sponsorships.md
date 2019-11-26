@@ -24,7 +24,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>December 2019</td>
-    <td>TBD</td>
+    <td>CAST 2020</td>
   </tr>
   <tr>
     <td>January 2020</td>
@@ -56,7 +56,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>August 2020</td>
-    <td>CAST 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>September 2020</td>
