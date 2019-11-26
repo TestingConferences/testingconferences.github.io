@@ -63,12 +63,19 @@
   twitter: TISQA_RTP
   status: Registration is Open
 
+- name: Test Automation and Digital QA Summit 2020
+  location: Los Angeles, CA, USA
+  dates: "March 3, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Registration is Open, CFP is Open until December 2, 2019
+
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
   dates: "March 14, 2020"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: Registration is Open, CFP is open till January 10th 2020
+  status: Registration is Open, CFP is open untill January 10th 2020
 
 - name: Swiss Testing Day
   location: Zürich, Switzerland
@@ -82,14 +89,14 @@
   dates: "March 20-21, 2020"
   url: https://sqadays.eu/?utm_source=testingconferences
   twitter: sqadays
-  status: CFP is open till December 31, 2019. Registration is Open
+  status: Registration is Open, CFP is open untill December 31, 2019
 
 - name: TestBash Brighton 2020
   location: Brighton, UK
   dates: "March 26-27, 2020"
   url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird pricing until 30th November, 2019.
+  status: Super Early Bird pricing until 30th November, 2019
 
 - name: STPCon Spring 2020
   location: San Diego, CA USA
