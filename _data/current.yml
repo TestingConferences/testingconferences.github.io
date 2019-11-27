@@ -29,6 +29,12 @@
   url: https://www.townscript.com/e/agiletestingalliancegtr2019/?utm_source=testingconferences
   twitter: testingretreat
   status: Registration is Open
+  
+- name: Software Quality Days 2020
+  location: Vienna, Austria
+  dates: "January 14-17, 2020"
+  url: https://www.software-quality-days.com/
+  status: Registration is Open
 
 - name: The QA Financial Forum Milano 2020
   location: Milan, Italy
@@ -49,6 +55,13 @@
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
   status: Early Bird Registration is Open
+  
+- name: QA or the Highway
+  location: Columbus, OH, USA
+  dates: "February 25, 2020"
+  url: https://www.qaorthehighway.com/
+  twitter: QAortheHighway
+  status: Registration will Open soon
 
 - name: The QA Financial Forum London 2020
   location: London, UK
@@ -124,6 +137,13 @@
   url: https://smartbear.com/connect/
   twitter: SmartBear
   status: Registration is Open
+  
+- name: Test Quality Summit
+  location: Dublin, Ireland
+  dates: "April 29, 2020"
+  url: http://www.testqualitysummit.com/
+  twitter: TQSummit
+  status: Registration is Open
 
 - name: STAREAST 2020
   location: Orlando, Florida, USA
@@ -144,6 +164,13 @@
   dates: "May 28-29, 2020"
   url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
   twitter: ministryoftest
+  
+- name: Nordic Testing Days 2020
+  location: Talinn, Estonia
+  dates: "June 3-5, 2020"
+  url: https://nordictestingdays.eu/
+  twitter: nordictestdays
+  status: Early Bird Pricing will be open soon
 
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
@@ -157,6 +184,13 @@
   dates: "June 15-17, 2020"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
+  status: CFP is Open
+  
+- name: Selenium Conference India 2020
+  location: Bengaluru, India
+  dates: "June 18-20, 2020"
+  url: https://2020.seleniumconf.in/
+  twitter: seleniumconf
   status: CFP is Open
 
 - name: Agile Testing Days USA 2020
