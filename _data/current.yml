@@ -56,6 +56,13 @@
   twitter: EuroTestingConf
   status: Early Bird Registration is Open
   
+- name: Delivery Excellence Conf 2020 DevOps & Test Automation
+  location: Minsk, Belarus
+  dates: "February 14-15, 2020"
+  url: http://delex-conf.com
+  twitter: delex_conf
+  status: Registration is Open, Blind Birds sold out
+  
 - name: QA or the Highway
   location: Columbus, OH, USA
   dates: "February 25, 2020"
