@@ -1,3 +1,8 @@
+- name: Let's Test South Africa 2019
+  location: Cape Town, South Africa
+  dates: "November 24-26, 2019"
+  url: http://lets-test.com/?utm_source=testingconferences
+
 - name: Cambridge Exploratory Workshop on Testing #7
   location: Cambridge, UK
   dates: "November 24, 2019"
