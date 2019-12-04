@@ -23,7 +23,7 @@
   url: https://www.townscript.com/e/agiletestingalliancegtr2019/?utm_source=testingconferences
   twitter: testingretreat
   status: Registration is Open
-  
+
 - name: Software Quality Days 2020
   location: Vienna, Austria
   dates: "January 14-17, 2020"
@@ -49,14 +49,14 @@
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
   status: Early Bird Registration is Open
-  
+
 - name: Delivery Excellence Conf 2020 DevOps & Test Automation
   location: Minsk, Belarus
   dates: "February 14-15, 2020"
   url: http://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
   status: Registration is Open, Blind Birds sold out
-  
+
 - name: QA or the Highway
   location: Columbus, OH, USA
   dates: "February 25, 2020"
@@ -119,8 +119,15 @@
   twitter: SoftwareTestPro
   status: Super Early Bird (Black Friday / Cyber Monday) until December 2nd, 2019
 
+- name: EPIC Experience
+  location: San Diego, CA USA
+  dates: "April 19-23, 2020"
+  url: hhttps://epic.techwell.com/?source=testingconferences
+  twitter: techwell
+  status: Super Early Bird is Open
+
 - name: TestBash Detroit 2020
-  location: Detroit, US
+  location: Detroit, USA
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
@@ -138,7 +145,7 @@
   url: https://smartbear.com/connect/
   twitter: SmartBear
   status: Registration is Open
-  
+
 - name: Test Quality Summit
   location: Dublin, Ireland
   dates: "April 29, 2020"
@@ -165,7 +172,7 @@
   dates: "May 28-29, 2020"
   url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
   twitter: ministryoftest
-  
+
 - name: Nordic Testing Days 2020
   location: Talinn, Estonia
   dates: "June 3-5, 2020"
@@ -186,7 +193,7 @@
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
   status: CFP is Open
-  
+
 - name: Selenium Conference India 2020
   location: Bengaluru, India
   dates: "June 18-20, 2020"
