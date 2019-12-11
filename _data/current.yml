@@ -151,7 +151,7 @@
 - name: TestBash Netherlands 2020
   location: Utrecht, NL
   dates: "May 28-29, 2020"
-  url: https://ministryoftesting.com/events/testbash-netherlands-2020?utm_source=testingconferences
+  url: https://ti.to/mot/testbash-netherlands-2020?source=testingconferences
   twitter: ministryoftest
 
 - name: Nordic Testing Days 2020
