@@ -24,19 +24,45 @@
   twitter: AutomationGuild
   status: Registration Opens Soon
 
+- name: Agile Testing and Test Automation Summit
+  location: London, England, UK
+  dates: "February 6, 2020"
+  url: https://1point21gws.com/testingsummit/london/
+  twitter: 1pt21gws
+  status: Registration is Open
+
 - name: European Testing Conference 2020
   location: Amsterdam, Netherlands
   dates: "February 6-7, 2020"
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
   status: Early Bird Registration is Open
-
+  
+- name: Software Crafters and Testers Conference (VI edition)
+  location: Tenerife, Canary Islands, Spain
+  dates: "February 6-9, 2020"
+  url: https://www.socracan.com/
+  status: Registration is Open
+ 
 - name: Delivery Excellence Conf 2020 DevOps & Test Automation
   location: Minsk, Belarus
   dates: "February 14-15, 2020"
   url: http://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
   status: Registration is Open, Blind Birds sold out
+
+- name: DevOps and Test Automation Summit
+  location: Dallas, USA
+  dates: "February 20, 2020"
+  url: https://1point21gws.com/testingsummit/dallas/
+  status: Registration is Open
+
+- name: Selenium Camp
+  location: Kyiv, Ukraine
+  dates: "February 21-22, 2020"
+  url: https://seleniumcamp.com/
+  twitter: seleniumcamp
+  status: Registration is Open
 
 - name: QA or the Highway
   location: Columbus, OH, USA
@@ -84,7 +110,26 @@
   dates: "March 20-21, 2020"
   url: https://sqadays.eu/?utm_source=testingconferences
   twitter: sqadays
-  status: Registration is Open, CFP is open untill December 31, 2019
+  status: Registration is Open, CFP is open until December 31, 2019
+  
+- name: Agile Testing & Test Automation Conference - London
+  location: London, England, UK
+  dates: "March 23, 2020"
+  url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
+  status: Registration is Open
+  
+- name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
+  location: Porto, Portugal
+  dates: "March 23-27, 2020"
+  url: https://icst2020.info/
+  status: CFP is closed, Registration is Open  
+  
+- name: Ankara Testing Days, 2020
+  location: Ankara, Turkey
+  dates: "March 24, 2020"
+  url: https://ankaratestingdays.com/
+  twitter: AnkaraTD
+  status: Registration is Open
 
 - name: TestBash Brighton 2020
   location: Brighton, UK
@@ -92,6 +137,18 @@
   url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
   status: Super Early Bird pricing until 30th November, 2019
+  
+- name: Testingstage
+  location: Kyiv, Ukraine
+  dates: "March 26-28 2020"
+  url: https://testingstage.com/
+  status: Registration is Open
+  
+- name: Red Hat Open TestCon
+  location: Beijing, China
+  dates: "March 30-31, 2020"
+  url: https://opentestcon.org/
+  status: Registration is Open
 
 - name: STPCon Spring 2020
   location: San Diego, CA USA
@@ -99,6 +156,12 @@
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
   status: Super Early Bird (Black Friday / Cyber Monday) until December 2nd, 2019
+  
+- name: TestCon Moscow 2020
+  location: Moscow, Russia
+  dates: "March 31-April 2, 2020"
+  url: https://testconf.ru/en-cfp/
+  status: Registration is Open
 
 - name: EPIC Experience
   location: San Diego, CA USA
