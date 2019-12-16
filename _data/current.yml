@@ -164,7 +164,7 @@
 - name: WeTest.Athens 2020
   location: Athens, Greece
   dates: "June 12, 2020"
-  url: http://wetest-athens.gr/
+  url: http://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
   status: Early Bird Tickets will open soon
 
