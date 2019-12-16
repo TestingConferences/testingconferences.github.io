@@ -27,7 +27,7 @@
 - name: Agile Testing and Test Automation Summit
   location: London, England, UK
   dates: "February 6, 2020"
-  url: https://1point21gws.com/testingsummit/london/
+  url: https://1point21gws.com/testingsummit/london/?utm_source=testingconferences
   twitter: 1pt21gws
   status: Registration is Open
 
@@ -41,7 +41,7 @@
 - name: Software Crafters and Testers Conference (VI edition)
   location: Tenerife, Canary Islands, Spain
   dates: "February 6-9, 2020"
-  url: https://www.socracan.com/
+  url: https://www.socracan.com/?utm_source=testingconferences
   status: Registration is Open
  
 - name: Delivery Excellence Conf 2020 DevOps & Test Automation
@@ -49,12 +49,12 @@
   dates: "February 14-15, 2020"
   url: http://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
-  status: Registration is Open, Blind Birds sold out
+  status: Registration is Open, Blind Bird sold out
 
 - name: DevOps and Test Automation Summit
   location: Dallas, USA
   dates: "February 20, 2020"
-  url: https://1point21gws.com/testingsummit/dallas/
+  url: https://1point21gws.com/testingsummit/dallas/?utm_source=testingconferences
   status: Registration is Open
 
 - name: Selenium Camp
