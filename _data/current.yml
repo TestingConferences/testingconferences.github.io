@@ -60,7 +60,7 @@
 - name: Selenium Camp
   location: Kyiv, Ukraine
   dates: "February 21-22, 2020"
-  url: https://seleniumcamp.com/
+  url: https://seleniumcamp.com/?utm_source=testingconferences
   twitter: seleniumcamp
   status: Registration is Open
 
@@ -121,13 +121,13 @@
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal
   dates: "March 23-27, 2020"
-  url: https://icst2020.info/
+  url: https://icst2020.info/?utm_source=testingconferences
   status: CFP is closed, Registration is Open  
   
 - name: Ankara Testing Days, 2020
   location: Ankara, Turkey
   dates: "March 24, 2020"
-  url: https://ankaratestingdays.com/
+  url: https://ankaratestingdays.com/?utm_source=testingconferences
   twitter: AnkaraTD
   status: Registration is Open
 
@@ -141,13 +141,13 @@
 - name: Testingstage
   location: Kyiv, Ukraine
   dates: "March 26-28 2020"
-  url: https://testingstage.com/
+  url: https://testingstage.com/?utm_source=testingconferences
   status: Registration is Open
   
 - name: Red Hat Open TestCon
   location: Beijing, China
   dates: "March 30-31, 2020"
-  url: https://opentestcon.org/
+  url: https://opentestcon.org/?utm_source=testingconferences
   status: Registration is Open
 
 - name: STPCon Spring 2020
@@ -160,7 +160,7 @@
 - name: TestCon Moscow 2020
   location: Moscow, Russia
   dates: "March 31-April 2, 2020"
-  url: https://testconf.ru/en-cfp/
+  url: https://testconf.ru/en-cfp/?utm_source=testingconferences
   status: Registration is Open
 
 - name: EPIC Experience
@@ -186,14 +186,14 @@
 - name: SmartBear Connect 2020
   location: Boston, MA, USA
   dates: "April 27-29, 2020"
-  url: https://smartbear.com/connect/
+  url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
   status: Registration is Open
 
 - name: Test Quality Summit
   location: Dublin, Ireland
   dates: "April 29, 2020"
-  url: http://www.testqualitysummit.com/
+  url: http://www.testqualitysummit.com/?utm_source=testingconferences
   twitter: TQSummit
   status: Registration is Open
 
@@ -220,7 +220,7 @@
 - name: Nordic Testing Days 2020
   location: Talinn, Estonia
   dates: "June 3-5, 2020"
-  url: https://nordictestingdays.eu/
+  url: https://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
   status: Early Bird Pricing will be open soon
 
@@ -241,14 +241,14 @@
 - name: Selenium Conference India 2020
   location: Bengaluru, India
   dates: "June 18-20, 2020"
-  url: https://2020.seleniumconf.in/
+  url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
   status: CFP is Open
 
 - name: Agile Testing Days USA 2020
   location: Chicago, IL, USA
   dates: "June 21-25, 2020"
-  url: https://agiletestingdays.us/
+  url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
 
 - name: Conference for the Association for Software Testing (CAST) 2020
