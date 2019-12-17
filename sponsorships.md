@@ -19,14 +19,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>November 2019</td>
-    <td>CAST 2020</td>
-  </tr>
-  <tr>
-    <td>December 2019</td>
-    <td>CAST 2020</td>
-  </tr>
-  <tr>
     <td>January 2020</td>
     <td>EPIC Experience 2020</td>
   </tr>
@@ -48,7 +40,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>June 2020</td>
-    <td>TBD</td>
+    <td>TestBash SF 2020</td>
   </tr>
   <tr>
     <td>July 2020</td>
@@ -68,6 +60,10 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>November 2020</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>December 2020</td>
     <td>TBD</td>
   </tr>
 </table>
