@@ -257,6 +257,13 @@
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
   status: Blind Bat pricing (Super Early Bird) is Open
+  
+- name: South East European Testing Conference SEETEST 2020
+  location: Sofia, Bulgaria
+  dates: "October 1-2, 2020"
+  url: https://seetest.org
+  twitter: SEETESTConf
+  status: Super Early Bird Registration will open in January
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
