@@ -44,7 +44,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>July 2020</td>
-    <td>TBD</td>
+    <td>PNSQC 2020</td>
   </tr>
   <tr>
     <td>August 2020</td>
