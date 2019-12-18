@@ -40,7 +40,7 @@
 - name: Delivery Excellence Conf 2020 DevOps & Test Automation
   location: Minsk, Belarus
   dates: "February 14-15, 2020"
-  url: http://delex-conf.com/?utm_source=testingconferences
+  url: https://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
   status: Registration is Open, Blind Bird sold out
 
@@ -73,7 +73,7 @@
 - name: TSQA 2020
   location: Chapel Hill, NC, USA
   dates: "February 26-27, 2020"
-  url: http://tsqa.org/?utm_source=testingconferences
+  url: https://tsqa.org/?utm_source=testingconferences
   twitter: TISQA_RTP
   status: Registration is Open
 
@@ -159,7 +159,7 @@
 - name: EPIC Experience
   location: San Diego, CA USA
   dates: "April 19-23, 2020"
-  url: hhttps://epic.techwell.com/?source=testingconferences
+  url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
   status: Super Early Bird is Open
 
@@ -172,7 +172,7 @@
 - name: SauceCon 2020
   location: Austin, TX, USA
   dates: "April 27-29, 2020"
-  url: http://saucecon.com/?utm_source=testingconferences
+  url: https://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
   status: Registration is Open
 
@@ -183,10 +183,10 @@
   twitter: SmartBear
   status: Registration is Open
 
-- name: Test Quality Summit
+- name: Test & Quality Summit 2020
   location: Dublin, Ireland
   dates: "April 29, 2020"
-  url: http://www.testqualitysummit.com/?utm_source=testingconferences
+  url: https://www.testqualitysummit.com/?utm_source=testingconferences
   twitter: TQSummit
   status: Registration is Open
 
@@ -220,7 +220,7 @@
 - name: WeTest.Athens 2020
   location: Athens, Greece
   dates: "June 12, 2020"
-  url: http://wetest-athens.gr/?utm_source=testingconferences
+  url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
   status: Early Bird Tickets will open soon
 
@@ -275,7 +275,7 @@
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany
   dates: "November 8-13, 2020"
-  url: http://agiletestingdays.com/?utm_source=testingconferences
+  url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Super Early Bird pricing is Open until December 31, 2019
 
