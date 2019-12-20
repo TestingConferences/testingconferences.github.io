@@ -4,11 +4,42 @@
   url: https://www.software-quality-days.com/?utm_source=testingconferences
   status: Registration is Open
 
+- name: ICSTTP 2020 - International Conference on Software Testing, Types and Process
+  location: London, England, UK
+  dates: "January 20-21, 2020"
+  url: https://waset.org/software-testing-types-and-process-conference-in-january-2020-in-london/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: The QA Financial Forum Milano 2020
   location: Milan, Italy
   dates: "January 29, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-milano-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open
+
+- name: Spanish Test Academy Barcelona 2020
+  location: Barcelona, Spain
+  dates: "January 30, 2020"
+  url: http://www.spanishtestacademy.com/barcelona/en.html?utm_source=testingconferences
+  twitter: expoQA
+  status: Registration is Open
+
+- name: Agile, Testing & DevOps Showcase Amsterdam 2020
+  location: Amsterdam, Netherlands
+  dates: "January 30, 2020"
+  url: https://www.eventbrite.co.uk/e/agile-testing-and-devops-showcase-tickets-71256218267/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: ICSMQM 2020 - International Conference on Software Metrics and Quality Management
+  location: New York, NY, USA
+  dates: "January 30-31, 2020"
+  url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2020-in-new-york/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Dutch Exploratory Workshop on Testing Conference #9 (DEWT9)
+  location: Cambridge, UK
+  dates: "January 31 - February 2, 2020"
+  url: https://dewt.wordpress.com/2019/08/05/dewt-9-announcement/
+  status: Applications are Open 
 
 - name: AutomationGuild Online Conference 2020
   location: Online
@@ -30,8 +61,15 @@
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
   status: Early Bird Registration is Open
-  
-- name: Software Crafters and Testers Conference (VI edition)
+
+- name: SoCraTes Conference Switzerland 2020
+  location: Soltau, Germany
+  dates: "February 6-9, 2020"
+  url: http://www.socrates-ch.org/?utm_source=testingconferences
+  twitter: SoCraTes_CH
+  status: Waitlist available
+
+- name: Software Crafters and Testers Conference (SocrateS CanarieS)
   location: Tenerife, Canary Islands, Spain
   dates: "February 6-9, 2020"
   url: https://www.socracan.com/?utm_source=testingconferences
@@ -83,6 +121,13 @@
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
   twitter: testingmindcon
   status: Registration is Open, CFP is Open until December 2, 2019
+
+- name: Spanish Test Academy Valencia 2020
+  location: Valencia, Spain
+  dates: "March 4, 2020"
+  url: http://www.spanishtestacademy.com/valencia/en.html?utm_source=testingconferences
+  twitter: expoQA
+  status: Registration is Open
 
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
@@ -285,3 +330,15 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Open
+
+- name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
+  location: London, England, UK
+  dates: "January 21-22, 2021"
+  url: https://waset.org/software-testing-types-and-process-conference-in-january-2021-in-london/?utm_source=testingconferences
+  status: CFP is Open Until December 30, 2019
+
+- name: ICSMQM 2021 - International Conference on Software Metrics and Quality Management
+  location: New York, NY, USA
+  dates: "January 28-29, 2021"
+  url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
+  status: CFP is Open Until December 30, 2019
