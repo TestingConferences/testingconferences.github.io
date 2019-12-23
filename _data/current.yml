@@ -48,10 +48,17 @@
   twitter: AutomationGuild
   status: Registration Opens Soon
 
-- name: Agile Testing and Test Automation Summit
+- name: Agile Testing and Test Automation Summit London
   location: London, England, UK
   dates: "February 6, 2020"
   url: https://1point21gws.com/testingsummit/london/?utm_source=testingconferences
+  twitter: 1pt21gws
+  status: Registration is Open
+
+- name: Agile Testing and Test Automation Summit Chicago
+  location: Chicago, IL, USA
+  dates: "February 6, 2020"
+  url: https://1point21gws.com/testingsummit/chicago/?utm_source=testingconferences
   twitter: 1pt21gws
   status: Registration is Open
 
@@ -74,7 +81,13 @@
   dates: "February 6-9, 2020"
   url: https://www.socracan.com/?utm_source=testingconferences
   status: Registration is Open
- 
+
+- name: ICQAST 2020 - International Conference on Quality Assurance and Software Testing
+  location: London, England, UK
+  dates: "February 13-14, 2020"
+  url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2020-in-london/?utm_source=testingconferences
+  status: Registration is Open
+  
 - name: Delivery Excellence Conf 2020 DevOps & Test Automation
   location: Minsk, Belarus
   dates: "February 14-15, 2020"
@@ -86,6 +99,13 @@
   location: Dallas, USA
   dates: "February 20, 2020"
   url: https://1point21gws.com/testingsummit/dallas/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Agile Testing and Test Automation Summit Seattle
+  location: Seattle, WA, USA
+  dates: "February 20, 2020"
+  url: https://www.1point21gws.com/testingsummit/seattle/february/?utm_source=testingconferences
+  twitter: 1pt21gws
   status: Registration is Open
 
 - name: Selenium Camp
@@ -102,12 +122,6 @@
   twitter: QAortheHighway
   status: Registration will Open soon
 
-- name: The QA Financial Forum London 2020
-  location: London, UK
-  dates: "February 26, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
-  status: Early Bird Registration is Open until TBD
-
 - name: TSQA 2020
   location: Chapel Hill, NC, USA
   dates: "February 26-27, 2020"
@@ -115,18 +129,44 @@
   twitter: TISQA_RTP
   status: Registration is Open
 
-- name: Test Automation and Digital QA Summit 2020
+- name: Test Automation and Digital QA Summit 2020 - San Francisco
+  location: San Francisco, CA, USA
+  dates: "February 28, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-san-francisco-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Early Bird Registration is Open, CFP is Open until December 29, 2019
+
+- name: Test Automation and Digital QA Summit 2020 - Los Angeles
   location: Los Angeles, CA, USA
   dates: "March 3, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Registration is Open, CFP is Open until December 2, 2019
+  status: Registration is Open, CFP is Open until December 29, 2019
+
+- name: Test Automation and Digital QA Summit 2020 - Seattle
+  location: Seattle, WA, USA
+  dates: "March 3, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-seattle-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Registration is Open, CFP is Open until December 29, 2019
 
 - name: Spanish Test Academy Valencia 2020
   location: Valencia, Spain
   dates: "March 4, 2020"
   url: http://www.spanishtestacademy.com/valencia/en.html?utm_source=testingconferences
   twitter: expoQA
+  status: Registration is Open
+
+- name: The QA Financial Forum London 2020
+  location: London, UK
+  dates: "March 12, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
+  status: Early Bird Registration is Open until January 12, 2020
+
+- name: ICSTM 2020 - International Conference on Software Testing Methods
+  location: Miami, FL, USA
+  dates: "March 12-13, 2020"
+  url: https://waset.org/software-testing-methods-conference-in-march-2020-in-miami/?utm_source=testingconferences
   status: Registration is Open
 
 - name: QA Challenge Accepted 6.0
@@ -155,7 +195,13 @@
   dates: "March 23, 2020"
   url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
   status: Registration is Open
-  
+ 
+- name: TAIC PART 2020
+  location: Porto, Portugal
+  dates: "March 23, 2020"
+  url: http://www2020.taicpart.org/?utm_source=testingconferences
+  status: CFP is open until December 27, 2019
+
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal
   dates: "March 23-27, 2020"
@@ -181,7 +227,12 @@
   dates: "March 26-28 2020"
   url: https://testingstage.com/?utm_source=testingconferences
   status: Registration is Open
-  
+
+- name: InSTA 2020 - International Workshop on Software Test Architecture
+  location: Porto, Portugal
+  dates: "March 27, 2020"
+  url: http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences
+
 - name: Red Hat Open TestCon
   location: Beijing, China
   dates: "March 30-31, 2020"
@@ -341,4 +392,10 @@
   location: New York, NY, USA
   dates: "January 28-29, 2021"
   url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
+  status: CFP is Open Until December 30, 2019
+
+- name: ICQAST 2021 - International Conference on Quality Assurance and Software Testing
+  location: London, England, UK
+  dates: "February 15-16, 2020"
+  url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2019
