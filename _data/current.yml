@@ -341,6 +341,13 @@
   url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
   twitter: Tricentis
 
+- name: Test Automation and Digital QA Summit 2020 - Washington DC
+  location: Arlington, VA, USA
+  dates: "May 1, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-washington-d-c-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Early Bird Registration is Open
+ 
 - name: STAREAST 2020
   location: Orlando, Florida, USA
   dates: "May 3-8, 2020"
@@ -353,7 +360,21 @@
   dates: "May 6-7, 2020"
   url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
   twitter: GermanTesting
-  status: Early Bird Pricing will be open in December
+  status: Early Bird Pricing open until March 13, 2020
+
+ - name: SQA Days - 27 2020
+  location: Moscow, Russia
+  dates: "May 15-16, 2020"
+  url: https://sqadays.com/en/index?utm_source=testingconferences
+  twitter: sqadays
+  status: CFP is Open until February 29, 2020
+
+- name: National Software Testing Conference 2020
+  location: London, England
+  dates: "May 27-28, 2020"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
 
 - name: TestBash Netherlands 2020
   location: Utrecht, NL
