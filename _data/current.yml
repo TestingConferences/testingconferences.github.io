@@ -252,6 +252,22 @@
   url: https://testconf.ru/en-cfp/?utm_source=testingconferences
   status: Registration is Open
 
+- name: The QA Financial Forum Chicago 2020
+  location: Chicago, IL, USA
+  dates: "April 2, 2019"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2020?utm_source=testingconferences
+  status: Early Bird Registration is open until February 1, 2020
+
+- name: Journée Française des tests logiciels (JFTL) 2020
+  location: Montrouge, France
+  dates: "April 8-9, 2019"
+  url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+
+- name: IEEE International Conference on AI Testing 2019
+  location: Oxford, UK
+  dates: "April 13-16, 2020"
+  url: http://www.ieeeaitests.com/?utm_source=testingconferences
+
 - name: EPIC Experience
   location: San Diego, CA USA
   dates: "April 19-23, 2020"
@@ -259,11 +275,44 @@
   twitter: techwell
   status: Super Early Bird is Open
 
+- name: TestIstanbul 2020
+  location: Istanbul, Turkey
+  dates: "April 21, 2020"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul 
+  status: Early Bird is Open until January 10, 2020 
+
+- name: SAEC Days 2020
+  location: Munich, Germany
+  dates: "April 21-23, 2020"
+  url: https://www.saec-days.de/home.html?utm_source=testingconferences
+  status: CFP is Open until January 12, 2020. Early Bird is Open until February 28, 2020
+
 - name: TestBash Detroit 2020
   location: Detroit, USA
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
+
+- name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
+  location: New York, NY, USA
+  dates: "April 23-24, 2020"
+  url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
+  status: CFP is Open until December 30, 2019
+
+- name: Test Automation and Digital QA Summit 2020 - Philadelphia
+  location: Philadelphia, PA, USA
+  dates: "April 24, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-philadelphia-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Early Bird Registration is Open
+
+- name: SmartBear Connect 2020
+  location: Boston, MA, USA
+  dates: "April 27-28, 2020"
+  url: https://smartbear.com/connect/?utm_source=testingconferences
+  twitter: SmartBear
+  status: Registration is Open
 
 - name: SauceCon 2020
   location: Austin, TX, USA
@@ -272,19 +321,25 @@
   twitter: saucelabs
   status: Registration is Open
 
-- name: SmartBear Connect 2020
-  location: Boston, MA, USA
-  dates: "April 27-29, 2020"
-  url: https://smartbear.com/connect/?utm_source=testingconferences
-  twitter: SmartBear
-  status: Registration is Open
-
+- name: Test Automation and Digital QA Summit 2020 - New Jersey
+  location: Newark, NJ, USA
+  dates: "April 28, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-jersey-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Early Bird Registration is Open
+  
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
   dates: "April 29, 2020"
   url: https://www.testqualitysummit.com/?utm_source=testingconferences
   twitter: TQSummit
   status: Registration is Open
+
+- name: Accelerate San Francisco
+  location: San Francisco, CA, USA
+  dates: "April 29-30, 2020"
+  url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
+  twitter: Tricentis
 
 - name: STAREAST 2020
   location: Orlando, Florida, USA
@@ -386,16 +441,22 @@
   location: London, England, UK
   dates: "January 21-22, 2021"
   url: https://waset.org/software-testing-types-and-process-conference-in-january-2021-in-london/?utm_source=testingconferences
-  status: CFP is Open Until December 30, 2019
+  status: CFP is Open Until December 30, 2020
 
 - name: ICSMQM 2021 - International Conference on Software Metrics and Quality Management
   location: New York, NY, USA
   dates: "January 28-29, 2021"
   url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
-  status: CFP is Open Until December 30, 2019
+  status: CFP is Open Until December 30, 2020
 
 - name: ICQAST 2021 - International Conference on Quality Assurance and Software Testing
   location: London, England, UK
-  dates: "February 15-16, 2020"
+  dates: "February 15-16, 2021"
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
-  status: CFP is Open Until December 30, 2019
+  status: CFP is Open Until December 30, 2020
+
+- name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
+  location: New York, NY, USA
+  dates: "April 22-23, 2020"
+  url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
+  status: CFP is Open until December 30, 2020
