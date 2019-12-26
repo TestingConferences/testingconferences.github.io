@@ -44,9 +44,9 @@
 - name: AutomationGuild Online Conference 2020
   location: Online
   dates: "February 3-5, 2020"
-  url: https://guildconferences.com/?utm_source=testingconferences
+  url: https://guildconferences.com/conferences/automation-2020/?utm_source=testingconferences
   twitter: AutomationGuild
-  status: Registration Opens Soon
+  status: Registration is Open
 
 - name: Agile Testing and Test Automation Summit London
   location: London, England, UK
@@ -368,6 +368,13 @@
   url: https://sqadays.com/en/index?utm_source=testingconferences
   twitter: sqadays
   status: CFP is Open until February 29, 2020
+
+- name: OnlineTestConf 2020
+  location: Online
+  dates: "May 19-20, 2020"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: Registration is Open and Free, CFP is Open until April 3, 2020
 
 - name: National Software Testing Conference 2020
   location: London, England
