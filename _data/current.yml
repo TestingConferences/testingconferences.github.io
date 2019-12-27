@@ -376,6 +376,12 @@
   twitter: OnlineTestConf
   status: Registration is Open and Free, CFP is Open until April 3, 2020
 
+- name: ICSSTA 2020 - International Conference on Software System Testing and Applications
+  location: London, UK
+  dates: "May 21-22, 2020"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
+  status: CFP is Open until December 30, 2019
+
 - name: National Software Testing Conference 2020
   location: London, England
   dates: "May 27-28, 2020"
@@ -396,6 +402,28 @@
   twitter: nordictestdays
   status: Early Bird Pricing will be open soon
   
+- name: ICTSS 2020 - International Conference on Testing Software and Systems
+  location: New York, NY, USA
+  dates: "June 4-5, 2020"
+  url: https://waset.org/testing-software-and-systems-conference-in-june-2020-in-new-york?utm_source=testingconferences
+
+- name: ICSICT 2020 - International Conference on Software Integration and Component Testing
+  location: New York, NY, USA
+  dates: "June 4-5, 2020"
+  url: https://waset.org/software-integration-and-component-testing-conference-in-june-2020-in-new-york?utm_source=testingconferences
+
+- name: Italian Software Testing Forum
+  location: Milan, Italy
+  dates: "June 8-10, 2020"
+  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
+  status: CFP is Open until January 31, 2020
+
+- name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
+  location: London, UK
+  dates: "June 10, 2020"
+  url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
+  status: Registration is Open
+
 - name: WeTest.Athens 2020
   location: Athens, Greece
   dates: "June 12, 2020"
@@ -429,6 +457,11 @@
   dates: "June 21-25, 2020"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
+
+- name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
+  location: London, UK
+  dates: "June 29-30, 2020"
+  url: https://waset.org/critical-computer-based-systems-conference-in-june-2020-in-london?utm_source=testingconferences
 
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
@@ -488,3 +521,19 @@
   dates: "April 22-23, 2020"
   url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
   status: CFP is Open until December 30, 2020
+
+- name: ICSSTA 2021 - International Conference on Software System Testing and Applications
+  location: London, UK
+  dates: "May 24-25, 2021"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
+  status: CFP is Open until December 30, 2020
+
+- name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
+  location: London, UK
+  dates: "June 28-29, 2021"
+  url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
+
+- name: ICTSS 2021 - International Conference on Testing Software and Systems
+  location: New York, NY, USA
+  dates: "June 3-4, 2021"
+  url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
