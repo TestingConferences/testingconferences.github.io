@@ -445,6 +445,13 @@
   twitter: expoqa
   status: CFP is Open
 
+- name: Test Automation Days 2020
+  location: Utrecht, Netherlands
+  dates: "June 17-18, 2020"
+  url: https://www.testautomationdays.com
+  twitter: testautomationd
+  status: CFP is Open until February 26th, 2020
+
 - name: Selenium Conference India 2020
   location: Bengaluru, India
   dates: "June 18-20, 2020"
