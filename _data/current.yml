@@ -206,7 +206,7 @@
   location: Porto, Portugal
   dates: "March 23-27, 2020"
   url: https://icst2020.info/?utm_source=testingconferences
-  status: CFP is closed, Registration is Open  
+  status: Registration is Open  
   
 - name: Ankara Testing Days, 2020
   location: Ankara, Turkey
@@ -220,7 +220,14 @@
   dates: "March 26-27, 2020"
   url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird pricing until 30th November, 2019
+  status: Early Bird pricing is Open
+
+- name: QA & TEST Safety and Security 2020
+  location: Madrid, Spain
+  dates: "March 26-27, 2020"
+  url: https://www.qatest.org/bienvenida-safsec/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Announced
   
 - name: Testingstage
   location: Kyiv, Ukraine
@@ -262,6 +269,12 @@
   location: Montrouge, France
   dates: "April 8-9, 2019"
   url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+
+- name: Heisenbug 2020 Piter
+  location: St. Petersberg, Russia
+  dates: "April 8-9, 2020"
+  url: https://heisenbug-piter.ru/?utm_source=testingconferences
+  twitter: HeisenbugConf
 
 - name: IEEE International Conference on AI Testing 2019
   location: Oxford, UK
@@ -525,12 +538,47 @@
   twitter: techwell
   status: CFP is Open until February 16, 2020
 
+- name: The QA Financial Forum Paris 2020
+  location: Paris, FR
+  dates: "October 7, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
+  status: Super Early Bird Registration is Open
+
+- name: ICSSTVV 2020 - International Conference on Software System Testing, Validation and Verification
+  location: London, UK
+  dates: "October 22-23, 2020"
+  url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2020-in-london/?utm_source=testingconferences
+
+- name: ASQT 2020
+  location: Bolzano, Italy
+  dates: "October 29, 2020"
+  url: http://www.asqt.org/?utm_source=testingconferences
+
+- name: QA & TEST Embedded 2020
+  location: Bilbao, Spain
+  dates: "October 28-30, 2020"
+  url: http://qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Announced
+
+- name: Heisenbug 2020 Moscow
+  location: Moscow, Russia
+  dates: "November 3-4, 2020"
+  url: https://heisenbug-moscow.ru/en/?utm_source=testingconferences
+  twitter: HeisenbugConf
+
+- name: Testing United 2020
+  location: Prague, Czech Republic
+  dates: "November 7-8, 2019"
+  url: https://testingunited.com?utm_source=testingconferences
+  twitter: testing_united
+
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany
   dates: "November 8-13, 2020"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Super Early Bird pricing is Open until December 31, 2019
+  status: Early Bird pricing is Open
 
 - name: EuroSTAR Software Testing Conference 2020
   location: Antwerp, Belgium
@@ -538,6 +586,11 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Open
+
+- name: The QA Financial Forum New York 2020
+  location: New York, NY USA
+  dates: "November 18, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
@@ -588,3 +641,8 @@
   location: London, UK
   dates: "September 23-24, 2021"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
+
+- name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
+  location: London, UK
+  dates: "October 21-22, 2020"
+  url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
