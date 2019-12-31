@@ -424,13 +424,6 @@
   url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
   status: Registration is Open
 
-- name: WeTest.Athens 2020
-  location: Athens, Greece
-  dates: "June 12, 2020"
-  url: https://wetest-athens.gr/?utm_source=testingconferences
-  twitter: WetestA
-  status: Early Bird Tickets will open soon
-
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
   dates: "June 10-12, 2020"
@@ -438,12 +431,19 @@
   twitter: romaniatesting
   status: CFP is Open until November 25th 2019
 
+- name: WeTest.Athens 2020
+  location: Athens, Greece
+  dates: "June 12, 2020"
+  url: https://wetest-athens.gr/?utm_source=testingconferences
+  twitter: WetestA
+  status: Early Bird Registration is Open
+
 - name: expo:QA 20
   location: Madrid, Spain
   dates: "June 15-17, 2020"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: CFP is Open
+  status: Registration is Open
 
 - name: Test Automation Days 2020
   location: Utrecht, Netherlands
@@ -464,11 +464,29 @@
   dates: "June 21-25, 2020"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
+  status: Super Early Bird Registration is Open until March 31, 2020
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
   dates: "June 29-30, 2020"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2020-in-london?utm_source=testingconferences
+
+- name: TestCon 2020 Bangalore
+  location: Bangalore, India
+  dates: "July 1-3, 2020"
+  url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2020
+  location: Los Angeles, CA, USA
+  dates: "July 18-22, 2020"
+  url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
+  twitter: issta_conf
+  status: CFP is Open until January 27, 2020
+
+- name: ICSTRA 2020 - International Conference on Security Testing and Risk Assessment
+  location: London, UK
+  dates: "July 23-24, 2020"
+  url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2020-in-london?utm_source=testingconferences
 
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
@@ -476,7 +494,23 @@
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
   status: Blind Bat pricing (Super Early Bird) is Open
-  
+
+- name: Targeting Quality (KWSQA) 2020
+  location: Cambridge, ON Canada
+  dates: "September 21-22, 2020"
+  url: https://kwsqa.org/tq2020/?utm_source=testingconferences
+  twitter: kwsqa
+
+- name: TACON 2020
+  location: Leipzig, Germany
+  dates: "September 22-24, 2020"
+  url: https://tacon-konferenz.de/?utm_source=testingconferences
+
+- name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
+  location: London, UK
+  dates: "September 24-25, 2020"
+  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
+
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
   dates: "October 1-2, 2020"
@@ -544,3 +578,13 @@
   location: New York, NY, USA
   dates: "June 3-4, 2021"
   url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
+
+- name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
+  location: London, UK
+  dates: "July 26-27, 2021"
+  url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2021-in-london?utm_source=testingconferences
+
+- name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
+  location: London, UK
+  dates: "September 23-24, 2021"
+  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
