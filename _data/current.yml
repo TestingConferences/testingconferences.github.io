@@ -96,7 +96,7 @@
   status: Registration is Open, Blind Bird sold out
 
 - name: DevOps and Test Automation Summit
-  location: Dallas, USA
+  location: Dallas, TX, USA
   dates: "February 20, 2020"
   url: https://1point21gws.com/testingsummit/dallas/?utm_source=testingconferences
   status: Registration is Open
@@ -247,7 +247,7 @@
   status: Registration is Open
 
 - name: STPCon Spring 2020
-  location: San Diego, CA USA
+  location: San Diego, CA, USA
   dates: "March 30-April 2, 2020"
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
@@ -282,7 +282,7 @@
   url: http://www.ieeeaitests.com/?utm_source=testingconferences
 
 - name: EPIC Experience
-  location: San Diego, CA USA
+  location: San Diego, CA, USA
   dates: "April 19-23, 2020"
   url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
@@ -302,7 +302,7 @@
   status: CFP is Open until January 12, 2020. Early Bird is Open until February 28, 2020
 
 - name: TestBash Detroit 2020
-  location: Detroit, USA
+  location: Detroit, MI, USA
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
@@ -362,7 +362,7 @@
   status: Early Bird Registration is Open
  
 - name: STAREAST 2020
-  location: Orlando, Florida, USA
+  location: Orlando, Fl, USA
   dates: "May 3-8, 2020"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
@@ -501,6 +501,13 @@
   dates: "July 23-24, 2020"
   url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2020-in-london?utm_source=testingconferences
 
+- name: Mile High Testing Conference 2020
+  location: Denver, CO, USA
+  dates: "July 28-29, 2020"
+  url: https://www.milehightesting.com/?utm_source=testingconferences
+  status: CFP is Open
+  twitter: SoftwareTestPro
+
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
@@ -588,7 +595,7 @@
   status: CFP is Open
 
 - name: The QA Financial Forum New York 2020
-  location: New York, NY USA
+  location: New York, NY, USA
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
