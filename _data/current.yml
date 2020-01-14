@@ -575,9 +575,10 @@
 
 - name: Testing United 2020
   location: Prague, Czech Republic
-  dates: "November 7-8, 2019"
+  dates: "November 5-6, 2020"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
+  status: Super Early Bird ends on January 31st.
 
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany
