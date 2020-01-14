@@ -14,7 +14,7 @@
   location: Milan, Italy
   dates: "January 29, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-milano-2020/?utm_source=testingconferences
-  status: Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Spanish Test Academy Barcelona 2020
   location: Barcelona, Spain
@@ -67,7 +67,7 @@
   dates: "February 6-7, 2020"
   url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
   twitter: EuroTestingConf
-  status: Early Bird Registration is Open
+  status: Registration is Open
 
 - name: SoCraTes Conference Switzerland 2020
   location: Soltau, Germany
@@ -93,7 +93,7 @@
   dates: "February 14-15, 2020"
   url: https://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
-  status: Registration is Open, Blind Bird sold out
+  status: Registration is Open
 
 - name: DevOps and Test Automation Summit
   location: Dallas, TX, USA
@@ -115,12 +115,19 @@
   twitter: seleniumcamp
   status: Registration is Open
 
-- name: QA or the Highway
+- name: QA or the Highway 2020
   location: Columbus, OH, USA
   dates: "February 25, 2020"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: Registration will Open soon
+  status: Registration is Open
+
+- name: Test Automation and Digital QA Summit 2020 - Seattle
+  location: Seattle, WA, USA
+  dates: "February 25, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-seattle-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Early Bird Registration is Open
 
 - name: TSQA 2020
   location: Chapel Hill, NC, USA
@@ -134,21 +141,14 @@
   dates: "February 28, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-san-francisco-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open, CFP is Open until December 29, 2019
+  status: Early Bird Registration is Open
 
 - name: Test Automation and Digital QA Summit 2020 - Los Angeles
   location: Los Angeles, CA, USA
   dates: "March 3, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Registration is Open, CFP is Open until December 29, 2019
-
-- name: Test Automation and Digital QA Summit 2020 - Seattle
-  location: Seattle, WA, USA
-  dates: "March 3, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-seattle-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open, CFP is Open until December 29, 2019
+  status: Early Bird Registration is Open
 
 - name: Spanish Test Academy Valencia 2020
   location: Valencia, Spain
@@ -161,7 +161,7 @@
   location: London, UK
   dates: "March 12, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
-  status: Early Bird Registration is Open until January 12, 2020
+  status: Registration is Open
 
 - name: ICSTM 2020 - International Conference on Software Testing Methods
   location: Miami, FL, USA
@@ -174,33 +174,32 @@
   dates: "March 14, 2020"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: Registration is Open, CFP is open untill January 10th 2020
+  status: Registration is Open
 
 - name: Swiss Testing Day
   location: Zürich, Switzerland
   dates: "March 18, 2020"
   url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
   twitter: swisstesting
-  status: Registration is Open, Early Bird till December 31st, 2019
+  status: Registration is Open
 
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
   dates: "March 20-21, 2020"
   url: https://sqadays.eu/?utm_source=testingconferences
   twitter: sqadays
-  status: Registration is Open, CFP is open until December 31, 2019
+  status: Registration is Open
   
 - name: Agile Testing & Test Automation Conference - London
   location: London, England, UK
   dates: "March 23, 2020"
   url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
-  status: Registration is Open
+  status: Early Bird Registration is Open until February 23, 2020
  
 - name: TAIC PART 2020
   location: Porto, Portugal
   dates: "March 23, 2020"
   url: http://www2020.taicpart.org/?utm_source=testingconferences
-  status: CFP is open until December 27, 2019
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal
@@ -220,7 +219,7 @@
   dates: "March 26-27, 2020"
   url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird pricing is Open
+  status: Early Bird pricing is Open until January 31, 2020
 
 - name: QA & TEST Safety and Security 2020
   location: Madrid, Spain
@@ -244,14 +243,14 @@
   location: Beijing, China
   dates: "March 30-31, 2020"
   url: https://opentestcon.org/?utm_source=testingconferences
-  status: Registration is Open
+  status: Registration is Open & Free
 
 - name: STPCon Spring 2020
   location: San Diego, CA, USA
   dates: "March 30-April 2, 2020"
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Super Early Bird (Black Friday / Cyber Monday) until December 2nd, 2019
+  status: Early Bird is Open until February 24, 2020
   
 - name: TestCon Moscow 2020
   location: Moscow, Russia
@@ -261,7 +260,7 @@
 
 - name: The QA Financial Forum Chicago 2020
   location: Chicago, IL, USA
-  dates: "April 2, 2019"
+  dates: "April 2, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2020?utm_source=testingconferences
   status: Early Bird Registration is open until February 1, 2020
 
@@ -286,46 +285,46 @@
   dates: "April 19-23, 2020"
   url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
-  status: Super Early Bird is Open
+  status: Super Early Bird is Open until February 21, 2020
 
 - name: TestIstanbul 2020
   location: Istanbul, Turkey
   dates: "April 21, 2020"
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul 
-  status: Early Bird is Open until January 10, 2020 
+  status: Early Bird is Open until February 10th, 2020
 
 - name: SAEC Days 2020
   location: Munich, Germany
   dates: "April 21-23, 2020"
   url: https://www.saec-days.de/home.html?utm_source=testingconferences
-  status: CFP is Open until January 12, 2020. Early Bird is Open until February 28, 2020
+  status: Early Bird is Open until February 28, 2020
 
 - name: TestBash Detroit 2020
   location: Detroit, MI, USA
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
+  status: Super Early Bird is Open until January 24, 2020
 
 - name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
   dates: "April 23-24, 2020"
   url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
-  status: CFP is Open until December 30, 2019
 
 - name: Test Automation and Digital QA Summit 2020 - Philadelphia
   location: Philadelphia, PA, USA
   dates: "April 24, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-philadelphia-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until March 24, 2020
 
 - name: SmartBear Connect 2020
   location: Boston, MA, USA
   dates: "April 27-28, 2020"
   url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
-  status: Registration is Open
+  status: Early Bird Registration is Open until January 16, 2020
 
 - name: SauceCon 2020
   location: Austin, TX, USA
@@ -339,7 +338,7 @@
   dates: "April 28, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-jersey-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until February 10, 2020
   
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
@@ -348,11 +347,12 @@
   twitter: TQSummit
   status: Registration is Open
 
-- name: Accelerate San Francisco
+- name: Accelerate San Francisco 2020
   location: San Francisco, CA, USA
   dates: "April 29-30, 2020"
   url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
   twitter: Tricentis
+  status: Early Bird Registration is Open until February 14, 2020
 
 - name: Test Automation and Digital QA Summit 2020 - Washington DC
   location: Arlington, VA, USA
@@ -366,7 +366,7 @@
   dates: "May 3-8, 2020"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Pricing is Open
+  status: Super Early Bird Pricing is Open March 6, 2020
 
 - name: German Testing Day 2020
   location: Frankfurt, Germany
@@ -380,7 +380,6 @@
   dates: "May 15-16, 2020"
   url: https://sqadays.com/en/index?utm_source=testingconferences
   twitter: sqadays
-  status: CFP is Open until February 29, 2020
 
 - name: OnlineTestConf 2020
   location: Online
@@ -413,7 +412,7 @@
   dates: "June 3-5, 2020"
   url: https://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
-  status: Early Bird Pricing will be open soon
+  status: Early Bird Pricing is Open
   
 - name: ICTSS 2020 - International Conference on Testing Software and Systems
   location: New York, NY, USA
