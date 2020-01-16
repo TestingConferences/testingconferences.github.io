@@ -390,7 +390,8 @@
 - name: Tesena Fest Brno 2020
   location: Brno, Czech Republic
   dates: "May 19, 2020"
-  url: https://www.tesena.com/
+  url: https://www.tesena.com/tesena-fest-brno-2020/
+  status: CFP is Open
   
 - name: OnlineTestConf 2020
   location: Online
@@ -620,7 +621,7 @@
 - name: Tesena Fest Prague 2020
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
-  url: https://www.tesena.com/
+  url: https://www.tesena.com/tesena-fest-prague-2020/
   
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
