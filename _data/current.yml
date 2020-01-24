@@ -470,6 +470,13 @@
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
   status: CFP is Open
+  
+- name: Quality Excites 2020
+  location: Gliwice, Poland
+  dates: "June 19-20, 2020"
+  url: https://qualityexcites.pl/en/
+  twitter: QualityExcites
+  status: CFP is Open until 8th March 2020
 
 - name: Agile Testing Days USA 2020
   location: Chicago, IL, USA
