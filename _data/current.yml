@@ -568,6 +568,12 @@
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
   status: Super Early Bird Registration is Open
 
+- name: Sanae Software Testing BEER.EX
+  location: Bratislava, Slovakia
+  dates: "October 7-8, 2020"
+  url: http://sanae.beer
+  status: CFP is Open
+  
 - name: ICSSTVV 2020 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
   dates: "October 22-23, 2020"
@@ -676,9 +682,3 @@
   location: London, UK
   dates: "October 21-22, 2020"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
-
-- name: Sanae Software Testing BEER.EX
-  location: Bratislava, Slovakia
-  dates: "October 7-8, 2020"
-  url: http://sanae.beer
-  status: CFP is Open
