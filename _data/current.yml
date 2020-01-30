@@ -544,6 +544,20 @@
   dates: "September 24-25, 2020"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
 
+- name: TestBash Manchester
+  location: Manchester, UK
+  dates: "September 30 - 1st October, 2020"
+  url: https://www.ministryoftesting.com/events/testbash-manchester-2020?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until February 22nd, 2020. Blind bird on sale.
+
+- name: Test.bash(); Manchester
+  location: Manchester, UK
+  dates: "October 2, 2020"
+  url: https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until February 22nd, 2020. Blind bird on sale.
+
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
   dates: "October 1-2, 2020"
