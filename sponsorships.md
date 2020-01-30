@@ -24,11 +24,11 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>February 2020</td>
-    <td>STAREAST 2020</td>
+    <td>EPIC Experience 2020</td>
   </tr>
   <tr>
     <td>March 2020</td>
-    <td>TBD</td>
+    <td>STAREAST 2020</td>
   </tr>
   <tr>
     <td>April 2020</td>
