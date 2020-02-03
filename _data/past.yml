@@ -471,8 +471,9 @@
 - name: TestingUY 2019
   location: Montevideo, Uruguay
   dates: "May 13-14, 2019"
-  url: http://testinguy.org?utm_source=testingconferences
+  url: http://testinguy.org
   twitter: testingUY
+  video_url: https://www.youtube.com/watch?v=rQIWY4KgBqo&list=PLLjZRlRbO78vorqTndmCSCYJnGQhSqVmD
 
 - name: IEEE DTS 2019
   location: Gammarth, Tunisia
@@ -1104,6 +1105,7 @@
   dates: "May 21-22, 2018"
   url: http://testinguy.org
   twitter: testingUY
+  video_url: https://www.youtube.com/watch?v=lJKZSlHLd8Q&list=PLLjZRlRbO78sYYtyYYbzH81uPJbq87RKf
 
 - name: TestBash Dublin 2018
   location: Dublin, Ireland
@@ -1654,6 +1656,7 @@
   dates: "May 15-16, 2017"
   url: http://testinguy.org
   twitter: testingUY
+  video_url: https://www.youtube.com/watch?v=jltmiwe-k0A&list=PLLjZRlRbO78sSgszXvjEOPIFlzoMyegjr
 
 - name: Let's Test 2017
   location: Runö, Sweden
@@ -2202,6 +2205,7 @@
   dates: "April 26-27, 2016"
   url: http://testinguy.org
   twitter: testingUY
+  video_url: https://www.youtube.com/watch?v=3-hbTmmyE9w&list=PLLjZRlRbO78vDit9rDFCy7LpOorRYiJhk
 
 - name: DSTC 2016
   location: Dwarka, New Delhi, India

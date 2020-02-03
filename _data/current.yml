@@ -363,6 +363,12 @@
   twitter: GermanTesting
   status: Early Bird Pricing open until March 13, 2020
 
+- name: TestingUY 2020
+  location: Montevideo, Uruguay
+  dates: "May 11-12, 2020"
+  url: http://testinguy.org
+  twitter: testingUY
+
 - name: SQA Days - 27 2020
   location: Moscow, Russia
   dates: "May 15-16, 2020"
