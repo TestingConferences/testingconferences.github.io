@@ -161,7 +161,7 @@
   dates: "March 26-27, 2020"
   url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird pricing is Open until January 31, 2020
+  status: Registration is Open
 
 - name: QA & TEST Safety and Security 2020
   location: Madrid, Spain
@@ -247,7 +247,7 @@
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
-  status: Super Early Bird is Open until January 24, 2020
+  status: Early Bird is Open until March 13, 2020
 
 - name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
@@ -266,7 +266,7 @@
   dates: "April 27-28, 2020"
   url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
-  status: Early Bird Registration is Open until January 16, 2020
+  status: Registration is Open
 
 - name: SauceCon 2020
   location: Austin, TX, USA
@@ -395,14 +395,14 @@
   dates: "June 10-12, 2020"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: CFP is Open until November 25th 2019
+  status: Registration is Open
 
 - name: WeTest.Athens 2020
   location: Athens, Greece
   dates: "June 12, 2020"
   url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until March 31, 2020
 
 - name: expo:QA 20
   location: Madrid, Spain
@@ -461,7 +461,6 @@
   dates: "July 18-22, 2020"
   url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
   twitter: issta_conf
-  status: CFP is Open until January 27, 2020
 
 - name: ICSTRA 2020 - International Conference on Security Testing and Risk Assessment
   location: London, UK
@@ -480,13 +479,14 @@
   dates: "August 3-6, 2020"
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
-  status: Blind Bat pricing (Super Early Bird) is Open
+  status: Early Bird Pricing is Open
 
 - name: Targeting Quality (KWSQA) 2020
   location: Cambridge, ON Canada
   dates: "September 21-22, 2020"
   url: https://kwsqa.org/tq2020/?utm_source=testingconferences
   twitter: kwsqa
+  status: CFP is Open until April 26, 2020
 
 - name: TACON 2020
   location: Leipzig, Germany
@@ -517,7 +517,7 @@
   dates: "October 1-2, 2020"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Super Early Bird Registration will open in January
+  status: Super Early Bird Registration is Open until February 29, 2020
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
@@ -530,7 +530,7 @@
   location: Paris, FR
   dates: "October 7, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
-  status: Super Early Bird Registration is Open
+  status: Super Early Bird Registration is Open until August 7, 2020
 
 - name: Sanae Software Testing BEER.EX
   location: Bratislava, Slovakia
@@ -566,21 +566,21 @@
   dates: "November 5-6, 2020"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Super Early Bird ends on January 31st.
+  status: Early Bird pricing ends on May 31, 2020
 
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany
   dates: "November 8-13, 2020"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird pricing is Open
+  status: Early Bird pricing is open until April 30, 2020
 
 - name: EuroSTAR Software Testing Conference 2020
   location: Antwerp, Belgium
   dates: "November 16-19, 2020"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Open
+  status: CFP is Open and Super Early Bird Pricing is Open
 
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
