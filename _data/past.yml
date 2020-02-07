@@ -1,3 +1,42 @@
+- name: Agile Testing and Test Automation Summit Chicago
+  location: Chicago, IL, USA
+  dates: "February 6, 2020"
+  url: https://1point21gws.com/testingsummit/chicago/?utm_source=testingconferences
+  twitter: 1pt21gws
+
+- name: Agile Testing and Test Automation Summit London
+  location: London, England, UK
+  dates: "February 6, 2020"
+  url: https://1point21gws.com/testingsummit/london/?utm_source=testingconferences
+  twitter: 1pt21gws
+
+- name: AutomationGuild Online Conference 2020
+  location: Online
+  dates: "February 3-5, 2020"
+  url: https://guildconferences.com/conferences/automation-2020/?utm_source=testingconferences
+  twitter: AutomationGuild
+
+- name: Dutch Exploratory Workshop on Testing Conference #9 (DEWT9)
+  location: Driebergen, Netherlands
+  dates: "January 31 - February 2, 2020"
+  url: https://dewt.wordpress.com/2019/08/05/dewt-9-announcement/
+
+- name: ICSMQM 2020 - International Conference on Software Metrics and Quality Management
+  location: New York, NY, USA
+  dates: "January 30-31, 2020"
+  url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2020-in-new-york/?utm_source=testingconferences
+
+- name: Agile, Testing & DevOps Showcase Amsterdam 2020
+  location: Amsterdam, Netherlands
+  dates: "January 30, 2020"
+  url: https://www.eventbrite.co.uk/e/agile-testing-and-devops-showcase-tickets-71256218267/?utm_source=testingconferences
+
+- name: Spanish Test Academy Barcelona 2020
+  location: Barcelona, Spain
+  dates: "January 30, 2020"
+  url: http://www.spanishtestacademy.com/barcelona/en.html?utm_source=testingconferences
+  twitter: expoQA
+
 - name: The QA Financial Forum Milano 2020
   location: Milan, Italy
   dates: "January 29, 2020"
