@@ -587,6 +587,12 @@
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
+- name: SeleniumConf Chicago 2020
+  location: Chicago, IL, USA
+  dates: "November 18-19, 2020"
+  url: https://www.seleniumconf.com/?utm_source=testingconferences
+  status: CFP is Open
+
 - name: Tesena Fest Prague 2020
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
