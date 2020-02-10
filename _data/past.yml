@@ -1,3 +1,20 @@
+- name: Software Crafters and Testers Conference (SocrateS CanarieS)
+  location: Tenerife, Canary Islands, Spain
+  dates: "February 6-9, 2020"
+  url: https://www.socracan.com/?utm_source=testingconferences
+
+- name: SoCraTes Conference Switzerland 2020
+  location: Soltau, Germany
+  dates: "February 6-9, 2020"
+  url: http://www.socrates-ch.org/?utm_source=testingconferences
+  twitter: SoCraTes_CH
+
+- name: European Testing Conference 2020
+  location: Amsterdam, Netherlands
+  dates: "February 6-7, 2020"
+  url: https://europeantestingconference.eu/2020/?utm_source=testingconferences
+  twitter: EuroTestingConf
+
 - name: Agile Testing and Test Automation Summit Chicago
   location: Chicago, IL, USA
   dates: "February 6, 2020"
