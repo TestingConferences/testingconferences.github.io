@@ -4,6 +4,14 @@
   url: https://delex-conf.com/?utm_source=testingconferences
   twitter: delex_conf
   status: Registration is Open
+  
+  - name: World Conference Next Generation Testing – 2020
+  location: Bangalore, Karnataka
+  dates: "July 16-17, 2020"
+  url: https://www.unicomlearning.com/2020/WCNGT_2020/
+  twitter: UNICOMLearning
+  status: Registration is Open
+  
 
 - name: DevOps and Test Automation Summit
   location: Dallas, TX, USA
