@@ -596,9 +596,14 @@
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
 
+- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
+  location: Porto de Galinhas, Pernambuco, Brazil
+  dates: "April 12-16, 2021"
+  url: https://icst2021.icmc.usp.br
+
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
-  dates: "April 22-23, 2020"
+  dates: "April 22-23, 2021"
   url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
   status: CFP is Open until December 30, 2020
 
@@ -630,5 +635,5 @@
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
-  dates: "October 21-22, 2020"
+  dates: "October 21-22, 2021"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
