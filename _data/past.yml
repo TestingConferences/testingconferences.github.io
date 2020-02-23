@@ -1,3 +1,20 @@
+- name: Agile Testing and Test Automation Summit Seattle
+  location: Seattle, WA, USA
+  dates: "February 20, 2020"
+  url: https://www.1point21gws.com/testingsummit/seattle/february/?utm_source=testingconferences
+  twitter: 1pt21gws
+
+- name: DevOps and Test Automation Summit
+  location: Dallas, TX, USA
+  dates: "February 20, 2020"
+  url: https://1point21gws.com/testingsummit/dallas/?utm_source=testingconferences
+
+- name: Delivery Excellence Conf 2020 DevOps & Test Automation
+  location: Minsk, Belarus
+  dates: "February 14-15, 2020"
+  url: https://delex-conf.com/?utm_source=testingconferences
+  twitter: delex_conf
+
 - name: ICQAST 2020 - International Conference on Quality Assurance and Software Testing
   location: London, England, UK
   dates: "February 13-14, 2020"
