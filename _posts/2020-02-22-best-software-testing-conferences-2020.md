@@ -8,6 +8,13 @@ permalink: /best-software-testing-conferences-2020/
 twitter:
   username: ckenst
   card: summary
+social:
+  name: Chris Kenst
+  links:
+    - https://twitter.com/ckenst
+    - https://www.linkedin.com/in/ckenst
+    - https://github.com/ckenst
+last_modified_at:   2020-02-23 16:31:13
 ---
 
 # The following is a list of what I think are the best software testing conferences and workshops of 2020 from around the World.
