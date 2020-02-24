@@ -86,4 +86,4 @@ Let's take a look:
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) for what's coming up in your area!
 
-Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
+Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once per **month newsletter.**

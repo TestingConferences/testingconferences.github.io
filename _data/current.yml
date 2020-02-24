@@ -1,10 +1,3 @@
-- name: Selenium Camp
-  location: Kyiv, Ukraine
-  dates: "February 21-22, 2020"
-  url: https://seleniumcamp.com/?utm_source=testingconferences
-  twitter: seleniumcamp
-  status: Registration is Open
-
 - name: QA or the Highway 2020
   location: Columbus, OH, USA
   dates: "February 25, 2020"
@@ -467,7 +460,7 @@
 
 - name: TestBash Manchester
   location: Manchester, UK
-  dates: "September 30 - 1st October, 2020"
+  dates: "September 30-October 1, 2020"
   url: https://www.ministryoftesting.com/events/testbash-manchester-2020?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until February 22nd, 2020. Blind bird on sale.
@@ -550,7 +543,7 @@
   
 - name: TestBash New Zealand
   location: Wellington, NZ
-  dates: "November 16 - 17, 2020"
+  dates: "November 16-17, 2020"
   url: https://www.ministryoftesting.com/events/testbash-new-zealand-2020?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until March 21st, 2020. Blind bird on sale.

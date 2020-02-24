@@ -1,3 +1,9 @@
+- name: Selenium Camp
+  location: Kyiv, Ukraine
+  dates: "February 21-22, 2020"
+  url: https://seleniumcamp.com/?utm_source=testingconferences
+  twitter: seleniumcamp
+
 - name: Agile Testing and Test Automation Summit Seattle
   location: Seattle, WA, USA
   dates: "February 20, 2020"
