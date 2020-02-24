@@ -262,6 +262,7 @@ DEPENDENCIES
   html-proofer (>= 3.13.0)
   jekyll (>= 3.8.4)
   jekyll-last-modified-at
+  jekyll-seo-tag
   jekyll-sitemap (~> 1.2)
   jekyll-watch
   kramdown
