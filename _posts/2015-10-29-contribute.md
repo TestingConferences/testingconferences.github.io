@@ -5,6 +5,7 @@ date:   2015-10-29 09:35:00
 categories: news
 author: Chris Kenst
 permalink: /how-to-contribute/
+last_modified_at:   2020-02-23 08:00:00
 ---
 Welcome to [TestingConferences.org](http://testingconferences.org), a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 
