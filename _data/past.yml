@@ -1,3 +1,15 @@
+- name: QA or the Highway 2020
+  location: Columbus, OH, USA
+  dates: "February 25, 2020"
+  url: https://www.qaorthehighway.com/?utm_source=testingconferences
+  twitter: QAortheHighway
+
+- name: Test Automation and Digital QA Summit 2020 - Seattle
+  location: Seattle, WA, USA
+  dates: "February 25, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-seattle-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: Selenium Camp
   location: Kyiv, Ukraine
   dates: "February 21-22, 2020"

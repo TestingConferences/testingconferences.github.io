@@ -1,17 +1,3 @@
-- name: QA or the Highway 2020
-  location: Columbus, OH, USA
-  dates: "February 25, 2020"
-  url: https://www.qaorthehighway.com/?utm_source=testingconferences
-  twitter: QAortheHighway
-  status: Registration is Open
-
-- name: Test Automation and Digital QA Summit 2020 - Seattle
-  location: Seattle, WA, USA
-  dates: "February 25, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-seattle-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Early Bird Registration is Open
-
 - name: TSQA 2020
   location: Chapel Hill, NC, USA
   dates: "February 26-27, 2020"
@@ -24,14 +10,14 @@
   dates: "February 28, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-san-francisco-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Test Automation and Digital QA Summit 2020 - Los Angeles
   location: Los Angeles, CA, USA
   dates: "March 3, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Spanish Test Academy Valencia 2020
   location: Valencia, Spain
@@ -77,6 +63,13 @@
   url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
   twitter: swisstesting
   status: Registration is Open
+
+- name: Odyssey Conference
+  location: Online
+  dates: "March 19-20, 2020"
+  url: https://odyssey.kobiton.com?utm_source=testingconferences
+  twitter: kobitonmobile
+  status: Registration is Open & Free
 
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
@@ -145,7 +138,7 @@
   dates: "March 30-April 2, 2020"
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Early Bird is Open until February 24, 2020
+  status: Registration is Open
   
 - name: TestCon Moscow 2020
   location: Moscow, Russia
@@ -157,7 +150,7 @@
   location: Chicago, IL, USA
   dates: "April 2, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2020?utm_source=testingconferences
-  status: Early Bird Registration is open until February 1, 2020
+  status: Registration is Open
 
 - name: Journée Française des tests logiciels (JFTL) 2020
   location: Montrouge, France
@@ -187,7 +180,7 @@
   dates: "April 21, 2020"
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul 
-  status: Early Bird is Open until February 10th, 2020
+  status: Registration is Open
 
 - name: SAEC Days 2020
   location: Munich, Germany
@@ -200,7 +193,7 @@
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird is Open until March 13, 2020
+  status: Early Bird Registration is Open until March 13, 2020
 
 - name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
@@ -233,7 +226,7 @@
   dates: "April 28, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-jersey-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open until February 10, 2020
+  status: Registration is Open
   
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
@@ -247,7 +240,7 @@
   dates: "April 29-30, 2020"
   url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
   twitter: Tricentis
-  status: Early Bird Registration is Open until February 14, 2020
+  status: Registration is Open
 
 - name: Test Automation and Digital QA Summit 2020 - Washington DC
   location: Arlington, VA, USA
@@ -299,7 +292,6 @@
   location: London, UK
   dates: "May 21-22, 2020"
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
-  status: CFP is Open until December 30, 2019
 
 - name: National Software Testing Conference 2020
   location: London, England
@@ -376,7 +368,7 @@
   dates: "June 17-18, 2020"
   url: https://www.testautomationdays.com?utm_source=testingconferences
   twitter: testautomationd
-  status: CFP is Open until February 26th, 2020
+  status: Registration is Open
 
 - name: Selenium Conference India 2020
   location: Bengaluru, India
@@ -404,7 +396,7 @@
   dates: "June 25 2020"
   url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
   twitter: CambsTestConf
-  status: Free, registration open February 2020
+  status:  Registration Open & Free
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
