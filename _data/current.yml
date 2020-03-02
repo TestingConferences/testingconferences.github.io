@@ -398,6 +398,13 @@
   twitter: CambsTestConf
   status:  Registration Open & Free
 
+- name: TestBashX Edinburgh 2020
+  location: Edinburgh, UK
+  dates: "June 26, 2020"
+  url: https://ti.to/mot/testbashx-edinburgh-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open & Free for Pro MoT members
+
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
   dates: "June 29-30, 2020"
