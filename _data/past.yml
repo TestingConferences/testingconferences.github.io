@@ -1,3 +1,15 @@
+- name: Test Automation and Digital QA Summit 2020 - San Francisco
+  location: San Francisco, CA, USA
+  dates: "February 28, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-san-francisco-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: TSQA 2020
+  location: Chapel Hill, NC, USA
+  dates: "February 26-27, 2020"
+  url: https://tsqa.org/?utm_source=testingconferences
+  twitter: TISQA_RTP
+
 - name: QA or the Highway 2020
   location: Columbus, OH, USA
   dates: "February 25, 2020"
