@@ -558,6 +558,13 @@
   url: https://www.seleniumconf.com/?utm_source=testingconferences
   status: CFP is Open
 
+- name: Software-QS-Tag 2020
+  location: Frankfurt a.M., Germany
+  dates: "November 25-26, 2020"
+  url: https://www.qs-tag.de/en/
+  twitter: SoftwareQSTag
+  status: CFP is open until April 30, 2020
+
 - name: Tesena Fest Prague 2020
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
