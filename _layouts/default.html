@@ -3,13 +3,17 @@
 
   {% include head.html %}
   <body>
-    <!-- {% include banner.html %} -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GDZ5BF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {% include banner.html %}
     {% include header.html %}
     <div class="page-content">
       <div class="wrapper">
         {% include nav.html %}
         {{ content }}
-        {% include lower-page.html %}
+        <!-- {% include lower-page.html %} -->
       </div>
     </div>
     {% include footer.html %}

@@ -15,10 +15,11 @@ The list of events is driven by files in the ```_data``` folder - if you have an
       - Example: Workshop on Performance and Reliability (WOPR) 24
   - Don't include the @ symbol for the twitter handle. If there is no twitter option, leave it blank
   - Optionally include a status such as:
-    - CFP is open (CFP == Call for Proposal)
+    - CFP is open / closed (CFP == Call for Proposal)
     - CFP is closed
-    - Registration is open
-    - Registration is closed
+    - Early Bird Registration is open
+    - Registration is open / closed
+    - Feel free to put in dates about when things expire
   - Optionally include a link to a conference video playlist. This will only appear for past conferences and can be added directly to the ```past.yml``` file.
     - These should be videos from the conference presentations or talks. No marketing videos please.  
 
