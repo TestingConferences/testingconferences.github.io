@@ -29,13 +29,6 @@
   twitter: qachallenge
   status: Registration is Open
 
-- name: Swiss Testing Day
-  location: Zürich, Switzerland
-  dates: "March 18, 2020"
-  url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
-  twitter: swisstesting
-  status: Registration is Open
-
 - name: Odyssey Conference
   location: Online
   dates: "March 19-20, 2020"
@@ -412,6 +405,13 @@
   twitter: AST_News
   status: Early Bird Pricing is Open
 
+- name: Swiss Testing Day
+  location: Zürich, Switzerland
+  dates: "August 26, 2020"
+  url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
+  twitter: swisstesting
+  status: Registration is Open
+  
 - name: Targeting Quality (KWSQA) 2020
   location: Cambridge, ON Canada
   dates: "September 21-22, 2020"
