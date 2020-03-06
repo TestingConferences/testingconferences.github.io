@@ -1,3 +1,15 @@
+- name: Spanish Test Academy Valencia 2020
+  location: Valencia, Spain
+  dates: "March 4, 2020"
+  url: http://www.spanishtestacademy.com/valencia/en.html?utm_source=testingconferences
+  twitter: expoQA
+
+- name: Test Automation and Digital QA Summit 2020 - Los Angeles
+  location: Los Angeles, CA, USA
+  dates: "March 3, 2020"
+  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-los-angeles-2020/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: Test Automation and Digital QA Summit 2020 - San Francisco
   location: San Francisco, CA, USA
   dates: "February 28, 2020"
