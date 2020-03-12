@@ -27,3 +27,5 @@ Conferences all over the world are being canceled or postponed as companies and 
 
 
 Luckily there have only been few. I'll try to keep this list updated as changes happpen. 
+
+Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
