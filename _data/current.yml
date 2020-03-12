@@ -1,9 +1,3 @@
-- name: JaSST'20 Tokyo
-  location: Tokyo, Japan
-  dates: "March 9-10, 2020"
-  url: https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fwww.jasst.jp%2Fsymposium%2Fjasst20tokyo.html
-  status: Registration is Open
-  
 - name: The QA Financial Forum London 2020
   location: London, UK
   dates: "March 12, 2020"
@@ -97,7 +91,7 @@
   dates: "March 30-April 2, 2020"
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Registration is Open
+  status: Cancelled
   
 - name: TestCon Moscow 2020
   location: Moscow, Russia
@@ -152,7 +146,7 @@
   dates: "April 23-24, 2020"
   url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird Registration is Open until March 13, 2020
+  status: Cancelled
 
 - name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA

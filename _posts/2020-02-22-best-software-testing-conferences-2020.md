@@ -39,7 +39,7 @@ Let's take a look:
 - [Swiss Testing Day 2020](http://swisstestingday.ch/?utm_source=testingconferences) in Zurich, Switzerland on March 18, 2020.
 - [Ankara Testing Days 2020](https://ankaratestingdays.com/?utm_source=testingconferences) in Ankara, Turkey on March 24, 2020.
 - [TestBash Brighton 2020](https://ti.to/mot/testbash-brighton-2020?source=testingconferences) in Brighton, UK on March 26-27, 2020.
-- [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences) in San Diego, CA USA from Marc 31-April 2, 2020.
+- [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences) in San Diego, CA USA from March 31-April 2, 2020.
 
 ## April
 
