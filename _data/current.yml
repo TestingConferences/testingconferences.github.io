@@ -107,7 +107,7 @@
 
 - name: Journée Française des tests logiciels (JFTL) 2020
   location: Montrouge, France
-  dates: "April 8-9, 2019"
+  dates: "April 8-9, 2020"
   url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
 
 - name: Heisenbug 2020 Piter
@@ -116,7 +116,7 @@
   url: https://heisenbug-piter.ru/?utm_source=testingconferences
   twitter: HeisenbugConf
 
-- name: IEEE International Conference on AI Testing 2019
+- name: IEEE International Conference on AI Testing 2020
   location: Oxford, UK
   dates: "April 13-16, 2020"
   url: http://www.ieeeaitests.com/?utm_source=testingconferences
@@ -207,7 +207,7 @@
   dates: "May 3-8, 2020"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Pricing is Open March 6, 2020
+  status: Super Early Bird Pricing is Open March 20, 2020
 
 - name: German Testing Day 2020
   location: Frankfurt, Germany
@@ -436,14 +436,14 @@
   dates: "October 1-2, 2020"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Super Early Bird Registration is Open until February 29, 2020
+  status: Early Bird Registration is Open until July 15, 2020
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
   dates: "October 4-9, 2020"
   url: https://starwest.techwell.com/speaker-submission-form-starwest-2020/?utm_source=testingconferences
   twitter: techwell
-  status: CFP is Open until February 16, 2020
+  status: Super Early Bird Registration is Open until August 7, 2020
 
 - name: The QA Financial Forum Paris 2020
   location: Paris, FR
@@ -519,7 +519,7 @@
   dates: "November 16-19, 2020"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Open and Super Early Bird Pricing is Open
+  status: Super Early Bird Pricing is Open until April 22, 2020.
 
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
