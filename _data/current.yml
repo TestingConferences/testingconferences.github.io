@@ -62,12 +62,6 @@
   twitter: QATestBilbao
   status: Announced
   
-- name: Testingstage
-  location: Kyiv, Ukraine
-  dates: "March 26-28 2020"
-  url: https://testingstage.com/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: InSTA 2020 - International Workshop on Software Test Architecture
   location: Porto, Portugal
   dates: "March 27, 2020"
@@ -161,11 +155,11 @@
   status: Early Bird Registration is Open until March 24, 2020
 
 - name: SmartBear Connect 2020
-  location: Boston, MA, USA
+  location: Online
   dates: "April 27-28, 2020"
   url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
-  status: Registration is Open
+  status: Registration is Open & Free
 
 - name: SauceCon 2020
   location: Austin, TX, USA
@@ -179,13 +173,6 @@
   dates: "April 28, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-jersey-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Registration is Open
-  
-- name: Test & Quality Summit 2020
-  location: Dublin, Ireland
-  dates: "April 29, 2020"
-  url: https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral
-  twitter: TQSummit
   status: Registration is Open
 
 - name: Accelerate San Francisco 2020
@@ -239,12 +226,18 @@
   dates: "May 19-20, 2020"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Registration is Open and Free, CFP is Open until April 3, 2020
+  status: Registration is Open & Free, CFP is Open until April 3, 2020
 
 - name: ICSSTA 2020 - International Conference on Software System Testing and Applications
   location: London, UK
   dates: "May 21-22, 2020"
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
+
+- name: Testingstage
+  location: Kyiv, Ukraine
+  dates: "May 21-23 2020"
+  url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open
 
 - name: National Software Testing Conference 2020
   location: London, England
@@ -476,6 +469,13 @@
   url: http://lets-test.com/?page_id=5881
   twitter: lets_test
   status: CFP is Open until April 5th, 2020. Early bird on sale.
+
+- name: Test & Quality Summit 2020
+  location: Dublin, Ireland
+  dates: "October 21, 2020"
+  url: https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral
+  twitter: TQSummit
+  status: Registration is Open
 
 - name: ICSSTVV 2020 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
