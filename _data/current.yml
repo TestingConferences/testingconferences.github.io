@@ -10,13 +10,6 @@
   url: https://waset.org/software-testing-methods-conference-in-march-2020-in-miami/?utm_source=testingconferences
   status: Registration is Open
 
-- name: QA Challenge Accepted 6.0
-  location: Sofia, Bulgaria
-  dates: "March 14, 2020"
-  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
-  twitter: qachallenge
-  status: Registration is Open
-
 - name: Odyssey Online Testing Conference
   location: Online
   dates: "March 19-20, 2020"
@@ -398,6 +391,13 @@
   dates: "August 26, 2020"
   url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
   twitter: swisstesting
+  status: Registration is Open
+  
+- name: QA Challenge Accepted 6.0
+  location: Sofia, Bulgaria
+  dates: "September 12, 2020"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
   status: Registration is Open
   
 - name: Targeting Quality (KWSQA) 2020
