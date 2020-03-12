@@ -35,7 +35,7 @@
   location: London, England, UK
   dates: "March 23, 2020"
   url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
-  status: Early Bird Registration is Open until February 23, 2020
+  status: Registration is Open
  
 - name: TAIC PART 2020
   location: Porto, Portugal
@@ -126,7 +126,7 @@
   dates: "April 19-23, 2020"
   url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
-  status: Super Early Bird is Open until February 21, 2020
+  status: Early Bird is Open until March 20, 2020
 
 - name: TestIstanbul 2020
   location: Istanbul, Turkey
@@ -139,7 +139,7 @@
   location: Munich, Germany
   dates: "April 21-23, 2020"
   url: https://www.saec-days.de/home.html?utm_source=testingconferences
-  status: Early Bird is Open until February 28, 2020
+  status: Registration is Open
 
 - name: TestBash Detroit 2020
   location: Detroit, MI, USA
@@ -207,14 +207,14 @@
   dates: "May 3-8, 2020"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Pricing is Open March 20, 2020
+  status: Super Early Bird Pricing is Open until March 20, 2020
 
 - name: German Testing Day 2020
   location: Frankfurt, Germany
   dates: "May 6-7, 2020"
   url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
   twitter: GermanTesting
-  status: Early Bird Pricing open until March 13, 2020
+  status: Registration is Open
 
 - name: TestingUY 2020
   location: Montevideo, Uruguay
@@ -258,7 +258,7 @@
   dates: "May 28-29, 2020"
   url: https://ti.to/mot/testbash-netherlands-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird Pricing is Open until April 3, 2020
+  status: Early Bird Pricing is Open until May 29, 2020
 
 - name: Nordic Testing Days 2020
   location: Talinn, Estonia
@@ -422,14 +422,14 @@
   dates: "September 30-October 1, 2020"
   url: https://www.ministryoftesting.com/events/testbash-manchester-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until February 22nd, 2020. Blind bird on sale.
+  status: Blind bird on sale
 
 - name: Test.bash(); Manchester
   location: Manchester, UK
   dates: "October 2, 2020"
   url: https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until February 22nd, 2020. Blind bird on sale.
+  status: Blind bird on sale
 
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
