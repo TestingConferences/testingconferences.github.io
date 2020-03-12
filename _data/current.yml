@@ -121,9 +121,9 @@
 
 - name: BCS SIGIST DevOps and Testing
   location: London, UK
-  dates: "March 31st, 2020"
+  dates: "March 31, 2020"
   url: https://www.eventbrite.co.uk/e/devops-testing-software-testing-sg-sigist-tickets-96417552495
-  twitter: @SIGiST
+  twitter: SIGiST
   status: Registration is Open
 
 - name: STPCon Spring 2020
