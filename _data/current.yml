@@ -1,9 +1,3 @@
-- name: The QA Financial Forum London 2020
-  location: London, UK
-  dates: "March 12, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: ICSTM 2020 - International Conference on Software Testing Methods
   location: Miami, FL, USA
   dates: "March 12-13, 2020"
@@ -51,9 +45,9 @@
 - name: TestBash Brighton 2020
   location: Brighton, UK
   dates: "March 26-27, 2020"
-  url: https://ti.to/mot/testbash-brighton-2020?source=testingconferences
+  url: https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open
+  status: Cancelled
 
 - name: QA & TEST Safety and Security 2020
   location: Madrid, Spain
@@ -258,7 +252,7 @@
   dates: "June 3-5, 2020"
   url: https://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
-  status: Early Bird Pricing is Open
+  status: Cancelled
   
 - name: ICTSS 2020 - International Conference on Testing Software and Systems
   location: New York, NY, USA
@@ -269,12 +263,6 @@
   location: New York, NY, USA
   dates: "June 4-5, 2020"
   url: https://waset.org/software-integration-and-component-testing-conference-in-june-2020-in-new-york?utm_source=testingconferences
-
-- name: Italian Software Testing Forum
-  location: Milan, Italy
-  dates: "June 8-10, 2020"
-  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
-  status: CFP is Open until January 31, 2020
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
@@ -506,6 +494,12 @@
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
   status: Early Bird pricing ends on May 31, 2020
+
+- name: Italian Software Testing Forum
+  location: Milan, Italy
+  dates: "November 9-11, 2020"
+  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
+  status: Registration is Open. Date changed
 
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany

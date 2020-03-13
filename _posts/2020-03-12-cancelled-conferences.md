@@ -26,10 +26,16 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [Testingstage](https://testingstage.com/?utm_source=testingconferences) moved to May 21-23 2020. 
 - [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) moved to September 12, 2020. 
 - [Test & Quality Summit 2020](https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral) moved to October, 21, 2020. 
+- [ Italian Software Testing Forum](https://www.swtestingforum.org/index.php/?utm_source=testingconferences) moved to November 9-11, 2020. 
 
 ### Canceled this year:
 
+- [Nordic Testing Days](https://nordictestingdays.eu/?utm_source=testingconferences)
 - [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences)
-- [TestBash Detroit 2020](https://ti.to/mot/testbash-detroit-2020?source=testingconferences)
+- [TestBash Brighton 2020](https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences)
+- [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
+
+Last Updated: 3/13/2020
+
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)

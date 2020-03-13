@@ -1,3 +1,9 @@
+- name: The QA Financial Forum London 2020
+  location: London, UK
+  dates: "March 12, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: JaSST'20 Tokyo
   location: Tokyo, Japan
   dates: "March 9-10, 2020"
