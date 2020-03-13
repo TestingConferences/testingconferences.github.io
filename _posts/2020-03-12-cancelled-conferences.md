@@ -23,10 +23,14 @@ Conferences all over the world are being canceled or postponed as companies and 
 ### Changes this year:
 
 - [SmartBear Connect 2020](https://smartbear.com/connect/?utm_source=testingconferences) is now an online conference. April 27-28, 2020.
-- [Testingstage](https://testingstage.com/?utm_source=testingconferences) moved to May 21-23 2020. 
-- [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) moved to September 12, 2020. 
-- [Test & Quality Summit 2020](https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral) moved to October, 21, 2020. 
-- [ Italian Software Testing Forum](https://www.swtestingforum.org/index.php/?utm_source=testingconferences) moved to November 9-11, 2020. 
+- [Testingstage](https://testingstage.com/?utm_source=testingconferences) postponed to May 21-23 2020. 
+- [IEEE International Conference on AI Testing 2020](http://www.ieeeaitests.com/?utm_source=testingconferences) postponed to Summer 2020. TBD. 
+- [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) postponed to September 12, 2020. 
+- [Test & Quality Summit 2020](https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral) postponed to October, 21, 2020. 
+- [TAIC PART 2020](http://www2020.taicpart.org/?utm_source=testingconferences) postponed to October 24, 2020. 
+- [IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020](https://icst2020.info/?utm_source=testingconferences) postponed to October 24-28, 2020. 
+- [InSTA 2020 - International Workshop on Software Test Architecture](http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences) postponed to October 28, 2020. 
+- [ Italian Software Testing Forum](https://www.swtestingforum.org/index.php/?utm_source=testingconferences) postponed to November 9-11, 2020. 
 
 ### Canceled this year:
 
