@@ -14,6 +14,7 @@ social:
     - https://twitter.com/ckenst
     - https://www.linkedin.com/in/ckenst
     - https://github.com/ckenst
+last_modified_at:   2020-03-17 11:43:44
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -41,7 +42,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [TestBash Brighton 2020](https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences)
 - [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
 
-Last Updated: 3/13/2020
+Last Updated: 3/17/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
