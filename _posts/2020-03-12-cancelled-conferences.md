@@ -22,7 +22,9 @@ Conferences all over the world are being canceled or postponed as companies and 
 
 ### Changes this year:
 
+- [SauceCon 2020](https://saucecon.com/?utm_source=testingconferences) is being postponed but no date has been announced. 
 - [SmartBear Connect 2020](https://smartbear.com/connect/?utm_source=testingconferences) is now an online conference. April 27-28, 2020.
+- [Accelerate San Francisco 2020](https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences) is now an online conference for 1 day. April 29, 2020. 
 - [Testingstage](https://testingstage.com/?utm_source=testingconferences) postponed to May 21-23 2020. 
 - [IEEE International Conference on AI Testing 2020](http://www.ieeeaitests.com/?utm_source=testingconferences) postponed to Summer 2020. TBD. 
 - [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) postponed to September 12, 2020. 
