@@ -43,7 +43,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [TestBash Brighton 2020](https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences)
 - [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
 
-**Last Updated**: 3/17/2020
+**Last Updated**: 3/23/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
