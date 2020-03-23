@@ -1,3 +1,16 @@
+- name: SQA Days EU - 2 2020
+  location: Warsaw, Poland
+  dates: "March 20-21, 2020"
+  url: https://sqadays.eu/?utm_source=testingconferences
+  twitter: sqadays
+
+- name: Odyssey Online Testing Conference
+  location: Online
+  dates: "March 19-20, 2020"
+  url: https://odyssey.kobiton.com?utm_source=testingconferences
+  twitter: kobitonmobile
+  video_url: tbd
+
 - name: ICSTM 2020 - International Conference on Software Testing Methods
   location: Miami, FL, USA
   dates: "March 12-13, 2020"
