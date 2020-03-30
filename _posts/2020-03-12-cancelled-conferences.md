@@ -14,7 +14,7 @@ social:
     - https://twitter.com/ckenst
     - https://www.linkedin.com/in/ckenst
     - https://github.com/ckenst
-last_modified_at:   2020-03-23 12:01:22
+last_modified_at:   2020-03-30 12:01:22
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -28,7 +28,11 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [Accelerate San Francisco 2020](https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences) is now an online conference for 1 day. April 29, 2020. 
 - [Testingstage](https://testingstage.com/?utm_source=testingconferences) postponed to May 21-23 2020. 
 - [IEEE International Conference on AI Testing 2020](http://www.ieeeaitests.com/?utm_source=testingconferences) postponed to Summer 2020. TBD. 
+- [Heisenbug 2020 Piter](https://heisenbug-piter.ru/?utm_source=testingconferences) postponed to June 14-15, 2020. 
+- [SAEC Days 2020](https://www.saec-days.de/home.html?utm_source=testingconferences) postponed to July 21-23, 2020. 
 - [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) postponed to September 12, 2020. 
+- [TestCon Moscow 2020](https://testconf.ru/en-cfp/?utm_source=testingconferences) postponed to September 15-17, 2020.
+- [TestIstanbul 2020](https://testistanbul.org/?utm_source=testingconferences) postponed to October 6, 2020. 
 - [TestBash Netherlands 2020](https://ti.to/mot/testbash-netherlands-2020?source=testingconferences) postponed to October 15-16, 2020. 
 - [Test & Quality Summit 2020](https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral) postponed to October, 21, 2020. 
 - [TAIC PART 2020](http://www2020.taicpart.org/?utm_source=testingconferences) postponed to October 24, 2020. 
@@ -38,12 +42,14 @@ Conferences all over the world are being canceled or postponed as companies and 
 
 ### Canceled this year:
 
+- [EPIC Experience](https://epic.techwell.com/?source=testingconferences)
 - [Nordic Testing Days](https://nordictestingdays.eu/?utm_source=testingconferences)
+- [Red Hat Open TestCon](https://opentestcon.org/?utm_source=testingconferences)
 - [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences)
 - [TestBash Brighton 2020](https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences)
 - [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
 
-**Last Updated**: 3/23/2020
+**Last Updated**: 3/30/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)

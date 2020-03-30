@@ -1,38 +1,11 @@
-- name: Agile Testing & Test Automation Conference - London
-  location: London, England, UK
-  dates: "March 23, 2020"
-  url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
-  status: Registration is Open
-  
-- name: Ankara Testing Days 2020
-  location: Ankara, Turkey
-  dates: "March 24, 2020"
-  url: https://ankaratestingdays.com/?utm_source=testingconferences
-  twitter: AnkaraTD
-  status: Registration is Open
-
-- name: TestBash Brighton 2020
-  location: Brighton, UK
-  dates: "March 26-27, 2020"
-  url: https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences
-  twitter: ministryoftest
-  status: Cancelled
-
-- name: QA & TEST Safety and Security 2020
-  location: Madrid, Spain
-  dates: "March 26-27, 2020"
-  url: https://www.qatest.org/bienvenida-safsec/?utm_source=testingconferences
-  twitter: QATestBilbao
-  status: Announced
-
 - name: Red Hat Open TestCon
   location: Beijing, China
   dates: "March 30-31, 2020"
   url: https://opentestcon.org/?utm_source=testingconferences
-  status: Registration is Open & Free
+  status: Canceled
 
 - name: BCS SIGIST DevOps and Testing
-  location: London, UK
+  location: Online
   dates: "March 31, 2020"
   url: https://www.eventbrite.co.uk/e/devops-testing-software-testing-sg-sigist-tickets-96417552495
   twitter: SIGiST
@@ -44,12 +17,6 @@
   url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
   status: Cancelled
-  
-- name: TestCon Moscow 2020
-  location: Moscow, Russia
-  dates: "March 31-April 2, 2020"
-  url: https://testconf.ru/en-cfp/?utm_source=testingconferences
-  status: Registration is Open
 
 - name: The QA Financial Forum Chicago 2020
   location: Chicago, IL, USA
@@ -62,31 +29,12 @@
   dates: "April 8-9, 2020"
   url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
 
-- name: Heisenbug 2020 Piter
-  location: St. Petersberg, Russia
-  dates: "April 8-9, 2020"
-  url: https://heisenbug-piter.ru/?utm_source=testingconferences
-  twitter: HeisenbugConf
-
 - name: EPIC Experience
   location: San Diego, CA, USA
   dates: "April 19-23, 2020"
   url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
-  status: Early Bird is Open until March 20, 2020
-
-- name: TestIstanbul 2020
-  location: Istanbul, Turkey
-  dates: "April 21, 2020"
-  url: https://testistanbul.org/?utm_source=testingconferences
-  twitter: testistanbul 
-  status: Registration is Open
-
-- name: SAEC Days 2020
-  location: Munich, Germany
-  dates: "April 21-23, 2020"
-  url: https://www.saec-days.de/home.html?utm_source=testingconferences
-  status: Registration is Open
+  status: Canceled
 
 - name: TestBash Detroit 2020
   location: Detroit, MI, USA
@@ -236,6 +184,13 @@
   twitter: WetestA
   status: Early Bird Registration is Open until March 31, 2020
 
+- name: Heisenbug 2020 Piter
+  location: St. Petersberg, Russia
+  dates: "June 14-15, 2020"
+  url: https://heisenbug-piter.ru/?utm_source=testingconferences
+  twitter: HeisenbugConf
+  status: Registration is Open
+
 - name: expo:QA 20
   location: Madrid, Spain
   dates: "June 15-17, 2020"
@@ -312,6 +267,12 @@
   url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
   twitter: issta_conf
 
+- name: SAEC Days 2020
+  location: Munich, Germany
+  dates: "July 21-23, 2020"
+  url: https://www.saec-days.de/home.html?utm_source=testingconferences
+  status: Registration is Open
+
 - name: ICSTRA 2020 - International Conference on Security Testing and Risk Assessment
   location: London, UK
   dates: "July 23-24, 2020"
@@ -344,6 +305,12 @@
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
   status: Registration is Open
+
+- name: TestCon Moscow 2020
+  location: Moscow, Russia
+  dates: "September 15-17, 2020"
+  url: https://testconf.ru/en-cfp/?utm_source=testingconferences
+  status: Registration is Open
   
 - name: Targeting Quality (KWSQA) 2020
   location: Cambridge, ON Canada
@@ -369,13 +336,6 @@
   twitter: ministryoftest
   status: Blind bird on sale
 
-- name: Test.bash(); Manchester
-  location: Manchester, UK
-  dates: "October 2, 2020"
-  url: https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences
-  twitter: ministryoftest
-  status: Blind bird on sale
-
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
   dates: "October 1-2, 2020"
@@ -383,12 +343,26 @@
   twitter: SEETESTConf
   status: Early Bird Registration is Open until July 15, 2020
 
+- name: Test.bash(); Manchester
+  location: Manchester, UK
+  dates: "October 2, 2020"
+  url: https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences
+  twitter: ministryoftest
+  status: Blind bird on sale
+
 - name: STARWEST 2020
   location: Anaheim, CA, USA
   dates: "October 4-9, 2020"
   url: https://starwest.techwell.com/speaker-submission-form-starwest-2020/?utm_source=testingconferences
   twitter: techwell
   status: Super Early Bird Registration is Open until August 7, 2020
+
+- name: TestIstanbul 2020
+  location: Istanbul, Turkey
+  dates: "October 6, 2020"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul 
+  status: Registration is Open
 
 - name: The QA Financial Forum Paris 2020
   location: Paris, FR

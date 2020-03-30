@@ -1,3 +1,26 @@
+- name: QA & TEST Safety and Security 2020
+  location: Madrid, Spain
+  dates: "March 26-27, 2020"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+
+- name: TestBash Brighton 2020
+  location: Brighton, UK
+  dates: "March 26-27, 2020"
+  url: https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences
+  twitter: ministryoftest
+
+- name: Ankara Testing Days 2020
+  location: Ankara, Turkey
+  dates: "March 24, 2020"
+  url: https://ankaratestingdays.com/?utm_source=testingconferences
+  twitter: AnkaraTD
+
+- name: Agile Testing & Test Automation Conference - London
+  location: London, England, UK
+  dates: "March 23, 2020"
+  url: https://www.townscript.com/e/agile-testing-test-automation-conference-london-243433
+
 - name: SQA Days EU - 2 2020
   location: Warsaw, Poland
   dates: "March 20-21, 2020"
