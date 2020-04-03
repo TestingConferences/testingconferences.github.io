@@ -3,7 +3,7 @@
   dates: "April 19-23, 2020"
   url: https://epic.techwell.com/?source=testingconferences
   twitter: techwell
-  status: Canceled
+  status: Cancelled
 
 - name: TestBash Detroit 2020
   location: Detroit, MI, USA
@@ -22,7 +22,7 @@
   dates: "April 24, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-philadelphia-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open until March 24, 2020
+  status: Registration is Open
 
 - name: SmartBear Connect 2020
   location: Online
@@ -30,13 +30,6 @@
   url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
   status: Registration is Open & Free
-
-- name: SauceCon 2020
-  location: Austin, TX, USA
-  dates: "April 27-29, 2020"
-  url: https://saucecon.com/?utm_source=testingconferences
-  twitter: saucelabs
-  status: Being Rescheduled. TBA 
 
 - name: Test Automation and Digital QA Summit 2020 - New Jersey
   location: Newark, NJ, USA
@@ -57,46 +50,34 @@
   dates: "May 1, 2020"
   url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-washington-d-c-2020/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open
+  status: Registration is Open
  
 - name: STAREAST 2020
-  location: Orlando, Fl, USA
-  dates: "May 3-8, 2020"
+  location: Online
+  dates: "May 4-7, 2020"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Pricing is Open until March 20, 2020
-
-- name: German Testing Day 2020
-  location: Frankfurt, Germany
-  dates: "May 6-7, 2020"
-  url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
-  twitter: GermanTesting
-  status: Registration is Open
+  status: Registration is Open with a Free Option
 
 - name: TestingUY 2020
   location: Montevideo, Uruguay
   dates: "May 11-12, 2020"
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
-
-- name: SQA Days - 27 2020
-  location: Moscow, Russia
-  dates: "May 15-16, 2020"
-  url: https://sqadays.com/en/index?utm_source=testingconferences
-  twitter: sqadays
+  status: Postponed. TBD
 
 - name: Tesena Fest Brno 2020
   location: Brno, Czech Republic
   dates: "May 19, 2020"
-  url: https://www.tesena.com/tesena-fest-brno-2020/?utm_source=testingconferences
-  status: CFP is Open
+  url: https://www.tesena.com/tesena-fest/?utm_source=testingconferences
+  status: Cancelled
   
 - name: OnlineTestConf 2020
   location: Online
   dates: "May 19-20, 2020"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Registration is Open & Free, CFP is Open until April 3, 2020
+  status: Registration is Open & Free
 
 - name: ICSSTA 2020 - International Conference on Software System Testing and Applications
   location: London, UK
@@ -108,13 +89,6 @@
   dates: "May 21-23 2020"
   url: https://testingstage.com/?utm_source=testingconferences
   status: Registration is Open
-
-- name: National Software Testing Conference 2020
-  location: London, England
-  dates: "May 27-28, 2020"
-  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
-  twitter: testmagazine
-  status: Registration is open
 
 - name: Nordic Testing Days 2020
   location: Talinn, Estonia
@@ -132,6 +106,13 @@
   location: New York, NY, USA
   dates: "June 4-5, 2020"
   url: https://waset.org/software-integration-and-component-testing-conference-in-june-2020-in-new-york?utm_source=testingconferences
+
+- name: National Software Testing Conference 2020
+  location: London, England
+  dates: "June 9-10, 2020"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Early Bird Registration is open
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
@@ -220,11 +201,6 @@
   dates: "June 29-30, 2020"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2020-in-london?utm_source=testingconferences
 
-- name: IEEE International Conference on AI Testing 2020
-  location: Oxford, UK
-  dates: "Summer 2020 - TBA"
-  url: http://www.ieeeaitests.com/?utm_source=testingconferences
-
 - name: TestCon 2020 Bangalore
   location: Bangalore, India
   dates: "July 1-3, 2020"
@@ -261,6 +237,11 @@
   twitter: AST_News
   status: Early Bird Pricing is Open
 
+- name: IEEE International Conference on AI Testing (AI Test) 2020
+  location: Oxford, UK
+  dates: "August 3-6, 2020"
+  url: http://www.ieeeaitests.com/?utm_source=testingconferences
+
 - name: Swiss Testing Day
   location: Zürich, Switzerland
   dates: "August 26, 2020"
@@ -272,6 +253,13 @@
   location: Montrouge, France
   dates: "September 1, 2020"
   url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: German Testing Day 2020
+  location: Frankfurt, Germany
+  dates: "September 1-2, 2020"
+  url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
+  twitter: GermanTesting
   status: Registration is Open
 
 - name: QA Challenge Accepted 6.0
@@ -369,7 +357,7 @@
   dates: "October 18 - October 20, 2020"
   url: http://lets-test.com/?page_id=5881
   twitter: lets_test
-  status: CFP is Open until April 5th, 2020. Early bird on sale.
+  status: Registration is Open
 
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
@@ -424,6 +412,12 @@
   twitter: testing_united
   status: Early Bird pricing ends on May 31, 2020
 
+- name: SQA Days - 27 2020
+  location: Moscow, Russia
+  dates: "November 6-7, 2020"
+  url: https://sqadays.com/en/index?utm_source=testingconferences
+  twitter: sqadays
+
 - name: Italian Software Testing Forum
   location: Milan, Italy
   dates: "November 9-11, 2020"
@@ -473,6 +467,13 @@
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/tesena-fest-prague-2020/
+
+- name: SauceCon 2020
+  location: Austin, TX, USA
+  dates: TBD
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+  status: Being Rescheduled, date is TBD
   
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
