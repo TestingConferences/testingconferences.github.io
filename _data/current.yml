@@ -1,34 +1,3 @@
-- name: Red Hat Open TestCon
-  location: Beijing, China
-  dates: "March 30-31, 2020"
-  url: https://opentestcon.org/?utm_source=testingconferences
-  status: Canceled
-
-- name: BCS SIGIST DevOps and Testing
-  location: Online
-  dates: "March 31, 2020"
-  url: https://www.eventbrite.co.uk/e/devops-testing-software-testing-sg-sigist-tickets-96417552495
-  twitter: SIGiST
-  status: Registration is Open
-
-- name: STPCon Spring 2020
-  location: San Diego, CA, USA
-  dates: "March 30-April 2, 2020"
-  url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
-  twitter: SoftwareTestPro
-  status: Cancelled
-
-- name: The QA Financial Forum Chicago 2020
-  location: Chicago, IL, USA
-  dates: "April 2, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2020?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Journée Française des tests logiciels (JFTL) 2020
-  location: Montrouge, France
-  dates: "April 8-9, 2020"
-  url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
-
 - name: EPIC Experience
   location: San Diego, CA, USA
   dates: "April 19-23, 2020"
@@ -298,7 +267,13 @@
   url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
   twitter: swisstesting
   status: Registration is Open
-  
+
+- name: Journée Française des tests logiciels (JFTL) 2020
+  location: Montrouge, France
+  dates: "September 1, 2020"
+  url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
   dates: "September 12, 2020"

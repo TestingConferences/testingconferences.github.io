@@ -1,3 +1,25 @@
+- name: The QA Financial Forum Chicago 2020
+  location: Chicago, IL, USA
+  dates: "April 2, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2020?utm_source=testingconferences
+
+- name: STPCon Spring 2020
+  location: San Diego, CA, USA
+  dates: "March 30-April 2, 2020"
+  url: https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+
+- name: BCS SIGIST DevOps and Testing
+  location: Online
+  dates: "March 31, 2020"
+  url: https://www.eventbrite.co.uk/e/devops-testing-software-testing-sg-sigist-tickets-96417552495
+  twitter: SIGiST
+
+- name: Red Hat Open TestCon
+  location: Beijing, China
+  dates: "March 30-31, 2020"
+  url: https://opentestcon.org/?utm_source=testingconferences
+
 - name: QA & TEST Safety and Security 2020
   location: Madrid, Spain
   dates: "March 26-27, 2020"
