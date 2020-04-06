@@ -44,6 +44,13 @@
   url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
   twitter: Tricentis
   status: Registration is Open & Free 
+  
+- name: TestBash Home 2020
+  location: Online
+  dates: "April 30 - May 1, 2020"
+  url: https://ti.to/mot/testbash-home-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open
 
 - name: Test Automation and Digital QA Summit 2020 - Washington DC
   location: Arlington, VA, USA
@@ -188,13 +195,6 @@
   url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
   twitter: CambsTestConf
   status:  Registration Open & Free
-
-- name: TestBashX Edinburgh 2020
-  location: Edinburgh, UK
-  dates: "June 26, 2020"
-  url: https://ti.to/mot/testbashx-edinburgh-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open & Free for Pro MoT members
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
@@ -398,6 +398,13 @@
   url: http://qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
   status: Announced
+  
+- name: TestBashX Edinburgh 2020
+  location: Edinburgh, UK
+  dates: "October 30, 2020"
+  url: https://ti.to/mot/testbashx-edinburgh-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open & Free for Pro MoT members
 
 - name: Heisenbug 2020 Moscow
   location: Moscow, Russia
