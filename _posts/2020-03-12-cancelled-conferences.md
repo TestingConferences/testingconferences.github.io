@@ -14,7 +14,7 @@ social:
     - https://twitter.com/ckenst
     - https://www.linkedin.com/in/ckenst
     - https://github.com/ckenst
-last_modified_at:   2020-04-03 12:01:22
+last_modified_at:   2020-04-07 12:18:18
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -34,6 +34,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [IEEE International Conference on AI Testing 2020](http://www.ieeeaitests.com/?utm_source=testingconferences) postponed to August 3-4, 2020. 
 - [Journée Française des tests logiciels (JFTL) 2020](http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences) postponed to September 1, 2020. 
 - [German Testing Day 2020](https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences) postponed to September 1-2, 2020.
+- [SeleniumConf India 2020](https://2020.seleniumconf.in/?utm_source=testingconference) postponed to September 10-12, 2020. 
 - [QA Challenge Accepted 6.0](https://www.qachallengeaccepted.com/?utm_source=testingconferences) postponed to September 12, 2020. 
 - [TestCon Moscow 2020](https://testconf.ru/en-cfp/?utm_source=testingconferences) postponed to September 15-17, 2020.
 - [TestIstanbul 2020](https://testistanbul.org/?utm_source=testingconferences) postponed to October 6, 2020. 
@@ -56,7 +57,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [TestingUY 2020](http://testinguy.org?utm_source=testingconferences)
 - [Tesena Fest Brno 2020](https://www.tesena.com/tesena-fest/?utm_source=testingconferences)
 
-**Last Updated**: 4/03/2020
+**Last Updated**: 4/07/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
