@@ -55,9 +55,8 @@ Pricing is based on the per thousand sessions for your given month and depends o
     <td>December 2020</td>
     <td>TBD</td>
   </tr>
-    <tr>
     <td>January 2021</td>
-    <td>TBD/td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>February 2020</td>
