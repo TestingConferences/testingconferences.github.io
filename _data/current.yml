@@ -72,6 +72,13 @@
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
   status: Postponed. TBD
+ 
+- name: SauceCon Online 2020
+  location: Online
+  dates: "May 12 & May 14, 2020"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+  status: Registration is Open and Free
 
 - name: Tesena Fest Brno 2020
   location: Brno, Czech Republic
@@ -483,13 +490,6 @@
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/tesena-fest-prague-2020/
-
-- name: SauceCon 2020
-  location: Austin, TX, USA
-  dates: TBD
-  url: https://saucecon.com/?utm_source=testingconferences
-  twitter: saucelabs
-  status: Being Rescheduled, date is TBD
   
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK

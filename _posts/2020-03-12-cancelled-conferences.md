@@ -14,7 +14,7 @@ social:
     - https://twitter.com/ckenst
     - https://www.linkedin.com/in/ckenst
     - https://github.com/ckenst
-last_modified_at:   2020-04-07 12:18:18
+last_modified_at:   2020-04-09 12:18:18
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -26,6 +26,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [SauceCon 2020](https://saucecon.com/?utm_source=testingconferences) is being postponed but no date has been announced. 
 - [SmartBear Connect 2020](https://smartbear.com/connect/?utm_source=testingconferences) is now an online conference. April 27-28, 2020.
 - [Accelerate San Francisco 2020](https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences) is now an online conference for 1 day. April 29, 2020. 
+- [SauceCon Online 2020](https://saucecon.com/?utm_source=testingconferences) is now an online conference for 2 days, 1 day for the US and 1 day for Europe. May 12th and May 14, 2020. 
 - [STAREAST 2020](https://stareast.techwell.com/?utm_source=testingconferences) is now an onlline conference.
 - [Testingstage](https://testingstage.com/?utm_source=testingconferences) postponed to May 21-23 2020. 
 - [National Software Testing Conference 2020](http://www.softwaretestingconference.com/?utm_source=testingconferences) postponed to June 9-10, 2020. 
@@ -57,7 +58,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [TestingUY 2020](http://testinguy.org?utm_source=testingconferences)
 - [Tesena Fest Brno 2020](https://www.tesena.com/tesena-fest/?utm_source=testingconferences)
 
-**Last Updated**: 4/07/2020
+**Last Updated**: 4/09/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
