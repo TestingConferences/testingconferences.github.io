@@ -21,7 +21,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
 <table style="width:50%" align="center">
   <tr>
     <td>April 2020</td>
-    <td>Reserved</td>
+    <td>STAREAST Virtual</td>
   </tr>
   <tr>
     <td>May 2020</td>
