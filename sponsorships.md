@@ -59,11 +59,11 @@ Pricing is based on the per thousand sessions for your given month and depends o
     <td>TBD</td>
   </tr>
   <tr>
-    <td>February 2020</td>
+    <td>February 2021</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>March 2020</td>
+    <td>March 2021</td>
     <td>TBD</td>
   </tr>
 </table>
