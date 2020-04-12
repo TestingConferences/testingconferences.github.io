@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /sponsorships/
-last_modified_at:   2020-02-22 08:49:00
+last_modified_at:   2020-04-11 23:53:00
 ---
 
 **Sponsoring Us**
 
 As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will allow us to bring in other people (professionals) to help design and make the site better over all.
 
-_One day we hope to have free stickers for anyone who wants them_
+_One day we hope to have free swag for anyone who wants it!_
 
 **What comes with Sponsorship?**
 
@@ -55,6 +55,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
     <td>December 2020</td>
     <td>TBD</td>
   </tr>
+  <tr>
     <td>January 2021</td>
     <td>TBD</td>
   </tr>
