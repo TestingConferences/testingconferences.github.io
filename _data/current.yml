@@ -71,7 +71,7 @@
   dates: "May 11-12, 2020"
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
-  status: Postponed. TBD
+  status: Cancelled
  
 - name: SauceCon Online 2020
   location: Online
@@ -88,7 +88,7 @@
   
 - name: OnlineTestConf 2020
   location: Online
-  dates: "May 19-20, 2020"
+  dates: "May 19-21, 2020"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Registration is Open & Free
@@ -126,19 +126,6 @@
   dates: "June 9-10, 2020"
   url: http://www.softwaretestingconference.com/?utm_source=testingconferences
   twitter: testmagazine
-  status: Early Bird Registration is open
-
-- name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
-  location: London, UK
-  dates: "June 10, 2020"
-  url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Romanian Testing Conference
-  location: Cluj-Napoca, Romania
-  dates: "June 10-12, 2020"
-  url: https://www.romaniatesting.ro?utm_source=testingconferences
-  twitter: romaniatesting
   status: Registration is Open
 
 - name: WeTest.Athens 2020
@@ -146,7 +133,7 @@
   dates: "June 12, 2020"
   url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
-  status: Early Bird Registration is Open until March 31, 2020
+  status: Registration is Open
 
 - name: Heisenbug 2020 Piter
   location: St. Petersberg, Russia
@@ -166,28 +153,6 @@
   location: New York, NY USA
   dates: "June 15-19, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
-  status: CFP is Open Until March, 15, 2020
-
-- name: Test Automation Days 2020
-  location: Utrecht, Netherlands
-  dates: "June 17-18, 2020"
-  url: https://www.testautomationdays.com?utm_source=testingconferences
-  twitter: testautomationd
-  status: Registration is Open
-  
-- name: Quality Excites 2020
-  location: Gliwice, Poland
-  dates: "June 19-20, 2020"
-  url: https://qualityexcites.pl/en/?utm_source=testingconferences
-  twitter: QualityExcites
-  status: CFP is Open until 8th March 2020
-
-- name: Agile Testing Days USA 2020
-  location: Chicago, IL, USA
-  dates: "June 21-25, 2020"
-  url: https://agiletestingdays.us/?utm_source=testingconferences
-  twitter: AgileTDUSA
-  status: Super Early Bird Registration is Open until March 31, 2020
   
 - name: Cambridgeshire Test Conference 2020
   location: Cambridge, UK
@@ -290,6 +255,13 @@
   twitter: kwsqa
   status: CFP is Open until April 26, 2020
 
+- name: Test Automation Days 2020
+  location: Utrecht, Netherlands
+  dates: "September 22-23, 2020"
+  url: https://www.testautomationdays.com?utm_source=testingconferences
+  twitter: testautomationd
+  status: Registration is Open
+
 - name: TACON 2020
   location: Leipzig, Germany
   dates: "September 22-24, 2020"
@@ -299,6 +271,13 @@
   location: London, UK
   dates: "September 24-25, 2020"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
+
+- name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "September 28-30, 2020"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+  status: Registration is on Hold
 
 - name: TestBash Manchester
   location: Manchester, UK
@@ -387,6 +366,12 @@
   dates: "October 22-23, 2020"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2020-in-london/?utm_source=testingconferences
 
+- name: Quality Excites 2020
+  location: Gliwice, Poland
+  dates: "October 23-24, 2020"
+  url: https://qualityexcites.pl/en/?utm_source=testingconferences
+  twitter: QualityExcites
+
 - name: TAIC PART 2020
   location: Porto, Portugal
   dates: "October 24, 2020"
@@ -459,7 +444,7 @@
   dates: "November 16-17, 2020"
   url: https://www.ministryoftesting.com/events/testbash-new-zealand-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until March 21st, 2020. Blind bird on sale.
+  status: Blind bird on sale.
 
 - name: EuroSTAR Software Testing Conference 2020
   location: Antwerp, Belgium
@@ -490,7 +475,13 @@
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/tesena-fest-prague-2020/
-  
+
+- name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
+  location: London, UK
+  dates: "December 9, 2020"
+  url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
+  status: Registration is Open
+
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
   dates: "January 21-22, 2021"
@@ -525,6 +516,13 @@
   dates: "May 24-25, 2021"
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
   status: CFP is Open until December 30, 2020
+
+- name: Agile Testing Days USA 2021
+  location: Chicago, IL, USA
+  dates: "June 20-24, 2021"
+  url: https://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+  status: Super Early Bird Registration ends March 31, 2021
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
