@@ -453,6 +453,12 @@
   twitter: esconfs
   status: Super Early Bird Pricing is Open until April 22, 2020.
 
+- name: ConTEST NYC 2020
+  location: New York, NY, USA
+  dates: "November 16-20, 2020"
+  url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
+  twitter: TestMastersAcad
+
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
   dates: "November 18, 2020"
