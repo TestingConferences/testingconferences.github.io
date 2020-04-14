@@ -300,12 +300,18 @@
   right: 0;
   background: springgreen;
   color: black;
+  a {
+      color: blue;
+  };
   text-align: center;
   line-height: 2.5;
+  font-weight: normal;
   overflow: hidden;
   -webkit-box-shadow: 0 0 5px black;
   -moz-box-shadow:    0 0 5px black;
   box-shadow:         0 0 5px black;
+  padding-left: 10px;
+  padding-right: 25px;
 }
 
 #close {
