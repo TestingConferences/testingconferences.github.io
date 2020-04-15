@@ -86,6 +86,13 @@
   url: https://www.tesena.com/tesena-fest/?utm_source=testingconferences
   status: Cancelled
   
+- name: TestingCup 2020 (TC20)
+  location: Online
+  dates: "May 20, 2020"
+  url: http://testingcup.pl/2020/
+  twitter: TestingCup
+  status: Registration is open 
+  
 - name: OnlineTestConf 2020
   location: Online
   dates: "May 19-21, 2020"
@@ -382,6 +389,13 @@
   dates: "October 24-28, 2020"
   url: https://icst2020.info/?utm_source=testingconferences
   status: Registration is Open  
+
+- name: Agile & Automation Days 2020 (AADays)
+  location: Poznan, Poland
+  dates: "October 26-27, 2020"
+  url: http://aadays.pl/
+  twitter: AADaysPoland
+  status: CFP is open / Registration is open
 
 - name: InSTA 2020 - International Workshop on Software Test Architecture
   location: Porto, Portugal
