@@ -106,9 +106,16 @@
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
 
 - name: Testingstage
-  location: Kyiv, Ukraine
+  location: Online
   dates: "May 21-23 2020"
   url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: PerfGuild Online Conference 2020
+  location: Online
+  dates: "June 1-2, 2020"
+  url: https://guildconferences.com/conferences/perfguild-2020/?utm_source=testinconferences
+  twitter: testguilds
   status: Registration is Open
 
 - name: Nordic Testing Days 2020
@@ -233,6 +240,13 @@
   dates: "September 1-2, 2020"
   url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
   twitter: GermanTesting
+  status: Registration is Open
+
+- name: TestingGuild Online Conference 2020
+  location: Online
+  dates: "September 7-8, 2020"
+  url: https://guildconferences.com/conferences/testingguild-2020/?utm_source=testinconferences
+  twitter: testguilds
   status: Registration is Open
 
 - name: SeleniumConf India 2020
