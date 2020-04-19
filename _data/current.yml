@@ -45,6 +45,13 @@
   twitter: Tricentis
   status: Registration is Open & Free 
   
+- name: Testing Talks Online 2020
+  location: Online
+  dates: "April 30, 2020"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-online/?utm_source=testingconferences
+  twitter: Tricentis
+  status: Registration is Open & Free 
+
 - name: TestBash Home 2020
   location: Online
   dates: "April 30 - May 1, 2020"
@@ -167,6 +174,13 @@
   location: New York, NY USA
   dates: "June 15-19, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
+ 
+- name: 2nd Odyssey Online Testing Conference
+  location: Online
+  dates: "June 24-25, 2020"
+  url: https://odyssey.kobiton.com?utm_source=testingconferences
+  twitter: kobitonmobile
+  status: CFP is Open until April 30, 2020
   
 - name: Cambridgeshire Test Conference 2020
   location: Cambridge, UK
