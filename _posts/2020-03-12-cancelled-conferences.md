@@ -60,6 +60,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
 - [TestingUY 2020](http://testinguy.org?utm_source=testingconferences)
 - [Tesena Fest Brno 2020](https://www.tesena.com/tesena-fest/?utm_source=testingconferences)
+- [Argentesting 2020](https://argentesting.com?utm_source=testingconferences)
 
 **Last Updated**: 4/18/2020
 
