@@ -596,3 +596,9 @@
   location: London, UK
   dates: "October 21-22, 2021"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
+
+- name: Argentesting 2020
+  location: Buenos Aires, Argentina
+  dates: "October, 2020"
+  url: https://argentesting.com?utm_source=testingconferences
+  status: Cancelled
