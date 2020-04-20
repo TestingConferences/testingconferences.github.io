@@ -389,6 +389,12 @@
   twitter: lets_test
   status: Registration is Open
 
+- name: Argentesting 2020
+  location: Buenos Aires, Argentina
+  dates: "October, 2020"
+  url: https://argentesting.com?utm_source=testingconferences
+  status: Cancelled
+
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
   dates: "October 21, 2020"
@@ -596,9 +602,3 @@
   location: London, UK
   dates: "October 21-22, 2021"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
-
-- name: Argentesting 2020
-  location: Buenos Aires, Argentina
-  dates: "October, 2020"
-  url: https://argentesting.com?utm_source=testingconferences
-  status: Cancelled
