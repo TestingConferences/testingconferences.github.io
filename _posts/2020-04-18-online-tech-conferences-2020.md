@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A list of Online Software Tech Conferences in 2020"
+title:  "A list of Online Tech Conferences in 2020"
 date:   2020-04-15 14:00:00
 categories: news
 author: Chris Kenst
@@ -23,6 +23,8 @@ The following is a simple list of online software technology conferences and wor
 - [Odyssey Online Testing Conference](https://odyssey.kobiton.com?utm_source=testingconferences). March 19-20, 2020.
 - [LockdownConf 2020](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/?utm_source=testingconferences), April 7-8, 2020.
 - [Remote Work Summit](https://www.theremoteworksummit.com/?utm_source=testingconferences), April 14-16, 2020.
+- [AllTheTalks.online](https://www.allthetalks.org/?utm_source=testingconferences), April 15, 2020. 
+- [TechSkillsDay](https://www.pluralsight.com/techskillsday??utm_source=testingconferences), April 23, 2020. 
 - [SmartBear Connect 2020](https://smartbear.com/connect/?utm_source=testingconferences), April 27-28, 2020.
 - [Accelerate San Francisco 2020](https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences), April 29, 2020.
 - [TestBash Home 2020](https://ti.to/mot/testbash-home-2020?source=testingconferences), April 30 - May 1, 2020.
@@ -31,12 +33,13 @@ The following is a simple list of online software technology conferences and wor
 - [Online Test Conference](https://www.onlinetestconf.com/?utm_source=testingconferences), May 19-20, 2020.
 - [Microsoft Build](https://www.microsoft.com/en-us/build/?utm_source=testingconferences), May 19-21, 2020.
 - [DockerCon 2020 Live](https://www.docker.com/dockercon/?utm_source=testingconferences), May 28, 2020.
-- [PerfGuild Online Conference 2020](https://guildconferences.com/conferences/perfguild-2020/?utm_source=testinconferences), June 1-2, 2020.
-- [Agile and Scrum 2020](https://www.iil.com/agile-and-scrum-conference/?utm_source=testinconferences), June 8-11, 2020.
-- [Agile + DevOps Virtual](https://agiledevopswest.techwell.com/?utm_source=testinconferences), June 8-11, 2020.
-- [Collison From Home](https://collisionconf.com/?utm_source=testinconferences), June 23-24, 2020.
-- [DevOps Enterprise Summit London](https://events.itrevolution.com/eur/?utm_source=testinconferences), June 23-25, 2020.
-- [TestingGuild Online Conference 2020](https://guildconferences.com/conferences/testingguild-2020/?utm_source=testinconferences), Sep 7-8, 2020.
+- [PerfGuild Online Conference 2020](https://guildconferences.com/conferences/perfguild-2020/?utm_source=testingconferences), June 1-2, 2020.
+- [Agile and Scrum 2020](https://www.iil.com/agile-and-scrum-conference/?utm_source=testingconferences), June 8-11, 2020.
+- [Agile + DevOps Virtual](https://agiledevopswest.techwell.com/?utm_source=testingconferences), June 8-11, 2020.
+- [Collison From Home](https://collisionconf.com/?utm_source=testingconferences), June 23-24, 2020.
+- [DevOps Enterprise Summit London](https://events.itrevolution.com/eur/?utm_source=testingconferences), June 23-25, 2020.
+- [Microsoft Ignite](https://www.microsoft.com/en-us/ignite?utm_source=testingconferences)
+- [TestingGuild Online Conference 2020](https://guildconferences.com/conferences/testingguild-2020/?utm_source=testingconferences), Sep 7-8, 2020.
 
 ## About This
 

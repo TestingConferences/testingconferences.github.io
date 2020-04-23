@@ -31,8 +31,8 @@ Here’s a list of the upcoming best conferences you should consider attending i
 6. [STAREAST 2020](https://stareast.techwell.com/?utm_source=testingconferences), May 4-7, 2020.
 7. [SauceCon Online 2020](https://saucecon.com/?utm_source=testingconferences), May 12 & May 14, 2020.
 8. [Online Test Conference](https://www.onlinetestconf.com/?utm_source=testingconferences), May 19-20 2020.
-9. [PerfGuild Online Conference 2020](https://guildconferences.com/conferences/perfguild-2020/?utm_source=testinconferences), June 1-2, 2020.
-10. [TestingGuild Online Conference 2020](https://guildconferences.com/conferences/testingguild-2020/?utm_source=testinconferences), Sep 7-8, 2020.
+9. [PerfGuild Online Conference 2020](https://guildconferences.com/conferences/perfguild-2020/?utm_source=testingconferences), June 1-2, 2020.
+10. [TestingGuild Online Conference 2020](https://guildconferences.com/conferences/testingguild-2020/?utm_source=testingconferences), Sep 7-8, 2020.
 
 
 Most of these conferences are upcoming while a few have already happened. The prices range from free to a few hundred dollars per person, which when considering the cost of travel to most conferences means online conferences tends to be far more reasonably priced. Plus you have access to the videos after the conference ends and can reference them whenever you want.
