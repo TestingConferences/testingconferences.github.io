@@ -1,22 +1,3 @@
-- name: TestBash Detroit 2020
-  location: Detroit, MI, USA
-  dates: "April 23-24, 2020"
-  url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Cancelled
-
-- name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
-  location: Digital
-  dates: "April 23-24, 2020"
-  url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
-
-- name: Test Automation and Digital QA Summit 2020 - Philadelphia
-  location: Philadelphia, PA, USA
-  dates: "April 24, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-philadelphia-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
 - name: SmartBear Connect 2020
   location: Online
   dates: "April 27-28, 2020"
@@ -42,7 +23,6 @@
   location: Online
   dates: "April 30, 2020"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-online/?utm_source=testingconferences
-  twitter: Tricentis
   status: Registration is Open & Free 
 
 - name: TestBash Home 2020
