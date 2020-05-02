@@ -25,7 +25,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>May 2020</td>
-    <td>EuroSTAR 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>June 2020</td>
