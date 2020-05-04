@@ -119,7 +119,14 @@
   dates: "June 25 2020"
   url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
   twitter: CambsTestConf
-  status:  Registration Open & Free
+  status: Registration Open & Free
+
+- name: Tribal Qonf
+  location: Online
+  dates: "June 27-28, 2020"
+  url: https://www.thetesttribe.com/tribalqonf-virtual-2020/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Super Early Bird Registration is Open until May 13, 2020
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
