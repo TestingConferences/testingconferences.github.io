@@ -1,17 +1,3 @@
-- name: TestBash Home 2020
-  location: Online
-  dates: "April 30 - May 1, 2020"
-  url: https://ti.to/mot/testbash-home-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
-- name: Test Automation and Digital QA Summit 2020 - Washington DC
-  location: Arlington, VA, USA
-  dates: "May 1, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-washington-d-c-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
- 
 - name: STAREAST 2020
   location: Online
   dates: "May 4-7, 2020"
