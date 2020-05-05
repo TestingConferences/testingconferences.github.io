@@ -207,7 +207,7 @@
   dates: "September 10-12, 2020"
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
-  status: Registration is Open
+  status: Postponed
 
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
@@ -433,29 +433,23 @@
   twitter: ministryoftest
   status: Blind bird on sale.
 
-- name: EuroSTAR Software Testing Conference 2020
-  location: Antwerp, Belgium
-  dates: "November 16-19, 2020"
-  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  twitter: esconfs
-  status: Super Early Bird Pricing is Open until April 22, 2020.
-
 - name: ConTEST NYC 2020
   location: New York, NY, USA
   dates: "November 16-20, 2020"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
 
+- name: EuroSTAR 2020 Software Testing Conference
+  location: Online
+  dates: "November 17-19, 2020"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Super Early Bird Pricing (Launch Offer) is Open until June 14, 2020.
+
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
-
-- name: SeleniumConf Chicago 2020
-  location: Chicago, IL, USA
-  dates: "November 18-19, 2020"
-  url: https://www.seleniumconf.com/?utm_source=testingconferences
-  status: CFP is Open
 
 - name: Software-QS-Tag 2020
   location: Frankfurt a.M., Germany
