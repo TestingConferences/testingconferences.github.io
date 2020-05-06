@@ -106,7 +106,14 @@
   location: New York, NY USA
   dates: "June 15-19, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
- 
+  status: CFP is Open
+
+- name: The QA Financial Digital Forum
+  location: Online
+  dates: "June 17-18, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-digital-forum-technologies-for-continuous-testing-ai-automation-and-devops?utm_source=testingconferences
+  status: Registration is Open
+  
 - name: 2nd Odyssey Online Testing Conference
   location: Online
   dates: "June 24-25, 2020"
