@@ -1,17 +1,3 @@
-- name: STAREAST 2020
-  location: Online
-  dates: "May 4-7, 2020"
-  url: https://stareast.techwell.com/?utm_source=testingconferences
-  twitter: TechWell
-  status: Registration is Open with a Free Option
-
-- name: TestingUY 2020
-  location: Montevideo, Uruguay
-  dates: "May 11-12, 2020"
-  url: http://testinguy.org?utm_source=testingconferences
-  twitter: testingUY
-  status: Cancelled
- 
 - name: SauceCon Online 2020
   location: Online
   dates: "May 12 & May 14, 2020"

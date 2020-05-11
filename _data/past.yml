@@ -1,3 +1,15 @@
+- name: TestingUY 2020
+  location: Montevideo, Uruguay
+  dates: "May 11-12, 2020"
+  url: http://testinguy.org?utm_source=testingconferences
+  twitter: testingUY
+
+- name: STAREAST 2020
+  location: Online
+  dates: "May 4-7, 2020"
+  url: https://stareast.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+
 - name: Test Automation and Digital QA Summit 2020 - Washington DC
   location: Arlington, VA, USA
   dates: "May 1, 2020"
