@@ -321,9 +321,16 @@
   twitter: lets_test
   status: Registration is Open
 
+- name: Accelerate Vienna 2020
+  location: Online
+  dates: "October 21-22, 2020"
+  url: https://www.tricentis.com/accelerate/vienna/?utm_source=testingconferences
+  twitter: Tricentis
+  status: Registration is not open
+
 - name: Argentesting 2020
   location: Buenos Aires, Argentina
-  dates: "October, 2020"
+  dates: "October 21, 2020"
   url: https://argentesting.com?utm_source=testingconferences
   status: Cancelled
 

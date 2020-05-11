@@ -26,12 +26,14 @@
   location: Online
   dates: "April 30, 2020"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-online/?utm_source=testingconferences
+  video_url: https://www.testingtalks.com.au/presentations/best-of-breed-successful-test-automation-practices-from-innovative-brands?utm_source=testingconferences
 
 - name: Accelerate San Francisco 2020
   location: Online
   dates: "April 29, 2020"
   url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
   twitter: Tricentis
+  video_url: https://www.tricentis.com/accelerate/virtual-highlights/?utm_source=testingconferences
 
 - name: Test Automation and Digital QA Summit 2020 - New Jersey
   location: Newark, NJ, USA
@@ -44,6 +46,7 @@
   dates: "April 27-28, 2020"
   url: https://smartbear.com/connect/?utm_source=testingconferences
   twitter: SmartBear
+  video_url: https://smartbear.com/connect/replay/?utm_source=testingconferences
 
 - name: Test Automation and Digital QA Summit 2020 - Philadelphia
   location: Philadelphia, PA, USA
