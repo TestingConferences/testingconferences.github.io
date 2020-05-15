@@ -20,12 +20,8 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>April 2020</td>
-    <td>STAREAST Virtual</td>
-  </tr>
-  <tr>
     <td>May 2020</td>
-    <td>EuroSTAR 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>June 2020</td>
@@ -37,7 +33,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>August 2020</td>
-    <td>TBD</td>
+    <td>EuroSTAR 2020</td>
   </tr>
   <tr>
     <td>September 2020</td>
@@ -65,6 +61,10 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>March 2021</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>April 2021</td>
     <td>TBD</td>
   </tr>
 </table>

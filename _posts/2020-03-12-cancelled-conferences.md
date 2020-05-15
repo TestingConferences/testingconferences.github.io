@@ -6,15 +6,13 @@ categories: news
 author: Chris Kenst
 permalink: /canceled-software-testing-conferences-2020/
 twitter:
-  username: ckenst
+  username: testconferences
   card: summary
 social:
-  name: Chris Kenst
   links:
-    - https://twitter.com/ckenst
-    - https://www.linkedin.com/in/ckenst
-    - https://github.com/ckenst
-last_modified_at:   2020-04-13 02:18:18
+    - https://twitter.com/testconferences
+    - https://github.com/testingconferences
+last_modified_at:   2020-05-05 13:22:00
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -49,20 +47,25 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [InSTA 2020 - International Workshop on Software Test Architecture](http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences) postponed to October 28, 2020. 
 - [SQA Days - 27 2020](https://sqadays.com/en/index?utm_source=testingconferences) postponed to November 6-7, 2020. 
 - [Italian Software Testing Forum](https://www.swtestingforum.org/index.php/?utm_source=testingconferences) postponed to November 9-11, 2020. 
+- [EuroSTAR 2020 Software Testing Conference](https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences) moved online and now is 1 day shorter, November 17-19, 2020. 
+- [SeleniumConf India 2020](https://2020.seleniumconf.in/?utm_source=testingconferences)
 
 ### Canceled this year:
 
 - [Agile Testing Days USA 2020](https://agiletestingdays.us/?utm_source=testingconferences)
+- [Argentesting 2020](https://argentesting.com?utm_source=testingconferences)
 - [EPIC Experience](https://epic.techwell.com/?source=testingconferences)
 - [Nordic Testing Days](https://nordictestingdays.eu/?utm_source=testingconferences)
 - [Red Hat Open TestCon](https://opentestcon.org/?utm_source=testingconferences)
 - [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences)
 - [TestBash Brighton 2020](https://www.ministryoftesting.com/news/testbash-brighton-2020-is-cancelled?source=testingconferences)
+- [Testing Talks Conference 2020](https://www.testingtalks.com.au/?utm_source=testingconferences)
 - [TestBash Detroit 2020](https://www.ministryoftesting.com/news/testbash-detroit-2020-cancelled?source=testingconferences)
 - [TestingUY 2020](http://testinguy.org?utm_source=testingconferences)
 - [Tesena Fest Brno 2020](https://www.tesena.com/tesena-fest/?utm_source=testingconferences)
 
-**Last Updated**: 4/13/2020
+
+**Last Updated**: 5/5/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)

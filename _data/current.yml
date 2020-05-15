@@ -1,78 +1,3 @@
-- name: EPIC Experience
-  location: San Diego, CA, USA
-  dates: "April 19-23, 2020"
-  url: https://epic.techwell.com/?source=testingconferences
-  twitter: techwell
-  status: Cancelled
-
-- name: TestBash Detroit 2020
-  location: Detroit, MI, USA
-  dates: "April 23-24, 2020"
-  url: https://ti.to/mot/testbash-detroit-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Cancelled
-
-- name: ICSSTQA 2020 - International Conference on Software System Testing and Quality Assurance
-  location: New York, NY, USA
-  dates: "April 23-24, 2020"
-  url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
-
-- name: Test Automation and Digital QA Summit 2020 - Philadelphia
-  location: Philadelphia, PA, USA
-  dates: "April 24, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-philadelphia-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: SmartBear Connect 2020
-  location: Online
-  dates: "April 27-28, 2020"
-  url: https://smartbear.com/connect/?utm_source=testingconferences
-  twitter: SmartBear
-  status: Registration is Open & Free
-
-- name: Test Automation and Digital QA Summit 2020 - New Jersey
-  location: Newark, NJ, USA
-  dates: "April 28, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-jersey-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: Accelerate San Francisco 2020
-  location: Online
-  dates: "April 29, 2020"
-  url: https://www.tricentis.com/accelerate/san-francisco/?utm_source=testingconferences
-  twitter: Tricentis
-  status: Registration is Open & Free 
-  
-- name: TestBash Home 2020
-  location: Online
-  dates: "April 30 - May 1, 2020"
-  url: https://ti.to/mot/testbash-home-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
-- name: Test Automation and Digital QA Summit 2020 - Washington DC
-  location: Arlington, VA, USA
-  dates: "May 1, 2020"
-  url: https://www.testingmind.com/event/test-automation-and-digital-qa-summit-washington-d-c-2020/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
- 
-- name: STAREAST 2020
-  location: Online
-  dates: "May 4-7, 2020"
-  url: https://stareast.techwell.com/?utm_source=testingconferences
-  twitter: TechWell
-  status: Registration is Open with a Free Option
-
-- name: TestingUY 2020
-  location: Montevideo, Uruguay
-  dates: "May 11-12, 2020"
-  url: http://testinguy.org?utm_source=testingconferences
-  twitter: testingUY
-  status: Cancelled
- 
 - name: SauceCon Online 2020
   location: Online
   dates: "May 12 & May 14, 2020"
@@ -89,7 +14,7 @@
 - name: TestingCup 2020 (TC20)
   location: Online
   dates: "May 20, 2020"
-  url: http://testingcup.pl/2020/
+  url: http://testingcup.pl/2020/?utm_source=testingconferences
   twitter: TestingCup
   status: Registration is open 
   
@@ -106,9 +31,16 @@
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
 
 - name: Testingstage
-  location: Kyiv, Ukraine
+  location: Online
   dates: "May 21-23 2020"
   url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: PerfGuild Online Conference 2020
+  location: Online
+  dates: "June 1-2, 2020"
+  url: https://guildconferences.com/conferences/perfguild-2020/?utm_source=testingconferences
+  twitter: testguilds
   status: Registration is Open
 
 - name: Nordic Testing Days 2020
@@ -160,13 +92,34 @@
   location: New York, NY USA
   dates: "June 15-19, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
+  status: CFP is Open
+
+- name: The QA Financial Digital Forum
+  location: Online
+  dates: "June 17-18, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-digital-forum-technologies-for-continuous-testing-ai-automation-and-devops?utm_source=testingconferences
+  status: Registration is Open
+  
+- name: 2nd Odyssey Online Testing Conference
+  location: Online
+  dates: "June 24-25, 2020"
+  url: https://odyssey.kobiton.com?utm_source=testingconferences
+  twitter: kobitonmobile
+  status: CFP is Open until April 30, 2020
   
 - name: Cambridgeshire Test Conference 2020
   location: Cambridge, UK
   dates: "June 25 2020"
   url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
   twitter: CambsTestConf
-  status:  Registration Open & Free
+  status: Registration Open & Free
+
+- name: Tribal Qonf
+  location: Online
+  dates: "June 27-28, 2020"
+  url: https://www.thetesttribe.com/tribalqonf-virtual-2020/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Super Early Bird Registration is Open until May 13, 2020
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: London, UK
@@ -235,12 +188,19 @@
   twitter: GermanTesting
   status: Registration is Open
 
+- name: TestingGuild Online Conference 2020
+  location: Online
+  dates: "September 7-8, 2020"
+  url: https://guildconferences.com/conferences/testingguild-2020/?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration is Open
+
 - name: SeleniumConf India 2020
   location: Bengaluru, India
   dates: "September 10-12, 2020"
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
-  status: Registration is Open
+  status: Postponed
 
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
@@ -338,7 +298,7 @@
   dates: "October 12-14, 2020"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: CFP is Open until April 15, 2020
+  status: CFP is Open until May 3, 2020
 
 - name: Testcon Europe 2020
   location: Vilnius, Lithuania
@@ -357,9 +317,22 @@
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
   dates: "October 18 - October 20, 2020"
-  url: http://lets-test.com/?page_id=5881
+  url: http://lets-test.com/?page_id=5881?utm_source=testingconferences
   twitter: lets_test
   status: Registration is Open
+
+- name: Accelerate Vienna 2020
+  location: Online
+  dates: "October 21-22, 2020"
+  url: https://www.tricentis.com/accelerate/vienna/?utm_source=testingconferences
+  twitter: Tricentis
+  status: Registration is not open
+
+- name: Argentesting 2020
+  location: Buenos Aires, Argentina
+  dates: "October 21, 2020"
+  url: https://argentesting.com?utm_source=testingconferences
+  status: Cancelled
 
 - name: Test & Quality Summit 2020
   location: Dublin, Ireland
@@ -393,7 +366,7 @@
 - name: Agile & Automation Days 2020 (AADays)
   location: Poznan, Poland
   dates: "October 26-27, 2020"
-  url: http://aadays.pl/
+  url: http://aadays.pl/?utm_source=testingconferences
   twitter: AADaysPoland
   status: CFP is open / Registration is open
 
@@ -460,41 +433,35 @@
   twitter: ministryoftest
   status: Blind bird on sale.
 
-- name: EuroSTAR Software Testing Conference 2020
-  location: Antwerp, Belgium
-  dates: "November 16-19, 2020"
-  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  twitter: esconfs
-  status: Super Early Bird Pricing is Open until April 22, 2020.
-
 - name: ConTEST NYC 2020
   location: New York, NY, USA
   dates: "November 16-20, 2020"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
 
+- name: EuroSTAR 2020 Software Testing Conference
+  location: Online
+  dates: "November 17-19, 2020"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Super Early Bird Pricing (Launch Offer) is Open until June 14, 2020.
+
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
-- name: SeleniumConf Chicago 2020
-  location: Chicago, IL, USA
-  dates: "November 18-19, 2020"
-  url: https://www.seleniumconf.com/?utm_source=testingconferences
-  status: CFP is Open
-
 - name: Software-QS-Tag 2020
   location: Frankfurt a.M., Germany
   dates: "November 25-26, 2020"
-  url: https://www.qs-tag.de/en/
+  url: https://www.qs-tag.de/en/?utm_source=testingconferences
   twitter: SoftwareQSTag
   status: CFP is open until April 30, 2020
 
 - name: Tesena Fest Prague 2020
   location: Prague, Czech Republic
   dates: "November 25-26, 2020"
-  url: https://www.tesena.com/tesena-fest-prague-2020/
+  url: https://www.tesena.com/tesena-fest-prague-2020/?utm_source=testingconferences
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
@@ -523,7 +490,7 @@
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
   location: Porto de Galinhas, Pernambuco, Brazil
   dates: "April 12-16, 2021"
-  url: https://icst2021.icmc.usp.br
+  url: https://icst2021.icmc.usp.br?utm_source=testingconferences
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
