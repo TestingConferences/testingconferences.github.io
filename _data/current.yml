@@ -11,13 +11,6 @@
   url: https://www.tesena.com/tesena-fest/?utm_source=testingconferences
   status: Cancelled
   
-- name: TestingCup 2020 (TC20)
-  location: Online
-  dates: "May 20, 2020"
-  url: http://testingcup.pl/2020/?utm_source=testingconferences
-  twitter: TestingCup
-  status: Registration is open 
-  
 - name: OnlineTestConf 2020
   location: Online
   dates: "May 19-21, 2020"
@@ -94,6 +87,13 @@
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
   status: CFP is Open
 
+- name: TestingCup 2020 (TC20)
+  location: Online
+  dates: "June 17, 2020"
+  url: http://testingcup.pl/2020/?utm_source=testingconferences
+  twitter: TestingCup
+  status: Registration is open 
+  
 - name: The QA Financial Digital Forum
   location: Online
   dates: "June 17-18, 2020"
