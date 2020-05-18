@@ -1,3 +1,15 @@
+- name: Tesena Fest Brno 2020
+  location: Brno, Czech Republic
+  dates: "May 19, 2020"
+  url: https://www.tesena.com/tesena-fest/?utm_source=testingconferences
+  status: Cancelled
+
+- name: SauceCon Online 2020
+  location: Online
+  dates: "May 12 & May 14, 2020"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
 - name: TestingUY 2020
   location: Montevideo, Uruguay
   dates: "May 11-12, 2020"
