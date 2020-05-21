@@ -283,12 +283,12 @@
   twitter: TestConEurope
   status: CFP is Open until May 15, 2020
 
-- name: TestBash Netherlands 2020
+- name: TestBash Netherlands Online 2020
   location: Utrecht, NL
   dates: "October 15-16, 2020"
-  url: https://ti.to/mot/testbash-netherlands-2020?source=testingconferences
+  url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Rescheduled
+  status: Registration is open
 
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
@@ -362,13 +362,6 @@
   url: http://qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
   status: Announced
-  
-- name: TestBashX Edinburgh 2020
-  location: Edinburgh, UK
-  dates: "October 30, 2020"
-  url: https://ti.to/mot/testbashx-edinburgh-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open & Free for Pro MoT members
 
 - name: Heisenbug 2020 Moscow
   location: Moscow, Russia
