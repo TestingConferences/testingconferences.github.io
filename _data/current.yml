@@ -1,21 +1,3 @@
-- name: OnlineTestConf 2020
-  location: Online
-  dates: "May 19-21, 2020"
-  url: https://www.onlinetestconf.com/?utm_source=testingconferences
-  twitter: OnlineTestConf
-  status: Registration is Open & Free
-
-- name: ICSSTA 2020 - International Conference on Software System Testing and Applications
-  location: London, UK
-  dates: "May 21-22, 2020"
-  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2020-in-london?utm_source=testingconferences
-
-- name: Testingstage
-  location: Online
-  dates: "May 21-23 2020"
-  url: https://testingstage.com/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: PerfGuild Online Conference 2020
   location: Online
   dates: "June 1-2, 2020"
