@@ -194,10 +194,10 @@
   twitter: romaniatesting
   status: Registration is on Hold
 
-- name: TestBash Manchester
-  location: Manchester, UK
-  dates: "September 30-October 1, 2020"
-  url: https://www.ministryoftesting.com/events/testbash-manchester-2020?utm_source=testingconferences
+- name: TestBash Manchester Online
+  location: Online
+  dates: "October 2, 2020"
+  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
   twitter: ministryoftest
 
 - name: South East European Testing Conference SEETEST 2020
@@ -206,12 +206,6 @@
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
   status: Early Bird Registration is Open until July 15, 2020
-
-- name: Test.bash(); Manchester
-  location: Manchester, UK
-  dates: "October 2, 2020"
-  url: https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences
-  twitter: ministryoftest
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
@@ -376,12 +370,6 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Registration is Open
-  
-- name: TestBash New Zealand
-  location: Wellington, NZ
-  dates: "November 16-17, 2020"
-  url: https://www.ministryoftesting.com/events/testbash-new-zealand-2020?utm_source=testingconferences
-  twitter: ministryoftest
 
 - name: ConTEST NYC 2020
   location: New York, NY, USA
