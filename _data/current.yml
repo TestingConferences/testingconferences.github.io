@@ -91,18 +91,12 @@
   dates: "July 23-24, 2020"
   url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2020-in-london?utm_source=testingconferences
 
-- name: Mile High Testing Conference 2020
-  location: Denver, CO, USA
-  dates: "July 28-29, 2020"
-  url: https://www.milehightesting.com/?utm_source=testingconferences
-  status: CFP is Open
-  twitter: SoftwareTestPro
-
 - name: Conference for the Association for Software Testing (CAST) 2020
   location: Austin, TX, USA
   dates: "August 3-6, 2020"
   url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
   twitter: AST_News
+  status: Cancelled
 
 - name: IEEE International Conference on AI Testing (AI Test) 2020
   location: Oxford, UK
@@ -456,7 +450,7 @@
   twitter: AgileTDUSA
   status: Super Early Bird Registration ends March 31, 2021
 
-- name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
+- name: ICCCBS 2021 - International Conference on Critical Computer-Based Systems
   location: London, UK
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
@@ -470,6 +464,13 @@
   location: London, UK
   dates: "July 26-27, 2021"
   url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2021-in-london?utm_source=testingconferences
+
+- name: Mile High Testing Conference 2021
+  location: Denver, CO, USA
+  dates: "July 27-28, 2021"
+  url: https://www.milehightesting.com/?utm_source=testingconferences
+  status: Postponed to 2021
+  twitter: SoftwareTestPro
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: London, UK
