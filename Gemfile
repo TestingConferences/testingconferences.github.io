@@ -8,4 +8,4 @@ gem 'jekyll-sitemap', '~> 1.2'
 gem 'jekyll-last-modified-at'
 gem 'jekyll-seo-tag'
 gem 'nokogiri', '~> 1.10.8'
-gem 'github-pages', '>= 202', group: :jekyll_plugins
+gem 'github-pages', '>= 203', group: :jekyll_plugins
