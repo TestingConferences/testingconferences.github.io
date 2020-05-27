@@ -12,7 +12,7 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-05-05 13:22:00
+last_modified_at:   2020-05-27 13:29:00
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
@@ -54,6 +54,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 
 - [Agile Testing Days USA 2020](https://agiletestingdays.us/?utm_source=testingconferences)
 - [Argentesting 2020](https://argentesting.com?utm_source=testingconferences)
+- [CAST 2020](https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences)
 - [EPIC Experience](https://epic.techwell.com/?source=testingconferences)
 - [Nordic Testing Days](https://nordictestingdays.eu/?utm_source=testingconferences)
 - [Red Hat Open TestCon](https://opentestcon.org/?utm_source=testingconferences)
@@ -65,7 +66,7 @@ Conferences all over the world are being canceled or postponed as companies and 
 - [Tesena Fest Brno 2020](https://www.tesena.com/tesena-fest/?utm_source=testingconferences)
 
 
-**Last Updated**: 5/5/2020
+**Last Updated**: 5/27/2020
 
 
 Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
