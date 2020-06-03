@@ -1,17 +1,3 @@
-- name: PerfGuild Online Conference 2020
-  location: Online
-  dates: "June 1-2, 2020"
-  url: https://guildconferences.com/conferences/perfguild-2020/?utm_source=testingconferences
-  twitter: testguilds
-  status: Registration is Open
-
-- name: Nordic Testing Days 2020
-  location: Talinn, Estonia
-  dates: "June 3-5, 2020"
-  url: https://nordictestingdays.eu/?utm_source=testingconferences
-  twitter: nordictestdays
-  status: Cancelled
-  
 - name: ICTSS 2020 - International Conference on Testing Software and Systems
   location: Online
   dates: "June 4-5, 2020"
@@ -33,7 +19,7 @@
   location: Online
   dates: "June 15-August 21, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
-  status: Registration is Not Yet Open
+  status: Registration is Open
 
 - name: TestingCup 2020 (TC20)
   location: Online

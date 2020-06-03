@@ -1,3 +1,15 @@
+- name: Nordic Testing Days 2020
+  location: Talinn, Estonia
+  dates: "June 3-5, 2020"
+  url: https://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
+- name: PerfGuild Online Conference 2020
+  location: Online
+  dates: "June 1-2, 2020"
+  url: https://guildconferences.com/conferences/perfguild-2020/?utm_source=testingconferences
+  twitter: testguilds
+
 - name: Testingstage
   location: Online
   dates: "May 21-23 2020"
