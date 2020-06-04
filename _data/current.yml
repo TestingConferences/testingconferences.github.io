@@ -179,6 +179,7 @@
   dates: "October 2, 2020"
   url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
   twitter: ministryoftest
+  status: Registration is Open. Call for papers open until 14th June 2020.
 
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
@@ -240,7 +241,7 @@
   status: CFP is Open until May 15, 2020
 
 - name: TestBash Netherlands Online 2020
-  location: Utrecht, NL
+  location: Online
   dates: "October 15-16, 2020"
   url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
   twitter: ministryoftest
@@ -312,6 +313,13 @@
   dates: "October 29, 2020"
   url: http://www.asqt.org/?utm_source=testingconferences
 
+- name: Test.bash('Online');
+  location: Online
+  dates: "October 29, 2020"
+  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open. Call for papers open until 21st June 2020.
+
 - name: QA & TEST Embedded 2020
   location: Bilbao, Spain
   dates: "October 28-30, 2020"
@@ -368,6 +376,13 @@
   location: New York, NY, USA
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
+
+- name: TestBash New Zealand Online 2020
+  location: Online
+  dates: "November 20, 2020"
+  url: https://ti.to/mot/testbash-new-zealand-online-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open. Call for papers open until 12th July 2020.
 
 - name: Software-QS-Tag 2020
   location: Frankfurt a.M., Germany
