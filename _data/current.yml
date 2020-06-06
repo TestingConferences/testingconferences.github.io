@@ -1,13 +1,3 @@
-- name: ICTSS 2020 - International Conference on Testing Software and Systems
-  location: Online
-  dates: "June 4-5, 2020"
-  url: https://waset.org/testing-software-and-systems-conference-in-june-2020-in-new-york?utm_source=testingconferences
-
-- name: ICSICT 2020 - International Conference on Software Integration and Component Testing
-  location: Online
-  dates: "June 4-5, 2020"
-  url: https://waset.org/software-integration-and-component-testing-conference-in-june-2020-in-new-york?utm_source=testingconferences
-
 - name: Heisenbug 2020 Piter
   location: Online
   dates: "June 15-28, 2020"
@@ -53,27 +43,27 @@
   dates: "June 27-28, 2020"
   url: https://www.thetesttribe.com/tribalqonf-virtual-2020/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Super Early Bird Registration is Open until May 13, 2020
+  status: Early Bird Registration is Open until June 10, 2020
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: Online
   dates: "June 29-30, 2020"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2020-in-london?utm_source=testingconferences
 
-- name: International Symposium on Software Testing and Analysis (ISSTA) 2020
-  location: Los Angeles, CA, USA
+- name: ISSTA 2020 - International Symposium on Software Testing and Analysis
+  location: Online
   dates: "July 18-22, 2020"
   url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
   twitter: issta_conf
 
 - name: SAEC Days 2020
-  location: Munich, Germany
+  location: Online
   dates: "July 21-23, 2020"
   url: https://www.saec-days.de/home.html?utm_source=testingconferences
   status: Registration is Open
 
 - name: ICSTRA 2020 - International Conference on Security Testing and Risk Assessment
-  location: London, UK
+  location: Online
   dates: "July 23-24, 2020"
   url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2020-in-london?utm_source=testingconferences
 
@@ -174,19 +164,19 @@
   twitter: romaniatesting
   status: Registration is on Hold
 
-- name: TestBash Manchester Online
-  location: Online
-  dates: "October 2, 2020"
-  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open. Call for papers open until 14th June 2020.
-
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
   dates: "October 1-2, 2020"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
   status: Early Bird Registration is Open until July 15, 2020
+
+- name: TestBash Manchester Online
+  location: Online
+  dates: "October 2, 2020"
+  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open. Call for papers open until 14th June 2020
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
@@ -215,11 +205,11 @@
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open until August 7, 2020
 
-- name: Sanae Software Testing BEER.EX
+- name: SANAE BEER.EX Software Testing Conference
   location: Bratislava, Slovakia
   dates: "October 7-8, 2020"
   url: http://sanae.beer?utm_source=testingconferences
-  status: CFP is Open
+  status: Registration is Open
 
 - name: TestCon 2020 Bangalore
   location: Bangalore, India
@@ -338,7 +328,7 @@
   dates: "November 5-6, 2020"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Early Bird pricing ends on May 31, 2020
+  status: Registration is Open
 
 - name: SQA Days - 27 2020
   location: Moscow, Russia
