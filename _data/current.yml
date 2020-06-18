@@ -11,13 +11,6 @@
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
   status: Registration is Open
 
-- name: TestingCup 2020 (TC20)
-  location: Online
-  dates: "June 17, 2020"
-  url: http://testingcup.pl/2020/?utm_source=testingconferences
-  twitter: TestingCup
-  status: Registration is open 
-
 - name: The QA Financial Digital Forum
   location: Online
   dates: "June 17-18, 2020"
@@ -43,7 +36,7 @@
   dates: "June 27-28, 2020"
   url: https://www.thetesttribe.com/tribalqonf-virtual-2020/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Early Bird Registration is Open until June 10, 2020
+  status: Registration is Open
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: Online
@@ -163,6 +156,20 @@
   twitter: romaniatesting
   status: Registration is on Hold
 
+- name: STPCon Fall 2020
+  location: St. Louis, MO USA
+  dates: "September 28-30, 2020"
+  url: https://www.stpcon.com/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+  status: Early Bird Registration is Open until August 14, 2020
+
+- name: InflectraCon Virtual
+  location: Online
+  dates: "September 29-October 2, 2020"
+  url: https://www.inflectracon.com/home-2020?utm_source=testingconferences
+  twitter: romaniatesting
+  status: Registration is Open
+
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
   dates: "October 1-2, 2020"
@@ -175,7 +182,7 @@
   dates: "October 2, 2020"
   url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open. Call for papers open until 14th June 2020
+  status: Registration is Open
 
 - name: STARWEST 2020
   location: Anaheim, CA, USA
@@ -291,6 +298,13 @@
   url: http://aadays.pl/?utm_source=testingconferences
   twitter: AADaysPoland
   status: Early Bird Registration is Open until June 30, 2020
+
+- name: Quest for Quality 2020
+  location: Dublin, Ireland
+  dates: "October 27-28, 2020"
+  url: http://questforquality.eu/?utm_source=testingconferences
+  twitter: Quest_4_Quality
+  status: Registration is Open
 
 - name: InSTA 2020 - International Workshop on Software Test Architecture
   location: Porto, Portugal
