@@ -1,3 +1,20 @@
+- name: Cambridgeshire Test Conference 2020
+  location: Cambridge, UK
+  dates: "June 25, 2020"
+  url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
+  twitter: CambsTestConf
+
+- name: The QA Financial Digital Forum
+  location: Online
+  dates: "June 17-18, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-digital-forum-technologies-for-continuous-testing-ai-automation-and-devops?utm_source=testingconferences
+
+- name: Heisenbug 2020 Piter
+  location: Online
+  dates: "June 15-18, 2020"
+  url: https://heisenbug-piter.ru/?utm_source=testingconferences
+  twitter: HeisenbugConf
+
 - name: TestingCup 2020 (TC20)
   location: Online
   dates: "June 17, 2020"

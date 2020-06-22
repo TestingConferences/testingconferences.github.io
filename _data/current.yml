@@ -1,20 +1,7 @@
-- name: Heisenbug 2020 Piter
-  location: Online
-  dates: "June 15-18, 2020"
-  url: https://heisenbug-piter.ru/?utm_source=testingconferences
-  twitter: HeisenbugConf
-  status: Registration is Open
-
 - name: Test Leadership Congress 2020
   location: Online
   dates: "June 15-August 21, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: The QA Financial Digital Forum
-  location: Online
-  dates: "June 17-18, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-digital-forum-technologies-for-continuous-testing-ai-automation-and-devops?utm_source=testingconferences
   status: Registration is Open
   
 - name: 2nd Odyssey Online Testing Conference
@@ -23,13 +10,6 @@
   url: https://odyssey.kobiton.com?utm_source=testingconferences
   twitter: kobitonmobile
   status: Registration is Open & Free
-  
-- name: Cambridgeshire Test Conference 2020
-  location: Cambridge, UK
-  dates: "June 25 2020"
-  url: http://cambridgeshiretestconference.com/?utm_source=testingconferences
-  twitter: CambsTestConf
-  status: Postponed
 
 - name: Tribal Qonf
   location: Online
