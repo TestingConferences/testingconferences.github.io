@@ -20,12 +20,8 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>May 2020</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
     <td>June 2020</td>
-    <td>TestBash SF 2020</td>
+    <td>MoT</td>
   </tr>
   <tr>
     <td>July 2020</td>
@@ -65,6 +61,10 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>April 2021</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>May 2021</td>
     <td>TBD</td>
   </tr>
 </table>
