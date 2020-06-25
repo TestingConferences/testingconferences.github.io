@@ -118,6 +118,7 @@
   dates: "September 21-22, 2020"
   url: https://kwsqa.org/tq2020/?utm_source=testingconferences
   twitter: kwsqa
+  status: Cancelled
 
 - name: Test Automation Days 2020
   location: Utrecht, Netherlands
@@ -474,6 +475,12 @@
   location: London, UK
   dates: "September 23-24, 2021"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
+
+- name: Targeting Quality (KWSQA) 2021
+  location: Cambridge, ON Canada
+  dates: "September 27-28, 2021"
+  url: https://kwsqa.org?utm_source=testingconferences
+  twitter: kwsqa
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
