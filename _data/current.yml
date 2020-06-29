@@ -3,27 +3,6 @@
   dates: "June 15-August 21, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
   status: Registration is Open
-  
-- name: 2nd Odyssey Online Testing Conference
-  location: Online
-  dates: "June 24-26, 2020"
-  url: https://odyssey.kobiton.com?utm_source=testingconferences
-  twitter: kobitonmobile
-  status: Registration is Open & Free
-
-- name: The Future of Testing 2020 - APAC
-  location: Online
-  dates: "June 25, 2020"
-  url: https://applitools.com/future-of-testing-apac?utm_source=testingconferences
-  twitter: applitools
-  status: Registration is Open & Free
-
-- name: Tribal Qonf
-  location: Online
-  dates: "June 27-28, 2020"
-  url: https://www.thetesttribe.com/tribalqonf-virtual-2020/?utm_source=testingconferences
-  twitter: the_test_tribe
-  status: Registration is Open
 
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: Online
@@ -35,6 +14,12 @@
   dates: "July 18-22, 2020"
   url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
   twitter: issta_conf
+
+- name: Breakpoint 2020
+  location: Online
+  dates: "July 20-23, 2020"
+  url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
+  twitter: browserstack
 
 - name: SAEC Days 2020
   location: Online
