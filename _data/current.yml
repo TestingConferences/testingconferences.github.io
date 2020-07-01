@@ -140,8 +140,8 @@
   location: Online
   dates: "September 29-October 2, 2020"
   url: https://www.inflectracon.com/home-2020?utm_source=testingconferences
-  twitter: romaniatesting
-  status: Registration is Open
+  twitter: InflectraCon
+  status: CFP is Open until July 25, 2020
 
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
@@ -201,7 +201,7 @@
   dates: "October 12-14, 2020"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Registration opens in June
+  status: Registration opens soon
 
 - name: Testcon Europe 2020
   location: Vilnius, Lithuania
