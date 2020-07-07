@@ -3,6 +3,13 @@
   dates: "June 15-August 21, 2020"
   url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
 
+- name: OmniTestingConference
+  location: Online
+  dates: "July 16, 2020"
+  url: https://omnitestingconf.com/?utm_source=testingconferences
+  twitter: XrayApp
+  status: Registration is Open & Free
+
 - name: ISSTA 2020 - International Symposium on Software Testing and Analysis
   location: Online
   dates: "July 18-22, 2020"
@@ -14,6 +21,7 @@
   dates: "July 20-23, 2020"
   url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
   twitter: browserstack
+  status: Registration is Open & Free
 
 - name: SAEC Days 2020
   location: Online
