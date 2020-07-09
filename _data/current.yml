@@ -47,7 +47,7 @@
   url: http://www.ieeeaitests.com/?utm_source=testingconferences
 
 - name: Swiss Testing Day
-  location: Zürich, Switzerland
+  location: Online
   dates: "August 26, 2020"
   url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
   twitter: swisstesting
@@ -90,7 +90,7 @@
 - name: TestCon Moscow 2020
   location: Moscow, Russia
   dates: "September 15-17, 2020"
-  url: https://testconf.ru/en-cfp/?utm_source=testingconferences
+  url: https://testconf.ru/?utm_source=testingconferences
   status: Registration is Open
 
 - name: WeTest.Athens 2020
@@ -98,7 +98,7 @@
   dates: "September 17, 2020"
   url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
-  status: Registration is Open
+  status: Registration is on Hold
 
 - name: Targeting Quality (KWSQA) 2020
   location: Cambridge, ON Canada
@@ -115,9 +115,10 @@
   status: Registration is Open
 
 - name: TACON 2020
-  location: Leipzig, Germany
-  dates: "September 22-24, 2020"
+  location: Online
+  dates: "September 29-30, 2020"
   url: https://tacon-konferenz.de/?utm_source=testingconferences
+  status: Registration is Open
 
 - name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
   location: London, UK
@@ -125,8 +126,8 @@
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
 
 - name: Romanian Testing Conference
-  location: Cluj-Napoca, Romania
-  dates: "September 28-30, 2020"
+  location: Online
+  dates: "September 28-October 1, 2020"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
   status: Registration is on Hold
@@ -143,7 +144,7 @@
   dates: "September 29-October 2, 2020"
   url: https://www.inflectracon.com/home-2020?utm_source=testingconferences
   twitter: InflectraCon
-  status: CFP is Open until July 25, 2020
+  status: Registration is Open
 
 - name: South East European Testing Conference SEETEST 2020
   location: Sofia, Bulgaria
@@ -196,7 +197,7 @@
   location: Bangalore, India
   dates: "October 8-9, 2020"
   url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
-  status: Super Early Bird Registration is Open until July 9, 2020
+  status: Early Bird Registration is Open until September 9, 2020
 
 - name: PNSQC 2020
   location: Online
@@ -205,7 +206,7 @@
   twitter: PNSQC
   status: Registration opens soon
 
-- name: Testcon Europe 2020
+- name: TestCon Europe 2020
   location: Vilnius, Lithuania
   dates: "October 13-15, 2020"
   url: http://www.testcon.lt/?utm_source=testingconferences
@@ -267,13 +268,6 @@
   url: https://icst2020.info/?utm_source=testingconferences
   status: Registration is Open  
 
-- name: Agile & Automation Days 2020 (AADays)
-  location: Poznan, Poland
-  dates: "October 26-27, 2020"
-  url: http://aadays.pl/?utm_source=testingconferences
-  twitter: AADaysPoland
-  status: Early Bird Registration is Open until June 30, 2020
-
 - name: Quest for Quality 2020
   location: Dublin, Ireland
   dates: "October 27-28, 2020"
@@ -324,7 +318,7 @@
   dates: "November 6-7, 2020"
   url: https://sqadays.com/en/index?utm_source=testingconferences
   twitter: sqadays
-  status: Early Bird Registration is Open until June 29, 2020
+  status: Registration is Open
 
 - name: Italian Software Testing Forum
   location: Milan, Italy
@@ -350,7 +344,7 @@
   dates: "November 17-19, 2020"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Super Early Bird Pricing (Launch Offer) is Open until June 14, 2020.
+  status: Early Bird Pricing is Open until September 30, 2020.
 
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
@@ -457,6 +451,12 @@
   location: Oxon Hill, MD, USA
   dates: "August 30-September 2, 2021"
   url: https://www.autotestcon.com?utm_source=testingconferences
+
+- name: Agile & Automation Days 2021 (AADays)
+  location: Poznan, Poland
+  dates: "September 20-21, 2021"
+  url: http://aadays.pl/?utm_source=testingconferences
+  twitter: AADaysPoland
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: London, UK
