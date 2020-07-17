@@ -1,3 +1,9 @@
+- name: OmniTestingConference
+  location: Online
+  dates: "July 16, 2020"
+  url: https://omnitestingconf.com/?utm_source=testingconferences
+  twitter: XrayApp
+
 - name: ICCCBS 2020 - International Conference on Critical Computer-Based Systems
   location: Online
   dates: "June 29-30, 2020"
@@ -32,6 +38,11 @@
   location: Online
   dates: "June 17-18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-digital-forum-technologies-for-continuous-testing-ai-automation-and-devops?utm_source=testingconferences
+
+- name: Test Leadership Congress 2020
+  location: Online
+  dates: "June 15-August 21, 2020"
+  url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
 
 - name: Heisenbug 2020 Piter
   location: Online

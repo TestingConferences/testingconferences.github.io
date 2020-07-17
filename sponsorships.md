@@ -20,10 +20,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>July 2020</td>
-    <td>PNSQC 2020</td>
-  </tr>
-  <tr>
     <td>August 2020</td>
     <td>EuroSTAR 2020</td>
   </tr>
@@ -65,6 +61,10 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>June 2021</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>July 2021</td>
     <td>TBD</td>
   </tr>
 </table>
