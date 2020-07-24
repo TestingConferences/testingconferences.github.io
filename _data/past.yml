@@ -1,3 +1,31 @@
+- name: Conference for the Association for Software Testing (CAST) 2020
+  location: Austin, TX, USA
+  dates: "August 3-6, 2020"
+  url: https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences
+  twitter: AST_News
+
+- name: ICSTRA 2020 - International Conference on Security Testing and Risk Assessment
+  location: Online
+  dates: "July 23-24, 2020"
+  url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2020-in-london?utm_source=testingconferences
+
+- name: SAEC Days 2020
+  location: Online
+  dates: "July 21-23, 2020"
+  url: https://www.saec-days.de/home.html?utm_source=testingconferences
+
+- name: Breakpoint 2020
+  location: Online
+  dates: "July 20-23, 2020"
+  url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
+  twitter: browserstack
+
+- name: ISSTA 2020 - International Symposium on Software Testing and Analysis
+  location: Online
+  dates: "July 18-22, 2020"
+  url: https://conf.researchr.org/home/issta-2020/?utm_source=testingconferences
+  twitter: issta_conf
+
 - name: OmniTestingConference
   location: Online
   dates: "July 16, 2020"
@@ -899,6 +927,11 @@
   twitter: saucelabs
   video_url: https://www.youtube.com/playlist?list=PL67l1VPxOnT5PZQ1r60wQoT2UPDk1of4z
 
+- name: 8th International Workshop on Combinatorial Testing (IWCT 2019)
+  location: Xi'an, China
+  dates: "April 23, 2019"
+  url: https://iwct2019.sba-research.org/program.html
+
 - name: 12th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2019
   location: Xi'an, China
   dates: "April 22-27, 2019"
@@ -1523,6 +1556,11 @@
   dates: "April 17, 2018"
   url: https://testistanbul.org/
   twitter: testistanbul
+
+- name: 7th International Workshop on Combinatorial Testing (IWCT 2018)
+  location: Västerås, Sweden
+  dates: "April 13, 2018"
+  url: https://iwct2018.sba-research.org/
 
 - name: TestBash Netherlands 2018
   location: Utrecht, Netherlands
