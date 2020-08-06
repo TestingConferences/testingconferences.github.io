@@ -1,8 +1,3 @@
-- name: IEEE International Conference on AI Testing (AI Test) 2020
-  location: Oxford, UK
-  dates: "August 3-6, 2020"
-  url: http://www.ieeeaitests.com/?utm_source=testingconferences
-
 - name: Swiss Testing Day
   location: Online
   dates: "August 26, 2020"
@@ -21,13 +16,6 @@
   dates: "September 1-2, 2020"
   url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
   twitter: GermanTesting
-  status: Registration is Open
-
-- name: TestingGuild Online Conference 2020
-  location: Online
-  dates: "September 7-8, 2020"
-  url: https://guildconferences.com/conferences/testingguild-2020/?utm_source=testingconferences
-  twitter: testguilds
   status: Registration is Open
 
 - name: SeleniumConf India 2020
@@ -190,6 +178,13 @@
   url: http://lets-test.com/?page_id=5881?utm_source=testingconferences
   twitter: lets_test
   status: Registration is Open
+
+- name: Secure Guild Online Conference 2020
+  location: Online
+  dates: "October 19-20, 2020"
+  url: https://guildconferences.com/conference/secureguild-2020/?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration is Opening
 
 - name: Accelerate Vienna 2020
   location: Online
