@@ -139,12 +139,6 @@
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open until August 7, 2020
 
-- name: SANAE BEER.EX Software Testing Conference
-  location: Bratislava, Slovakia
-  dates: "October 7-8, 2020"
-  url: http://sanae.beer?utm_source=testingconferences
-  status: Registration is Open
-
 - name: TestCon 2020 Bangalore
   location: Bangalore, India
   dates: "October 8-9, 2020"
@@ -370,6 +364,12 @@
   location: Porto de Galinhas, Pernambuco, Brazil
   dates: "April 12-16, 2021"
   url: https://icst2021.icmc.usp.br?utm_source=testingconferences
+
+- name: SANAE BEER.EX Software Testing Conference
+  location: Bratislava, Slovakia
+  dates: "April 14-15, 2021"
+  url: http://sanae.beer?utm_source=testingconferences
+  status: CFP and Early Bird Registration is Open
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
