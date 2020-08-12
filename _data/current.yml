@@ -91,12 +91,12 @@
   twitter: InflectraCon
   status: Registration is Open
 
-- name: South East European Testing Conference SEETEST 2020
-  location: Sofia, Bulgaria
+- name: SEETEST 2020 Virtual Edition
+  location: Online
   dates: "October 1-2, 2020"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Early Bird Registration is Open until July 15, 2020
+  status: Registration is Open
 
 - name: TestBash Manchester Online
   location: Online
@@ -105,12 +105,12 @@
   twitter: ministryoftest
   status: Registration is Open
 
-- name: STARWEST 2020
-  location: Anaheim, CA, USA
-  dates: "October 4-9, 2020"
+- name: STARWEST 2020 Virtual+
+  location: Online
+  dates: "October 5-8, 2020"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Super Early Bird Registration is Open until August 7, 2020
+  status: Early Bird Registration is Open until September 4, 2020 with Free Option
 
 - name: Open Quality Confrence 2020
   location: Online
@@ -118,13 +118,6 @@
   url: https://openqualityconf.com/?utm_source=testingconferences
   twitter: oqconf
   status: Early Bird Registration is Open & CFP is Open
-
-- name: TestIstanbul 2020
-  location: Istanbul, Turkey
-  dates: "October 6, 2020"
-  url: https://testistanbul.org/?utm_source=testingconferences
-  twitter: testistanbul 
-  status: Registration is Open
 
 - name: National Software Testing Conference 2020
   location: London, England
@@ -138,6 +131,13 @@
   dates: "October 7, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
   status: Early Bird Registration is Open until August 7, 2020
+
+- name: TestIstanbul 2020
+  location: Online & Istanbul, Turkey
+  dates: "October 8, 2020"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul 
+  status: Registration is Open
 
 - name: TestCon 2020 Bangalore
   location: Bangalore, India
