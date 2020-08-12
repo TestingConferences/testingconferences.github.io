@@ -64,6 +64,12 @@
   dates: "September 24-25, 2020"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
 
+- name: TestCon 2020 Virtual
+  location: Online
+  dates: "September 25-26, 2020"
+  url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
+  status: Early Bird Registration is Open until September 12, 2020
+
 - name: Romanian Testing Conference
   location: Online
   dates: "September 28-October 1, 2020"
@@ -130,7 +136,7 @@
   location: Paris, FR
   dates: "October 7, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
-  status: Early Bird Registration is Open until August 7, 2020
+  status: Registration is Open with Free Option
 
 - name: TestIstanbul 2020
   location: Online & Istanbul, Turkey
@@ -138,12 +144,6 @@
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul 
   status: Registration is Open
-
-- name: TestCon 2020 Bangalore
-  location: Bangalore, India
-  dates: "October 8-9, 2020"
-  url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
-  status: Early Bird Registration is Open until September 9, 2020
 
 - name: PNSQC 2020
   location: Online
