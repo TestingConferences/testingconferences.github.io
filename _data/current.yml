@@ -123,7 +123,7 @@
   dates: "October 5-6, 2020"
   url: https://openqualityconf.com/?utm_source=testingconferences
   twitter: oqconf
-  status: Early Bird Registration is Open & CFP is Open
+  status: Early Bird Registration is Open for first 100 tickets
 
 - name: National Software Testing Conference 2020
   location: London, England
@@ -150,41 +150,42 @@
   dates: "October 12-14, 2020"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Registration opens soon
+  status: Early Bird Registration is Open
 
-- name: TestCon Europe 2020
-  location: Vilnius, Lithuania
+- name: TestCon Europe 2020 Hybrid Edition
+  location: Online or Vilnius, Lithuania
   dates: "October 13-15, 2020"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
-  status: Early Bird Registration is Open until August 13, 2020
+  status: Registration is Open
 
 - name: TestBash Netherlands Online 2020
   location: Online
   dates: "October 15-16, 2020"
   url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird Registration is available for many workshops
+  status: Early Bird Registration is Open
 
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
-  dates: "October 18 - October 20, 2020"
+  dates: "October 18-20, 2020"
   url: http://lets-test.com/?page_id=5881?utm_source=testingconferences
   twitter: lets_test
-  status: Registration is Open
+  status: Cancelled
 
 - name: Secure Guild Online Conference 2020
   location: Online
   dates: "October 19-20, 2020"
   url: https://guildconferences.com/conference/secureguild-2020/?utm_source=testingconferences
   twitter: testguilds
-  status: Registration is Opening
+  status: Registration is Open
 
 - name: Accelerate Vienna 2020
   location: Online
   dates: "October 21-22, 2020"
   url: https://www.tricentis.com/accelerate/vienna/?utm_source=testingconferences
   twitter: Tricentis
+  status: Announced
 
 - name: Argentesting 2020
   location: Buenos Aires, Argentina
@@ -193,36 +194,30 @@
   status: Cancelled
 
 - name: ICSSTVV 2020 - International Conference on Software System Testing, Validation and Verification
-  location: London, UK
+  location: Online
   dates: "October 22-23, 2020"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2020-in-london/?utm_source=testingconferences
-
-- name: Quality Excites 2020
-  location: Gliwice, Poland
-  dates: "October 23-24, 2020"
-  url: https://qualityexcites.pl/en/?utm_source=testingconferences
-  twitter: QualityExcites
 
 - name: TAIC PART 2020
   location: Porto, Portugal
   dates: "October 24, 2020"
   url: http://www2020.taicpart.org/?utm_source=testingconferences
-  status: Registration is Open
+  twitter: icstconference
 
 - name: 9th International Workshop on Combinatorial Testing (IWCT) 2020
   location: Porto, Portugal
   dates: "October 24, 2020"
   url: https://conf.researchr.org/home/iwct-2020?utm_source=testingconferences
-  status: Registration is Open
+  twitter: icstconference
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal
   dates: "October 24-28, 2020"
   url: https://icst2020.info/?utm_source=testingconferences
-  status: Registration is Open  
+  twitter: icstconference
 
 - name: Quest for Quality 2020
-  location: Dublin, Ireland
+  location: Online
   dates: "October 27-28, 2020"
   url: http://questforquality.eu/?utm_source=testingconferences
   twitter: Quest_4_Quality
@@ -232,6 +227,14 @@
   location: Porto, Portugal
   dates: "October 28, 2020"
   url: http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences
+  twitter: icstconference
+
+- name: QA & TEST Embedded 2020 Online
+  location: Online
+  dates: "October 28-30, 2020"
+  url: https://embedded.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Registration is Open
 
 - name: ASQT 2020
   location: Bolzano, Italy
@@ -241,15 +244,8 @@
 - name: Test.bash('Online');
   location: Online
   dates: "October 29, 2020"
-  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
+  url: https://www.ministryoftesting.com/events/test-dot-bash-online-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open. Call for papers open until 21st June 2020.
-
-- name: QA & TEST Embedded 2020
-  location: Online
-  dates: "October 28-30, 2020"
-  url: http://qatest.org/?utm_source=testingconferences
-  twitter: QATestBilbao
   status: Announced
 
 - name: Heisenbug 2020 Moscow
@@ -375,6 +371,12 @@
   dates: "May 24-25, 2021"
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
   status: CFP is Open until December 30, 2020
+
+- name: Quality Excites 9 (2021)
+  location: Gliwice, Poland
+  dates: "June 2021"
+  url: https://qualityexcites.pl/en/?utm_source=testingconferences
+  twitter: QualityExcites
 
 - name: expo:QA 21
   location: Madrid, Spain
