@@ -9,21 +9,21 @@
   location: Montrouge, France
   dates: "September 1, 2020"
   url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
-  status: Registration is Open
+  status: Registration is Closed
 
 - name: German Testing Day 2020
-  location: Frankfurt, Germany
+  location: Online
   dates: "September 1-2, 2020"
   url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
   twitter: GermanTesting
   status: Registration is Open
 
 - name: SeleniumConf India 2020
-  location: Bengaluru, India
+  location: Online
   dates: "September 10-12, 2020"
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
-  status: Postponed
+  status: Registration is Open
 
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
@@ -43,14 +43,7 @@
   dates: "September 17, 2020"
   url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
-  status: Registration is on Hold
-
-- name: Targeting Quality (KWSQA) 2020
-  location: Cambridge, ON Canada
-  dates: "September 21-22, 2020"
-  url: https://kwsqa.org/tq2020/?utm_source=testingconferences
-  twitter: kwsqa
-  status: Cancelled
+  status: Registration is Closed
 
 - name: Test Automation Days 2020
   location: Utrecht, Netherlands
@@ -59,14 +52,8 @@
   twitter: testautomationd
   status: Registration is Open
 
-- name: TACON 2020
-  location: Online
-  dates: "September 29-30, 2020"
-  url: https://tacon-konferenz.de/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
-  location: London, UK
+  location: Online
   dates: "September 24-25, 2020"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
 
@@ -77,12 +64,18 @@
   twitter: romaniatesting
   status: Registration is on Hold
 
-- name: STPCon Fall 2020
-  location: St. Louis, MO USA
-  dates: "September 28-30, 2020"
-  url: https://www.stpcon.com/?utm_source=testingconferences
+- name: TACON 2020
+  location: Online
+  dates: "September 29-30, 2020"
+  url: https://tacon-konferenz.de/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: STPCon Virtual Conference 2020
+  location: Online
+  dates: "September 29-30, 2020"
+  url: https://www.stpcon.com/pricing-virtual-2020/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Early Bird Registration is Open until August 14, 2020
+  status: Registration is Open
 
 - name: InflectraCon Virtual
   location: Online
