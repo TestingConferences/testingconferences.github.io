@@ -150,7 +150,7 @@
   dates: "October 12-14, 2020"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until Sold Out
 
 - name: TestCon Europe 2020 Hybrid Edition
   location: Online or Vilnius, Lithuania
@@ -164,7 +164,7 @@
   dates: "October 15-16, 2020"
   url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until Sold Out
 
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
@@ -253,7 +253,7 @@
   dates: "November 3-4, 2020"
   url: https://heisenbug-moscow.ru/en/?utm_source=testingconferences
   twitter: HeisenbugConf
-  status: CFP is Open until August 21, 2020
+  status: Registration is Open
 
 - name: Testing United 2020
   location: Online
@@ -305,7 +305,7 @@
   dates: "November 20, 2020"
   url: https://ti.to/mot/testbash-new-zealand-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open. Call for papers open until 12th July 2020.
+  status: Registration is Open
 
 - name: Software-QS-Tag 2020
   location: Frankfurt a.M., Germany
@@ -313,11 +313,10 @@
   url: https://www.qs-tag.de/en/?utm_source=testingconferences
   twitter: SoftwareQSTag
 
-- name: Tesena Fest Prague 2020
-  location: Prague, Czech Republic
+- name: Tesena Fest Online 2020
+  location: Online
   dates: "November 25-26, 2020"
-  url: https://www.tesena.com/tesena-fest-prague-2020/?utm_source=testingconferences
-  status: CFP is Open until July 12, 2020
+  url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
@@ -358,7 +357,6 @@
   location: Bratislava, Slovakia
   dates: "April 14-15, 2021"
   url: http://sanae.beer?utm_source=testingconferences
-  status: CFP and Early Bird Registration is Open
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
