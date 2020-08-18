@@ -59,6 +59,12 @@
   twitter: testautomationd
   status: Registration is Open
 
+- name: QA Financial Digital Forum USA 2020
+  location: Online
+  dates: "September 23-24, 2020"
+  url: https://qamedia.eventsair.com/usa-digital-forum/register
+  status: Registration is Open with Free Option
+
 - name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
   location: Online
   dates: "September 24-25, 2020"
@@ -132,10 +138,10 @@
   twitter: testmagazine
   status: Registration is Open
 
-- name: The QA Financial Forum Paris 2020
-  location: Paris, FR
+- name: QA Financial Digital Forum France 2020
+  location: Online
   dates: "October 7, 2020"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2020/?utm_source=testingconferences
+  url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
   status: Registration is Open with Free Option
 
 - name: TestIstanbul 2020
