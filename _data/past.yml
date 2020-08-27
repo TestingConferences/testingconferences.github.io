@@ -1,3 +1,9 @@
+- name: Swiss Testing Day
+  location: Online
+  dates: "August 26, 2020"
+  url: https://www.swisstestingday.ch/en/?utm_source=testingconferences
+  twitter: swisstesting
+
 - name: IEEE International Conference on AI Testing (AI Test) 2020
   location: Oxford, UK
   dates: "August 3-6, 2020"
