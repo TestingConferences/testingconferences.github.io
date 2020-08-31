@@ -18,7 +18,7 @@ Option 2: or just use docker
 Note: If it is very slow to download `jekyll` image, click here to download the tar package and load it by `docker load`
 > docker load jekyll_3_8.tar
 
-3. open browser to http://localhost:4000
+3. open browser to http://localhost:4000  
 That's all!
 
 ## Contributing Guidelines
