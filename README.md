@@ -2,6 +2,24 @@
 
 This is a simple list of software testing conferences and workshops published collaboratively with the testing community.
 
+## Quick Start
+1. Clone or dowanload the project and cd project dir
+> git clone git@github.com:TestingConferences/testingconferences.github.io.git
+> cd testingconferences.github.io
+
+2. Run
+
+Option 1: use docker-compose
+> docker-compose up
+
+Option 2: or just use docker 
+> docker run --volume="$PWD:/srv/jekyll" -p4000:4000 -it jekyll/jekyll:3.8.0 sh -c "bundle install && jekyll server" 
+
+Note: If it is very slow to download `jekyll` image, click here to download the tar package and load it by `docker load`
+> docker load jekyll_3_8.tar
+
+3. open browser to http://localhost:4000  
+That's all!
 
 ## Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.

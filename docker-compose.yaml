@@ -1,0 +1,12 @@
+version: '2'                                                                                        
+services:
+  testingconferences:
+    image: jekyll/jekyll:3.8
+    container_name: testingconferences.github.io
+    ports:
+      - 4000:4000  # jekyll ui
+    command: sh -c "bundle install && jekyll serve"
+    restart: unless-stopped
+    volumes:
+      - ./:/srv/jekyll
+
