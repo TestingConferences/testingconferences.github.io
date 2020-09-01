@@ -1,3 +1,14 @@
+- name: Journée Française des tests logiciels (JFTL) 2020
+  location: Montrouge, France
+  dates: "September 1, 2020"
+  url: http://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+
+- name: Selenium Mini-Conf - Preview
+  location: Online
+  dates: "August 31, 2020"
+  url: https://preview.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+
 - name: Swiss Testing Day
   location: Online
   dates: "August 26, 2020"

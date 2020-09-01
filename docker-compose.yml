@@ -2,7 +2,7 @@ version: '2'
 services:
   testingconferences:
     image: jekyll/jekyll:3.8
-    container_name: testingconferences.github.io
+    container_name: tcorg
     ports:
       - 4000:4000  # jekyll ui
     command: sh -c "bundle install && jekyll serve"

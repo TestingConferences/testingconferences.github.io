@@ -13,15 +13,11 @@ Option 1: or just use docker
 
 build an image: 
 
-> docker build -t testingconferences.github.io:latest .
+> docker build -t tcorg:latest .
 
 run a container: 
 
-> docker run -it -p 4000:4000 testingconferences.github.io:latest
-
-Note: If it is very slow to download `jekyll` image, [click here](https://www.dropbox.com/s/njwzzm3due46yog/jekyll_3_8.tar?dl=0) to download the tar package and load it by `docker load`
-
-> docker load jekyll_3_8.tar
+> docker run -it -p 4000:4000 tcorg:latest
 
 Option 2: use docker-compose
 
