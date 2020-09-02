@@ -1,3 +1,9 @@
+- name: German Testing Day 2020
+  location: Online
+  dates: "September 1-2, 2020"
+  url: https://www.germantestingday.info/german-testing-day-2020.html/?utm_source=testingconferences
+  twitter: GermanTesting
+
 - name: Journée Française des tests logiciels (JFTL) 2020
   location: Montrouge, France
   dates: "September 1, 2020"

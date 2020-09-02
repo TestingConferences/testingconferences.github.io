@@ -7,24 +7,21 @@ This is a simple list of software testing conferences and workshops published co
 > git clone git@github.com:TestingConferences/testingconferences.github.io.git
 > cd testingconferences.github.io
 
-2. Run
+2. Run using [Docker](https://docs.docker.com/get-docker/)
 
-Option 1: or just use docker 
-
-build an image: 
+Build the image: 
 
 > docker build -t tcorg:latest .
 
-run a container: 
+Run the container: 
 
-> docker run -it -p 4000:4000 tcorg:latest
+> docker run -d -p 4000:4000 -it --volume="$PWD:/srv/jekyll" tcorg:latest
 
-Option 2: use docker-compose
+An alternate option is to use docker-compose:
 
 > docker-compose up
 
-3. open browser to http://localhost:4000  
-That's all!
+3. Open browser to http://localhost:4000 and start making changes  
 
 ## Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.
