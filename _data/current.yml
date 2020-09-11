@@ -37,7 +37,7 @@
   dates: "September 17, 2020"
   url: https://wetest-athens.gr/?utm_source=testingconferences
   twitter: WetestA
-  status: Registration is Closed
+  status: Cancelled
 
 - name: Test Automation Days 2020
   location: Utrecht, Netherlands
@@ -61,14 +61,20 @@
   location: Online
   dates: "September 25-26, 2020"
   url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
-  status: Early Bird Registration is Open until September 12, 2020
+  status: Early Bird Registration is Open until September 13, 2020
 
 - name: Romanian Testing Conference
   location: Online
   dates: "September 28-October 1, 2020"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: Registration is on Hold
+  status: Registration is Open
+
+- name: TestBash Manchester Online
+  location: Online
+  dates: "September 28-October 2, 2020"
+  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
+  twitter: ministryoftest
 
 - name: TACON 2020
   location: Online
@@ -97,13 +103,6 @@
   twitter: SEETESTConf
   status: Registration is Open
 
-- name: TestBash Manchester Online
-  location: Online
-  dates: "October 2, 2020"
-  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open
-
 - name: STARWEST 2020 Virtual+
   location: Online
   dates: "October 5-8, 2020"
@@ -116,7 +115,7 @@
   dates: "October 5-6, 2020"
   url: https://openqualityconf.com/?utm_source=testingconferences
   twitter: oqconf
-  status: Early Bird Registration is Open for first 100 tickets
+  status: Registration is Open
 
 - name: National Software Testing Conference 2020
   location: London, England
@@ -129,7 +128,7 @@
   location: Online
   dates: "October 7, 2020"
   url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
-  status: Registration is Open with Free Option
+  status: Registration is Open
 
 - name: TestIstanbul 2020
   location: Online & Istanbul, Turkey
@@ -143,7 +142,14 @@
   dates: "October 12-14, 2020"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Early Bird Registration is Open until Sold Out
+  status: Registration is Open
+
+- name: TestBash Netherlands Online 2020
+  location: Online
+  dates: "October 12-16, 2020"
+  url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
+  twitter: ministryoftest
+  status: Super Early Bird Registration is Open until Sold Out
 
 - name: Ankara Testing Days 2020
   location: Online
@@ -166,13 +172,6 @@
   twitter: UNICOMSeminars
   status: Registration is Open
 
-- name: TestBash Netherlands Online 2020
-  location: Online
-  dates: "October 15-16, 2020"
-  url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
-  twitter: ministryoftest
-  status: Early Bird Registration is Open until Sold Out
-
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
   dates: "October 18-20, 2020"
@@ -189,10 +188,10 @@
 
 - name: Accelerate Vienna 2020
   location: Online
-  dates: "October 21-22, 2020"
+  dates: "October 20-22, 2020"
   url: https://www.tricentis.com/accelerate/vienna/?utm_source=testingconferences
   twitter: Tricentis
-  status: Announced
+  status: Registration is Open
 
 - name: Argentesting 2020
   location: Buenos Aires, Argentina
@@ -210,18 +209,21 @@
   dates: "October 24, 2020"
   url: http://www2020.taicpart.org/?utm_source=testingconferences
   twitter: icstconference
+  status: Registration is Open
 
 - name: 9th International Workshop on Combinatorial Testing (IWCT) 2020
   location: Porto, Portugal
   dates: "October 24, 2020"
   url: https://conf.researchr.org/home/iwct-2020?utm_source=testingconferences
   twitter: icstconference
+  status: Registration is Open
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal
   dates: "October 24-28, 2020"
   url: https://icst2020.info/?utm_source=testingconferences
   twitter: icstconference
+  status: Registration is Open
 
 - name: Quest for Quality 2020
   location: Online
@@ -231,10 +233,11 @@
   status: Registration is Open
 
 - name: InSTA 2020 - International Workshop on Software Test Architecture
-  location: Porto, Portugal
+  location: Online
   dates: "October 28, 2020"
   url: http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences
   twitter: icstconference
+  status: Registration is Open
 
 - name: QA & TEST Embedded 2020 Online
   location: Online
@@ -243,21 +246,16 @@
   twitter: QATestBilbao
   status: Registration is Open
 
-- name: ASQT 2020
-  location: Bolzano, Italy
-  dates: "October 29, 2020"
-  url: http://www.asqt.org/?utm_source=testingconferences
-
 - name: Test.bash('Online');
   location: Online
   dates: "October 29, 2020"
   url: https://www.ministryoftesting.com/events/test-dot-bash-online-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: Announced
+  status: Open to Pro Members for free
 
 - name: Heisenbug 2020 Moscow
   location: Moscow, Russia
-  dates: "November 3-4, 2020"
+  dates: "November 4-7, 2020"
   url: https://heisenbug-moscow.ru/en/?utm_source=testingconferences
   twitter: HeisenbugConf
   status: Registration is Open
@@ -276,12 +274,6 @@
   twitter: sqadays
   status: Registration is Open
 
-- name: Italian Software Testing Forum
-  location: Milan, Italy
-  dates: "November 9-11, 2020"
-  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
-  status: Registration is Open, Free option
-
 - name: Agile Testing Days (ATD) 2020
   location: Potsdam, Germany & Online
   dates: "November 8-13, 2020"
@@ -289,30 +281,36 @@
   twitter: AgileTD
   status: Registration is Open. On-site tickets are limited. 
 
+- name: ASQT 2020
+  location: Bolzano, Italy
+  dates: "November 11, 2020"
+  url: http://www.asqt.org/?utm_source=testingconferences
+
 - name: ConTEST NYC 2020
   location: New York, NY, USA
   dates: "November 16-20, 2020"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
+  status: Registration is Open
 
 - name: EuroSTAR 2020 Software Testing Conference
   location: Online
   dates: "November 17-19, 2020"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Pricing is Open until September 30, 2020.
+  status: Early Bird Pricing is Open until September 30, 2020
 
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
   dates: "November 18, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
+  status: Registration is Open
 
 - name: TestBash New Zealand Online 2020
   location: Online
   dates: "November 20, 2020"
   url: https://ti.to/mot/testbash-new-zealand-online-2020?source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open
 
 - name: Software-QS-Tag 2020
   location: Frankfurt a.M., Germany
@@ -389,6 +387,12 @@
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
   status: Early Bird Registration is Open until March 31, 2021
+
+- name: Italian Software Testing Forum
+  location: Milan, Italy
+  dates: "June 7-9, 2021"
+  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
+  twitter: Itastqb
 
 - name: Agile Testing Days USA 2021
   location: Chicago, IL, USA
