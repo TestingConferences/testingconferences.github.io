@@ -1,3 +1,15 @@
+- name: QA Challenge Accepted 6.0
+  location: Sofia, Bulgaria
+  dates: "September 12, 2020"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+
+  - name: SeleniumConf India 2020
+  location: Online
+  dates: "September 10-12, 2020"
+  url: https://2020.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+
 - name: German Testing Day 2020
   location: Online
   dates: "September 1-2, 2020"

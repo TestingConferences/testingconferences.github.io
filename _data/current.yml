@@ -1,17 +1,3 @@
-- name: SeleniumConf India 2020
-  location: Online
-  dates: "September 10-12, 2020"
-  url: https://2020.seleniumconf.in/?utm_source=testingconferences
-  twitter: seleniumconf
-  status: Registration is Open
-
-- name: QA Challenge Accepted 6.0
-  location: Sofia, Bulgaria
-  dates: "September 12, 2020"
-  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
-  twitter: qachallenge
-  status: Registration is Open
-
 - name: TestCon Moscow 2020
   location: Moscow, Russia
   dates: "September 15-17, 2020"
@@ -322,6 +308,13 @@
   location: Online
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
+
+- name: TestFlix Global Software Testing Binge
+  location: Online
+  dates: "November 28, 2020"
+  url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Registration is Open
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
