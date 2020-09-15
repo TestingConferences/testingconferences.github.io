@@ -16,7 +16,7 @@
   dates: "September 17, 2020"
   url: https://applitools.com/future-of-testing-north-america/?utm_source=testingconferences
   twitter: applitools
-  status: Registration is Open
+  status: Registration is Open and Free
 
 - name: WeTest.Athens 2020
   location: Athens, Greece
@@ -47,7 +47,7 @@
   location: Online
   dates: "September 25-26, 2020"
   url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
-  status: Early Bird Registration is Open until September 13, 2020
+  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Online
@@ -61,6 +61,7 @@
   dates: "September 28-October 2, 2020"
   url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
   twitter: ministryoftest
+  status: Registration Open to Pro Members for free
 
 - name: TACON 2020
   location: Online
@@ -94,7 +95,7 @@
   dates: "October 5-8, 2020"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Early Bird Registration is Open until September 4, 2020 with Free Option
+  status: Registration is Open with Free Option
 
 - name: Open Quality Confrence 2020
   location: Online
@@ -114,7 +115,7 @@
   location: Online
   dates: "October 7, 2020"
   url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
-  status: Registration is Open
+  status: RRegistration is Open with Free tier
 
 - name: TestIstanbul 2020
   location: Online & Istanbul, Turkey
@@ -151,10 +152,10 @@
   twitter: TestConEurope
   status: Registration is Open
 
-- name: TESTEXPO AND AGILE & DEVOPS EXPO 2020
+- name: TestExpo and Agile & DevOps Expo 2020
   location: Online
   dates: "October 14-16, 2020"
-  url: https://conference.unicom.co.uk/expo/2020/
+  url: https://conference.unicom.co.uk/expo/2020/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
 
@@ -237,10 +238,10 @@
   dates: "October 29, 2020"
   url: https://www.ministryoftesting.com/events/test-dot-bash-online-2020?utm_source=testingconferences
   twitter: ministryoftest
-  status: Open to Pro Members for free
+  status: Registration Open to Pro Members for free
 
 - name: Heisenbug 2020 Moscow
-  location: Moscow, Russia
+  location: Online
   dates: "November 4-7, 2020"
   url: https://heisenbug-moscow.ru/en/?utm_source=testingconferences
   twitter: HeisenbugConf
@@ -277,7 +278,7 @@
   dates: "November 16-20, 2020"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
-  status: Registration is Open
+  status: Registration is On Hold
 
 - name: EuroSTAR 2020 Software Testing Conference
   location: Online
@@ -299,15 +300,17 @@
   twitter: ministryoftest
 
 - name: Software-QS-Tag 2020
-  location: Frankfurt a.M., Germany
+  location: Frankfurt, Germany
   dates: "November 25-26, 2020"
   url: https://www.qs-tag.de/en/?utm_source=testingconferences
   twitter: SoftwareQSTag
+  status: Cancelled
 
 - name: Tesena Fest Online 2020
   location: Online
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
+  status: CFP is Open
 
 - name: TestFlix Global Software Testing Binge
   location: Online
