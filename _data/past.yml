@@ -1,3 +1,32 @@
+- name: Test Automation Days 2020
+  location: Utrecht, Netherlands
+  dates: "September 22-23, 2020"
+  url: https://www.testautomationdays.com?utm_source=testingconferences
+  twitter: testautomationd
+
+- name: WeTest.Athens 2020
+  location: Athens, Greece
+  dates: "September 17, 2020"
+  url: https://wetest-athens.gr/?utm_source=testingconferences
+  twitter: WetestA
+
+- name: The Future of Testing 2020
+  location: Online
+  dates: "September 17, 2020"
+  url: https://applitools.com/future-of-testing-north-america/?utm_source=testingconferences
+  twitter: applitools
+
+- name: Test & Quality Summit 2020
+  location: Online
+  dates: "September 16, 2020"
+  url: https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral
+  twitter: TQSummit
+
+- name: TestCon Moscow 2020
+  location: Moscow, Russia
+  dates: "September 15-17, 2020"
+  url: https://testconf.ru/?utm_source=testingconferences
+
 - name: QA Challenge Accepted 6.0
   location: Sofia, Bulgaria
   dates: "September 12, 2020"
@@ -168,7 +197,6 @@
   location: Brno, Czech Republic
   dates: "May 19, 2020"
   url: https://www.tesena.com/tesena-fest/?utm_source=testingconferences
-  status: Cancelled
 
 - name: SauceCon Online 2020
   location: Online
@@ -317,7 +345,6 @@
   location: London, UK
   dates: "March 12, 2020"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-london-2020/?utm_source=testingconferences
-  status: Registration is Open
 
 - name: JaSST'20 Tokyo
   location: Tokyo, Japan
@@ -474,6 +501,7 @@
   location: Moscow, Russia
   dates: "December 4-5, 2019"
   url: https://heisenbug-moscow.ru/?utm_source=testingconferences
+  video_url: https://www.youtube.com/playlist?list=PLsVTVVvrKX9tyVb79MeUZAox5OTInS1wE
 
 - name: The QA E-commerce Forum London 2019
   location: London, UK
@@ -501,6 +529,7 @@
   dates: "November 20-22, 2019"
   url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
   twitter: TestMastersAcad
+  video_url: https://contest-nyc.testmastersacademy.org/videos/
 
 - name: ParisTestConf 2019
   location: Paris, France
@@ -513,6 +542,7 @@
   dates: "November 15-16, 2019"
   url: https://sqadays.com?utm_source=testingconferences
   twitter: sqadays
+  video_url: https://vimeo.com/groups/623307/videos
 
 - name: The QA E-commerce Forum New York 2019
   location: New York, NY USA
@@ -618,6 +648,7 @@
   dates: "October 15-17, 2019"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
+  video_url: https://www.youtube.com/playlist?list=PLqYhGsQ9iSEp_0P0RdZZ2z9Oo39vf2v5I
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2019
   location: Portland, Oregon, USA
@@ -639,6 +670,7 @@
   location: London, UK
   dates: "October 7-8, 2019"
   url: https://2019.seleniumconf.co.uk/?utm_source=testingconferences
+  video_url: https://www.youtube.com/playlist?list=PLRdSclUtJDYXLzxGo9yjcLPDuoNGWkj6t
 
 - name: Test.bash(); 2019
   location: Manchester, UK
@@ -680,7 +712,6 @@
   location: Minsk, Belarus
   dates: "September 27, 2019"
   url: http://qaasp.tech/en?utm_source=testingconferences
-  status: Registration is Open
 
 - name: STeP-IN SUMMIT Pune (PSTC) 2019
   location: Pune, India
@@ -716,6 +747,7 @@
   location: Kyiv, Ukraine
   dates: "September 20-21, 2019"
   url: http://www.qafest.com/?utm_source=testingconferences
+  video_url: https://www.youtube.com/playlist?list=PLuOBDBq7MW70q24thB9tidD2-2Tysf8FS
 
 - name: TestBash Germany 2019
   location: Munich, Germany
@@ -855,18 +887,21 @@
   dates: "June 5-6, 2019"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
+  video_url: https://www.youtube.com/channel/UCaCnJXHUu2qg6-uhRTG2hSg
 
 - name: SQA Days - 25 2019
   location: Saint Petersburg, Russia
   dates: "May 31-June 1, 2019"
   url: https://sqadays.com/ru/index?eventId=69279
   twitter: sqadays
+  video_url: https://vimeo.com/groups/592094/videos
 
 - name: Nordic Testing Days (NTD) 2019
   location: Tallinn, Estonia
   dates: "May 29-31, 2019"
   url: http://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
+  video_url: https://www.youtube.com/playlist?list=PLF_V0R0nbO9y-yG4VtZN535cp1c2xpWEG
 
 - name: Workshop on Performance and Reliability (WOPR) 28
   location: Marseille, France
@@ -878,40 +913,36 @@
   location: Melbourne CBD, AUS
   dates: "May 24, 2019"
   url: http://attac.tech/?utm_source=testinconferences
-  status: Registration is Open
 
 - name: Accelerate San Francisco (formerly Quality Jam)
   location: San Francisco, CA, USA
   dates: "May 23-24, 2019"
   url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
   twitter: Tricentis
-  status: Registration is Open
 
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
   dates: "May 23-24, 2019"
   url: https://ti.to/mot/testbash-netherlands-2019?source=testingconferences
   twitter: ministryoftest
-  status: Registration is Open
 
 - name: National Software Testing Conference 2019
   location: London, England
   dates: "May 21-22, 2019"
   url: http://www.softwaretestingconference.com/?utm_source=testingconferences
   twitter: testmagazine
-  status: Registration is open
 
 - name: Secure Guild Online Conference 2019
   location: Online
   dates: "May 20-21, 2019"
   url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences
   twitter: AutomationGuild
-  status: Registration is Open
 
 - name: Heisenbug Piter
   location: Saint-Petersburg, Russia
   dates: "May 17-18, 2019"
   url: https://heisenbug-piter.ru?utm_source=testingconferences
+  video_url: https://www.youtube.com/playlist?list=PLsVTVVvrKX9szOL0VQbKNRGYib8Dqckg3
 
 - name: QAI QUEST 2019
   location: Chicago, IL, USA
@@ -924,7 +955,7 @@
   dates: "May 13-14, 2019"
   url: http://testinguy.org
   twitter: testingUY
-  video_url: https://www.youtube.com/watch?v=rQIWY4KgBqo&list=PLLjZRlRbO78vorqTndmCSCYJnGQhSqVmD
+  video_url: https://www.youtube.com/playlist?list=PLLjZRlRbO78vorqTndmCSCYJnGQhSqVmD
 
 - name: IEEE DTS 2019
   location: Gammarth, Tunisia
@@ -936,6 +967,7 @@
   dates: "April 29-May 1, 2019"
   url: https://evntestingdays.com?utm_source=testingconferences
   twitter: evntestingdays
+  video_url: https://www.youtube.com/playlist?list=PLVDq_bBMeqo3CvumRw231DzWMOepoShIL
 
 - name: STAREAST 2019
   location: Orlando, Florida, USA
@@ -984,6 +1016,7 @@
   dates: "April 18-19, 2019"
   url: https://conf.selenium.jp/?utm_source=testingconferences
   twitter: seleniumconf
+  video_url: https://www.youtube.com/playlist?list=PLItJNH7uWaWDm7saQ9xXDYn4msTARDI-M
 
 - name: TestIstanbul 2019
   location: Istanbul, Turkey
@@ -1048,11 +1081,16 @@
   url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
   twitter: ministryoftest
 
+- name: TestCon Moscow 2019
+  location: Moscow, Russia
+  dates: "April 18-19, 2018"
+  url: http://testconf.ru/
+  video_url: https://www.youtube.com/playlist?list=PLqYhGsQ9iSErkxMxToeOgxa5eJnpV2laj
+
 - name: The QA Financial Forum Chicago 2019
   location: Chicago, IL, USA
   dates: "April 2, 2019"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2019?utm_source=testingconferences
-  status: Registration is open
 
 - name: STPCon Spring 2019
   location: San Francisco, CA, USA
@@ -1071,6 +1109,7 @@
   dates: "March 22-23, 2019"
   url: https://sqadays.eu/en/index?eventId=57812
   twitter: sqadays
+  video_url: https://vimeo.com/channels/1447283/videos
 
 - name: Swiss Testing Day 2019
   location: Zurich, Switzerland
@@ -1495,7 +1534,6 @@
   location: Online
   dates: "June 20-22, 2018"
   url: https://guildconferences.com/product/testing-guild-2018-online-ticket/
-  status: Registration is open
 
 - name: Test Automation Day 2018
   location: Rotterdam, the Netherlands
@@ -2246,14 +2284,12 @@
   dates: "February 24-25, 2017"
   url: http://seleniumcamp.com/
   twitter: seleniumcamp
-  status: Registration is open
 
 - name: Conference for the Association for Software Testing (CASTx) 17
   location: Sydney, Australia
   dates: "February 20-21, 2017"
   url: https://www.associationforsoftwaretesting.org/conference/castx17/packages-and-pricing/
   twitter: AST_News
-  status: Registration is open
 
 - name: Workshop on Performance and Reliability (WOPR) 25
   location: Wellington, New Zealand
@@ -2272,7 +2308,6 @@
   dates: "February 7, 2017"
   url: https://qaorthehighway.com/
   twitter: QAortheHighway
-  status: Registration is open
 
 - name: Dutch Exploratory Workshop on Testing (DEWT) 7
   location: Driebergen, the Netherlands
@@ -2316,7 +2351,6 @@
   dates: "November 29-30, 2016"
   url: http://www.onlinetestconf.com/
   twitter: OnlineTestConf
-  status: Registration is open
   video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfG6dxeLw8vrHQGu9Yt4gwp-
 
 - name: Agile & Automation Days 2016
@@ -2492,21 +2526,18 @@
   dates: "September 15-16, 2016"
   url: http://seetest.org/index.php
   twitter: SEETESTConf
-  status: Registration is closed
 
 - name: TestWest (TESTWEST) 2016
   location: Perth, Western Australia
   dates: "September 15, 2016"
   url: http://www.testwest.org
   twitter: TestWestWA
-  status: Registration is closed
 
 - name: SoCraTes 2016
   location: Soltau, Germany
   dates: "August 25-28, 2016"
   url: https://www.socrates-conference.de/
   twitter: socrates_2016
-  status: Registration is closed
 
 - name: Conference for the Association for Software Testing (CAST) 2016
   location: Vancouver, BC, Canada
