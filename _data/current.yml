@@ -1,20 +1,3 @@
-- name: QA Financial Digital Forum USA 2020
-  location: Online
-  dates: "September 23-24, 2020"
-  url: https://qamedia.eventsair.com/usa-digital-forum/register
-  status: Registration is Open with Free Option
-
-- name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
-  location: Online
-  dates: "September 24-25, 2020"
-  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
-
-- name: TestCon 2020 Virtual
-  location: Online
-  dates: "September 25-26, 2020"
-  url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: Romanian Testing Conference
   location: Online
   dates: "September 28-October 1, 2020"

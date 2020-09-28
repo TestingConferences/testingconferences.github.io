@@ -1,3 +1,18 @@
+- name: TestCon 2020 Virtual
+  location: Online
+  dates: "September 25-26, 2020"
+  url: https://www.clavent.com/testcon-2020-bangalore/?utm_source=testingconferences
+
+- name: ICSTPMA 2020 - International Conference on Software Testing Process, Methods and Approaches
+  location: Online
+  dates: "September 24-25, 2020"
+  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2020-in-london/?utm_source=testingconferences
+
+- name: QA Financial Digital Forum USA 2020
+  location: Online
+  dates: "September 23-24, 2020"
+  url: https://qamedia.eventsair.com/usa-digital-forum/register
+
 - name: Test Automation Days 2020
   location: Utrecht, Netherlands
   dates: "September 22-23, 2020"
