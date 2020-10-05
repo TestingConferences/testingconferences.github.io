@@ -23,7 +23,7 @@
   location: Online
   dates: "October 7, 2020"
   url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
-  status: RRegistration is Open with Free tier
+  status: Registration is Open with Free tier
 
 - name: TestIstanbul 2020
   location: Online & Istanbul, Turkey
@@ -42,7 +42,7 @@
 - name: TestBash Netherlands Online 2020
   location: Online
   dates: "October 12-16, 2020"
-  url: https://ti.to/mot/testbash-netherlands-online-2020?source=testingconferences
+  url: https://ti.to/mot/testbash-netherlands-online-2020-workshops-day?source=testingconferences
   twitter: ministryoftest
   status: Super Early Bird Registration is Open until Sold Out
 
@@ -71,7 +71,7 @@
   location: Online
   dates: "October 16, 2020"
   url: https://qaasp.tech
-  status: Registration is Open, CFP is Open
+  status: Registration is Open
 
 - name: Quality Assurance Day
   location: Online
