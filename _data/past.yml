@@ -1,3 +1,38 @@
+- name: SEETEST 2020 Virtual Edition
+  location: Online
+  dates: "October 1-2, 2020"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+
+- name: InflectraCon Virtual
+  location: Online
+  dates: "September 29-October 2, 2020"
+  url: https://www.inflectracon.com/home-2020?utm_source=testingconferences
+  twitter: InflectraCon
+
+- name: STPCon Virtual Conference 2020
+  location: Online
+  dates: "September 29-30, 2020"
+  url: https://www.stpcon.com/pricing-virtual-2020/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+
+- name: TACON 2020
+  location: Online
+  dates: "September 29-30, 2020"
+  url: https://tacon-konferenz.de/?utm_source=testingconferences
+
+- name: TestBash Manchester Online
+  location: Online
+  dates: "September 28-October 2, 2020"
+  url: https://ti.to/mot/testbash-manchester-online-2020?source=testingconferences
+  twitter: ministryoftest
+
+- name: Romanian Testing Conference
+  location: Online
+  dates: "September 28-October 1, 2020"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+
 - name: TestCon 2020 Virtual
   location: Online
   dates: "September 25-26, 2020"
