@@ -26,7 +26,7 @@
   status: Registration is Open with Free tier
 
 - name: TestIstanbul 2020
-  location: Online & Istanbul, Turkey
+  location: Online
   dates: "October 8, 2020"
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul 
@@ -93,10 +93,10 @@
   twitter: testguilds
   status: Registration is Open
 
-- name: Accelerate Vienna 2020
+- name: Tricentis Virtual Summit 2020
   location: Online
   dates: "October 20-22, 2020"
-  url: https://www.tricentis.com/accelerate/vienna/?utm_source=testingconferences
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
   twitter: Tricentis
   status: Registration is Open
 
