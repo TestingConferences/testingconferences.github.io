@@ -1,3 +1,20 @@
+- name: QA Financial Digital Forum France 2020
+  location: Online
+  dates: "October 7, 2020"
+  url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
+
+- name: National Software Testing Conference 2020
+  location: London, England
+  dates: "October 6-7, 2020"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+
+- name: Open Quality Conference 2020
+  location: Online
+  dates: "October 5-7, 2020"
+  url: https://openqualityconf.com/?utm_source=testingconferences
+  twitter: oqconf
+
 - name: SEETEST 2020 Virtual Edition
   location: Online
   dates: "October 1-2, 2020"

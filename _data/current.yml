@@ -5,26 +5,6 @@
   twitter: techwell
   status: Registration is Open with Free Option
 
-- name: Open Quality Conference 2020
-  location: Online
-  dates: "October 5-7, 2020"
-  url: https://openqualityconf.com/?utm_source=testingconferences
-  twitter: oqconf
-  status: Registration is Open
-
-- name: National Software Testing Conference 2020
-  location: London, England
-  dates: "October 6-7, 2020"
-  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
-  twitter: testmagazine
-  status: Registration is Open
-
-- name: QA Financial Digital Forum France 2020
-  location: Online
-  dates: "October 7, 2020"
-  url: https://www.eventbrite.co.uk/e/qa-financial-digital-forum-france-2020-tickets-112987081402?aff=STC
-  status: Registration is Open with Free tier
-
 - name: TestIstanbul 2020
   location: Online
   dates: "October 8, 2020"
@@ -53,8 +33,8 @@
   twitter: AnkaraTD
   status: Registration is Open
   
-- name: TestCon Europe 2020 Hybrid Edition
-  location: Online or Vilnius, Lithuania
+- name: TestCon Europe 2020 Online Edition
+  location: Online
   dates: "October 13-15, 2020"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
@@ -70,7 +50,7 @@
 - name: QAASP
   location: Online
   dates: "October 16, 2020"
-  url: https://qaasp.tech
+  url: https://qaasp.tech?utm_source=testingconferences
   status: Registration is Open
 
 - name: Quality Assurance Day
@@ -112,21 +92,21 @@
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2020-in-london/?utm_source=testingconferences
 
 - name: TAIC PART 2020
-  location: Porto, Portugal
+  location: Porto, Portugal & Online
   dates: "October 24, 2020"
   url: http://www2020.taicpart.org/?utm_source=testingconferences
   twitter: icstconference
   status: Registration is Open
 
 - name: 9th International Workshop on Combinatorial Testing (IWCT) 2020
-  location: Porto, Portugal
+  location: Porto, Portugal & Online
   dates: "October 24, 2020"
   url: https://conf.researchr.org/home/iwct-2020?utm_source=testingconferences
   twitter: icstconference
   status: Registration is Open
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
-  location: Porto, Portugal
+  location: Porto, Portugal & Online
   dates: "October 24-28, 2020"
   url: https://icst2020.info/?utm_source=testingconferences
   twitter: icstconference
@@ -172,7 +152,7 @@
   dates: "November 5-6, 2020"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Registration is Open
+  status: Registration is Open. Black Friday sale until October 10, 2020. 
 
 - name: SQA Days - 27 2020
   location: Moscow, Russia
@@ -182,11 +162,11 @@
   status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2020
-  location: Potsdam, Germany & Online
-  dates: "November 8-13, 2020"
+  location: Online
+  dates: "November 10-12, 2020"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Registration is Open. On-site tickets are limited. 
+  status: Registration is Open
 
 - name: ASQT 2020
   location: Bolzano, Italy
@@ -205,7 +185,7 @@
   dates: "November 17-19, 2020"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Pricing is Open until September 30, 2020
+  status: Registration is Open
 
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
@@ -230,20 +210,20 @@
   location: Online
   dates: "November 25-26, 2020"
   url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
-  status: CFP is Open
+  status: Registration is Open
 
 - name: TestFlix Global Software Testing Binge
   location: Online
   dates: "November 28, 2020"
   url: https://www.thetesttribe.com/testflix?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Registration is Open
+  status: Registration is Open & Free
 
 - name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
   location: London, UK
   dates: "December 9, 2020"
   url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
-  status: Registration is Open
+  status: Early Bird Registration is Open until October 30, 2020
 
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
@@ -377,8 +357,15 @@
   dates: "October 21-22, 2021"
   url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/?utm_source=testingconferences
 
+- name: ASQT 2021
+  location: Bolzano, Italy
+  dates: "November 11, 2021"
+  url: http://www.asqt.org/?utm_source=testingconferences
+  status: Announced
+
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
+  status: Announced
