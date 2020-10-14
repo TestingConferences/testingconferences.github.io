@@ -1,3 +1,15 @@
+- name: TestIstanbul 2020
+  location: Online
+  dates: "October 8, 2020"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul 
+
+- name: STARWEST 2020 Virtual+
+  location: Online
+  dates: "October 5-8, 2020"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: QA Financial Digital Forum France 2020
   location: Online
   dates: "October 7, 2020"
