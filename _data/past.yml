@@ -1,3 +1,31 @@
+- name: Let's Test (South Africa)
+  location: Cape Town, South Africa
+  dates: "October 18-20, 2020"
+  url: http://lets-test.com/?page_id=5881?utm_source=testingconferences
+  twitter: lets_test
+
+- name: Quality Assurance Day
+  location: Online
+  dates: "October 17, 2020"
+  url: https://online.qaday.org/?utm_source=testingconferences
+
+- name: QAASP
+  location: Online
+  dates: "October 16, 2020"
+  url: https://qaasp.tech?utm_source=testingconferences
+
+- name: TestExpo and Agile & DevOps Expo 2020
+  location: Online
+  dates: "October 14-16, 2020"
+  url: https://conference.unicom.co.uk/expo/2020/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: TestBash Netherlands Online 2020
+  location: Online
+  dates: "October 12-16, 2020"
+  url: https://ti.to/mot/testbash-netherlands-online-2020-workshops-day?source=testingconferences
+  twitter: ministryoftest
+
 - name: TestCon Europe 2020 Online Edition
   location: Online
   dates: "October 13-15, 2020"
