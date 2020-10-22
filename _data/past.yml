@@ -1,3 +1,22 @@
+- name: Argentesting 2020
+  location: Buenos Aires, Argentina
+  dates: "October 21, 2020"
+  url: https://argentesting.com?utm_source=testingconferences
+  status: Cancelled
+
+- name: Tricentis Virtual Summit 2020
+  location: Online
+  dates: "October 20-22, 2020"
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
+  twitter: Tricentis
+  video_url: https://www.tricentis.com/virtual-summit-highlights/?utm_source=testingconferences
+
+- name: Secure Guild Online Conference 2020
+  location: Online
+  dates: "October 19-20, 2020"
+  url: https://guildconferences.com/conference/secureguild-2020/?utm_source=testingconferences
+  twitter: testguilds
+
 - name: Let's Test (South Africa)
   location: Cape Town, South Africa
   dates: "October 18-20, 2020"
