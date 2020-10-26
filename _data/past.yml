@@ -1,3 +1,20 @@
+- name: 9th International Workshop on Combinatorial Testing (IWCT) 2020
+  location: Porto, Portugal & Online
+  dates: "October 24, 2020"
+  url: https://conf.researchr.org/home/iwct-2020?utm_source=testingconferences
+  twitter: icstconference
+
+- name: TAIC PART 2020
+  location: Porto, Portugal & Online
+  dates: "October 24, 2020"
+  url: http://www2020.taicpart.org/?utm_source=testingconferences
+  twitter: icstconference
+
+- name: ICSSTVV 2020 - International Conference on Software System Testing, Validation and Verification
+  location: Online
+  dates: "October 22-23, 2020"
+  url: https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2020-in-london/?utm_source=testingconferences
+
 - name: Argentesting 2020
   location: Buenos Aires, Argentina
   dates: "October 21, 2020"
