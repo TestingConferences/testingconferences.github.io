@@ -1,3 +1,21 @@
+- name: InSTA 2020 - International Workshop on Software Test Architecture
+  location: Online
+  dates: "October 28, 2020"
+  url: http://aster.or.jp/workshops/insta2020/?utm_source=testingconferences
+  twitter: icstconference
+
+- name: Quest for Quality 2020
+  location: Online
+  dates: "October 27-28, 2020"
+  url: http://questforquality.eu/?utm_source=testingconferences
+  twitter: Quest_4_Quality
+
+- name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
+  location: Porto, Portugal & Online
+  dates: "October 24-28, 2020"
+  url: https://icst2020.info/?utm_source=testingconferences
+  twitter: icstconference
+
 - name: 9th International Workshop on Combinatorial Testing (IWCT) 2020
   location: Porto, Portugal & Online
   dates: "October 24, 2020"
