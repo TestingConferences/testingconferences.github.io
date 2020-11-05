@@ -10,7 +10,7 @@
   dates: "November 5-6, 2020"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Registration is Open. Black Friday sale until October 10, 2020. 
+  status: Registration is Closed
 
 - name: SQA Days - 27 2020
   location: Moscow, Russia
@@ -115,6 +115,13 @@
   dates: "January 28-29, 2021"
   url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
+
+- name: Automation Guild Online Conference 2021
+  location: Online
+  dates: "February 8-12, 2020"
+  url: https://guildconferences.com/ag-2021/?utm_source=testingconferences
+  twitter: testguilds
+  status: Early Bird Registration is Open until November 14, 2020
 
 - name: ICQAST 2021 - International Conference on Quality Assurance and Software Testing
   location: London, England, UK
