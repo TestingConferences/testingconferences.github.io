@@ -64,6 +64,13 @@
   url: https://ti.to/mot/testbash-new-zealand-online-2020?source=testingconferences
   twitter: ministryoftest
 
+- name: Paris Test Conf 2020
+  location: Online
+  dates: "November 23-26, 2020"
+  url: https://paristestconf.com/programme
+  twitter: ParisTestConf
+  status: Registration is Open and Free
+
 - name: Software-QS-Tag 2020
   location: Frankfurt, Germany
   dates: "November 25-26, 2020"
