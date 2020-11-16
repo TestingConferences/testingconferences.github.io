@@ -1,22 +1,3 @@
-- name: Agile Testing Days (ATD) 2020
-  location: Online
-  dates: "November 10-12, 2020"
-  url: https://agiletestingdays.com/?utm_source=testingconferences
-  twitter: AgileTD
-  status: Registration is Open
-
-- name: ASQT 2020
-  location: Bolzano, Italy
-  dates: "November 11, 2020"
-  url: http://www.asqt.org/?utm_source=testingconferences
-
-- name: ConTEST NYC 2020
-  location: New York, NY, USA
-  dates: "November 16-20, 2020"
-  url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
-  twitter: TestMastersAcad
-  status: Registration is On Hold
-
 - name: EuroSTAR 2020 Software Testing Conference
   location: Online
   dates: "November 17-19, 2020"
