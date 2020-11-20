@@ -52,12 +52,6 @@
   twitter: QAISTC
   status: Registration is Open
 
-- name: The AI and Automation for Mobile Banking and E-commerce Forum 2020
-  location: London, UK
-  dates: "December 9, 2020"
-  url: https://www.qa-financial.com/events/the-ai-and-automation-for-mobile-banking-and-e-commerce-forum-2020?utm_source=testingconferences
-  status: Early Bird Registration is Open until October 30, 2020
-
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
   dates: "January 21-22, 2021"
@@ -69,6 +63,12 @@
   dates: "January 28-29, 2021"
   url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
+
+- name: The QA Financial Digital Forum Milano 2021
+  location: New York, NY, USA
+  dates: "February 3-4, 2021"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-milano-2021?utm_source=testingconferences
+  status: Registration is Open
 
 - name: Automation Guild Online Conference 2021
   location: Online
@@ -82,6 +82,11 @@
   dates: "February 15-16, 2021"
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
+
+- name: The QA Financial Forum New York 2021
+  location: New York, NY, USA
+  dates: "March 11, 2021"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
 - name: SAC-SVT 2021 - Software Verification and Testing Track at SAC 2021
   location: Gwangju, Korea
