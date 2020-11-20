@@ -1,3 +1,15 @@
+- name: The QA Financial Forum New York 2020
+  location: New York, NY, USA
+  dates: "November 18, 2020"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
+  status: Registration is Open
+
+- name: EuroSTAR 2020 Software Testing Conference
+  location: Online
+  dates: "November 17-19, 2020"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
 - name: ConTEST NYC 2020
   location: New York, NY, USA
   dates: "November 16-20, 2020"
