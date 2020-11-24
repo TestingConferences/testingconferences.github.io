@@ -94,6 +94,11 @@
   dates: "March 11, 2021"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
+- name: JaSST'21 Tokyo
+  location: Tokyo, Japan
+  dates: "March 15-16, 2021"
+  url: http://www.jasst.jp/symposium/jasst21tokyo.html
+
 - name: SAC-SVT 2021 - Software Verification and Testing Track at SAC 2021
   location: Gwangju, Korea
   dates: "March 22-26, 2021"
