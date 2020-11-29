@@ -1,3 +1,38 @@
+- name: TestFlix Global Software Testing Binge
+  location: Online
+  dates: "November 28, 2020"
+  url: https://www.thetesttribe.com/testflix?utm_source=testingconferences
+  twitter: the_test_tribe
+
+- name: Tesena Fest Online 2020
+  location: Online
+  dates: "November 25, 2020"
+  url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
+
+- name: Software-QS-Tag 2020
+  location: Frankfurt, Germany
+  dates: "November 25-26, 2020"
+  url: https://www.qs-tag.de/en/?utm_source=testingconferences
+  twitter: SoftwareQSTag
+
+- name: Paris Test Conf 2020
+  location: Online
+  dates: "November 23-26, 2020"
+  url: https://paristestconf.com/programme?utm_source=testingconferences
+  twitter: ParisTestConf
+
+- name: TestBash New Zealand Online 2020
+  location: Online
+  dates: "November 20, 2020"
+  url: https://ti.to/mot/testbash-new-zealand-online-2020-conference-day?source=testingconferences
+  twitter: ministryoftest
+
+- name: Intelligent Testing Virtual Summit 2020
+  location: Online
+  dates: "November 19-20, 2020"
+  url: https://www.testingmind.com/event/intelligenttestingsummit20-usawestcoast-virtual?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: The QA Financial Forum New York 2020
   location: New York, NY, USA
   dates: "November 18, 2020"

@@ -1,50 +1,3 @@
-- name: Agile,DevOps & Testing - The Evolving Scene
-  location: Online
-  dates: "February 18-19, 2021"
-  url: https://www.unicomlearning.com/2021/Agile-DevOps-&-Testing/
-  twitter: UNICOMLearning
-  status: Registration is Open
-
-- name: Intelligent Testing Virtual Summit 2020
-  location: Online
-  dates: "November 19-20, 2020"
-  url: https://www.testingmind.com/event/intelligenttestingsummit20-usawestcoast-virtual?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open and Free
-
-- name: TestBash New Zealand Online 2020
-  location: Online
-  dates: "November 20, 2020"
-  url: https://ti.to/mot/testbash-new-zealand-online-2020-conference-day?source=testingconferences
-  twitter: ministryoftest
-
-- name: Paris Test Conf 2020
-  location: Online
-  dates: "November 23-26, 2020"
-  url: https://paristestconf.com/programme?utm_source=testingconferences
-  twitter: ParisTestConf
-  status: Registration is Closed
-
-- name: Software-QS-Tag 2020
-  location: Frankfurt, Germany
-  dates: "November 25-26, 2020"
-  url: https://www.qs-tag.de/en/?utm_source=testingconferences
-  twitter: SoftwareQSTag
-  status: Cancelled
-
-- name: Tesena Fest Online 2020
-  location: Online
-  dates: "November 25, 2020"
-  url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
-  status: Registration is Open & Free
-
-- name: TestFlix Global Software Testing Binge
-  location: Online
-  dates: "November 28, 2020"
-  url: https://www.thetesttribe.com/testflix?utm_source=testingconferences
-  twitter: the_test_tribe
-  status: Registration is Open & Free
-
 - name: Fall OnlineTestConf 2020
   location: Online
   dates: "December 1-3, 2020"
@@ -96,15 +49,27 @@
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
 
+- name: Agile, DevOps & Testing - The Evolving Scene
+  location: Online
+  dates: "February 18-19, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  status: Registration is Open
+
 - name: The QA Financial Forum New York 2021
   location: New York, NY, USA
   dates: "March 11, 2021"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
+- name: JaSST'21 Tokyo
+  location: Tokyo, Japan
+  dates: "March 15-16, 2021"
+  url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
+
 - name: SAC-SVT 2021 - Software Verification and Testing Track at SAC 2021
   location: Gwangju, Korea
   dates: "March 22-26, 2021"
-  url: https://sites.google.com/view/svt2021/
+  url: https://sites.google.com/view/svt2021/?utm_source=testingconferences
   status: CFP is Open Until September 15, 2020 (check the website for possible extensions)
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
@@ -116,6 +81,12 @@
   location: Bratislava, Slovakia
   dates: "April 14-15, 2021"
   url: http://sanae.beer?utm_source=testingconferences
+
+- name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
+  location: Rennes, France / Virtual
+  dates: "April 19 or 20, 2021"
+  url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
+  status: CFP is Open until January 10, 2021 for papers and January 31, 2021 for presentations
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
