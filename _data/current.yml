@@ -70,6 +70,12 @@
   dates: "April 14-15, 2021"
   url: http://sanae.beer?utm_source=testingconferences
 
+- name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
+  location: Rennes, France / Virtual
+  dates: "April 19 or 20, 2021"
+  url: http://ltb2021.eecs.yorku.ca/
+  status: CFP is Open until January 10, 2021 for papers and January 31, 2021 for presentations
+
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
   dates: "April 22-23, 2021"
