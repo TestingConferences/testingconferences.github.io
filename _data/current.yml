@@ -49,6 +49,13 @@
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
   status: CFP is Open Until December 30, 2020
 
+- name: Agile, DevOps & Testing - The Evolving Scene
+  location: Online
+  dates: "February 18-19, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  status: Registration is Open
+
 - name: The QA Financial Forum New York 2021
   location: New York, NY, USA
   dates: "March 11, 2021"
@@ -57,12 +64,12 @@
 - name: JaSST'21 Tokyo
   location: Tokyo, Japan
   dates: "March 15-16, 2021"
-  url: http://www.jasst.jp/symposium/jasst21tokyo.html
+  url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
 
 - name: SAC-SVT 2021 - Software Verification and Testing Track at SAC 2021
   location: Gwangju, Korea
   dates: "March 22-26, 2021"
-  url: https://sites.google.com/view/svt2021/
+  url: https://sites.google.com/view/svt2021/?utm_source=testingconferences
   status: CFP is Open Until September 15, 2020 (check the website for possible extensions)
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
@@ -78,7 +85,7 @@
 - name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
   location: Rennes, France / Virtual
   dates: "April 19 or 20, 2021"
-  url: http://ltb2021.eecs.yorku.ca/
+  url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
   status: CFP is Open until January 10, 2021 for papers and January 31, 2021 for presentations
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
