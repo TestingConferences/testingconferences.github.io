@@ -88,6 +88,13 @@
   url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
   status: CFP is Open until January 10, 2021 for papers and January 31, 2021 for presentations
 
+- name: SauceCon Online 2021
+  location: Online
+  dates: "April 20-22, 2021"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+  status: CFP is Open until January 17, 2021
+
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
   dates: "April 22-23, 2021"
