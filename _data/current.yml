@@ -27,7 +27,7 @@
   dates: "February 8-12, 2020"
   url: https://guildconferences.com/ag-2021/?utm_source=testingconferences
   twitter: testguilds
-  status: Early Bird Registration is Open until November 14, 2020
+  status: Early Bird Registration is Open until December 28, 2020
   
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
@@ -58,8 +58,15 @@
   location: Tokyo, Japan
   dates: "March 15-16, 2021"
   url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
-  
-- name: Agile,DevOps & Testing - The Evolving Scene
+
+- name: QA & TEST Safety and Security Online
+  location: Online
+  dates: "March 17-18, 2021"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: CFP is Open until January 15, 2021
+
+- name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
   dates: "March 18-19, 2021"
   url: https://www.unicomlearning.com/2021/ADT-March/
@@ -70,7 +77,6 @@
   location: Gwangju, Korea
   dates: "March 22-26, 2021"
   url: https://sites.google.com/view/svt2021/?utm_source=testingconferences
-  status: CFP is Open Until September 15, 2020 (check the website for possible extensions)
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
   location: Porto de Galinhas, Pernambuco, Brazil
@@ -101,11 +107,17 @@
   url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
   status: CFP is Open until December 30, 2020
 
+- name: STAREAST 2021
+  location: Orlando, Florida, USA
+  dates: "April 15-30, 2001"
+  url: https://stareast.techwell.com?utm_source=testingconferences
+  twitter: TechWell
+
 - name: SQA Days - 28
   location: St. Petersburg, Russia
   dates: "May 21-22, 2021"
   url: https://sqadays.com/en/index?eventId=82473?utm_source=testingconferences
-  status: CFP is Open
+  status: CFP is Open until December 30, 2020
 
 - name: ICSSTA 2021 - International Conference on Software System Testing and Applications
   location: London, UK
@@ -198,6 +210,24 @@
   dates: "November 11, 2021"
   url: http://www.asqt.org/?utm_source=testingconferences
   status: Announced
+
+- name: Agile Testing Days (ATD) 2021
+  location: Online
+  dates: "November 15-18, 2021"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: CFP to be announced in January
+
+- name: TestingUY 2021
+  location: TBD
+  dates: "TBD"
+  url: http://testinguy.org
+  twitter: testingUY
+
+- name: Software Quality Days 2022
+  location: Vienna, Austria
+  dates: "January 18-20, 2022"
+  url: https://www.software-quality-days.com/?utm_source=testingconferences
 
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
