@@ -1,9 +1,3 @@
-- name: Software Quality Days 2021
-  location: Vienna, Austria
-  dates: "January 19-21, 2021"
-  url: https://www.software-quality-days.com/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
   dates: "January 21-22, 2021"
@@ -24,7 +18,7 @@
 
 - name: Automation Guild Online Conference 2021
   location: Online
-  dates: "February 8-12, 2020"
+  dates: "February 8-12, 2021"
   url: https://guildconferences.com/ag-2021/?utm_source=testingconferences
   twitter: testguilds
   status: Early Bird Registration is Open until December 28, 2020

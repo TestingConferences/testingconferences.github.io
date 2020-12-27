@@ -21,16 +21,10 @@ As we saw (unexpectdly) in 2020, I project most conferences and workshops of 202
 
 # The following is a list of the best software testing conferences and workshops of 2021:
 
-## January
-
-- [Software Quality Days 2020](https://www.software-quality-days.com/?utm_source=testingconferences) in Vienna, Austria from January 14-17, 2020.
-- [DEWT #9](https://dewt.wordpress.com/2020/08/05/dewt-9-announcement/) in Driebergen, the Netherlands from January 31, 2020 - February 2, 2020.
 
 ## February
 
-- [Automation Guild Online Conference 2020](https://guildconferences.com/conferences/automation-2020/?utm_source=testingconferences) is an online conference from February 3-5, 2020.
-- [European Testing Conference 2020](http://europeantestingconference.eu/2020?utm_source=testingconferences) in Valencia, Spain from February 6-7, 2020.
-- [QA or the Highway 2020](https://www.qaorthehighway.com/?utm_source=testingconferences) in Columbus, OH, USA on February 25, 2020.
+- [Automation Guild Online Conference 2021](https://guildconferences.com/conferences/automation-2020/?utm_source=testingconferences) is an online conference from February 8-12, 2021.
 
 ## March
 
