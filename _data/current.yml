@@ -144,7 +144,14 @@
   url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
   twitter: Itastqb
 
-- name: Agile Testing Days USA 2021
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Dusseldorf, Germany
+  dates: "June 9-10, 2021"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+  status: Announced
+
+- name: Agile Testing Days (ATD) USA 2021
   location: Chicago, IL, USA
   dates: "June 20-24, 2021"
   url: https://agiletestingdays.us/?utm_source=testingconferences
