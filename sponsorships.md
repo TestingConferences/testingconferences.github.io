@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /sponsorships/
-last_modified_at:   2020-04-11 23:53:00
+last_modified_at:   2021-01-05 13:02:00
 ---
 
 **Sponsoring Us**
 
 As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will allow us to bring in other people (professionals) to help design and make the site better over all.
-
-_One day we hope to have free swag for anyone who wants it!_
 
 **What comes with Sponsorship?**
 
@@ -19,22 +17,6 @@ Sponsors get promotion through banner across the top of this site and mention in
 Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
-  <tr>
-    <td>September 2020</td>
-    <td>EuroSTAR 2020</td>
-  </tr>
-  <tr>
-    <td>October 2020</td>
-    <td>Testing United 2020</td>
-  </tr>
-  <tr>
-    <td>November 2020</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>December 2020</td>
-    <td>TBD</td>
-  </tr>
   <tr>
     <td>January 2021</td>
     <td>TBD</td>
