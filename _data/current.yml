@@ -5,12 +5,6 @@
   twitter: techwell
   status: Registration is Open
 
-- name: Software Quality Days 2021
-  location: Vienna, Austria
-  dates: "January 19-21, 2021"
-  url: https://www.software-quality-days.com/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
   dates: "January 21-22, 2021"
@@ -102,7 +96,6 @@
   location: Rennes, France / Virtual
   dates: "April 19 or 20, 2021"
   url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
-  status: CFP is Open until January 10, 2021 for papers and January 31, 2021 for presentations
 
 - name: SauceCon Online 2021
   location: Online
@@ -214,6 +207,13 @@
   url: https://kwsqa.org?utm_source=testingconferences
   twitter: kwsqa
 
+- name: STARWEST 2021
+  location: Anaheim, CA, USA
+  dates: "October 3-8, 2021"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+  status: CFP is Open until February 14, 2021
+
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
   dates: "October 21-22, 2021"
@@ -237,6 +237,12 @@
   dates: "TBD"
   url: http://testinguy.org
   twitter: testingUY
+
+- name: Software Quality Days 2022
+  location: Vienna, Austria
+  dates: "January 2022"
+  url: https://www.software-quality-days.com/?utm_source=testingconferences
+  status: Announcement scheduled for May
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
