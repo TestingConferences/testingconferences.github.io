@@ -162,6 +162,20 @@
   location: London, UK
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
+  
+- name: DevOps Fusion
+  location: Zurich, Switzerland
+  dates: "June 30, 2021"
+  url: https://devops-fusion.com/
+  twitter: @DevOpsFusion
+  status: Registration is Open
+  
+- name: Swiss Testing Day
+  location: Zurich, Switzerland
+  dates: "June 30, 2021"
+  url: https://swisstestingday.ch/
+  twitter: @SwissTesting
+  status: Registration is Open  
 
 - name: ICTSS 2021 - International Conference on Testing Software and Systems
   location: New York, NY, USA
