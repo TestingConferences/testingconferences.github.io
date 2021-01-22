@@ -30,7 +30,7 @@
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
   dates: "February 10-11, 2021"
-  url: https://conference.unicom.co.uk/adt2021/feb1/
+  url: https://conference.unicom.co.uk/adt2021/feb1/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
 
@@ -39,12 +39,26 @@
   dates: "February 15-16, 2021"
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
 
+- name: ConTEST 2021 Winter Conference
+  location: Online
+  dates: "February 17-19, 2021"
+  url: https://contest2021.sched.com/event/h9k4?utm_source=testingconferences
+  twitter: TestMastersAcad
+  status: Registration is Open & Free
+
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
   dates: "February 18-19, 2021"
   url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
+
+- name: ConTEST 2021 Winter Tutorials
+  location: Online
+  dates: "February 22-26, 2021"
+  url: https://contest2021.sched.com/event/h9k4?utm_source=testingconferences
+  twitter: TestMastersAcad
+  status: Early Birday Registration is Open until February 7, 2021
 
 - name: The QA Financial Forum New York 2021
   location: New York, NY, USA
@@ -260,14 +274,9 @@
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
-  dates: "January 2022"
-  url: https://www.software-quality-days.com/?utm_source=testingconferences
-  status: Announcement scheduled for May
-
-- name: Software Quality Days 2022
-  location: Vienna, Austria
   dates: "January 18-20, 2022"
   url: https://www.software-quality-days.com/?utm_source=testingconferences
+  status: Announcement scheduled for May
 
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
