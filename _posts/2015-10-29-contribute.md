@@ -9,7 +9,9 @@ last_modified_at:   2020-02-23 08:00:00
 ---
 Welcome to [TestingConferences.org](http://testingconferences.org), a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 
-"[P]ublished collaboratively with the testing community." => This means we need **your help** to build and maintain this list.
+> "[P]ublished collaboratively with the testing community." <br>
+
+This means we need **your help** to build and maintain this list.
 
 **Contributing**
 

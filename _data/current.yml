@@ -1,31 +1,26 @@
-- name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
-  location: London, England, UK
-  dates: "January 21-22, 2021"
-  url: https://waset.org/software-testing-types-and-process-conference-in-january-2021-in-london/?utm_source=testingconferences
-
 - name: Test JS Summit
-  location: New York, NY, USA
+  location: Online
   dates: "January 28-29, 2021"
   url: https://www.testjssummit.com/?utm_source=testingconferences
   status: Registration is Open
 
 - name: ICSMQM 2021 - International Conference on Software Metrics and Quality Management
-  location: New York, NY, USA
+  location: Online
   dates: "January 28-29, 2021"
   url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
 
 - name: The QA Financial Digital Forum Milano 2021
-  location: New York, NY, USA
-  dates: "February 3-4, 2021"
+  location: Online
+  dates: "February 3, 2021"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-milano-2021?utm_source=testingconferences
-  status: Registration is Open
+  status: Registration is Open & Free
 
 - name: Automation Guild Online Conference 2021
   location: Online
   dates: "February 8-12, 2021"
   url: https://guildconferences.com/ag-2021/?utm_source=testingconferences
   twitter: testguilds
-  status: Early Bird Registration is Open until January 17, 2021
+  status: Early Bird Registration is Open until January 31, 2021
   
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
@@ -35,7 +30,7 @@
   status: Registration is Open
 
 - name: ICQAST 2021 - International Conference on Quality Assurance and Software Testing
-  location: London, England, UK
+  location: Online
   dates: "February 15-16, 2021"
   url: https://waset.org/quality-assurance-and-software-testing-conference-in-february-2021-in-london/?utm_source=testingconferences
 
@@ -61,7 +56,7 @@
   status: Early Birday Registration is Open until February 7, 2021
 
 - name: The QA Financial Forum New York 2021
-  location: New York, NY, USA
+  location: Online
   dates: "March 11, 2021"
   url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
@@ -72,7 +67,7 @@
   status: Registration is Open & Free
 
 - name: JaSST'21 Tokyo
-  location: Tokyo, Japan
+  location: Online
   dates: "March 15-16, 2021"
   url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
 
