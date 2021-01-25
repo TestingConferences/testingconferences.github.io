@@ -55,11 +55,6 @@
   twitter: TestMastersAcad
   status: Early Birday Registration is Open until February 7, 2021
 
-- name: The QA Financial Forum New York 2021
-  location: Online
-  dates: "March 11, 2021"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
-
 - name: TestCraftCamp Online
   location: Online
   dates: "March 13, 2021"
@@ -76,7 +71,7 @@
   dates: "March 17-18, 2021"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: CFP is Open until January 15, 2021
+  status: Early Bird is Open until February 15, 2021
 
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
@@ -86,12 +81,12 @@
   status: Registration is Open
 
 - name: SAC-SVT 2021 - Software Verification and Testing Track at SAC 2021
-  location: Gwangju, Korea
+  location: Online
   dates: "March 22-26, 2021"
-  url: https://sites.google.com/view/svt2021/?utm_source=testingconferences
+  url: https://www.sigapp.org/sac/sac2021/tracks.html?utm_source=testingconferences
 
-- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2021
-  location: Porto de Galinhas, Pernambuco, Brazil
+- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) Virtual 2021
+  location: Online
   dates: "April 12-16, 2021"
   url: https://icst2021.icmc.usp.br?utm_source=testingconferences
 
@@ -207,16 +202,16 @@
   dates: "August 30-September 2, 2021"
   url: https://www.autotestcon.com?utm_source=testingconferences
 
-- name: QA Fest 2021
-  location: Kyiv, Ukraine
-  dates: "September, 2021"
-  url: http://qafest.com/en?utm_source=testingconferences
-
 - name: Agile & Automation Days 2021 (AADays)
   location: Poznan, Poland
   dates: "September 20-21, 2021"
   url: http://aadays.pl/?utm_source=testingconferences
   twitter: AADaysPoland
+
+- name: The QA Financial Forum New York 2021
+  location: Online
+  dates: "September 21, 2021"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: London, UK
@@ -228,6 +223,12 @@
   dates: "September 27-28, 2021"
   url: https://kwsqa.org?utm_source=testingconferences
   twitter: kwsqa
+
+- name: QA Fest 2021
+  location: Kyiv, Ukraine
+  dates: "October 1-2, 2021"
+  url: http://qafest.com/en?utm_source=testingconferences
+  status: Announced
 
 - name: STARWEST 2021
   location: Anaheim, CA, USA
@@ -259,7 +260,7 @@
   dates: "November 15-18, 2021"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP to be announced in January
+  status: CFP to be announced soon
 
 - name: TestingUY 2021
   location: TBD
