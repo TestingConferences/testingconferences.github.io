@@ -94,9 +94,16 @@
   location: Bratislava, Slovakia
   dates: "April 14-15, 2021"
   url: http://sanae.beer?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Testingstage 2021
+  location: Online
+  dates: "April 16, 2021"
+  url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open with Free Option
 
 - name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
-  location: Rennes, France / Virtual
+  location: Online
   dates: "April 19 or 20, 2021"
   url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
 
@@ -105,7 +112,7 @@
   dates: "April 20-22, 2021"
   url: https://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
-  status: CFP is Open until January 17, 2021
+  status: CFP is Open until January 24, 2021
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
@@ -122,6 +129,7 @@
   location: St. Petersburg, Russia
   dates: "May 21-22, 2021"
   url: https://sqadays.com/en/index?eventId=82473?utm_source=testingconferences
+  status: Registration is Open
 
 - name: ICSSTA 2021 - International Conference on Software System Testing and Applications
   location: London, UK
@@ -166,7 +174,7 @@
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
   
-- name: DevOps Fusion
+- name: DevOps Fusion (with Swiss Testing Days)
   location: Zurich, Switzerland
   dates: "June 30, 2021"
   url: https://devops-fusion.com/
