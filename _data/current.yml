@@ -224,6 +224,13 @@
   url: https://kwsqa.org?utm_source=testingconferences
   twitter: kwsqa
 
+- name: EuroSTAR 2021 Software Testing Conference
+  location: Online
+  dates: "September 28-30, 2021"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is Open
+
 - name: QA Fest 2021
   location: Kyiv, Ukraine
   dates: "October 1-2, 2021"
@@ -280,3 +287,9 @@
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
   status: Announced
+
+- name: EuroSTAR 30th Edition Software Testing Conference
+  location: Online
+  dates: "Springtime 2022"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
