@@ -55,6 +55,12 @@
   twitter: TestMastersAcad
   status: Early Birday Registration is Open until February 7, 2021
 
+- name: QA Global Summit
+  location: Online
+  dates: "March 2-3, 2021"
+  url: https://qa.geekle.us/
+  status: Registration is Open
+  
 - name: TestCraftCamp Online
   location: Online
   dates: "March 13, 2021"
