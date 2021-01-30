@@ -1,3 +1,8 @@
+- name: Test JS Summit
+  location: Online
+  dates: "January 28-29, 2021"
+  url: https://www.testjssummit.com/?utm_source=testingconferences
+
 - name: ICSTTP 2021 - International Conference on Software Testing, Types and Process
   location: London, England, UK
   dates: "January 21-22, 2021"
