@@ -1,8 +1,3 @@
-- name: ICSMQM 2021 - International Conference on Software Metrics and Quality Management
-  location: Online
-  dates: "January 28-29, 2021"
-  url: https://waset.org/software-metrics-and-quality-management-conference-in-january-2021-in-new-york/?utm_source=testingconferences
-
 - name: The QA Financial Digital Forum Milano 2021
   location: Online
   dates: "February 3, 2021"
@@ -52,7 +47,7 @@
 - name: QA Global Summit
   location: Online
   dates: "March 2-3, 2021"
-  url: https://qa.geekle.us/
+  url: https://qa.geekle.us/?utm_source=testingconferences
   status: Registration is Open
   
 - name: TestCraftCamp Online
@@ -184,14 +179,14 @@
 - name: DevOps Fusion (with Swiss Testing Days)
   location: Zurich, Switzerland
   dates: "June 30, 2021"
-  url: https://devops-fusion.com/
+  url: https://devops-fusion.com/?utm_source=testingconferences
   twitter: DevOpsFusion
   status: Registration is Open
   
 - name: Swiss Testing Day
   location: Zurich, Switzerland
   dates: "June 30, 2021"
-  url: https://swisstestingday.ch/
+  url: https://swisstestingday.ch/?utm_source=testingconferences
   twitter: SwissTesting
   status: Registration is Open  
 
@@ -287,7 +282,7 @@
 - name: TestingUY 2021
   location: TBD
   dates: "TBD"
-  url: http://testinguy.org
+  url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
 
 - name: Software Quality Days 2022
