@@ -18,12 +18,8 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2021</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
     <td>February 2021</td>
-    <td>Reserved</td>
+    <td>StarEast Virtual</td>
   </tr>
   <tr>
     <td>March 2021</td>
@@ -52,6 +48,18 @@ Pricing is based on the per thousand sessions for your given month and depends o
   <tr>
     <td>September 2021</td>
     <td>Reserved</td>
+  </tr>
+  <tr>
+    <td>October 2021</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>November 2021</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>December 2021</td>
+    <td>TBD</td>
   </tr>
 </table>
 
