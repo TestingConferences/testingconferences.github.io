@@ -1,16 +1,10 @@
-- name: The QA Financial Digital Forum Milano 2021
-  location: Online
-  dates: "February 3, 2021"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-milano-2021?utm_source=testingconferences
-  status: Registration is Open & Free
-
 - name: Automation Guild Online Conference 2021
   location: Online
   dates: "February 8-12, 2021"
   url: https://guildconferences.com/ag-2021/?utm_source=testingconferences
   twitter: testguilds
-  status: Early Bird Registration is Open until January 31, 2021
-  
+  status: Registration is Open
+
 - name: Agile, DevOps & Testing - The Evolving Scene
   location: Online
   dates: "February 10-11, 2021"
@@ -40,9 +34,9 @@
 - name: ConTEST 2021 Winter Tutorials
   location: Online
   dates: "February 22-26, 2021"
-  url: https://contest2021.sched.com/event/h9k4?utm_source=testingconferences
+  url: https://testmastersacademyonline.org/?utm_source=testingconferences
   twitter: TestMastersAcad
-  status: Early Birday Registration is Open until February 7, 2021
+  status: Early Bird Registration is Open until February 7, 2021
 
 - name: QA Global Summit
   location: Online
@@ -98,11 +92,11 @@
   url: http://sanae.beer?utm_source=testingconferences
   status: Registration is Open
 
-- name: Testingstage 2021
+- name: TestingStage 2021
   location: Online
   dates: "April 16, 2021"
   url: https://testingstage.com/?utm_source=testingconferences
-  status: Registration is Open with Free Option
+  status: Registration is Open & Free
 
 - name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
   location: Online
