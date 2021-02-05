@@ -810,6 +810,12 @@
   dates: "January 14-17, 2020"
   url: https://www.software-quality-days.com/?utm_source=testingconferences
 
+- name: RoboCon 2020
+  location: Helsinki, Finland
+  dates: "January 14-17, 2020"
+  url: https://robocon.io/?utm_source=testingconferences
+  video_url: https://www.youtube.com/watch?v=0yEnJt6Sf50&list=PLSK6YK5OGX1AZMAffD8EiTDq0lfzshRNg
+
 - name: ATA Global Testing Retreat 2019
   location: Pune, India
   dates: "December 14-15, 2019"

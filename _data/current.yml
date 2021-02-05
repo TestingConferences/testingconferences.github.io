@@ -55,6 +55,12 @@
   dates: "March 15-16, 2021"
   url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
 
+- name: RoboCon 2021 (RBCN)
+  location: Online
+  dates: "March 16, 2021"
+  url: https://robocon.io/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: QA & TEST Safety and Security Online
   location: Online
   dates: "March 17-18, 2021"
@@ -76,7 +82,7 @@
 
 - name: Odyssey 2021 Testing Conference
   location: Online
-  dates: "March 31 - April 1, 2020"
+  dates: "March 31 - April 1, 2021"
   url: https://odyssey.kobiton.com/call-for-speakers/?utm_source=testingconferences
   twitter: kobitonmobile
   status: CFP is Open 
@@ -120,6 +126,13 @@
   dates: "April 15-30, 2001"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
+
+- name: Spring OnlineTestConf 2021
+  location: Online
+  dates: "May 11-12, 2021"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: CFP is Open until March 30, 2021
 
 - name: SQA Days - 28
   location: St. Petersburg, Russia
