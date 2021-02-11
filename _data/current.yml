@@ -80,6 +80,12 @@
   dates: "March 22-26, 2021"
   url: https://www.sigapp.org/sac/sac2021/tracks.html?utm_source=testingconferences
 
+- name: Breakpoint 2021
+  location: Online
+  dates: "March 23-24, 2021"
+  url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
+  twitter: browserstack
+
 - name: Odyssey 2021 Testing Conference
   location: Online
   dates: "March 31 - April 1, 2021"
