@@ -23,12 +23,6 @@
   url: https://testmastersacademyonline.org/?utm_source=testingconferences
   twitter: TestMastersAcad
   status: Early Bird Registration is Open until February 7, 2021
-
-- name: QA Global Summit
-  location: Online
-  dates: "March 2-3, 2021"
-  url: https://qa.geekle.us/?utm_source=testingconferences
-  status: Registration is Open
   
 - name: TestCraftCamp Online
   location: Online
@@ -78,6 +72,12 @@
   url: https://odyssey.kobiton.com/call-for-speakers/?utm_source=testingconferences
   twitter: kobitonmobile
   status: CFP is Open until February 15, 2021
+  
+  - name: QA Global Summit
+  location: Online
+  dates: "April 6-7, 2021"
+  url: https://qa.geekle.us/?utm_source=testingconferences
+  status: Registration is Open
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) Virtual 2021
   location: Online
