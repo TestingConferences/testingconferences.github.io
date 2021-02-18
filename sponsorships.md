@@ -31,7 +31,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>May 2021</td>
-    <td>TBD</td>
+    <td>Testing United 2021</td>
   </tr>
   <tr>
     <td>June 2021</td>
