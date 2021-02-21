@@ -1,17 +1,3 @@
-- name: ConTEST 2021 Winter Conference
-  location: Online
-  dates: "February 17-19, 2021"
-  url: https://testmastersacademyonline.org/?utm_source=testingconferences
-  twitter: TestMastersAcad
-  status: Registration is Open & Free
-
-- name: Agile, DevOps & Testing - The Evolving Scene
-  location: Online
-  dates: "February 18-19, 2021"
-  url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
-  twitter: UNICOMLearning
-  status: Registration is Open
-
 - name: ConTEST 2021 Winter Tutorials
   location: Online
   dates: "February 22-26, 2021"
@@ -101,7 +87,13 @@
   dates: "April 20-22, 2021"
   url: https://saucecon.com/?utm_source=testingconferences
   twitter: saucelabs
-  status: CFP is Open until January 24, 2021
+
+- name: miniCAST 2021
+  location: Online
+  dates: "April 22, 2021"
+  url: https://associationforsoftwaretesting.123signup.com/event/registration/kxddv
+  twitter: AST_News
+  status: Registration is Open
 
 - name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
   location: New York, NY, USA
@@ -109,8 +101,8 @@
   url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2020-in-new-york?utm_source=testingconferences
 
 - name: STAREAST 2021
-  location: Orlando, Florida, USA
-  dates: "April 15-30, 2001"
+  location: Online
+  dates: "April 26-30, 2021"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
 
@@ -242,7 +234,7 @@
   status: Announced
 
 - name: STARWEST 2021
-  location: Anaheim, CA, USA
+  location: Anaheim, CA, USA or Online
   dates: "October 3-8, 2021"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
