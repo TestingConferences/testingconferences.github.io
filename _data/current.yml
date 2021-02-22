@@ -58,12 +58,19 @@
   location: Online
   dates: "April 6-7, 2021"
   url: https://qa.geekle.us/?utm_source=testingconferences
-  status: Registration is Open
+  status: Registration is Open & Free option available
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) Virtual 2021
   location: Online
   dates: "April 12-16, 2021"
   url: https://icst2021.icmc.usp.br?utm_source=testingconferences
+
+- name: Tricentis Virtual Summit 2021
+  location: Online
+  dates: "April 13-15, 2021"
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
+  twitter: Tricentis
+  status: Registration is Open & Free
 
 - name: SANAE BEER.EX Software Testing Conference
   location: Bratislava, Slovakia
