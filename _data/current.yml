@@ -157,6 +157,13 @@
   twitter: AgileTD
   status: Announced
 
+- name: Romanian Testing Conference
+  location: Online
+  dates: "June 9-10, 2021"
+  url: https://romaniatesting.ro/
+  twitter: RomaniaTesting
+  status: CFP is open February 22 - March 22nd, 2021
+
 - name: Agile Testing Days (ATD) USA 2021
   location: Chicago, IL, USA
   dates: "June 20-24, 2021"
