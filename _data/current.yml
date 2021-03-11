@@ -129,6 +129,13 @@
   twitter: TechWell
   status: Super Early bird is open until February 26, 2021 with Free option
 
+- name: Exploratory Testing Week
+  location: Online
+  dates: "April 26-30, 2021"
+  url: https://ti.to/mot/exploratory-testing-week-april-2021?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open (free for Pro members, ticketed option available)
+
 - name: Spring OnlineTestConf 2021
   location: Online
   dates: "May 11-12, 2021"
@@ -173,6 +180,13 @@
   url: https://romaniatesting.ro/?utm_source=testingconferences
   twitter: RomaniaTesting
   status: CFP is Open until March 22, 2021
+
+- name: TestBash Home
+  location: Online
+  dates: "June 17-18, 2021"
+  url: https://ti.to/mot/testbash-home-2021?source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until March 27, 2021. Registration is Open (free for Pro members, ticketed option available)
 
 - name: Agile Testing Days (ATD) USA 2021
   location: Chicago, IL, USA
