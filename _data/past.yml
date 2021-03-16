@@ -1,3 +1,9 @@
+- name: TestCraftCamp Online
+  location: Online
+  dates: "March 13, 2021"
+  url: https://testcraftcamp.nl/?utm_source=testingconferences
+  status: Registration is Open & Free
+
 - name: ConTEST 2021 Winter Tutorials
   location: Online
   dates: "February 22-26, 2021"
