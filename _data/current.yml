@@ -1,14 +1,3 @@
-- name: JaSST'21 Tokyo
-  location: Online
-  dates: "March 15-16, 2021"
-  url: http://www.jasst.jp/symposium/jasst21tokyo.html?utm_source=testingconferences
-
-- name: RoboCon 2021 (RBCN)
-  location: Online
-  dates: "March 16, 2021"
-  url: https://robocon.io/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: QA & TEST Safety and Security Online
   location: Online
   dates: "March 17-18, 2021"
