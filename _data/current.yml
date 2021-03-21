@@ -82,7 +82,7 @@
 - name: miniCAST 2021
   location: Online
   dates: "April 22, 2021"
-  url: https://associationforsoftwaretesting.123signup.com/event/registration/kxddv
+  url: https://associationforsoftwaretesting.org/minicast/?utm_source=testingconferences
   twitter: AST_News
   status: Registration is Open
 
@@ -97,7 +97,7 @@
   dates: "April 26-30, 2021"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early bird is open until February 26, 2021 with Free option
+  status: Early bird is open until March 26, 2021 with Free option
 
 - name: Exploratory Testing Week
   location: Online
@@ -128,14 +128,15 @@
 - name: Quality Excites 9 (2021)
   location: Gliwice, Poland
   dates: "June 2021"
-  url: https://qualityexcites.pl/en/?utm_source=testingconferences
+  url: https://www.qualityexcites.pl/?utm_source=testingconferences
   twitter: QualityExcites
 
-- name: Italian Software Testing Forum
-  location: Milan, Italy
-  dates: "June 7-9, 2021"
+- name: QSC & STF 2021 Digital Roadshow
+  location: Online
+  dates: "June 7-8, 2021"
   url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
   twitter: Itastqb
+  status: Registration is Open & Conference ticket is Free
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
@@ -149,7 +150,7 @@
   dates: "June 9-10, 2021"
   url: https://romaniatesting.ro/?utm_source=testingconferences
   twitter: RomaniaTesting
-  status: CFP is Open until March 22, 2021
+  status: Registration is Open
 
 - name: TestBash Home
   location: Online
@@ -179,8 +180,15 @@
 
 - name: ICTSS 2021 - International Conference on Testing Software and Systems
   location: New York, NY, USA
-  dates: "June 3-4, 2021"
+  dates: "July 3-4, 2021"
   url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
+
+- name: QSC & STF 2021 Digital Roadshow
+  location: Online
+  dates: "July 5-6, 2021"
+  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
+  twitter: Itastqb
+  status: Registration is Open & Conference ticket is Free
 
 - name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
   location: London, UK
@@ -234,7 +242,7 @@
   dates: "September 27-29, 2021"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Super Early Bird Registration is Open until February 28, 2021
+  status: Early Bird Registration is Open until July 15, 2021
 
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
