@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'kramdown', '>= 2.3.1'
+gem 'kramdown', '>= 2.3.0'
 gem 'jekyll-watch'
 gem "jekyll", '>= 3.9.0'
 gem 'html-proofer', '>= 3.18.0'
