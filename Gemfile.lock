@@ -226,6 +226,8 @@ GEM
     nokogiri (1.11.2)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+    nokogiri (1.11.2-arm64-darwin)
+      racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
     octokit (4.20.0)
@@ -274,6 +276,7 @@ GEM
 
 PLATFORMS
   ruby
+  universal-darwin-20
 
 DEPENDENCIES
   github-pages (>= 214)
@@ -287,4 +290,4 @@ DEPENDENCIES
   nokogiri (~> 1.11.0)
 
 BUNDLED WITH
-   1.17.3
+   2.2.15

@@ -17,14 +17,7 @@ Sponsors get promotion through banner across the top of this site and mention in
 Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
-  <tr>
-    <td>February 2021</td>
-    <td>StarEast Virtual</td>
-  </tr>
-  <tr>
-    <td>March 2021</td>
-    <td>Reserved</td>
-  </tr>
+
   <tr>
     <td>April 2021</td>
     <td>Reserved</td>
@@ -51,7 +44,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>October 2021</td>
-    <td>TBD</td>
+    <td>mabl</td>
   </tr>
   <tr>
     <td>November 2021</td>
