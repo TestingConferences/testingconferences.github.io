@@ -1,3 +1,14 @@
+- name: Odyssey 2021 Testing Conference
+  location: Online
+  dates: "March 31 - April 1, 2021"
+  url: https://odyssey.kobiton.com/?utm_source=testingconferences
+  twitter: kobitonmobile
+
+- name: ICQASST 2021 - International Conference on Quality Assurance and System Software Testing
+  location: Online
+  dates: "March 29-30 2021"
+  url: https://waset.org/quality-assurance-and-software-system-testing-conference-in-march-2021-in-singapore?utm_source=testingconferences
+
 - name: Breakpoint 2021
   location: Online
   dates: "March 23-24, 2021"
