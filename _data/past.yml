@@ -225,6 +225,13 @@
   url: http://questforquality.eu/?utm_source=testingconferences
   twitter: Quest_4_Quality
 
+- name: mabl experience 2020
+  location: Online
+  dates: "October 27, 2020"
+  url: https://experience.mabl.com/?utm_source=testingconferences
+  twitter: mabl
+  video_url: https://www.mabl.com/library/tag/experience?hsLang=en
+
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal & Online
   dates: "October 24-28, 2020"
