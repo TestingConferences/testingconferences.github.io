@@ -1,9 +1,3 @@
-- name: QA Global Summit '21
-  location: Online
-  dates: "April 6-7, 2021"
-  url: https://qa.geekle.us/?utm_source=testingconferences
-  status: Registration is Open & Free option available
-
 - name: Future of Testing - Mobile
   location: Online
   dates: "April 8, 2021"
@@ -54,7 +48,7 @@
   twitter: saucelabs
   status: Registration is Open with Free option
 
-- name: miniCAST 2021
+- name: MiniCAST 2021
   location: Online
   dates: "April 22, 2021"
   url: https://associationforsoftwaretesting.org/minicast/?utm_source=testingconferences
@@ -79,7 +73,7 @@
   dates: "April 26-30, 2021"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
-  status: Early bird is open until March 26, 2021 with Free option
+  status: Registration is Open
 
 - name: Exploratory Testing Week
   location: Online
@@ -100,14 +94,14 @@
   dates: "May 8, 2021"
   url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
   twitter: AgileTAlliance
-  status: CFP is Open until March 31, 2021 
+  status: Registration is Open
 
 - name: Spring OnlineTestConf 2021
   location: Online
   dates: "May 11-12, 2021"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: CFP is Open until March 30, 2021
+  status: Registration is Open
 
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
@@ -167,7 +161,7 @@
   dates: "June 9-10, 2021"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until March 31, 2021
+  status: Registration is Open and limited
 
 - name: Romanian Testing Conference
   location: Online
@@ -182,13 +176,6 @@
   url: https://ti.to/mot/testbash-home-2021?source=testingconferences
   twitter: ministryoftest
   status: Registration is Open (free for Pro members, ticketed option available)
-
-- name: Agile Testing Days (ATD) USA 2021
-  location: Chicago, IL, USA
-  dates: "June 20-24, 2021"
-  url: https://agiletestingdays.us/?utm_source=testingconferences
-  twitter: AgileTDUSA
-  status: Super Early Bird Registration is Open until March 31, 2021
 
 - name: ICCCBS 2021 - International Conference on Critical Computer-Based Systems
   location: London, UK
@@ -355,6 +342,13 @@
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
   status: Announced
+
+- name: Agile Testing Days (ATD) USA 2021
+  location: Chicago, IL, USA
+  dates: "June 5-9, 2022"
+  url: https://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+  status: Moved from 2021 to 2022
 
 - name: EuroSTAR 30th Edition Software Testing Conference
   location: Online
