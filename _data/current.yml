@@ -218,6 +218,13 @@
   dates: "August 30-September 2, 2021"
   url: https://www.autotestcon.com?utm_source=testingconferences
 
+- name: TestCon Europe 2021
+  location: Vilnius, Lithuania
+  dates: "September 7-9, 2021"
+  url: http://www.testcon.lt/?utm_source=testingconferences
+  twitter: TestConEurope
+  status: CFP is Open until April 16, 2021
+
 - name: Tesena Fest Online 2021
   location: Online
   dates: "September 16, 221"
