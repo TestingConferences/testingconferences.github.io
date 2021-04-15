@@ -48,7 +48,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>November 2021</td>
-    <td>TBD</td>
+    <td>Reserved</td>
   </tr>
   <tr>
     <td>December 2021</td>
