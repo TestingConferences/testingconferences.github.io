@@ -56,7 +56,7 @@
   dates: "May 8, 2021"
   url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
   twitter: AgileTAlliance
-  status: Registration is Open
+  status: Registration is Open and Free
 
 - name: Spring OnlineTestConf 2021
   location: Online
@@ -83,13 +83,6 @@
   dates: "May 24-25, 2021"
   url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
   status: Registration is Open
-  
-- name: Agile, DevOps & Testing - The Business Case
-  location: Online
-  dates: "May 26-27, 2021"
-  url: https://www.unicomlearning.com/2021/ADT-May/?utm_source=testingconferences
-  twitter: UNICOMLearning
-  status: Registration is Open
 
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
@@ -98,25 +91,24 @@
   twitter: testingmindcon
   status: Registration is Open
 
-- name: Quality Excites 9 (2021)
-  location: Gliwice, Poland
-  dates: "June 2021"
-  url: https://www.qualityexcites.pl/?utm_source=testingconferences
-  twitter: QualityExcites
+- name: Agile, DevOps & Testing - The Business Case
+  location: Online
+  dates: "June 2-3, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-May/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  status: Registration is Open
+
+- name: ICTSS 2021 - International Conference on Testing Software and Systems
+  location: New York, NY, USA
+  dates: "June 3-4, 2021"
+  url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
 
 - name: FailQonf
   location: Online
   dates: "June 5-6, 2021"
   url: https://www.thetesttribe.com/failqonf/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Registration is Open
-
-- name: QSC & STF 2021 Digital Roadshow
-  location: Online
-  dates: "June 7-8, 2021"
-  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
-  twitter: Itastqb
-  status: Registration is Open & Conference ticket is Free
+  status: Registration is Open and Free
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
@@ -140,31 +132,18 @@
   status: Registration is Open (free for Pro members, ticketed option available)
 
 - name: ICCCBS 2021 - International Conference on Critical Computer-Based Systems
-  location: London, UK
+  location: Online
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
-  
-- name: Swiss Testing Day
-  location: Zurich, Switzerland
-  dates: "June 30, 2021"
-  url: https://swisstestingday.ch/?utm_source=testingconferences
-  twitter: SwissTesting
-  status: Registration is Open  
 
-- name: ICTSS 2021 - International Conference on Testing Software and Systems
-  location: New York, NY, USA
-  dates: "July 3-4, 2021"
-  url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
-
-- name: QSC & STF 2021 Digital Roadshow
-  location: Online
-  dates: "July 5-6, 2021"
-  url: https://www.swtestingforum.org/index.php/?utm_source=testingconferences
-  twitter: Itastqb
-  status: Registration is Open & Conference ticket is Free
+- name: Quality Excites 9 (2021)
+  location: Gliwice, Poland
+  dates: "June 2021"
+  url: https://www.qualityexcites.pl/?utm_source=testingconferences
+  twitter: QualityExcites
 
 - name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
-  location: London, UK
+  location: Online
   dates: "July 26-27, 2021"
   url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2021-in-london?utm_source=testingconferences
 
@@ -173,7 +152,13 @@
   dates: "July 27-28, 2021"
   url: https://www.milehightesting.com/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Early Bird Registration is Open until June 12, 2021
+
+- name: TestingUY 2021
+  location: Online
+  dates: "August 2-7, 2021"
+  url: http://testinguy.org?utm_source=testingconferences
+  twitter: testingUY
+  status: CFP is Open until May 23, 2021
 
 - name: IEEE AUTOTESTCON 2021
   location: Oxon Hill, MD, USA
@@ -185,7 +170,14 @@
   dates: "September 7-9, 2021"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
-  status: CFP is Open until April 16, 2021
+  status: CFP is Closed
+
+- name: Swiss Testing Day
+  location: Zurich, Switzerland
+  dates: "September 14, 2021"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
+  status: Registration is Open
 
 - name: Tesena Fest Online 2021
   location: Online
@@ -228,7 +220,7 @@
   dates: "September 27-29, 2021"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Early Bird Registration is Open until July 15, 2021
+  status: CFP is Open until April 30, 2021. Early Bird Registration is Open until July 15, 2021
 
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
@@ -258,9 +250,8 @@
 - name: PNSQC 2021
   location: Online
   dates: "October 11-13, 2021"
-  url: https://www.pnsqc.org/?utm_source=testingconferences
+  url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
-  status: CFP is Open until April 15th, 2021
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
@@ -278,7 +269,6 @@
   dates: "November 15-18, 2021"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP is Open until March 28, 2021
   
 - name: ParisTestConf (PTC) 2021
   location: Online
@@ -292,12 +282,6 @@
   dates: "December 6-10, 2021"
   url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21
   status: CFP is Open until July 15, 2021
-
-- name: TestingUY 2021
-  location: TBD
-  dates: "TBD"
-  url: http://testinguy.org?utm_source=testingconferences
-  twitter: testingUY
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
