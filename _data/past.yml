@@ -1,3 +1,15 @@
+- name: MiniCAST 2021
+  location: Online
+  dates: "April 22, 2021"
+  url: https://associationforsoftwaretesting.org/minicast/?utm_source=testingconferences
+  twitter: AST_News
+
+- name: SauceCon Online 2021
+  location: Online
+  dates: "April 20-22, 2021"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
 - name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
   location: Hybrid - Online & Rennes, France
   dates: "April 19 or 20, 2021"
