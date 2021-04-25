@@ -17,11 +17,6 @@ Sponsors get promotion through banner across the top of this site and mention in
 Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
-
-  <tr>
-    <td>April 2021</td>
-    <td>Reserved</td>
-  </tr>
   <tr>
     <td>May 2021</td>
     <td>Testing United 2021</td>
