@@ -1,3 +1,9 @@
+- name: Agile, DevOps & Testing - The Business Case
+  location: Online
+  dates: "April 28-29, 2021"
+  url: https://conference.unicom.co.uk/adt2021/april1/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
   dates: "April 22-23, 2021"
@@ -58,6 +64,7 @@
   dates: "April 8, 2021"
   url: https://applitools.com/future-of-testing-mobile-north-america/?utm_source=testingconferences
   twitter: applitools
+  video_url: https://applitools.com/on-demand-videos/fot-mobile-north-america-april-2021/?utm_source=testingconferences
 
 - name: QA Global Summit '21
   location: Online
@@ -69,6 +76,7 @@
   dates: "March 31 - April 1, 2021"
   url: https://odyssey.kobiton.com/?utm_source=testingconferences
   twitter: kobitonmobile
+  video_url: https://odyssey.kobiton.com/recordings-odyssey-2021/?utm_source=testingconferences
 
 - name: ICQASST 2021 - International Conference on Quality Assurance and System Software Testing
   location: Online
@@ -125,6 +133,13 @@
   dates: "February 18-19, 2021"
   url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
   twitter: UNICOMLearning
+
+- name: The Future of Testing 2021 - APAC
+  location: Online
+  dates: "February 18, 2021"
+  url: https://applitools.com/on-demand-videos/apac-february-2021/?utm_source=testingconferences
+  twitter: applitools
+  video_url: https://applitools.com/on-demand-videos/apac-february-2021/?utm_source=testingconferences
 
 - name: ConTEST 2021 Winter Conference
   location: Online
@@ -599,7 +614,7 @@
   dates: "June 25, 2020"
   url: https://applitools.com/future-of-testing-apac?utm_source=testingconferences
   twitter: applitools
-  video_url: https://applitools.com/on-demand-videos/europe-june-2020/
+  video_url: https://applitools.com/on-demand-videos/europe-june-2020/utm_source=testingconferences
 
 - name: 2nd Odyssey Online Testing Conference
   location: Online
