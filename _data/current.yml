@@ -220,6 +220,13 @@
   dates: "October 11-13, 2021"
   url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
+  
+- name: HUSTEF 2021 - Hungarian Software TEsting Forum
+  location: Online
+  dates: "October 18-21, 2021"
+  url: https://hustef.hu/
+  twitter: HUSTEF2021
+  status: CFP is Open
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
