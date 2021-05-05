@@ -1,17 +1,3 @@
-- name: STAREAST Virtual 2021
-  location: Online
-  dates: "April 26-30, 2021"
-  url: https://stareast.techwell.com?utm_source=testingconferences
-  twitter: TechWell
-  status: Registration is Open
-
-- name: Exploratory Testing Week
-  location: Online
-  dates: "April 26-30, 2021"
-  url: https://ti.to/mot/exploratory-testing-week-april-2021?source=testingconferences
-  twitter: ministryoftest
-  status: Registration is Open (free for Pro members, ticketed option available)
-
 - name: API Testing Summit 2021
   location: Online
   dates: "May 8, 2021"
@@ -245,6 +231,13 @@
   dates: "November 11, 2021"
   url: http://www.asqt.org/?utm_source=testingconferences
   status: Announced
+
+- name: Testing United 2021
+  location: Prague, CR and Online
+  dates: "November 11-12, 2021"
+  url: https://testingunited.com?utm_source=testingconferences
+  twitter: testing_united
+  status: Early Bird Registration is Open
 
 - name: Agile Testing Days (ATD) 2021
   location: Online
