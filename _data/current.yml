@@ -69,7 +69,7 @@
   dates: "June 9-10, 2021"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Registration is Open and limited
+  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Online
@@ -113,11 +113,6 @@
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
   status: CFP is Open until May 23, 2021
-
-- name: IEEE AUTOTESTCON 2021
-  location: Oxon Hill, MD, USA
-  dates: "August 30-September 2, 2021"
-  url: https://www.autotestcon.com?utm_source=testingconferences
 
 - name: TestCon Europe 2021
   location: Vilnius, Lithuania
@@ -271,12 +266,18 @@
   twitter: QAortheHighway
   status: Announced
 
-- name: Agile Testing Days (ATD) USA 2021
+- name: Agile Testing Days (ATD) USA 2022
   location: Chicago, IL, USA
   dates: "June 5-9, 2022"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
   status: Moved from 2021 to 2022
+
+- name: IEEE AUTOTESTCON 2022
+  location: Oxon Hill, MD, USA
+  dates: "August 28-31, 2022"
+  url: https://www.autotestcon.com?utm_source=testingconferences
+  status: CFP to be announced
 
 - name: EuroSTAR 30th Edition Software Testing Conference
   location: Online
