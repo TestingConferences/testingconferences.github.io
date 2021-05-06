@@ -90,12 +90,6 @@
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
 
-- name: Quality Excites 9 (2021)
-  location: Gliwice, Poland
-  dates: "June 2021"
-  url: https://www.qualityexcites.pl/?utm_source=testingconferences
-  twitter: QualityExcites
-
 - name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
   location: Online
   dates: "July 26-27, 2021"
@@ -284,3 +278,9 @@
   dates: "Springtime 2022"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
+
+- name: Quality Excites 9 (2022)
+  location: Gliwice, Poland
+  dates: "Summer 2022"
+  url: https://www.qualityexcites.pl/?utm_source=testingconferences
+  twitter: QualityExcites
