@@ -18,28 +18,12 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2021</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>February 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
-    <td>March 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
-    <td>April 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
     <td>May 2021</td>
-    <td>TBD</td>
+    <td>Testing United 2021</td>
   </tr>
   <tr>
     <td>June 2021</td>
-    <td>TBD</td>
+    <td>PNSQC 2021</td>
   </tr>
   <tr>
     <td>July 2021</td>
@@ -52,6 +36,18 @@ Pricing is based on the per thousand sessions for your given month and depends o
   <tr>
     <td>September 2021</td>
     <td>Reserved</td>
+  </tr>
+  <tr>
+    <td>October 2021</td>
+    <td>mabl</td>
+  </tr>
+  <tr>
+    <td>November 2021</td>
+    <td>Reserved</td>
+  </tr>
+  <tr>
+    <td>December 2021</td>
+    <td>TBD</td>
   </tr>
 </table>
 
