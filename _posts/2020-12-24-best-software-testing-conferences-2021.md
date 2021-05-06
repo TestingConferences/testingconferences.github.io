@@ -12,7 +12,7 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-12-24 21:00:00
+last_modified_at:   2021-05-04 21:00:00
 ---
 
 Attending conferences is one of the best ways to keep-up on the latest in software testing and quality and of course connect with your peers in the larger communities. This list only contains conferences, un-conferences and workshops that are specifically for software testing and quality. People should strive to attend other tech conferences as it allows us to become better informed and more well rounded.
@@ -25,65 +25,43 @@ As we saw (unexpectdly) in 2020, I project most conferences and workshops of 202
 ## February
 
 - [Automation Guild Online Conference 2021](https://guildconferences.com/conferences/automation-2020/?utm_source=testingconferences) is an online conference from February 8-12, 2021.
-
-## March
-
-- [Swiss Testing Day 2020](http://swisstestingday.ch/?utm_source=testingconferences) in Zurich, Switzerland on March 18, 2020.
-- [Ankara Testing Days 2020](https://ankaratestingdays.com/?utm_source=testingconferences) in Ankara, Turkey on March 24, 2020.
-- [TestBash Brighton 2020](https://ti.to/mot/testbash-brighton-2020?source=testingconferences) in Brighton, UK on March 26-27, 2020.
-- [STPCon Spring 2020](https://www.stpcon.com/pricing-spring-2020/?utm_source=testingconferences) in San Diego, CA USA from March 31-April 2, 2020.
+- [ConTEST 2021](https://testmastersacademyonline.org/?utm_source=testingconferences) is an online conference from February 22-26, 2021.
 
 ## April
 
-- [Heisenbug 2020 Piter](https://heisenbug-piter.ru/?utm_source=testingconferences) in St. Petersberg, Russia on April 8-9, 2020.
-- [EPIC Experience](https://epic.techwell.com/?source=testingconferences) in San Diego, CA USA on April 19-23, 2020.
-- [TestBash Detroit 2020](https://ti.to/mot/testbash-detroit-2020?source=testingconferences) in Detroit, MI USA from April 23-24, 2020.
-- [SauceCon 2020](https://saucecon.com/?utm_source=testingconferences) in Austin, TX USA from April 27-29, 2020.
-- [Test & Quality Summit 2020](https://testqualitysummit.com/?utm_source=testingconferences&utm_medium=referral) in Dublin, Ireland on April 29, 2020.
+- [SauceCon 2021](https://saucecon.com/?utm_source=testingconferences) is an online conference from April 20-22, 2021.
+- [miniCAST 2021](https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences) iis an online conference on April 22, 2021.
+- [STAREAST Virtual 2021](https://stareast.techwell.com/?utm_source=testingconferences) in online conference from April 26-30, 2021. 
 
 ## May
 
-- [STAREAST 2020](https://stareast.techwell.com/?utm_source=testingconferences) in Orlando, FL USA from May 3-8, 2020.
-- [OnlineTestConf 2020](https://www.onlinetestconf.com/?utm_source=testingconferences) is an online conference from May 19-20, 2020.
-- [TestBash Netherlands 2020](https://ti.to/mot/testbash-netherlands-2020?source=testingconferences) in Utrecht, NL from May 28-29, 2020.
+- [OnlineTestConf 2021](https://www.onlinetestconf.com/?utm_source=testingconferences) is an online conference from May 19-20, 2020.
+
 
 ## June
 
-- [Nordic Testing Days 2020](https://nordictestingdays.eu/?utm_source=testingconferences) in Talinn, Estonia from June 3-5, 2020.
-- [Romanian Testing Conference (RTC) 2020](https://www.romaniatesting.ro?utm_source=testingconferences) in Cluj-Napoca, Romania from June 10-12, 2020.
-- [WeTest.Athens 2020](https://wetest-athens.gr/?utm_source=testingconferences) in Athens, Greece on June 12, 2020.
-- [Test Leadership Congress 2020](http://testleadershipcongress-ny.com/?utm_source=testingconferences) in New York, NY USA from June 15-19, 2020.
-- [Test Automation Day 2020](http://www.testautomationday.com?utm_source=testingconferences) in Utrecht, Netherlands from June 17-18, 2020.
-- [Selenium Conference India 2020](https://2020.seleniumconf.in/?utm_source=testingconferences) in India from June 18-20, 2020. 
-- [Agile Testing Days USA 2020](http://agiletestingdays.us/?utm_source=testingconferences) in Chicago, IL, USA from June 21-25, 2020.
+- [Nordic Testing Days 2021](https://nordictestingdays.eu/?utm_source=testingconferences) is an online conference on June 4, 2021.
+- [FailQonf](https://www.thetesttribe.com/failqonf/?utm_source=testingconferences) is an online conference from June 5-6, 2021.
+- [Romanian Testing Conference (RTC) 2021](https://www.romaniatesting.ro?utm_source=testingconferences) is an online conference from June 9-10, 2021.
+- [TestBash Home](https://ti.to/mot/testbash-home-2021?source=testingconferences) is an online conference from June 17-18, 2021.
 
 ## July
 
-- [Mile High Testing Conference 2020](https://www.milehightesting.com/?utm_source=testingconferences) in Denver, CO, USA from July 28-29, 2020.
-
-## August
-
-- [Conference for the Association for Software Testing (CAST) 2020](https://www.associationforsoftwaretesting.org/conference/cast2020/?utm_source=testingconferences) in Austin, TX, USA from August 3-6, 2020.
+- [Mile High Testing Conference 2021](https://www.milehightesting.com/?utm_source=testingconferences) in Denver, CO, USA from July 27-28, 2021.
 
 ## September
 
-- [Targeting Quality (KWSQA) 2020](https://kwsqa.org/tq2020/?utm_source=testingconferences) in Cambridge, ON Canada from September 21-22, 2020.
-- [TestBash Manchester 2020](https://www.ministryoftesting.com/events/testbash-manchester-2020?utm_source=testingconferences) in Manchester, UK from September 30-October 1, 2020.
-
+- [Swiss Testing Days 2021](https://swisstestingday.ch/?utm_source=testingconferences) is an online conference on September 14, 2021.
+- [EuroSTAR 2021](https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences) is an online conference from September 28-30, 2021.
 
 ## October
 
-- [Test.bash(); Manchester](https://www.ministryoftesting.com/events/test-bash-2020?utm_source=testingconferences) in Manchester, UK on October 2, 2020.
-- [STARWEST 2020](https://starwest.techwell.com/speaker-submission-form-starwest-2020/?utm_source=testingconferences) in Anaheim, CA, USA from October 4-9, 2020.
-- [Pacific Northwest Software Quality Conference (PNSQC) 2020](http://www.pnsqc.org/?utm_source=testingconferences) in Portland, Oregon, USA from October 12-14, 2020.
+- [STARWEST 2021](https://starwest.techwell.com/?utm_source=testingconferences) in Anaheim, CA, USA or online from October 1-2, 2021.
+- [Pacific Northwest Software Quality Conference (PNSQC) 2021](http://www.pnsqc.org/?utm_source=testingconferences) is an online conference from October 3-8, 2021.
 
 ## November
 
-- [Heisenbug 2020 Moscow](https://heisenbug-moscow.ru/en/?utm_source=testingconferences) in Moscow, Russia from November 3-4, 2020.
-- [Agile Testing Days 2020](http://www.agiletestingdays.com/?utm_source=testingconferences) in Potsdam, Germany from November 8-13, 2020.
-- [EuroSTAR 2020](https://eurostarsoftwaretesting.com?utm_source=testingconferences) in Prague, Czech Republic from November 16-19, 2020.
-- [ConTEST NYC 2020](http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences) in New York, NY, USA from November 16-20 2020.
-- [SeleniumConf Chicago 2020](https://www.seleniumconf.com/?utm_source=testingconferences) in Chicago, IL from November 18-19, 2020. 
+- [Agile Testing Days 2021](http://www.agiletestingdays.com/?utm_source=testingconferences) is an online conference from November 15-18, 2021.
 
 
 Don't see your favorite conference listed? Be sure to checkout the full list of [Current Conferences](/) for what's coming up in your area!
