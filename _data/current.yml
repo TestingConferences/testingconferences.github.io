@@ -69,7 +69,7 @@
   dates: "June 9-10, 2021"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Registration is Open and limited
+  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Online
@@ -90,12 +90,6 @@
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
 
-- name: Quality Excites 9 (2021)
-  location: Gliwice, Poland
-  dates: "June 2021"
-  url: https://www.qualityexcites.pl/?utm_source=testingconferences
-  twitter: QualityExcites
-
 - name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
   location: Online
   dates: "July 26-27, 2021"
@@ -113,11 +107,6 @@
   url: http://testinguy.org?utm_source=testingconferences
   twitter: testingUY
   status: CFP is Open until May 23, 2021
-
-- name: IEEE AUTOTESTCON 2021
-  location: Oxon Hill, MD, USA
-  dates: "August 30-September 2, 2021"
-  url: https://www.autotestcon.com?utm_source=testingconferences
 
 - name: TestCon Europe 2021
   location: Vilnius, Lithuania
@@ -233,7 +222,7 @@
   status: Announced
 
 - name: Testing United 2021
-  location: Prague, CR and Online
+  location: Prague, CR and VR
   dates: "November 11-12, 2021"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
@@ -271,15 +260,27 @@
   twitter: QAortheHighway
   status: Announced
 
-- name: Agile Testing Days (ATD) USA 2021
+- name: Agile Testing Days (ATD) USA 2022
   location: Chicago, IL, USA
   dates: "June 5-9, 2022"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
   status: Moved from 2021 to 2022
 
+- name: IEEE AUTOTESTCON 2022
+  location: Oxon Hill, MD, USA
+  dates: "August 28-31, 2022"
+  url: https://www.autotestcon.com?utm_source=testingconferences
+  status: CFP to be announced
+
 - name: EuroSTAR 30th Edition Software Testing Conference
   location: Online
   dates: "Springtime 2022"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
+
+- name: Quality Excites 9 (2022)
+  location: Gliwice, Poland
+  dates: "Summer 2022"
+  url: https://www.qualityexcites.pl/?utm_source=testingconferences
+  twitter: QualityExcites
