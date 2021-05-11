@@ -1,10 +1,3 @@
-- name: API Testing Summit 2021
-  location: Online
-  dates: "May 8, 2021"
-  url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
-  twitter: AgileTAlliance
-  status: Registration is Open and Free
-
 - name: Spring OnlineTestConf 2021
   location: Online
   dates: "May 11-12, 2021"
@@ -63,13 +56,6 @@
   url: https://www.thetesttribe.com/failqonf/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open and Free
-
-- name: Agile Testing Days (ATD) Open Air Festival
-  location: Cologne, Germany
-  dates: "June 9-10, 2021"
-  url: https://openair.agiletestingdays.com?utm_source=testingconferences
-  twitter: AgileTD
-  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Online
@@ -259,6 +245,13 @@
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
   status: Announced
+
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Cologne, Germany
+  dates: "May 17-19, 2022"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+  status: Postponed to May 2022
 
 - name: Agile Testing Days (ATD) USA 2022
   location: Chicago, IL, USA
