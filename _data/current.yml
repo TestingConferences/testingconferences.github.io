@@ -1,9 +1,9 @@
-- name: Spring OnlineTestConf 2021
+- name: Testing Festival
   location: Online
-  dates: "May 11-12, 2021"
-  url: https://www.onlinetestconf.com/?utm_source=testingconferences
-  twitter: OnlineTestConf
-  status: Registration is Open
+  dates: "May 12-14, 2021"
+  url: https://testingfestival.com/?utm_source=testingconferences
+  twitter: TheQALead
+  status: Registration is Open with Free Option
 
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
@@ -55,6 +55,13 @@
   dates: "June 5-6, 2021"
   url: https://www.thetesttribe.com/failqonf/?utm_source=testingconferences
   twitter: the_test_tribe
+  status: Registration is Open
+
+- name: Front End Test Fest 2021
+  location: Online
+  dates: "June 8, 2021"
+  url: https://frontendtestfest.com/?utm_source=testingconferences
+  twitter: applitools
   status: Registration is Open and Free
 
 - name: Romanian Testing Conference

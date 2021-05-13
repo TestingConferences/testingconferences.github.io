@@ -1,3 +1,9 @@
+- name: Spring OnlineTestConf 2021
+  location: Online
+  dates: "May 11-12, 2021"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
 - name: API Testing Summit 2021
   location: Online
   dates: "May 8, 2021"
