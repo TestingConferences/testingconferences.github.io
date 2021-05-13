@@ -55,7 +55,7 @@
   dates: "June 5-6, 2021"
   url: https://www.thetesttribe.com/failqonf/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Registration is Open
+  status: Registration is Open with Free Option
 
 - name: Front End Test Fest 2021
   location: Online
@@ -93,11 +93,12 @@
   dates: "July 27-28, 2021"
   url: https://www.milehightesting.com/?utm_source=testingconferences
   twitter: SoftwareTestPro
+  status: Registration on Hold
 
 - name: TestingUY 2021
   location: Online
   dates: "August 2-7, 2021"
-  url: http://testinguy.org?utm_source=testingconferences
+  url: https://testinguy.org/edition-2021/?utm_source=testingconferences
   twitter: testingUY
   status: CFP is Open until May 23, 2021
 
@@ -106,7 +107,7 @@
   dates: "September 7-9, 2021"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
-  status: CFP is Open until April 30, 2021
+  status: Super Early Bird is Open until May 28, 2021
 
 - name: Swiss Testing Day
   location: Zurich, Switzerland
@@ -118,8 +119,7 @@
 - name: Tesena Fest Online 2021
   location: Online
   dates: "September 16, 221"
-  url: https://www.tesena.com/en/tesena-fest/?utm_source=testingconferences
-  status: CFP is Open
+  url: https://www.tesena.com/en/tesena-fest-online-program-2021/?utm_source=testingconferences
 
 - name: Agile & Automation Days 2021 (AADays)
   location: Poznan, Poland
@@ -156,7 +156,7 @@
   dates: "September 27-29, 2021"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: CFP is Open until April 30, 2021. Early Bird Registration is Open until July 15, 2021
+  status: Early Bird Registration is Open until July 15, 2021
 
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
@@ -189,12 +189,12 @@
   url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
   
-- name: HUSTEF 2021 - Hungarian Software TEsting Forum
+- name: HUSTEF 2021 - Hungarian Software Testing Forum
   location: Online
   dates: "October 18-21, 2021"
-  url: https://hustef.hu/
+  url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2021
-  status: CFP is Open
+  status: CFP is Open until May 16, 2021
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
@@ -219,7 +219,7 @@
   dates: "November 11-12, 2021"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until June 30, 2021
 
 - name: Agile Testing Days (ATD) 2021
   location: Online
