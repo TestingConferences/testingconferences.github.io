@@ -1,3 +1,15 @@
+- name: ICQASST 2021 - International Conference on Quality Assurance and Software System Testing
+  location: Online
+  dates: "May 24-25, 2021"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
+  status: Registration is Open
+
+- name: ICSSTA 2021 - International Conference on Software System Testing and Applications
+  location: Online
+  dates: "May 24-25, 2021"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
+  status: Registration is Open
+
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
   dates: "May 13-14, 2021"
@@ -15,6 +27,7 @@
   dates: "May 11-12, 2021"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
+  video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfHhxta6KyzsDOIOQESlntBy
 
 - name: API Testing Summit 2021
   location: Online
