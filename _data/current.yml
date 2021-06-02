@@ -163,6 +163,12 @@
   dates: "October 1-2, 2021"
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
+  
+- name: "QA: Challenge Accepted 007"
+  location: Sofia, Bulgaria or Online
+  dates: "October 2, 2021"
+  url: https://qachallengeaccepted.com/
+  status: Announced, CFP open until August 1, 2021
 
 - name: STARWEST 2021
   location: Anaheim, CA, USA or Online
