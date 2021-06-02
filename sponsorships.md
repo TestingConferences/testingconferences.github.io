@@ -18,10 +18,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>May 2021</td>
-    <td>Testing United 2021</td>
-  </tr>
-  <tr>
     <td>June 2021</td>
     <td>PNSQC 2021</td>
   </tr>
