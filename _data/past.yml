@@ -1,3 +1,20 @@
+- name: Nordic Testing Days (NTD) 2021
+  location: Online
+  dates: "June 4, 2021"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
+- name: ICTSS 2021 - International Conference on Testing Software and Systems
+  location: New York, NY, USA
+  dates: "June 3-4, 2021"
+  url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
+
+- name: Agile, DevOps & Testing - The Business Case
+  location: Online
+  dates: "June 2-3, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-May/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
 - name: Test Automation & Digital QA Virtual Summit 2021
   location: Online
   dates: "May 27-28, 2021"
