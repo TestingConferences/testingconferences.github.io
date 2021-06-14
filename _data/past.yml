@@ -1,3 +1,9 @@
+- name: Romanian Testing Conference
+  location: Online
+  dates: "June 9-10, 2021"
+  url: https://romaniatesting.ro/?utm_source=testingconferences
+  twitter: RomaniaTesting
+
 - name: Front End Test Fest 2021
   location: Online
   dates: "June 8, 2021"
