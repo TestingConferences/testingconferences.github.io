@@ -1,3 +1,14 @@
+- name: QA Financial Forum Nordics
+  location: Online
+  dates: "June 23, 2021"
+  url: https://qamedia.eventsair.com/the-qa-financial-digital-forum---nordics?utm_source=testingconference
+
+- name: TestBash Home
+  location: Online
+  dates: "June 17-18, 2021"
+  url: https://ti.to/mot/testbash-home-2021?source=testingconferences
+  twitter: ministryoftest
+
 - name: Romanian Testing Conference
   location: Online
   dates: "June 9-10, 2021"
