@@ -2,7 +2,20 @@
   location: Online
   dates: "June 28-29, 2021"
   url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
-  
+
+- name: Future of Testing - Mobile
+  location: Online
+  dates: "June 29, 2021"
+  url: https://applitools.com/future-of-testing-mobile-europe/?utm_source=testingconferences
+  twitter: applitools
+
+- name: API Testing Summit 2021
+  location: Online
+  dates: "July 10, 2021"
+  url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
+  twitter: AgileTAlliance
+  status: Registration is Open
+
 - name: Agile, DevOps and Testing - New Directions in Methods and Tools
   location: Online
   dates: "July 14-15, 2021"
