@@ -1,3 +1,14 @@
+- name: Future of Testing - Mobile
+  location: Online
+  dates: "June 29, 2021"
+  url: https://applitools.com/future-of-testing-mobile-europe/?utm_source=testingconferences
+  twitter: applitools
+
+- name: ICCCBS 2021 - International Conference on Critical Computer-Based Systems
+  location: Online
+  dates: "June 28-29, 2021"
+  url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
+
 - name: QA Financial Forum Nordics
   location: Online
   dates: "June 23, 2021"
@@ -20,6 +31,7 @@
   dates: "June 8, 2021"
   url: https://frontendtestfest.com/?utm_source=testingconferences
   twitter: applitools
+  video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg
 
 - name: FailQonf
   location: Online
