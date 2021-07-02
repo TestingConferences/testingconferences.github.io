@@ -12,7 +12,7 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2021-05-04 21:00:00
+last_modified_at: 2021-07-02 09:57:00
 ---
 
 Attending conferences is one of the best ways to keep-up on the latest in software testing and quality and of course connect with your peers in the larger communities. This list only contains conferences, un-conferences and workshops that are specifically for software testing and quality. People should strive to attend other tech conferences as it allows us to become better informed and more well rounded.
@@ -61,6 +61,7 @@ As we saw (unexpectdly) in 2020, I project most conferences and workshops of 202
 
 ## November
 
+- [CAST 2021](https://associationforsoftwaretesting.123signup.com/event/details/kzyrv) is an in-person conference from November 8-9, 2021. 
 - [Agile Testing Days 2021](http://www.agiletestingdays.com/?utm_source=testingconferences) is an online conference from November 15-18, 2021.
 
 
