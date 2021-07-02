@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /sponsorships/
-last_modified_at:   2021-01-05 13:02:00
+title: Sponsor Us - Software Testing Conferences
+last_modified_at:   2021-07-01 21:09:00
 ---
 
 **Sponsoring Us**
@@ -17,10 +18,6 @@ Sponsors get promotion through banner across the top of this site and mention in
 Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
-  <tr>
-    <td>June 2021</td>
-    <td>PNSQC 2021</td>
-  </tr>
   <tr>
     <td>July 2021</td>
     <td>Reserved</td>

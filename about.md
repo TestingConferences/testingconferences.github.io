@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /about/
+title: About - Software Testing Conferences
+last_modified_at:   2021-07-01 21:09:00
 ---
-**About**
+**About TestingConferences.org**
 
-TestingConferences.org is a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
+This is a simple list of Software Testing conferences and workshops published collaboratively with the testing community.
 
 <div align="center" style="nowrap">
   <div>
