@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Software Testing Conferences of 2020"
+title:  "The Best Software QA and Testing Conferences of 2020"
 date:   2020-02-22 12:00:00
 categories: news
 author: Chris Kenst
@@ -12,8 +12,10 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-04-15 11:31:13
+last_modified_at: 2021-07-02 15:54:00
 ---
+
+## {{ page.title }}
 
 Attending conferences is one of the best ways to keep-up on the latest in software testing and quality and of course connect with your peers in the larger communities. While this list (as is usual) only lists conferences, un-conferences and workshops that are specifically for software testing and quality are listed we definitely think people should attend other tech conferences as it allows us to become better informed and more well rounded.
 
