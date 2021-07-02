@@ -15,13 +15,13 @@ social:
 last_modified_at: 2021-07-02 15:47:00
 ---
 
-## {{ page.title }}
+## Best Conferences of 2021
 
 Attending conferences is one of the best ways to keep-up on the latest in software testing and quality and of course connect with your peers in the larger communities. This list only contains conferences, un-conferences and workshops that are specifically for software testing and quality. People should strive to attend other tech conferences as it allows us to become better informed and more well rounded.
 
-As we saw (unexpectdly) in 2020, I project most conferences and workshops of 2021 will be either entirely or mostly virtual. While 2021 will seem some return to normalcy with regard to physical conferences. 
+As we saw (unexpectdly) in 2020, most conferences and workshops in 2021 will be either entirely or mostly online. Perhaps in the later half of 2021 when vaccination rates climb, will seem some return to normalcy with regard to physical conferences. 
 
-# The following is a list of the best software testing conferences and workshops of 2021:
+### Here is my short list of the most popular QA and testing conferences and workshops in 2021:
 
 
 ## February
