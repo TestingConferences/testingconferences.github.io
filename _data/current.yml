@@ -155,6 +155,13 @@
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021?utm_source=testingconferences
   twitter: testingtalks
   status: Registration is Open
+  
+ - name: OnlineTestConf: Fall 2021
+  location: World wide web
+  dates: "November 3-4th, 2021"
+  url: https://www.onlinetestconf.com/
+  twitter: OnlineTestConf
+  status: Registration and Call for speakers is Open
 
 - name: CAST 2021
   location: Atlanta, GA, USA
