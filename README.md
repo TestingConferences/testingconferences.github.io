@@ -21,7 +21,7 @@ An alternate option is to use docker-compose:
 
 > docker-compose up
 
-3. Open browser to http://localhost:4000 and start making changes  
+3. Browse to http://localhost:4000 to see the site
 
 ## Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.
