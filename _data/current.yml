@@ -40,7 +40,7 @@
   dates: "September 7-9, 2021"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
-  status: Early Bird Registration is Open until July 1, 2021
+  status: Registration is Open
 
 - name: Swiss Testing Day
   location: Zurich, Switzerland
@@ -63,13 +63,6 @@
   location: Online
   dates: "September 23-24, 2021"
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
-
-- name: Targeting Quality (KWSQA) 2021
-  location: Cambridge, ON Canada
-  dates: "September 27-28, 2021"
-  url: https://kwsqa.org?utm_source=testingconferences
-  twitter: kwsqa
-  status: Announced
 
 - name: SEETEST 2021 (10th edition)
   location: Hybrid - Serbia & Online
