@@ -69,7 +69,7 @@
   dates: "September 27-29, 2021"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Early Bird Registration is Open until July 15, 2021
+  status: Registration is Open
 
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
@@ -77,12 +77,6 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: Registration is Open
-
-- name: QA Fest 2021
-  location: Kyiv, Ukraine
-  dates: "October 1-2, 2021"
-  url: http://qafest.com/en?utm_source=testingconferences
-  status: Announced
   
 - name: "QA: Challenge Accepted 007"
   location: Sofia, Bulgaria or Online
@@ -114,7 +108,6 @@
   dates: "October 18-21, 2021"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2021
-  status: CFP is Closed
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
@@ -140,12 +133,12 @@
   dates: "November 3-4th, 2021"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Registration and CFP is Open
+  status: Registration and CFP is Open until August 1, 2021
 
 - name: CAST 2021
   location: Atlanta, GA, USA
   dates: "November 8-9, 2021"
-  url: https://associationforsoftwaretesting.123signup.com/event/details/kzyrv
+  url: https://associationforsoftwaretesting.org/conference/cast-2021?utm_source=testingconferences
   status: Early Bird Registration is Open until July 30, 2021
 
 - name: ASQT 2021
@@ -159,14 +152,14 @@
   dates: "November 11-12, 2021"
   url: https://testingunited.com?utm_source=testingconferences
   twitter: testing_united
-  status: Early Bird Registration is Open until June 30, 2021
+  status: Registration is Open with 5% off
 
 - name: Agile Testing Days (ATD) 2021
   location: Online
   dates: "November 15-18, 2021"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Super Early Bird Registration is Open until June 17, 2021
+  status: Early Bird Registration is Open until September 16, 2021
   
 - name: ParisTestConf (PTC) 2021
   location: Online
@@ -202,7 +195,7 @@
 
 - name: expo:QA 22
   location: Madrid, Spain
-  dates: "May 31 - June 2, 2021"
+  dates: "May 2022"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
   status: Postponed to May 2022
@@ -231,3 +224,9 @@
   dates: "Summer 2022"
   url: https://www.qualityexcites.pl/?utm_source=testingconferences
   twitter: QualityExcites
+
+- name: QA Fest 2022
+  location: Kyiv, Ukraine
+  dates: "Summer 2022"
+  url: http://qafest.com/en?utm_source=testingconferences
+  status: Announced
