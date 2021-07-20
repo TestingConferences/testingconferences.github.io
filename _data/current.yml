@@ -77,7 +77,14 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: Registration is Open
-  
+
+- name: InflectraCon 2021
+  location: Online
+  dates: "October 1, 2021"
+  url: https://www.inflectracon.com/?utm_source=testingconferences
+  twitter: InflectraCon
+  status: Early Bird Registration is Open until September 1, 2021
+
 - name: "QA: Challenge Accepted 007"
   location: Sofia, Bulgaria or Online
   dates: "October 2, 2021"
@@ -108,6 +115,13 @@
   dates: "October 18-21, 2021"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2021
+
+- name: QA & TEST Embedded 2021
+  location: Online
+  dates: "October 20-22, 2021"
+  url: https://embedded.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Early Bird Registration is Open until July 31, 2021
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
@@ -184,6 +198,13 @@
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
+  status: Announced
+
+- name: QA & TEST Safety and Security Online
+  location: Online
+  dates: "March 17-18, 2022"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
   status: Announced
 
 - name: Agile Testing Days (ATD) Open Air Festival
