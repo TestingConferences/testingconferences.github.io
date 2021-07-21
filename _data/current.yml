@@ -71,6 +71,13 @@
   twitter: SEETESTConf
   status: Registration is Open
 
+- name: STPCon Fall 2021
+  location: St. Louis, MO, USA
+  dates: "September 27-29, 2021"
+  url: https://stpcon.com/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+  status: Announced
+
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
   dates: "September 28-30, 2021"
