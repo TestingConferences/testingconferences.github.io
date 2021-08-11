@@ -1,3 +1,21 @@
+- name: "Future of Testing: Mobile"
+  location: Online
+  dates: "August 10, 2021"
+  url: https://applitools.com/future-of-testing-mobile-apac-2021/?utm_source=testingconferences
+  twitter: applitools
+
+- name: Agile, DevOps and Testing - New Directions in Methods and Tools
+  location: Online
+  dates: "August 4-5, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-August/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
+- name: TestingUY 2021
+  location: Online
+  dates: "August 2-7, 2021"
+  url: https://testinguy.org/edition-2021/?utm_source=testingconferences
+  twitter: testingUY
+
 - name: QA Summit
   location: Salt Lake City, Utah, USA & Virtual
   dates: "July 28, 2021"
@@ -676,12 +694,14 @@
   dates: "September 12, 2020"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
+  video_url: https://www.youtube.com/playlist?list=PLypOOWzseUBbe4-wB8U-tLVTKw-x5kWTQ
 
 - name: SeleniumConf India 2020
   location: Online
   dates: "September 10-12, 2020"
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
+  video_url: https://www.youtube.com/hashtag/seconf2020
 
 - name: German Testing Day 2020
   location: Online
