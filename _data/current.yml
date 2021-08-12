@@ -153,8 +153,9 @@
   
 - name: ParisTestConf (PTC) 2021
   location: Online
-  dates: "November 22-26, 2021"
+  dates: "November 22-25, 2021"
   url: https://paristestconf.com/?utm_source=testingconferences
+  status: Registration is Open & Free
   twitter: ParisTestConf
   
 - name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
