@@ -30,6 +30,13 @@
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
   status: Registration is Open
+  
+  - name: Hands On Testing 2021
+  location: Online
+  dates: "September 8-10, 2021"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+  status: Registration is Open
 
 - name: Swiss Testing Day
   location: Zurich, Switzerland
