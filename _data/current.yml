@@ -126,7 +126,7 @@
 - name: TestExpo and Agile & DevOps Expo 2021: Adaptive Challenges
   location: Online
   dates: "October 20-21, 2021"
-  url: https://conference.unicom.co.uk/expo/2021/
+  url: https://conference.unicom.co.uk/expo/2021/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
 
@@ -158,7 +158,7 @@
   
 - name: OnlineTestConf Fall 2021
   location: Online
-  dates: "November 3-4th, 2021"
+  dates: "November 3-4, 2021"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Registration and CFP is Open until August 1, 2021
@@ -194,18 +194,18 @@
   dates: "November 22-26, 2021"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: ParisTestConf
-  
-- name: World Conference Next Generation Testing 2021
-  location: Online
-  dates: "November 24-25, 2021"
-  url: https://www.unicomlearning.com/2021/WCNGT-2021/
-  twitter: UNICOMLearning
-  status: Registration is Open
 
 - name: South East Asian Software Testing League 2021
   location: Online
   dates: "November 24, 2021"
   url: https://www.unicomlearning.com/south-east-asian-software-testing-league-2021.html
+  twitter: UNICOMLearning
+  status: Registration is Open
+  
+- name: World Conference Next Generation Testing 2021
+  location: Online
+  dates: "November 24-25, 2021"
+  url: https://www.unicomlearning.com/2021/WCNGT-2021/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
   
