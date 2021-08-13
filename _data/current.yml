@@ -179,10 +179,16 @@
   twitter: UNICOMLearning
   status: Registration is Open
   
+- name: South East Asian Software Testing Awards 2021
+  location: Online
+  dates: "November 24, 2021"
+  url: https://www.unicomlearning.com/2021/SEA_Software_Testing_Awards_2021/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  
 - name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
   location: Hainan Island, China
   dates: "December 6-10, 2021"
-  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21
+  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21?utm_source=testingconferences
   status: CFP is Open until September 20, 2021
 
 - name: Software Quality Days 2022
