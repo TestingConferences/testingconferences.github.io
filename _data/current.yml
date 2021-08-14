@@ -45,7 +45,7 @@
   dates: "September 27-29, 2021"
   url: https://stpcon.com/?utm_source=testingconferences
   twitter: SoftwareTestPro
-  status: Announced
+  status: Canceled
 
 - name: EuroSTAR 2021 Software Testing Conference
   location: Online
@@ -65,14 +65,14 @@
   location: Sofia, Bulgaria or Online
   dates: "October 2, 2021"
   url: https://qachallengeaccepted.com/?utm_source=testingconferences
-  status: CFP open until August 1, 2021
+  status: Registration is Open
 
 - name: STARWEST 2021 — The Premier Software Testing & QA Conference
   location: Anaheim, CA, USA and Online
   dates: "October 3-8, 2021"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Super Early Bird Registration is Open until August 6, 2021
+  status: Early Bird Registration is Open until September 3, 2021
   
 - name: SANAE BEER.EX Software Testing Conference
   location: Bratislava, Slovakia
@@ -85,6 +85,7 @@
   dates: "October 11-13, 2021"
   url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
+  status: Early Bird Registration is Open
   
 - name: HUSTEF 2021 - Hungarian Software Testing Forum
   location: Online
@@ -104,7 +105,7 @@
   dates: "October 20-22, 2021"
   url: https://embedded.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: Early Bird Registration is Open until July 31, 2021
+  status: Registration is Open
 
 - name: ICSSTVV 2021 - International Conference on Software System Testing, Validation and Verification
   location: London, UK
@@ -116,7 +117,7 @@
   dates: "October 23-24, 2021"
   url: https://www.thetesttribe.com/testflix-2021/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Registration is Open & Free
+  status: CFP is Open until August 15th. Registration is Open & Free
 
 - name: Testing Talks Online 2021
   location: South Wharf, Victoria, Australia
@@ -130,13 +131,13 @@
   dates: "November 3-4, 2021"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Registration and CFP is Open until August 1, 2021
+  status: Registration is Open and Free
 
 - name: CAST 2021
   location: Atlanta, GA, USA
   dates: "November 8-9, 2021"
   url: https://associationforsoftwaretesting.org/conference/cast-2021?utm_source=testingconferences
-  status: Early Bird Registration is Open until July 30, 2021
+  status: Registration is Open
 
 - name: ASQT 2021
   location: Bolzano, Italy
@@ -162,8 +163,8 @@
   location: Online
   dates: "November 22-25, 2021"
   url: https://paristestconf.com/?utm_source=testingconferences
-  status: Registration is Open & Free
   twitter: ParisTestConf
+  status: Registration is Open & Free
 
 - name: South East Asian Software Testing League 2021
   location: Online
