@@ -180,19 +180,19 @@
   url: https://www.unicomlearning.com/south-east-asian-software-testing-league-2021.html?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
-  
+
+- name: South East Asian Software Testing Awards 2021
+  location: Online
+  dates: "November 24, 2021"
+  url: https://www.unicomlearning.com/2021/SEA_Software_Testing_Awards_2021/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
 - name: World Conference Next Generation Testing 2021
   location: Online
   dates: "November 24-25, 2021"
   url: https://www.unicomlearning.com/2021/WCNGT-2021/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
-  
-- name: South East Asian Software Testing Awards 2021
-  location: Online
-  dates: "November 24, 2021"
-  url: https://www.unicomlearning.com/2021/SEA_Software_Testing_Awards_2021/?utm_source=testingconferences
-  twitter: UNICOMLearning
   
 - name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
   location: Hainan Island, China
@@ -231,21 +231,21 @@
   dates: "May 17-19, 2022"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Postponed to May 2022
+  status: Announced
 
 - name: expo:QA 22
   location: Madrid, Spain
   dates: "May 2022"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: Postponed to May 2022
+  status: Announced
 
 - name: Agile Testing Days (ATD) USA 2022
   location: Chicago, IL, USA
   dates: "June 5-9, 2022"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Moved from 2021 to 2022
+  status: Announced
 
 - name: IEEE AUTOTESTCON 2022
   location: Oxon Hill, MD, USA
