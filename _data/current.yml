@@ -5,7 +5,7 @@
   status: Registration is Open
   
 - name: TestCon Europe 2021
-  location: Vilnius, Lithuania
+  location: Vilnius, Lithuania and Online
   dates: "September 7-9, 2021"
   url: http://www.testcon.lt/?utm_source=testingconferences
   twitter: TestConEurope
@@ -22,11 +22,7 @@
   location: Online
   dates: "September 16, 2021"
   url: https://www.tesena.com/en/tesena-fest-online-program-2021/?utm_source=testingconferences
-
-- name: QA Financial Forum New York 2021
-  location: Online
-  dates: "September 21, 2021"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2020?utm_source=testingconferences
+  status: Registration is Open & Free
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: Online
@@ -34,7 +30,7 @@
   url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
 
 - name: SEETEST 2021 (10th edition)
-  location: Hybrid - Serbia & Online
+  location: Belgrade, Serbia and Online
   dates: "September 27-29, 2021"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
@@ -52,7 +48,7 @@
   dates: "September 28-30, 2021"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Registration is Open
+  status: Early Bird Registration is Open until September 6, 2021
 
 - name: InflectraCon 2021
   location: Online
@@ -62,7 +58,7 @@
   status: Early Bird Registration is Open until September 1, 2021
 
 - name: "QA: Challenge Accepted 007"
-  location: Sofia, Bulgaria or Online
+  location: Sofia, Bulgaria and Online
   dates: "October 2, 2021"
   url: https://qachallengeaccepted.com/?utm_source=testingconferences
   status: Registration is Open
@@ -85,13 +81,20 @@
   dates: "October 11-13, 2021"
   url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until September 9, 2021
   
 - name: HUSTEF 2021 - Hungarian Software Testing Forum
   location: Online
   dates: "October 18-21, 2021"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2021
+  status: Early Bird Registration is Open until September 12, 2021
+
+- name: QA Financial Forum New York 2021
+  location: Online
+  dates: "October 19, 2021"
+  url: https://qamedia.eventsair.com/qa-financial-forum-new-york-2021?utm_source=testingconferences
+  status: Registration is Open
 
 - name: "TestExpo and Agile & DevOps Expo 2021: Adaptive Challenges"
   location: Online
@@ -138,6 +141,11 @@
   dates: "November 8-9, 2021"
   url: https://associationforsoftwaretesting.org/conference/cast-2021?utm_source=testingconferences
   status: Registration is Open
+
+- name: The QA Financial Forum London 2021
+  location: London, UK
+  dates: "November 9, 2021"
+  url: https://qamedia.eventsair.com/qa-financial-forum-london-2021/?utm_source=testingconferences
 
 - name: ASQT 2021
   location: Bolzano, Italy
@@ -203,6 +211,12 @@
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
+  status: Announced
+
+- name: The QA Financial Forum Chicago 2022
+  location: Chicago, IL, USA
+  dates: "March 8, 2022"
+  url: https://forms.zohopublic.eu/qafinancial/form/SavethedateTheQAFinancialForumChicago/formperma/YOguxquB1bg6ffTj_gZ5pVPN5yt5xBS4b3KP0JgQv-o?utm_source=testingconferences
   status: Announced
 
 - name: QA & TEST Safety and Security Online
