@@ -85,9 +85,10 @@
 
 - name: Tricentis Virtual Summit 2021
   location: Online
-  dates: "October 12, 2021"
+  dates: "October 12-14, 2021"
   url: https://www.tricentis.com/events/virtual-summit-fall-2021/?utm_source=testingconferences
   twitter: Tricentis
+  status: Registration is Open and Free
 
 - name: HUSTEF 2021 - Hungarian Software Testing Forum
   location: Online
