@@ -82,7 +82,13 @@
   url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
   twitter: PNSQC
   status: Early Bird Registration is Open until September 9, 2021
-  
+
+- name: Tricentis Virtual Summit 2021
+  location: Online
+  dates: "October 12, 2021"
+  url: https://www.tricentis.com/events/virtual-summit-fall-2021/?utm_source=testingconferences
+  twitter: Tricentis
+
 - name: HUSTEF 2021 - Hungarian Software Testing Forum
   location: Online
   dates: "October 18-21, 2021"
