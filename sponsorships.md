@@ -19,10 +19,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>July 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
     <td>August 2021</td>
     <td>Reserved</td>
   </tr>
