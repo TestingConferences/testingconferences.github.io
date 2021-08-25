@@ -1,3 +1,10 @@
+- name: Appium Conf Lite 2021
+  location: Online
+  dates: "September 2, 2021"
+  url: https://confengine.com/conferences/appium-conf-2021/register/selection?utm_source=testingconferences
+  twitter: appium_conf
+  status: Registration is Open and Free
+
 - name: TestCon Europe 2021
   location: Vilnius, Lithuania and Online
   dates: "September 7-9, 2021"
@@ -24,6 +31,13 @@
   dates: "September 16, 2021"
   url: https://www.tesena.com/en/tesena-fest-online-program-2021/?utm_source=testingconferences
   status: Registration is Open & Free
+
+- name: Appium Conference 2021
+  location: Online
+  dates: "September 17-18, 2021"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+  status: Registration is Open
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: Online
@@ -169,7 +183,7 @@
   status: Registration is Open with 5% off
 
 - name: Agile Testing Days (ATD) 2021
-  location: Online
+  location: Potsdam, Germany
   dates: "November 15-18, 2021"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
