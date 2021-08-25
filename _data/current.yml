@@ -255,6 +255,13 @@
   twitter: QATestBilbao
   status: Announced
 
+- name: STAREAST 2022
+  location: Orlando, FL, USA
+  dates: "April 24-29, 2022"
+  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
+  twitter: TechWell
+  status: CFP is Open until September 5, 2021
+
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
   dates: "May 17-19, 2022"
@@ -279,8 +286,8 @@
 - name: IEEE AUTOTESTCON 2022
   location: Oxon Hill, MD, USA
   dates: "August 28-31, 2022"
-  url: https://www.autotestcon.com?utm_source=testingconferences
-  status: CFP to be announced
+  url: https://2022.autotestcon.com/?utm_source=testingconferences
+  status: CFP is Open until March 30, 2022
 
 - name: EuroSTAR 30th Edition Software Testing Conference
   location: Online
