@@ -143,13 +143,6 @@
   url: https://www.thetesttribe.com/testflix-2021/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open & Free
-
-- name: Testing Talks Online 2021
-  location: South Wharf, Victoria, Australia
-  dates: "October 28, 2021"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021?utm_source=testingconferences
-  twitter: testingtalks
-  status: Registration is Open
   
 - name: OnlineTestConf Fall 2021
   location: Online
@@ -306,3 +299,10 @@
   dates: "Summer 2022"
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
+
+- name: Testing Talks Conference
+  location: South Wharf, Victoria, Australia
+  dates: "October 20, 2022"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021?utm_source=testingconferences
+  twitter: testingtalks
+  status: Moved to 2022
