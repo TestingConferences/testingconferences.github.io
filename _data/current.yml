@@ -26,6 +26,12 @@
   twitter: SwissTesting
   status: Registration is Open
 
+- name: French Software Testing Days 13 (JFTL) 2021
+  location: Montrouge, France
+  dates: "September 13-14, 2021"
+  url: http://www.cftl.fr/JFTL?utm_source=testingconferences
+  status: Registration is Open
+
 - name: Tesena Fest Online 2021
   location: Online
   dates: "September 16, 2021"
@@ -70,13 +76,6 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: Early Bird Registration is Open until September 6, 2021
-
-- name: InflectraCon 2021
-  location: Online
-  dates: "October 1, 2021"
-  url: https://www.inflectracon.com/?utm_source=testingconferences
-  twitter: InflectraCon
-  status: Early Bird Registration is Open until September 1, 2021
 
 - name: "QA: Challenge Accepted 007"
   location: Sofia, Bulgaria and Online
@@ -260,6 +259,13 @@
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: CFP is Open until September 5, 2021
+
+- name: InflectraCon 2022
+  location: Washington, D.C. USA
+  dates: "May 5-6, 2022"
+  url: https://www.inflectracon.com/?utm_source=testingconferences
+  twitter: InflectraCon
+  status: Early Bird Registration is Open until January 31, 2022
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
