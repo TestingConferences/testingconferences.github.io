@@ -38,6 +38,12 @@
   url: https://appiumconf.com/?utm_source=testingconferences
   twitter: appium_conf
   status: Registration is Open
+  
+  - name: SmartBear Connect 2021
+  location: Online
+  dates: "September 21-23, 2021"
+  url: https://smartbear.com/connect/
+  status: Registration is Open
 
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: Online
