@@ -1,10 +1,3 @@
-- name: Appium Conf Lite 2021
-  location: Online
-  dates: "September 2, 2021"
-  url: https://confengine.com/conferences/appium-conf-2021/register/selection?utm_source=testingconferences
-  twitter: appium_conf
-  status: Registration is Open and Free
-
 - name: TestCon Europe 2021
   location: Vilnius, Lithuania and Online
   dates: "September 7-9, 2021"
