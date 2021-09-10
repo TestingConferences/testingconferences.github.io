@@ -91,6 +91,12 @@
   twitter: applitools
   video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg
 
+- name: QA Talks UK & Europe Edition
+  location: Online
+  dates: "June 5-6, 2021"
+  url: https://www.tech-talks.info/global-summit
+  twitter: QTechTalks
+
 - name: FailQonf
   location: Online
   dates: "June 5-6, 2021"
