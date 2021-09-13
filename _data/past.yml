@@ -1,3 +1,15 @@
+- name: Hands On Testing 2021
+  location: Online
+  dates: "September 8-10, 2021"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+
+- name: TestCon Europe 2021
+  location: Vilnius, Lithuania and Online
+  dates: "September 7-9, 2021"
+  url: http://www.testcon.lt/?utm_source=testingconferences
+  twitter: TestConEurope
+
 - name: Appium Conf Lite 2021
   location: Online
   dates: "September 2, 2021"
