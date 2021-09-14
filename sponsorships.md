@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2021-07-02 09:38:00
+last_modified_at: 2021-09-14 09:38:00
 ---
 
 **Sponsoring Us**
@@ -19,14 +19,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 
 <table style="width:50%" align="center">
   <tr>
-    <td>August 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
-    <td>September 2021</td>
-    <td>Reserved</td>
-  </tr>
-  <tr>
     <td>October 2021</td>
     <td>mabl</td>
   </tr>
@@ -37,6 +29,30 @@ Pricing is based on the per thousand sessions for your given month and depends o
   <tr>
     <td>December 2021</td>
     <td>TBD</td>
+  </tr>
+  <tr>
+    <td>January 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>February 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>March 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>April 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>May 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>June 2022</td>
+    <td>Open</td>
   </tr>
 </table>
 
