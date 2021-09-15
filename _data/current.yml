@@ -224,6 +224,12 @@
   dates: "January 18-20, 2022"
   url: https://www.software-quality-days.com/?utm_source=testingconferences
   status: Announced
+  
+- name: QA Global Summit 2022
+  location: Online
+  dates: "February 15-16, 2022"
+  url: https://geekle.us/qa_volume3
+  status: CFP and registration are Open
 
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
