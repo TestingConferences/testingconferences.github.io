@@ -1,16 +1,3 @@
-- name: QAASP 2021
-  location: Online
-  dates: "September 17, 2021"
-  url: https://qaasp.tech/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Appium Conference 2021
-  location: Online
-  dates: "September 17-18, 2021"
-  url: https://appiumconf.com/?utm_source=testingconferences
-  twitter: appium_conf
-  status: Registration is Open
-  
 - name: SmartBear Connect 2021
   location: Online
   dates: "September 21-23, 2021"
@@ -41,7 +28,7 @@
   dates: "September 28-30, 2021"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open until September 6, 2021
+  status: Registration is Open
 
 - name: "QA: Challenge Accepted 007"
   location: Sofia, Bulgaria and Online
@@ -50,11 +37,11 @@
   status: Registration is Open, 20% off with code 20000-TESTC
 
 - name: STARWEST 2021 — The Premier Software Testing & QA Conference
-  location: Anaheim, CA, USA and Online
+  location: Online
   dates: "October 3-8, 2021"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Early Bird Registration is Open until September 3, 2021
+  status: Registration is Open
  
 - name: LoadTestWorld
   location: Online
@@ -64,7 +51,7 @@
   status: Registration is Open and Free
  
 - name: SANAE BEER.EX Software Testing Conference
-  location: Bratislava, Slovakia
+  location: Bratislava, Slovakia and Online
   dates: "October 6-7, 2021"
   url: http://sanae.beer?utm_source=testingconferences
   status: Registration is Open
@@ -79,7 +66,7 @@
 - name: Tricentis Virtual Summit 2021
   location: Online
   dates: "October 12-14, 2021"
-  url: https://www.tricentis.com/events/virtual-summit-fall-2021/?utm_source=testingconferences
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
   twitter: Tricentis
   status: Registration is Open and Free
 
@@ -88,10 +75,10 @@
   dates: "October 18-21, 2021"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2021
-  status: Early Bird Registration is Open until September 12, 2021
+  status: Registration is Open
 
 - name: QA Financial Forum New York 2021
-  location: Online
+  location: New York, NY, USA
   dates: "October 19, 2021"
   url: https://qamedia.eventsair.com/qa-financial-forum-new-york-2021?utm_source=testingconferences
   status: Registration is Open
@@ -165,12 +152,12 @@
   dates: "November 15-18, 2021"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until September 16, 2021
+  status: Registration is Open
 
 - name: QA Detective Conf 2021 (QADC)
-  location: Remote, Online
+  location: Online
   dates: "November 20-21, 2021"
-  url: https://www.tech-talks.info/qa-detective-conf-2021
+  url: https://www.tech-talks.info/qa-detective-conf-2021?utm_source=testingconferences
   twitter: QTechTalks
   status: Early Bird Registration is Open until September 30, 2021
   

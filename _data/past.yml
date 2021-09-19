@@ -1,3 +1,14 @@
+- name: Appium Conference 2021
+  location: Online
+  dates: "September 17-18, 2021"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+
+- name: QAASP 2021
+  location: Online
+  dates: "September 17, 2021"
+  url: https://qaasp.tech/?utm_source=testingconferences
+
 - name: Tesena Fest Online 2021
   location: Online
   dates: "September 16, 2021"
