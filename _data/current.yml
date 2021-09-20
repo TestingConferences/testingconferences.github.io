@@ -204,14 +204,14 @@
   location: Online
   dates: "February 15-16, 2022"
   url: https://geekle.us/qa_volume3
-  status: CFP and registration are Open
+  status: Registration is Open
 
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: CFP is Open until October 15, 2022
+  status: CFP is Open until October 15, 2021
 
 - name: The QA Financial Forum Chicago 2022
   location: Chicago, IL, USA
@@ -238,7 +238,6 @@
   dates: "April 24-29, 2022"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open until September 19, 2021
 
 - name: InflectraCon 2022
   location: Washington, D.C. USA
