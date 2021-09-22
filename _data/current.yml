@@ -160,7 +160,14 @@
   url: https://www.tech-talks.info/qa-detective-conf-2021?utm_source=testingconferences
   twitter: QTechTalks
   status: Early Bird Registration is Open until September 30, 2021
-  
+
+- name: National Software Testing Conference 2021
+  location: Toronto, Canada
+  dates: "November 22-23, 2021"
+  url: http://softwaretesting.news/national-software-testing-conference/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is Open
+
 - name: ParisTestConf (PTC) 2021
   location: Online
   dates: "November 22-25, 2021"
