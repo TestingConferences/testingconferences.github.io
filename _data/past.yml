@@ -1,3 +1,20 @@
+- name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
+  location: Online
+  dates: "September 23-24, 2021"
+  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
+
+- name: SmartBear Connect 2021
+  location: Online
+  dates: "September 21-23, 2021"
+  url: https://smartbear.com/connect/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: QA ATL Conference 2021
+  location: Atlanta, GA, USA
+  dates: "September 20-24, 2021"
+  url: https://www.qaatl.com/?utm_source=testingconferences
+  twitter: AQAAorg
+
 - name: Appium Conference 2021
   location: Online
   dates: "September 17-18, 2021"
