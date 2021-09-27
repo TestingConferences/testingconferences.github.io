@@ -1,4 +1,4 @@
-# Testing Conferences [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+# Testing Conferences [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 
 This is a simple list of software testing conferences and workshops published collaboratively with the testing community.
 
@@ -55,3 +55,5 @@ Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly n
 ## License
 
 TC.org is released under the [MIT License](MIT-LICENSE).
+
+[![Testing Powered By SauceLabs](https://opensource.saucelabs.com/images/opensauce/powered-by-saucelabs-badge-white.png?sanitize=true "Testing Powered By SauceLabs")](https://saucelabs.com)
