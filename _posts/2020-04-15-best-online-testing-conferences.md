@@ -12,8 +12,10 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-04-18 15:31:00
+last_modified_at: 2021-07-02 15:55:00
 ---
+
+## {{ page.title }}
 
 The following is a list of the best online software testing conferences of 2020 from around the world. These conferences focus on a number of areas including peformance testing, automated testing, AI and QA and Modern Testing principles. 
 

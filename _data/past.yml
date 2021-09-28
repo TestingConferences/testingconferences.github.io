@@ -1,8 +1,315 @@
+- name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
+  location: Online
+  dates: "September 23-24, 2021"
+  url: https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/?utm_source=testingconferences
+
+- name: SmartBear Connect 2021
+  location: Online
+  dates: "September 21-23, 2021"
+  url: https://smartbear.com/connect/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: QA ATL Conference 2021
+  location: Atlanta, GA, USA
+  dates: "September 20-24, 2021"
+  url: https://www.qaatl.com/?utm_source=testingconferences
+  twitter: AQAAorg
+
+- name: Appium Conference 2021
+  location: Online
+  dates: "September 17-18, 2021"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+
+- name: QAASP 2021
+  location: Online
+  dates: "September 17, 2021"
+  url: https://qaasp.tech/?utm_source=testingconferences
+
+- name: Tesena Fest Online 2021
+  location: Online
+  dates: "September 16, 2021"
+  url: https://www.tesena.com/en/tesena-fest-online-program-2021/?utm_source=testingconferences
+
+- name: Swiss Testing Day
+  location: Zurich, Switzerland
+  dates: "September 14, 2021"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
+
+- name: French Software Testing Days 13 (JFTL) 2021
+  location: Montrouge, France
+  dates: "September 13-14, 2021"
+  url: https://www.cftl.fr/JFTL/accueil/?utm_source=testingconferences
+
+- name: Hands On Testing 2021
+  location: Online
+  dates: "September 8-10, 2021"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+
+- name: TestCon Europe 2021
+  location: Vilnius, Lithuania and Online
+  dates: "September 7-9, 2021"
+  url: http://www.testcon.lt/?utm_source=testingconferences
+  twitter: TestConEurope
+
+- name: Appium Conf Lite 2021
+  location: Online
+  dates: "September 2, 2021"
+  url: https://confengine.com/conferences/appium-conf-2021/register/selection?utm_source=testingconferences
+  twitter: appium_conf
+
+- name: QA Global Summit Volume 2
+  location: Online
+  dates: "August 17-19, 2021"
+  url: https://geekle.us/qa_volume2?utm_source=testingconferences
+  status: Registration is Open
+
+- name: "Future of Testing: Mobile"
+  location: Online
+  dates: "August 10, 2021"
+  url: https://applitools.com/future-of-testing-mobile-apac-2021/?utm_source=testingconferences
+  twitter: applitools
+
+- name: Agile, DevOps and Testing - New Directions in Methods and Tools
+  location: Online
+  dates: "August 4-5, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-August/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
+- name: TestingUY 2021
+  location: Online
+  dates: "August 2-7, 2021"
+  url: https://testinguy.org/edition-2021/?utm_source=testingconferences
+  twitter: testingUY
+
+- name: QA Summit
+  location: Salt Lake City, Utah, USA & Virtual
+  dates: "July 28, 2021"
+  url: https://www.xpanxion.com/expertise/practices/quality-assurance/qa-summit-by-xpanxion/?utm_source=testingconferences
+
+- name: Mile High Testing Conference 2021
+  location: Denver, CO, USA
+  dates: "July 27-28, 2021"
+  url: https://www.milehightesting.com/?utm_source=testingconferences
+  twitter: SoftwareTestPro
+
+- name: ICSTRA 2021 - International Conference on Security Testing and Risk Assessment
+  location: Online
+  dates: "July 26-27, 2021"
+  url: https://waset.org/security-testing-and-risk-assessment-conference-in-july-2021-in-london?utm_source=testingconferences
+
+- name: Agile, DevOps and Testing - New Directions in Methods and Tools
+  location: Online
+  dates: "July 14-15, 2021"
+  url: https://conference.unicom.co.uk/adt2021/july1?utm_source=testingconferences
+  twitter: UNICOMLearning
+
+- name: API Testing Summit 2021
+  location: Online
+  dates: "July 10, 2021"
+  url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
+  twitter: AgileTAlliance
+
+- name: Future of Testing - Mobile
+  location: Online
+  dates: "June 29, 2021"
+  url: https://applitools.com/future-of-testing-mobile-europe/?utm_source=testingconferences
+  twitter: applitools
+
+- name: ICCCBS 2021 - International Conference on Critical Computer-Based Systems
+  location: Online
+  dates: "June 28-29, 2021"
+  url: https://waset.org/critical-computer-based-systems-conference-in-june-2021-in-london?utm_source=testingconferences
+
+- name: QA Financial Forum Nordics
+  location: Online
+  dates: "June 23, 2021"
+  url: https://qamedia.eventsair.com/the-qa-financial-digital-forum---nordics?utm_source=testingconference
+
+- name: TestBash Home
+  location: Online
+  dates: "June 17-18, 2021"
+  url: https://ti.to/mot/testbash-home-2021?source=testingconferences
+  twitter: ministryoftest
+
+- name: Romanian Testing Conference
+  location: Online
+  dates: "June 9-10, 2021"
+  url: https://romaniatesting.ro/?utm_source=testingconferences
+  twitter: RomaniaTesting
+
+- name: Front End Test Fest 2021
+  location: Online
+  dates: "June 8, 2021"
+  url: https://frontendtestfest.com/?utm_source=testingconferences
+  twitter: applitools
+  video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg
+
+- name: QA Talks UK & Europe Edition
+  location: Online
+  dates: "June 5-6, 2021"
+  url: https://www.tech-talks.info/global-summit
+  twitter: QTechTalks
+
+- name: FailQonf
+  location: Online
+  dates: "June 5-6, 2021"
+  url: https://www.thetesttribe.com/failqonf/?utm_source=testingconferences
+  twitter: the_test_tribe
+
+- name: Nordic Testing Days (NTD) 2021
+  location: Online
+  dates: "June 4, 2021"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
+- name: ICTSS 2021 - International Conference on Testing Software and Systems
+  location: New York, NY, USA
+  dates: "June 3-4, 2021"
+  url: https://waset.org/testing-software-and-systems-conference-in-june-2021-in-new-york?utm_source=testingconferences
+
+- name: Agile, DevOps & Testing - The Business Case
+  location: Online
+  dates: "June 2-3, 2021"
+  url: https://www.unicomlearning.com/2021/ADT-May/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
+- name: Test Automation & Digital QA Virtual Summit 2021
+  location: Online
+  dates: "May 27-28, 2021"
+  url: https://www.testingmind.com/event/testautomationsummit21-usaseason5-virtual/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: ICQASST 2021 - International Conference on Quality Assurance and Software System Testing
+  location: Online
+  dates: "May 24-25, 2021"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
+  status: Registration is Open
+
+- name: ICSSTA 2021 - International Conference on Software System Testing and Applications
+  location: Online
+  dates: "May 24-25, 2021"
+  url: https://waset.org/software-system-testing-and-applications-conference-in-may-2021-in-london?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Test Automation & Digital QA Virtual Summit 2021
+  location: Online
+  dates: "May 13-14, 2021"
+  url: https://www.testingmind.com/event/testautomationsummit21-usaseason5-virtual/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Testing Festival
+  location: Online
+  dates: "May 12-14, 2021"
+  url: https://testingfestival.com/?utm_source=testingconferences
+  twitter: TheQALead
+
+- name: Spring OnlineTestConf 2021
+  location: Online
+  dates: "May 11-12, 2021"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfHhxta6KyzsDOIOQESlntBy
+
+- name: API Testing Summit 2021
+  location: Online
+  dates: "May 8, 2021"
+  url: https://apisummit21.agiletestingalliance.org/?utm_source=testingconferences
+  twitter: AgileTAlliance
+
+- name: Exploratory Testing Week
+  location: Online
+  dates: "April 26-30, 2021"
+  url: https://ti.to/mot/exploratory-testing-week-april-2021?source=testingconferences
+  twitter: ministryoftest
+
+- name: STAREAST Virtual 2021
+  location: Online
+  dates: "April 26-30, 2021"
+  url: https://stareast.techwell.com?utm_source=testingconferences
+  twitter: TechWell
+
+- name: Agile, DevOps & Testing - The Business Case
+  location: Online
+  dates: "April 28-29, 2021"
+  url: https://conference.unicom.co.uk/adt2021/april1/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: Test Automation & Digital QA Virtual Summit 2021
+  location: Online
+  dates: "April 22-23, 2021"
+  url: https://www.testingmind.com/event/testautomationsummit21-usa-season3-virtual/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: ICSSTQA 2021 - International Conference on Software System Testing and Quality Assurance
+  location: Online
+  dates: "April 22-23, 2021"
+  url: https://waset.org/software-system-testing-and-quality-assurance-conference-in-april-2021-in-new-york?utm_source=testingconferences
+
+- name: MiniCAST 2021
+  location: Online
+  dates: "April 22, 2021"
+  url: https://associationforsoftwaretesting.org/minicast/?utm_source=testingconferences
+  twitter: AST_News
+
+- name: SauceCon Online 2021
+  location: Online
+  dates: "April 20-22, 2021"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
+- name: LTB 2021 - The Ninth International Workshop on Load Testing and Benchmarking of Software Systems
+  location: Hybrid - Online & Rennes, France
+  dates: "April 19 or 20, 2021"
+  url: http://ltb2021.eecs.yorku.ca/?utm_source=testingconferences
+
+- name: SQA Days - 28
+  location: St. Petersburg, Russia
+  dates: "April 16-17, 2021"
+  url: https://sqadays.com/en/index?eventId=82473?utm_source=testingconferences
+
+- name: TestingStage 2021
+  location: Online
+  dates: "April 16, 2021"
+  url: https://testingstage.com/?utm_source=testingconferences
+
+- name: Tricentis Virtual Summit 2021
+  location: Online
+  dates: "April 13-15, 2021"
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
+  twitter: Tricentis
+
+- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) Virtual 2021
+  location: Online
+  dates: "April 12-16, 2021"
+  url: https://icst2021.icmc.usp.br?utm_source=testingconferences
+
+- name: Test Automation & Digital QA Virtual Summit 2021
+  location: Online
+  dates: "April 8-9, 2021"
+  url: https://www.testingmind.com/event/testautomationsummit21-usa-season3-virtual/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Future of Testing - Mobile
+  location: Online
+  dates: "April 8, 2021"
+  url: https://applitools.com/future-of-testing-mobile-north-america/?utm_source=testingconferences
+  twitter: applitools
+  video_url: https://applitools.com/on-demand-videos/fot-mobile-north-america-april-2021/?utm_source=testingconferences
+
+- name: QA Global Summit '21
+  location: Online
+  dates: "April 6-7, 2021"
+  url: https://qa.geekle.us/?utm_source=testingconferences
+
 - name: Odyssey 2021 Testing Conference
   location: Online
   dates: "March 31 - April 1, 2021"
   url: https://odyssey.kobiton.com/?utm_source=testingconferences
   twitter: kobitonmobile
+  video_url: https://odyssey.kobiton.com/recordings-odyssey-2021/?utm_source=testingconferences
 
 - name: ICQASST 2021 - International Conference on Quality Assurance and System Software Testing
   location: Online
@@ -60,11 +367,19 @@
   url: https://www.unicomlearning.com/2021/ADT-Feb/?utm_source=testingconferences
   twitter: UNICOMLearning
 
+- name: The Future of Testing 2021 - APAC
+  location: Online
+  dates: "February 18, 2021"
+  url: https://applitools.com/on-demand-videos/apac-february-2021/?utm_source=testingconferences
+  twitter: applitools
+  video_url: https://applitools.com/on-demand-videos/apac-february-2021/?utm_source=testingconferences
+
 - name: ConTEST 2021 Winter Conference
   location: Online
   dates: "February 17-19, 2021"
   url: https://testmastersacademyonline.org/?utm_source=testingconferences
   twitter: TestMastersAcad
+  video_url: https://www.youtube.com/playlist?list=PLlVzZ23XuLUi3ra2MwcANkfgdlM-rd0-a
 
 - name: ICQAST 2021 - International Conference on Quality Assurance and Software Testing
   location: Online
@@ -140,6 +455,7 @@
   location: Online
   dates: "November 25, 2020"
   url: https://www.tesena.com/en/tesena-fest-online-2020/?utm_source=testingconferences
+  video_url: https://www.youtube.com/playlist?list=PLnKYhe4WGrhDzWbF3R_oskrkUUaYZhYLJ
 
 - name: Software-QS-Tag 2020
   location: Frankfurt, Germany
@@ -147,11 +463,18 @@
   url: https://www.qs-tag.de/en/?utm_source=testingconferences
   twitter: SoftwareQSTag
 
-- name: Paris Test Conf 2020
+- name: ParisTestConf (PTC) 2020
   location: Online
   dates: "November 23-26, 2020"
   url: https://paristestconf.com/programme?utm_source=testingconferences
   twitter: ParisTestConf
+  video_url: https://www.youtube.com/playlist?list=PLMXjuFj7QC6YXbiwXGdvjgRcJE7gdU5kq
+
+- name: AST & BCS Joint Peer Conference
+  location: Online
+  dates: "November 22, 2020"
+  url: https://associationforsoftwaretesting.org/72513-2/?utm_source=testingconferences
+  twitter: AST_News
 
 - name: TestBash New Zealand Online 2020
   location: Online
@@ -235,6 +558,13 @@
   dates: "October 27-28, 2020"
   url: http://questforquality.eu/?utm_source=testingconferences
   twitter: Quest_4_Quality
+
+- name: mabl experience 2020
+  location: Online
+  dates: "October 27, 2020"
+  url: https://experience.mabl.com/?utm_source=testingconferences
+  twitter: mabl
+  video_url: https://www.mabl.com/library/tag/experience?hsLang=en
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2020
   location: Porto, Portugal & Online
@@ -438,12 +768,14 @@
   dates: "September 12, 2020"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
+  video_url: https://www.youtube.com/playlist?list=PLypOOWzseUBbe4-wB8U-tLVTKw-x5kWTQ
 
 - name: SeleniumConf India 2020
   location: Online
   dates: "September 10-12, 2020"
   url: https://2020.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
+  video_url: https://www.youtube.com/hashtag/seconf2020
 
 - name: German Testing Day 2020
   location: Online
@@ -524,7 +856,7 @@
   dates: "June 25, 2020"
   url: https://applitools.com/future-of-testing-apac?utm_source=testingconferences
   twitter: applitools
-  video_url: https://applitools.com/on-demand-videos/europe-june-2020/
+  video_url: https://applitools.com/on-demand-videos/europe-june-2020/utm_source=testingconferences
 
 - name: 2nd Odyssey Online Testing Conference
   location: Online
@@ -1609,6 +1941,7 @@
   dates: "November 27-28, 2018"
   url: http://www.onlinetestconf.com/
   twitter: onlinetestconf
+  video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfE2lTAkX2Wm0ZdA6y-5ZNjB
 
 - name: Spanish Test Academy
   location: Madrid, Spain
