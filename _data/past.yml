@@ -1,3 +1,20 @@
+- name: "QA: Challenge Accepted 007"
+  location: Sofia, Bulgaria and Online
+  dates: "October 2, 2021"
+  url: https://qachallengeaccepted.com/?utm_source=testingconferences
+
+- name: EuroSTAR 2021 Software Testing Conference
+  location: Online
+  dates: "September 28-30, 2021"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: SEETEST 2021 (10th edition)
+  location: Belgrade, Serbia and Online
+  dates: "September 27-29, 2021"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+
 - name: ICSTPMA 2021 - International Conference on Software Testing Process, Methods and Approaches
   location: Online
   dates: "September 23-24, 2021"
