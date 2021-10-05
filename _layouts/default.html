@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
-  <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GDZ5BF"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    {% include banner.html %}
-    {% include header.html %}
-    <div class="page-content">
-      <div class="wrapper">
-        {% include nav.html %}
-        {{ content }}
-        <!-- {% include lower-page.html %} -->
-      </div>
+{% include head.html %}
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GDZ5BF" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  {% include banner.html %}
+  {% include header.html %}
+  <div class="page-content">
+    <div class="wrapper">
+      {% include nav.html %}
+      {{ content }}
     </div>
-    {% include footer.html %}
-    <script src="https://my.hellobar.com/7049b006bdc1ff3d49681c92007cdbf32ba2f050.js" type="text/javascript" charset="utf-8" async="async"></script>
-  </body>
+  </div>
+  {% include footer.html %}
+</body>
+
 </html>

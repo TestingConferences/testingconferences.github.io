@@ -7,9 +7,13 @@ url: "https://testingconferences.org" # the base hostname & protocol for your si
 twitter_username: ckenst
 github_username: TestingConferences
 plugins:
-    - jekyll-sitemap
-    - jekyll-seo-tag
-    - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
+defaults:
+  - values:
+      author: "Chris Kenst"
+      image: "/assets/TC_Icon.png"

@@ -84,12 +84,28 @@
 }
 
 .main-nav {
-    font-size: 26px;
+    font-size: 32px;
     padding: 5px 40px;
     text-transform: uppercase;
     letter-spacing: 1px;
     word-spacing: 20px;
     text-shadow: 2px 2px 2px #CCC;
+    text-align: center;
+
+    .active {
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    a {
+        color: #225c80
+    }
+}
+
+.sub-nav {
+    font-size: 16px;
+    padding: 5px 40px;
+    letter-spacing: 1px;
     text-align: center;
 
     .active {
@@ -128,6 +144,7 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    padding: 5px;
 }
 
 .footer-col {
@@ -310,6 +327,8 @@
   -webkit-box-shadow: 0 0 5px black;
   -moz-box-shadow:    0 0 5px black;
   box-shadow:         0 0 5px black;
+  padding-left: 10px;
+  padding-right: 25px;
 }
 
 #close {

@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'kramdown'
+gem 'github-pages', '>= 214', group: :jekyll_plugins
+gem 'html-proofer', '>= 3.19.1'
 gem 'jekyll-watch'
-gem "jekyll", '>= 3.8.4'
-gem 'html-proofer', '>= 3.13.0'
-gem 'jekyll-sitemap', '~> 1.2'
-gem 'jekyll-last-modified-at'
-gem 'nokogiri', '~> 1.10.5'
-gem 'github-pages', '>= 202', group: :jekyll_plugins
+gem "jekyll", ">= 3.9.0"
+gem 'jekyll-sitemap', '~> 1.4', '>= 1.4.0'
+gem 'jekyll-last-modified-at', '>= 1.3.0'
+gem 'jekyll-seo-tag', '>= 2.7.1'
+gem 'kramdown', '>= 2.3.1'
+gem 'nokogiri', '~> 1.12.5'
+gem 'rexml', '>=3.2.5'
