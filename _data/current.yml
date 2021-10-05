@@ -222,6 +222,13 @@
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
 
+- name: German Testing Day 2022
+  location: Frankfurt am Main, Germany
+  dates: "May 3-4, 2022"
+  url: https://www.germantestingday.info/german-testing-day-2022.html
+  twitter: GermanTesting
+  status: CfP starts in October 2021
+
 - name: InflectraCon 2022
   location: Washington, D.C. USA
   dates: "May 5-6, 2022"
