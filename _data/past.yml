@@ -1,3 +1,20 @@
+- name: SANAE BEER.EX Software Testing Conference
+  location: Bratislava, Slovakia and Online
+  dates: "October 6-7, 2021"
+  url: http://sanae.beer?utm_source=testingconferences
+
+- name: LoadTestWorld
+  location: Online
+  dates: "October 6, 2021"
+  url: https://www.loadtestworld.com/?utm_source=testingconferences
+  twitter: loadtestworld
+
+- name: STARWEST 2021 — The Premier Software Testing & QA Conference
+  location: Online
+  dates: "October 3-8, 2021"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: "QA: Challenge Accepted 007"
   location: Sofia, Bulgaria and Online
   dates: "October 2, 2021"
