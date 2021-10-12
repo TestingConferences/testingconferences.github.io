@@ -159,9 +159,9 @@
 - name: Automation Guild Online Conference 2022
   location: Online
   dates: "February 7-11, 2022"
-  url: https://guildconferences.com/ag-2022/?utm_source=testingconferences
+  url: https://guildconferences.com/call-for-speakers/?utm_source=testingconferences
   twitter: testguilds
-  status: Announced
+  status: CFP is Open
 
 - name: QA Global Summit 2022
   location: Online
