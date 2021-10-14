@@ -1,3 +1,15 @@
+- name: National Software Testing Conference
+  location: London, England 
+  dates: "October 12-13, 2021"
+  url: https://www.softwaretestingnews.co.uk/products/national-software-testing-conference/?utm_source=testingconferences
+  twitter: testmagazine
+
+- name: PNSQC 2021
+  location: Online
+  dates: "October 11-13, 2021"
+  url: https://www.pnsqc.org/2021-conference?utm_source=testingconferences
+  twitter: PNSQC
+
 - name: SANAE BEER.EX Software Testing Conference
   location: Bratislava, Slovakia and Online
   dates: "October 6-7, 2021"
