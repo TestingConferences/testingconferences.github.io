@@ -1,3 +1,9 @@
+- name: Tricentis Virtual Summit 2021
+  location: Online
+  dates: "October 12-14, 2021"
+  url: https://virtualsummit.tricentis.com/?utm_source=testingconferences
+  twitter: Tricentis
+
 - name: National Software Testing Conference
   location: London, England 
   dates: "October 12-13, 2021"
