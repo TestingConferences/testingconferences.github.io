@@ -32,7 +32,7 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>January 2022</td>
-    <td>Open</td>
+    <td>Testing United 2022</td>
   </tr>
   <tr>
     <td>February 2022</td>
