@@ -147,6 +147,14 @@
     padding: 5px;
 }
 
+.footer-col-wrapper-scroll {
+    font-size: 15px;
+    max-height: 50px;
+    overflow-y: scroll;
+    color: $grey-color;
+    margin-left: -$spacing-unit / 2;
+}
+
 .footer-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
