@@ -191,17 +191,18 @@
   twitter: AgileTDUSA
   status: Announced
 
+- name: EuroSTAR 30th Edition Software Testing Conference
+  location: Online
+  dates: "June 7-10, 2022"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is open until November 15, 2021
+
 - name: IEEE AUTOTESTCON 2022
   location: Oxon Hill, MD, USA
   dates: "August 28-31, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
   status: CFP is Open until March 30, 2022
-
-- name: EuroSTAR 30th Edition Software Testing Conference
-  location: Online
-  dates: "Springtime 2022"
-  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  twitter: esconfs
 
 - name: Quality Excites 9 (2022)
   location: Gliwice, Poland
