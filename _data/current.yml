@@ -98,6 +98,13 @@
   twitter: UNICOMLearning
   status: Registration is Open
   
+- name: Down the Rabbit Hole of Testing
+  location: Online
+  dates: "December 1, 2021"
+  url: https://attendee.gotowebinar.com/register/6226041086019036427
+  twitter: UNICOMSeminars
+  status: Registration is Open
+  
 - name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
   location: Hainan Island, China
   dates: "December 6-10, 2021"
@@ -117,6 +124,14 @@
   twitter: testguilds
   status: CFP is Closed
 
+- name: Agile, DevOps & Testing: Methods & Tools Revisited
+  location: Online
+  dates: "February 9-10, 2022"
+  url: https://conference.unicom.co.uk/adt2022/feb1/
+  twitter: UNICOMSeminars
+  status: Registration is Open
+  
+
 - name: QA Global Summit 2022
   location: Online
   dates: "February 15-16, 2022"
@@ -129,6 +144,14 @@
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
   status: CFP is Open until October 30, 2021
+  
+- name: Agile, DevOps & Testing: Methods & Tools Revisited
+  location: Online
+  dates: "February 23-24, 2022"
+  url: https://conference.unicom.co.uk/adt2022/feb2/
+  twitter: UNICOMLearning
+  status: Registration is Open
+  
 
 - name: The QA Financial Forum Chicago 2022
   location: Chicago, IL, USA
