@@ -1,3 +1,9 @@
+- name: Test.bash(); 2021
+  location: Online
+  dates: "October 28, 2021"
+  url: https://www.ministryoftesting.com/events/test-bash-2021?utm_source=testingconferences
+  twitter: ministryoftest
+
 - name: mabl experience 2021
   location: Online
   dates: "October 27-28, 2021"
