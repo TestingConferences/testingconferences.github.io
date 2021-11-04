@@ -7,28 +7,27 @@ last_modified_at: 2021-09-14 09:38:00
 
 **Sponsoring Us**
 
-As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will allow us to bring in other people (professionals) to help design and make the site better over all.
+As we look for ways to maintain and build out the project we think allowing limited sponsorships makes sense. This will
+allow us to bring in other people (professionals) to help design and make the site better over all.
 
 **What comes with Sponsorship?**
 
-Sponsors get promotion through banner across the top of this site and mention in our monthly newsletter. It's. that. simple.
+Sponsors get promotion through banner across the top of this site and mention in our monthly newsletter. It's. that.
+simple.
 
 **Pricing**
 
-Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
+Pricing is based on the per thousand sessions for your given month and depends on availability. Therefore pricing can
+change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
   <tr>
-    <td>October 2021</td>
-    <td>mabl</td>
-  </tr>
-  <tr>
     <td>November 2021</td>
-    <td>Reserved</td>
+    <td>AppliTools</td>
   </tr>
   <tr>
     <td>December 2021</td>
-    <td>TBD</td>
+    <td>Open</td>
   </tr>
   <tr>
     <td>January 2022</td>
@@ -36,11 +35,11 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>February 2022</td>
-    <td>Open</td>
+    <td>EuroSTAR 2022</td>
   </tr>
   <tr>
     <td>March 2022</td>
-    <td>Open</td>
+    <td>EuroSTAR 2022</td>
   </tr>
   <tr>
     <td>April 2022</td>
@@ -52,6 +51,26 @@ Pricing is based on the per thousand sessions for your given month and depends o
   </tr>
   <tr>
     <td>June 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>July 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>August 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>September 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>October 2022</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>December 2022</td>
     <td>Open</td>
   </tr>
 </table>
