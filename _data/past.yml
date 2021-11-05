@@ -1,3 +1,9 @@
+- name: OnlineTestConf Fall 2021
+  location: Online
+  dates: "November 3-4, 2021"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
 - name: Test.bash(); 2021
   location: Online
   dates: "October 28, 2021"

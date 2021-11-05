@@ -1,10 +1,3 @@
-- name: OnlineTestConf Fall 2021
-  location: Online
-  dates: "November 3-4, 2021"
-  url: https://www.onlinetestconf.com/?utm_source=testingconferences
-  twitter: OnlineTestConf
-  status: Registration is Open and Free
-
 - name: CAST 2021
   location: Atlanta, GA, USA
   dates: "November 8-9, 2021"
