@@ -1,3 +1,25 @@
+- name: Testing United 2021
+  location: Prague, CR and VR
+  dates: "November 11-12, 2021"
+  url: https://testingunited.com?utm_source=testingconferences
+  twitter: testing_united
+
+- name: ASQT 2021
+  location: Bolzano, Italy
+  dates: "November 11, 2021"
+  url: http://www.asqt.org/?utm_source=testingconferences
+
+- name: The QA Financial Forum London 2021
+  location: London, UK
+  dates: "November 9, 2021"
+  url: https://qamedia.eventsair.com/qa-financial-forum-london-2021/?utm_source=testingconferences
+
+- name: CAST 2021
+  location: Atlanta, GA, USA
+  dates: "November 8-9, 2021"
+  url: https://associationforsoftwaretesting.org/conference/cast-2021?utm_source=testingconferences
+  status: Registration is Open
+
 - name: OnlineTestConf Fall 2021
   location: Online
   dates: "November 3-4, 2021"

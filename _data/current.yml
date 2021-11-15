@@ -1,27 +1,3 @@
-- name: CAST 2021
-  location: Atlanta, GA, USA
-  dates: "November 8-9, 2021"
-  url: https://associationforsoftwaretesting.org/conference/cast-2021?utm_source=testingconferences
-  status: Registration is Open
-
-- name: The QA Financial Forum London 2021
-  location: London, UK
-  dates: "November 9, 2021"
-  url: https://qamedia.eventsair.com/qa-financial-forum-london-2021/?utm_source=testingconferences
-
-- name: ASQT 2021
-  location: Bolzano, Italy
-  dates: "November 11, 2021"
-  url: http://www.asqt.org/?utm_source=testingconferences
-  status: Announced
-
-- name: Testing United 2021
-  location: Prague, CR and VR
-  dates: "November 11-12, 2021"
-  url: https://testingunited.com?utm_source=testingconferences
-  twitter: testing_united
-  status: Registration is Open with 5% off
-
 - name: Agile Testing Days (ATD) 2021
   location: Potsdam, Germany
   dates: "November 15-18, 2021"
