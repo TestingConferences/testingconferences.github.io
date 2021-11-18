@@ -57,20 +57,26 @@
   location: Hainan Island, China
   dates: "December 6-10, 2021"
   url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21?utm_source=testingconferences
-  status: CFP is Open until October 10, 2021 (extended from September 20)
+
+- name: "TAU: The Homecoming"
+  location: Online
+  dates: "December 1-2, 2021"
+  url: https://applitools.com/tau-homecoming??utm_source=testingconferences
+  twitter: applitools
+  status: Registration is Open and Free
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
   dates: "January 18-20, 2022"
   url: https://www.software-quality-days.com/?utm_source=testingconferences
-  status: Announced
+  status: Registration is Open
 
 - name: Automation Guild Online Conference 2022
   location: Online
   dates: "February 7-11, 2022"
   url: https://guildconferences.com/call-for-speakers/?utm_source=testingconferences
   twitter: testguilds
-  status: CFP is Closed
+  status: Early Bird Registration is Open
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -90,7 +96,7 @@
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: CFP is Open until October 30, 2021
+  status: CFP is Closed
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -110,20 +116,21 @@
   dates: "March 9-10, 2022"
   url: https://tsqa.org/sponsor-tsqa-2022?utm_source=testingconferences
   twitter: TISQA_RTP
-  status: CFP is Closed
+  status: Registration is Open
 
 - name: QA & TEST Safety and Security Online
   location: Online
-  dates: "March 17-18, 2022"
+  dates: "March 24-25, 2022"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: Announced
+  status: CFP is Open until January 15, 2022
 
 - name: STAREAST 2022
   location: Orlando, FL, USA
   dates: "April 24-29, 2022"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
+  status: Registration will open in December
 
 - name: German Testing Day 2022
   location: Frankfurt am Main, Germany
