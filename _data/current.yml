@@ -1,10 +1,3 @@
-- name: Agile Testing Days (ATD) 2021
-  location: Potsdam, Germany
-  dates: "November 15-18, 2021"
-  url: https://agiletestingdays.com/?utm_source=testingconferences
-  twitter: AgileTD
-  status: Registration is Open
-
 - name: QA Detective Conf 2021 (QADC)
   location: Online
   dates: "November 20-21, 2021"
@@ -53,17 +46,17 @@
   twitter: UNICOMLearning
   status: Registration is Open
   
-- name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
-  location: Hainan Island, China
-  dates: "December 6-10, 2021"
-  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21?utm_source=testingconferences
-
 - name: "TAU: The Homecoming"
   location: Online
   dates: "December 1-2, 2021"
   url: https://applitools.com/tau-homecoming??utm_source=testingconferences
   twitter: applitools
   status: Registration is Open and Free
+
+- name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
+  location: Hainan Island, China
+  dates: "December 6-10, 2021"
+  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv21?utm_source=testingconferences
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
