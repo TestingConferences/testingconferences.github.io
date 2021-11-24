@@ -1,3 +1,15 @@
+- name: National Software Testing Conference 2021
+  location: Toronto, Canada
+  dates: "November 22-23, 2021"
+  url: http://softwaretesting.news/national-software-testing-conference/?utm_source=testingconferences
+  twitter: testmagazine
+
+- name: QA Detective Conf 2021 (QADC)
+  location: Online
+  dates: "November 20-21, 2021"
+  url: https://www.tech-talks.info/qa-detective-conf-2021?utm_source=testingconferences
+  twitter: QTechTalks
+
 - name: Agile Testing Days (ATD) 2021
   location: Potsdam, Germany
   dates: "November 15-18, 2021"
