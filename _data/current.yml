@@ -103,6 +103,13 @@
   twitter: TISQA_RTP
   status: Registration is Open
 
+- name: JaSST 22 Tokyo
+  location: Online
+  dates: "March 10-11, 2022"
+  url: https://www-jasst-jp.translate.goog/symposium/jasst22tokyo.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
+  twitter: jassttokyo
+  status: Announced
+
 - name: QA & TEST Safety and Security Online
   location: Online
   dates: "March 24-25, 2022"
