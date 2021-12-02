@@ -97,10 +97,10 @@
   status: Announced
 
 - name: TISQA 2022
-  location: Chapel Hill, NC, USA
+  location: Online
   dates: "March 9-10, 2022"
-  url: https://tsqa.org/sponsor-tsqa-2022?utm_source=testingconferences
-  twitter: TISQA_RTP
+  url: https://www.eventbrite.com/e/tsqa-2022-conference-wild-wild-test-tickets-200895372467?utm_source=testingconferences
+  twitter: TSQA_RTP
   status: Registration is Open
 
 - name: JaSST 22 Tokyo
