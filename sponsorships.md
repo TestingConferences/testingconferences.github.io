@@ -22,14 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>November 2021</td>
-    <td>AppliTools</td>
-  </tr>
-  <tr>
-    <td>December 2021</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>January 2022</td>
     <td>Testing United 2022</td>
   </tr>
