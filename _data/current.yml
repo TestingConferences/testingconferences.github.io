@@ -119,6 +119,13 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
 
+- name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "June 16-17, 2022"
+  url: https://www.romaniatesting.ro
+  twitter: romaniatesting
+  status: CFP is Open until Jan 31, 2022
+  
 - name: IEEE AUTOTESTCON 2022
   location: Oxon Hill, MD, USA
   dates: "August 28-31, 2022"
