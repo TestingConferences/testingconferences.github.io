@@ -159,6 +159,13 @@
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
 
+- name: TestFlix 2022
+  location: Online
+  dates: "October 8-9, 2022"
+  url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Announced
+
 - name: Testing Talks Conference
   location: South Wharf, Victoria, Australia
   dates: "October 20, 2022"
