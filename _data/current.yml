@@ -3,6 +3,13 @@
   dates: "January 18-20, 2022"
   url: https://www.software-quality-days.com/?utm_source=testingconferences
   status: Registration is Open
+  
+- name: LoadTestWorld
+  location: Online
+  dates: "February 2, 2022"
+  url: https://www.loadtestworld.com/
+  twitter: loadtestworld
+  status: Registration is Open and Free
 
 - name: Automation Guild Online Conference 2022
   location: Online
