@@ -16,7 +16,7 @@
   dates: "February 7-11, 2022"
   url: https://guildconferences.com/call-for-speakers/?utm_source=testingconferences
   twitter: testguilds
-  status: Early Bird Registration is Open
+  status: Registration is Open
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -36,7 +36,7 @@
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: CFP is Closed
+  status: On Hold
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -139,7 +139,7 @@
   dates: "June 7-10, 2022"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Registration is Open and on sale until December 31, 2021
+  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
@@ -172,6 +172,12 @@
   url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Announced
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2022
+  location: Online
+  dates: "October 10-12, 2022"
+  url: http://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
 
 - name: Testing Talks Conference
   location: South Wharf, Victoria, Australia
