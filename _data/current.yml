@@ -88,10 +88,11 @@
   status: CFP is Open until January 31, 2022
 
 - name: STAREAST 2022
-  location: Orlando, FL, USA
+  location: Orlando, FL, USA and Online
   dates: "April 24-29, 2022"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
+  status: Super Early Bird Registration is Open February 25, 2022
 
 - name: German Testing Day 2022
   location: Frankfurt am Main, Germany
@@ -135,11 +136,11 @@
   status: Super Early Bird Registration is Open until March 13, 2022
 
 - name: EuroSTAR 30th Edition Software Testing Conference
-  location: Online
+  location: Copenhagen, Denmark
   dates: "June 7-10, 2022"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Registration is Open
+  status: 20% off of Registration until February 28, 2022
 
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania
