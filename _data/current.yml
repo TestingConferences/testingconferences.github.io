@@ -180,10 +180,11 @@
   status: Announced
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
-  location: Online
+  location: Portland, Oregon and Online
   dates: "October 10-12, 2022"
   url: http://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
+  status: CFP is Open until April 22, 2022
 
 - name: Testing Talks Conference
   location: South Wharf, Victoria, Australia
