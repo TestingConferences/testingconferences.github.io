@@ -1,3 +1,9 @@
+- name: LoadTestWorld
+  location: Online
+  dates: "February 2, 2022"
+  url: https://www.loadtestworld.com/?utm_source=testingconferences
+  twitter: loadtestworld
+
 - name: System Testing and Validation (STV) 2021 Workshop at IEEE QRS conference
   location: Hainan Island, China
   dates: "December 6-10, 2021"
