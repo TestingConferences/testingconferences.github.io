@@ -23,7 +23,7 @@
   dates: "February 22, 2022"
   url: https://www.qaorthehighway.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: On Hold
+  status: Cancelled
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -31,6 +31,13 @@
   url: https://conference.unicom.co.uk/adt2022/feb2/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
+
+- name: "Future of Testing: Frameworks"
+  location: Online
+  dates: "February 24, 2022"
+  url: http://applitools.info/bxq?utm_source=testingconferences
+  twitter: Applitools
+  status: Registration is Open & Free
 
 - name: Worqference
   location: Online
@@ -184,3 +191,10 @@
   dates: "October 20, 2022"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021?utm_source=testingconferences
   twitter: testingtalks
+
+- name: Agile Testing Days (ATD) 2022
+  location: Potsdam, Germany
+  dates: "November 21-24, 2022"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: Call for Papers is Open until the end of March 2022
