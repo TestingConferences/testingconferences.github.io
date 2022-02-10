@@ -160,6 +160,13 @@
   url: https://2022.autotestcon.com/?utm_source=testingconferences
   status: CFP is Open until March 30, 2022
 
+- name: Targeting Quality (KWSQA) 2022
+  location: Cambridge, ON Canada
+  dates: "September 26-27, 2022"
+  url: https://kwsqa.org/tq2022/?utm_source=testingconferences
+  twitter: kwsqa
+  status: CFP is Open until May 29, 2022
+
 - name: Quality Excites 9 (2022)
   location: Gliwice, Poland
   dates: "Summer 2022"
@@ -177,7 +184,7 @@
   dates: "October 8-9, 2022"
   url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Announced
+  status: Registration is Open and Free
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
   location: Portland, Oregon and Online
