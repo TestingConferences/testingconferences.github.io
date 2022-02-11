@@ -4,26 +4,12 @@
   url: https://guildconferences.com/ag-2022/?utm_source=testingconferences
   twitter: testguilds
   status: Registration is Open
-  
-- name: Agile, DevOps & Testing - Methods & Tools Revisited
-  location: Online
-  dates: "February 9-10, 2022"
-  url: https://conference.unicom.co.uk/adt2022/feb1/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Registration is Open
 
 - name: QA Global Summit 2022
   location: Online
   dates: "February 15-16, 2022"
   url: https://events.geekle.us/qa/?utm_source=testingconferences
   status: Registration is Open
-
-- name: QA or the Highway 2022
-  location: Columbus, OH, USA
-  dates: "February 22, 2022"
-  url: https://www.qaorthehighway.com/?utm_source=testingconferences
-  twitter: QAortheHighway
-  status: Cancelled
   
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
@@ -111,6 +97,13 @@
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
   status: Early Bird Registration is Open until January 31, 2022
+
+- name: QA or the Highway 2022
+  location: Columbus, OH, USA
+  dates: "May 17, 2022"
+  url: https://www.qaorthehighway.com/?utm_source=testingconferences
+  twitter: QAortheHighway
+  status: Announced
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
