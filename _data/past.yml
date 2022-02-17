@@ -1,3 +1,14 @@
+- name: QA Global Summit 2022
+  location: Online
+  dates: "February 15-16, 2022"
+  url: https://events.geekle.us/qa/?utm_source=testingconferences
+
+- name: Automation Guild Online Conference 2022
+  location: Online
+  dates: "February 7-11, 2022"
+  url: https://guildconferences.com/ag-2022/?utm_source=testingconferences
+  twitter: testguilds
+
 - name: Agile, DevOps & Testing - Methods & Tools Revisited
   location: Online
   dates: "February 9-10, 2022"
