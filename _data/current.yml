@@ -48,7 +48,7 @@
 
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2022
   location: Online
-  dates: "April 4-13, 2021"
+  dates: "April 4-13, 2022"
   url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
   status: Registration is Open
 
@@ -157,18 +157,32 @@
   dates: "June 16-17, 2022"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  
-- name: IEEE AUTOTESTCON 2022
-  location: National Harbor, MD, USA
-  dates: "August 29-September 1, 2022"
-  url: https://2022.autotestcon.com/?utm_source=testingconferences
-  status: CFP is Open until March 30, 2022
+
+- name: Swiss Testing Day
+  location: Zurich, Switzerland
+  dates: "June 21, 2022"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
+  status: Early Bird Registration is Open until February 28, 2022
 
 - name: CAST 2022
   location: TBD
   dates: "August 2022"
   url: https://associationforsoftwaretesting.org/?utm_source=testingconferences
   status: To be announced
+
+- name: IEEE AUTOTESTCON 2022
+  location: National Harbor, MD, USA
+  dates: "August 29-September 1, 2022"
+  url: https://2022.autotestcon.com/?utm_source=testingconferences
+  status: CFP is Open until March 30, 2022
+
+- name: OnlineTestConf 2022
+  location: Online
+  dates: "September 13-14, 2022"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: Registration is Open and Free
 
 - name: Targeting Quality (KWSQA) 2022
   location: Cambridge, ON Canada
@@ -196,6 +210,12 @@
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
 
+- name: STARWEST 2022
+  location: Anaheim, CA, USA and Online
+  dates: "October 2-7, 2022"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
@@ -213,7 +233,7 @@
 - name: Testing Talks Conference
   location: South Wharf, Victoria, Australia
   dates: "October 20, 2022"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021?utm_source=testingconferences
+  url: https://www.testingtalks.com.au/?utm_source=testingconferences
   twitter: testingtalks
 
 - name: Agile Testing Days (ATD) 2022
