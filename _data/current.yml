@@ -40,11 +40,17 @@
   twitter: testing_united
   status: Registration is Open and on Sale until January 31, 2022
 
-- name: QA & TEST Safety and Security Online
+- name: Selenium Camp 2022
+  location: Kyiv, Ukraine
+  dates: "March 22, 2022"
+  url: http://seleniumcamp.com/?utm_source=testingconferences
+  twitter: SeleniumCamp
+
+- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2022
   location: Online
-  dates: "March 24-25, 2022"
-  url: https://safety.qatest.org/?utm_source=testingconferences
-  twitter: QATestBilbao
+  dates: "April 4-13, 2021"
+  url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
+  status: Registration is Open
 
 - name: The QA Financial Forum Chicago 2022
   location: Chicago, IL, USA
@@ -57,9 +63,8 @@
   dates: "April 9 & 10, 2022"
   url: https://www.tech-talks.info/codeless-conf?utm_source=testingconferences
   twitter: QTechTalks
-  status: CFP is Open until January 31, 2022
 
-- name: TestingStage 2022
+- name: Testing Stage 2022
   location: Kyiv, Ukraine
   dates: "April 15, 2022"
   url: https://testingstage.com/?utm_source=testingconferences
@@ -72,18 +77,32 @@
   twitter: TechWell
   status: Super Early Bird Registration is Open February 25, 2022
 
+- name: Test Driven Conf 2022
+  location: Moscow, Russia
+  dates: "April 28-29, 2022"
+  url: https://tdconf.ru/2022?utm_source=testingconferences
+  status: Early Bird Registration is Open February 28, 2022
+
+- name: QA & TEST Safety and Security Online
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Registration is Open
+
 - name: German Testing Day 2022
   location: Frankfurt am Main, Germany
   dates: "May 3-4, 2022"
-  url: https://www.germantestingday.info/german-testing-day-2022/programm/call-for-papers.html?utm_source=testingconferences
+  url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
   twitter: GermanTesting
+  status: Early Bird Registration is Open until March 18, 2022
 
 - name: InflectraCon 2022
   location: Washington, D.C. USA
   dates: "May 5-6, 2022"
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
-  status: Early Bird Registration is Open until January 31, 2022
+  status: Registration is Open
 
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
@@ -104,7 +123,7 @@
   dates: "May 17-19, 2022"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until February 14, 2022. CFP is Open until March 2022.
+  status: CFP is Open until March 2022
 
 - name: expo:QA 22
   location: Madrid, Spain
@@ -112,6 +131,12 @@
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
   status: Early Bird Registration is Open
+
+- name: Nordic Testing Days (NTD) 2022
+  location: Tallinn, Estonia
+  dates: "June 1-3, 2022"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
 
 - name: Agile Testing Days (ATD) USA 2022
   location: Chicago, IL, USA
@@ -132,7 +157,6 @@
   dates: "June 16-17, 2022"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: CFP is Open until Jan 31, 2022
   
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
@@ -140,12 +164,25 @@
   url: https://2022.autotestcon.com/?utm_source=testingconferences
   status: CFP is Open until March 30, 2022
 
+- name: CAST 2022
+  location: TBD
+  dates: "August 2022"
+  url: https://associationforsoftwaretesting.org/?utm_source=testingconferences
+  status: To be announced
+
 - name: Targeting Quality (KWSQA) 2022
   location: Cambridge, ON Canada
   dates: "September 26-27, 2022"
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
   status: CFP is Open until May 29, 2022
+
+- name: SEETEST 2022
+  location: Bucharest, Romania and Online
+  dates: "September 29-30, 2022"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Early Bird Registration is Open until February 28, 2022
 
 - name: Quality Excites 9 (2022)
   location: Gliwice, Poland
