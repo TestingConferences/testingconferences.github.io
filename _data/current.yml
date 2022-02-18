@@ -26,6 +26,13 @@
   twitter: TSQA_RTP
   status: Registration is Open
 
+- name: TestBash Leadership
+  location: Online
+  dates: "March 10, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-leadership
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Tickets available, Free for Pro Members
+
 - name: JaSST 22 Tokyo
   location: Online
   dates: "March 10-11, 2022"
@@ -52,6 +59,13 @@
   url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
   status: Registration is Open
 
+- name: TestBashX Brighton
+  location: Brighton, UK
+  dates: "March 31, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-brighton-2022
+  twitter: ministryoftest
+  status: Tickets available now
+
 - name: The QA Financial Forum Chicago 2022
   location: Chicago, IL, USA
   dates: "April 5, 2022"
@@ -69,6 +83,13 @@
   dates: "April 15, 2022"
   url: https://testingstage.com/?utm_source=testingconferences
   status: Early Bird Registration is Open
+
+- name: TestBash Mobile
+  location: Online
+  dates: "April 21, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-mobile
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
 - name: STAREAST 2022
   location: Orlando, FL, USA and Online
@@ -88,6 +109,13 @@
   dates: "April 28-29, 2022"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
+  status: Registration is Open
+
+- name: TestBashX Edinburgh
+  location: Edinburgh, UK
+  dates: "April 28, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-edinburgh-2022
+  twitter: ministryoftest
   status: Registration is Open
 
 - name: German Testing Day 2022
@@ -124,6 +152,13 @@
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
   status: CFP is Open until March 2022
+
+- name: TestBash Careers
+  location: Online
+  dates: "May 26, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-careers-2022
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
 - name: expo:QA 22
   location: Madrid, Spain
@@ -165,11 +200,26 @@
   twitter: SwissTesting
   status: Early Bird Registration is Open until February 28, 2022
 
+- name: TestBash World
+  location: Online
+  dates: "June 22, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-world-2022
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
+
+- name: TestBash Security
+  location: Online
+  dates: "July 19, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-security-2022
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
+
 - name: CAST 2022
   location: TBD
   dates: "August 2022"
   url: https://associationforsoftwaretesting.org/?utm_source=testingconferences
   status: To be announced
+  status: CFP is Open until Jan 31, 2022
 
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
@@ -183,6 +233,13 @@
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Registration is Open and Free
+
+- name: TestBash UK
+  location: Manchester
+  dates: "September 22, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-uk
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open
 
 - name: Targeting Quality (KWSQA) 2022
   location: Cambridge, ON Canada
@@ -230,11 +287,32 @@
   twitter: PNSQC
   status: CFP is Open until April 22, 2022
 
+- name: TestBashX Bucks
+  location: Buckinghamshire, UK
+  dates: "October 14, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022
+  twitter: ministryoftest
+  status: Tickets available now
+
+- name: Test.Bash();
+  location: Online
+  dates: "October 20, 2022"
+  url: https://www.ministryoftesting.com/events/test-bash-2022
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
+
 - name: Testing Talks Conference
   location: South Wharf, Victoria, Australia
   dates: "October 20, 2022"
   url: https://www.testingtalks.com.au/?utm_source=testingconferences
   twitter: testingtalks
+
+- name: TestBash Core Skills
+  location: Online
+  dates: "November 15, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-core-skills
+  twitter: ministryoftest
+  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
