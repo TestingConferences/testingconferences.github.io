@@ -76,7 +76,7 @@
   dates: "April 9-10, 2022"
   url: https://www.tech-talks.info/codeless-conf?utm_source=testingconferences
   twitter: QTechTalks
-  status: Early Registration is Open with Free option
+  status: Early Bird Registration is Open with Free option
 
 - name: Testing Stage 2022
   location: Kyiv, Ukraine
@@ -151,12 +151,12 @@
   dates: "May 17-19, 2022"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP is Open until March 2022
+  status: Registration is Open
 
 - name: TestBash Careers
   location: Online
   dates: "May 26, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-careers-2022
+  url: https://www.ministryoftesting.com/events/testbash-careers-2022?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
@@ -203,14 +203,14 @@
 - name: TestBash World
   location: Online
   dates: "June 22, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-world-2022
+  url: https://www.ministryoftesting.com/events/testbash-world-2022?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
 - name: TestBash Security
   location: Online
   dates: "July 19, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-security-2022
+  url: https://www.ministryoftesting.com/events/testbash-security-2022?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
@@ -219,7 +219,6 @@
   dates: "August 2022"
   url: https://associationforsoftwaretesting.org/?utm_source=testingconferences
   status: To be announced
-  status: CFP is Open until Jan 31, 2022
 
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
@@ -237,7 +236,7 @@
 - name: TestBash UK
   location: Manchester
   dates: "September 22, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-uk
+  url: https://www.ministryoftesting.com/events/testbash-uk?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open
 
@@ -290,14 +289,14 @@
 - name: TestBashX Bucks
   location: Buckinghamshire, UK
   dates: "October 14, 2022"
-  url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022
+  url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022?utm_source=testingconferences
   twitter: ministryoftest
-  status: Tickets available now
+  status: Registration is Open
 
 - name: Test.Bash();
   location: Online
   dates: "October 20, 2022"
-  url: https://www.ministryoftesting.com/events/test-bash-2022
+  url: https://www.ministryoftesting.com/events/test-bash-2022?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
@@ -310,7 +309,7 @@
 - name: TestBash Core Skills
   location: Online
   dates: "November 15, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-core-skills
+  url: https://www.ministryoftesting.com/events/testbash-core-skills?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
