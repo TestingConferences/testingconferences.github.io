@@ -17,7 +17,7 @@
   dates: "March 4-6, 2022"
   url: https://thetesttribe.com/worqference?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Early Bird Registration is Open February 15, 2022
+  status: Early Bird Registration is Open February 22, 2022
 
 - name: TISQA 2022
   location: Online
@@ -29,23 +29,22 @@
 - name: TestBash Leadership
   location: Online
   dates: "March 10, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-leadership
+  url: https://www.ministryoftesting.com/events/testbash-leadership?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Tickets available, Free for Pro Members
 
 - name: JaSST 22 Tokyo
   location: Online
   dates: "March 10-11, 2022"
-  url: https://www-jasst-jp.translate.goog/symposium/jasst22tokyo.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
+  url: https://www-jasst-jp.translate.goog/symposium/jasst22tokyo.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US?utm_source=testingconferences
   twitter: jassttokyo
-  status: Announced
 
 - name: Testing United 2022
   location: Prague, CR and VR
   dates: "March 15-16, 2022"
   url: https://www.testingunited.com/product-category/shop/?utm_source=testingconferences
   twitter: testing_united
-  status: Registration is Open and on Sale until January 31, 2022
+  status: Registration is Open
 
 - name: Selenium Camp 2022
   location: Kyiv, Ukraine
@@ -53,18 +52,18 @@
   url: http://seleniumcamp.com/?utm_source=testingconferences
   twitter: SeleniumCamp
 
+- name: TestBashX Brighton
+  location: Brighton, UK
+  dates: "March 31, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-brighton-2022?utm_source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open
+
 - name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2022
   location: Online
   dates: "April 4-13, 2022"
   url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
   status: Registration is Open
-
-- name: TestBashX Brighton
-  location: Brighton, UK
-  dates: "March 31, 2022"
-  url: https://www.ministryoftesting.com/events/testbashx-brighton-2022
-  twitter: ministryoftest
-  status: Tickets available now
 
 - name: The QA Financial Forum Chicago 2022
   location: Chicago, IL, USA
@@ -74,9 +73,10 @@
 
 - name: Codeless Conf 2022
   location: Online
-  dates: "April 9 & 10, 2022"
+  dates: "April 9-10, 2022"
   url: https://www.tech-talks.info/codeless-conf?utm_source=testingconferences
   twitter: QTechTalks
+  status: Early Registration is Open with Free option
 
 - name: Testing Stage 2022
   location: Kyiv, Ukraine
@@ -87,7 +87,7 @@
 - name: TestBash Mobile
   location: Online
   dates: "April 21, 2022"
-  url: https://www.ministryoftesting.com/events/testbash-mobile
+  url: https://www.ministryoftesting.com/events/testbash-mobile?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
 
@@ -97,6 +97,13 @@
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: Super Early Bird Registration is Open February 25, 2022
+
+- name: TestBashX Edinburgh
+  location: Edinburgh, UK
+  dates: "April 28, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-edinburgh-2022?utm_source=testingconferences
+  twitter: ministryoftest
+  status: Registration is Open
 
 - name: Test Driven Conf 2022
   location: Moscow, Russia
@@ -109,13 +116,6 @@
   dates: "April 28-29, 2022"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: Registration is Open
-
-- name: TestBashX Edinburgh
-  location: Edinburgh, UK
-  dates: "April 28, 2022"
-  url: https://www.ministryoftesting.com/events/testbashx-edinburgh-2022
-  twitter: ministryoftest
   status: Registration is Open
 
 - name: German Testing Day 2022
