@@ -83,6 +83,13 @@
   dates: "April 15, 2022"
   url: https://testingstage.com/?utm_source=testingconferences
   status: Early Bird Registration is Open
+  
+- name: Agile, DevOps & Testing: Methods & Tools for Business Value
+  location: Online
+  dates: "April 20-21, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april1/
+  twitter: UNICOMLearning
+  status: Registration is Open
 
 - name: TestBash Mobile
   location: Online
@@ -97,6 +104,13 @@
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: Super Early Bird Registration is Open February 25, 2022
+  
+- name: Agile, DevOps & Testing: Methods & Tools for Business Value
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april2/
+  twitter: UNICOMSeminars
+  status: Registration is Open
 
 - name: TestBashX Edinburgh
   location: Edinburgh, UK
