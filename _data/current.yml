@@ -59,7 +59,7 @@
   twitter: ministryoftest
   status: Registration is Open
 
-- name: IEEE International Conference on Software Testing, Verification and Validation (ISCT) 2022
+- name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022
   location: Online
   dates: "April 4-13, 2022"
   url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
@@ -138,6 +138,13 @@
   url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
   twitter: GermanTesting
   status: Early Bird Registration is Open until March 18, 2022
+
+- name: Odyssey 2022 Testing Conference
+  location: Online
+  dates: "May 4-5, 2022"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeABV2QB0owBxHhK9qLdOlCKTKqpdsaAMWaHEIaba3w_O9Kgw/viewform
+  twitter: kobitonmobile
+  status: CFP is Open until March 14, 2022
 
 - name: InflectraCon 2022
   location: Washington, D.C. USA
@@ -262,7 +269,7 @@
   status: CFP is Open until May 29, 2022
 
 - name: SEETEST 2022
-  location: Bucharest, Romania and Online
+  location: Sofia, Bulgaria and Online
   dates: "September 29-30, 2022"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
