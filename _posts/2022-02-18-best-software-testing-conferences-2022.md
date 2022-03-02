@@ -44,12 +44,14 @@ Maybe this had best be split into 2 going forward? In the meantime we shall see.
 11. [EuroSTAR 30th Edition Software Testing Conference](https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences) is an in-person conference from June 7-10, 2022. 
 12. [Romanian Testing Conference (RTC) 2022](https://www.romaniatesting.ro?utm_source=testingconferences) is an in-person conference from June 16-17, 2022.
 13. [Swiss Testing Days 2022](https://swisstestingday.ch/?utm_source=testingconferences) is an online conference on June 21, 2022.
-14. [CAST 2022](https://www.associationforsoftwaretesting.com?utm_source=testingconferences) is an in-person conference in August 2022. 
+14. [TestBash World](https://www.ministryoftesting.com/events/testbash-world-2022?utm_source=testingconferences) is an online conference on June 22, 2022.
+14. [CAST 2022](https://www.associationforsoftwaretesting.com?utm_source=testingconferences) is an in-person conference from August 8-9, 2022. 
 15. [OnlineTestConf](https://www.onlinetestconf.com/?utm_source=testingconferences) is an online conference from September 13-14, 2022.
 16. [Targeting Quality (KWSQA) 2022](https://kwsqa.org/tq2022/?utm_source=testingconferences) is an in-person conference from September 26-27, 2022. 
 17. [STARWEST 2022](https://starwest.techwell.com/?utm_source=testingconferences) is a hybrid conference from October 2-7, 2022. 
 18. [TestFlix 2022](https://thetesttribe.com/testflix-2022/?utm_source=testingconferences) is an online conference from October 8-9, 2022. 
 19. [Pacific Northwest Software Quality Conference (PNSQC) 2022](http://www.pnsqc.org/?utm_source=testingconferences) is a hybrid conference from October 10-12, 2022.
+19. [Test.Bash();](https://www.ministryoftesting.com/events/test-bash-2022?utm_source=testingconferences) is an online conference on October 22, 2022.
 20. [Agile Testing Days 2022](http://www.agiletestingdays.com/?utm_source=testingconferences) is an in-person conference from November 21-24, 2022.
 
 
