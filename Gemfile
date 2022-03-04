@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '>= 214', group: :jekyll_plugins
+gem 'github-pages', '>= 224', group: :jekyll_plugins
 gem 'html-proofer', '>= 3.19.1'
 gem 'jekyll-watch'
 gem "jekyll", ">= 3.9.0"
