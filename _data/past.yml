@@ -1,3 +1,9 @@
+- name: Worqference
+  location: Online
+  dates: "March 4-6, 2022"
+  url: https://thetesttribe.com/worqference?utm_source=testingconferences
+  twitter: the_test_tribe
+
 - name: "Future of Testing: Frameworks"
   location: Online
   dates: "February 24, 2022"
