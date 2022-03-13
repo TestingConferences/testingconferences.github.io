@@ -1,3 +1,21 @@
+- name: JaSST 22 Tokyo
+  location: Online
+  dates: "March 10-11, 2022"
+  url: https://www-jasst-jp.translate.goog/symposium/jasst22tokyo.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US?utm_source=testingconferences
+  twitter: jassttokyo
+
+- name: TestBash Leadership
+  location: Online
+  dates: "March 10, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-leadership?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: TISQA 2022
+  location: Online
+  dates: "March 9-10, 2022"
+  url: https://www.eventbrite.com/e/tsqa-2022-conference-wild-wild-test-tickets-200895372467?utm_source=testingconferences
+  twitter: TSQA_RTP
+
 - name: Worqference
   location: Online
   dates: "March 4-6, 2022"
