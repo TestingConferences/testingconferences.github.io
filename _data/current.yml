@@ -1,10 +1,3 @@
-- name: Testing United 2022
-  location: Prague, CR and VR
-  dates: "March 15-16, 2022"
-  url: https://www.testingunited.com/product-category/shop/?utm_source=testingconferences
-  twitter: testing_united
-  status: Registration is Open
-
 - name: Selenium Camp 2022
   location: Kyiv, Ukraine
   dates: "March 22, 2022"
@@ -103,6 +96,13 @@
   url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
   twitter: GermanTesting
   status: Early Bird Registration is Open until March 18, 2022
+
+- name: SauceCon Online 2022
+  location: Online
+  dates: "May 3-5, 2022"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+  status: Registration is Open with Free Option
 
 - name: Odyssey 2022 Testing Conference
   location: Online

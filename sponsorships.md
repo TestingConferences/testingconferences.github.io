@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2022-02-09 09:38:00
+last_modified_at: 2022-03-18 13:48:00
 ---
 
 **Sponsoring Us**
@@ -35,7 +35,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>April 2022</td>
-    <td>Open</td>
+    <td>Pending</td>
   </tr>
   <tr>
     <td>May 2022</td>
@@ -43,7 +43,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2022</td>
-    <td>Open</td>
+    <td>Pending</td>
   </tr>
   <tr>
     <td>July 2022</td>
