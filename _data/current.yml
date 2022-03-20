@@ -3,6 +3,7 @@
   dates: "March 22, 2022"
   url: http://seleniumcamp.com/?utm_source=testingconferences
   twitter: SeleniumCamp
+  status: Unknown
 
 - name: TestBashX Brighton
   location: Brighton, UK
@@ -40,7 +41,7 @@
   location: Kyiv, Ukraine
   dates: "April 15, 2022"
   url: https://testingstage.com/?utm_source=testingconferences
-  status: Early Bird Registration is Open
+  status: Unknown
   
 - name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
   location: Online
@@ -54,7 +55,7 @@
   dates: "April 21, 2022"
   url: https://www.ministryoftesting.com/events/testbash-mobile?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
+  status: Registration is Open, Free for Pro Members
 
 - name: STAREAST 2022
   location: Orlando, FL, USA and Online
@@ -62,13 +63,6 @@
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: Early Bird Registration is Open
-  
-- name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
-  location: Online
-  dates: "April 28-29, 2022"
-  url: https://conference.unicom.co.uk/adt2022/april2/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Registration is Open
 
 - name: TestBashX Edinburgh
   location: Edinburgh, UK
@@ -88,6 +82,13 @@
   dates: "April 28-29, 2022"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
+  status: Registration is Open
+
+- name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april2/?utm_source=testingconferences
+  twitter: UNICOMSeminars
   status: Registration is Open
 
 - name: German Testing Day 2022
@@ -185,7 +186,7 @@
   dates: "May 26, 2022"
   url: https://www.ministryoftesting.com/events/testbash-careers-2022?utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is open until the 13th March, Registration is Open, Free for Pro Members
+  status: Registration is Open, Free for Pro Members
 
 - name: expo:QA 22
   location: Madrid, Spain
