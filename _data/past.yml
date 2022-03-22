@@ -1,3 +1,10 @@
+- name: Selenium Camp 2022
+  location: Kyiv, Ukraine
+  dates: "March 22, 2022"
+  url: http://seleniumcamp.com/?utm_source=testingconferences
+  twitter: SeleniumCamp
+  status: Unknown
+
 - name: Testing United 2022
   location: Prague, CR and VR
   dates: "March 15-16, 2022"

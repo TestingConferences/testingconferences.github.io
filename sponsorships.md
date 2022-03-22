@@ -35,7 +35,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>April 2022</td>
-    <td>Pending</td>
+    <td>AppliTools</td>
   </tr>
   <tr>
     <td>May 2022</td>
@@ -43,7 +43,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2022</td>
-    <td>Pending</td>
+    <td>AppliTools</td>
   </tr>
   <tr>
     <td>July 2022</td>
