@@ -261,6 +261,12 @@
   twitter: OnlineTestConf
   status: Registration is Open and Free
 
+- name: ETSI 9th User Conferences on Advanced Automated Testing (9th UCAAT)
+  location: Munich, Germny
+  dates: "September 13-15, 2022"
+  url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing
+  status: CFP is open until May 2, 2022
+
 - name: TestBash UK
   location: Manchester
   dates: "September 22, 2022"
@@ -356,6 +362,6 @@
   
 - name: System Testing and Valdation (STV) Workshop 2022
   location: Hiroshima, Japan
-  dates: "November, 2022"
+  dates: "November 2022"
   url: https://www.fokus.fraunhofer.de/go/stv
   status: in preparation
