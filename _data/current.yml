@@ -313,6 +313,13 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
 
+- name: HUSTEF 2022
+  location: Budapest, Hungary
+  dates: "October 4-6, 2022"
+  url: https://hustef.hu/
+  twitter: HUSTEF2022
+  status: CFP is Open until May 2, 2022
+  
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
