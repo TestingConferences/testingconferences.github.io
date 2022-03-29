@@ -366,6 +366,13 @@
   url: https://www.ministryoftesting.com/events/testbash-core-skills?utm_source=testingconferences
   twitter: ministryoftest
   status: Registration is Open, Free for Pro Members
+  
+- name: ParisTestConf
+  location: Online
+  dates: "November 15-16, 2022"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  twitter: paristestconf
+  status: CFP opening soon
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
