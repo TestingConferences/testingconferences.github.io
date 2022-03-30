@@ -174,6 +174,13 @@
   twitter: testingmindcon
   status: CFP is Open until April 1, 2022
 
+  name: Live2Test 2022
+  location: Online
+  dates: "May 24-25, 2022"
+  url: https://live2test.com/
+  twitter: TesterYouHQ
+  status: Registration is Open
+  
 - name: TestBash Careers
   location: Online
   dates: "May 26, 2022"
@@ -261,6 +268,7 @@
   twitter: OnlineTestConf
   status: Registration is Open and Free
 
+
 - name: ETSI 9th UCAAT - User Conference on Advanced Automated Testing
   location: Munich, Germany
   dates: "September 13-15, 2022"
@@ -306,6 +314,13 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
 
+- name: HUSTEF 2022
+  location: Budapest, Hungary
+  dates: "October 4-6, 2022"
+  url: https://hustef.hu/
+  twitter: HUSTEF2022
+  status: CFP is Open until May 2, 2022
+  
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
@@ -352,6 +367,13 @@
   url: https://www.ministryoftesting.com/events/testbash-core-skills?utm_source=testingconferences
   twitter: ministryoftest
   status: Registration is Open, Free for Pro Members
+  
+- name: ParisTestConf
+  location: Online
+  dates: "November 15-16, 2022"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  twitter: paristestconf
+  status: CFP opening soon
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
