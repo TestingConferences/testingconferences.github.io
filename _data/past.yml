@@ -1,3 +1,26 @@
+- name: Codeless Conf 2022
+  location: Online
+  dates: "April 9-10, 2022"
+  url: https://www.tech-talks.info/codeless-conf?utm_source=testingconferences
+  twitter: QTechTalks
+
+- name: The QA Financial Forum Chicago 2022
+  location: Chicago, IL, USA
+  dates: "April 5, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-chicago?utm_source=testingconferences
+
+- name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022
+  location: Online
+  dates: "April 4-13, 2022"
+  url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: TestBashX Brighton
+  location: Brighton, UK
+  dates: "March 31, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-brighton-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
 - name: Selenium Camp 2022
   location: Kyiv, Ukraine
   dates: "March 22, 2022"
