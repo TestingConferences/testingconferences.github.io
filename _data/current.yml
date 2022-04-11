@@ -93,6 +93,13 @@
   url: https://www.testingmind.com/event/testautomationsummit21-melbourne/?utm_source=testingconferences
   twitter: testingmindcon
   status: CFP is Open until April 15, 2022
+  
+- name: Voorjaarsevenement Testnet
+  location: Nieuwegein, NL
+  dates: "May 12, 2022"
+  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878488&conpag=&detail_template=objects_agenda_item
+  twitter: TestNetNL
+  status: Registration is Open, Free for members
 
 - name: Test Automation & Digital QA Virtual Summit 2022
   location: Auckland, NZ
@@ -183,6 +190,20 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: Early Bird Registration is Open until April 22, 2022
+  
+- name: Test Automation Days
+  location: Utrecht, NL
+  dates: "June 15-16, 2022"
+  url: https://www.testautomationdays.com/
+  twitter: testautomationd
+  status: Registration is Open
+  
+- name: NoorderTest
+  location: Groningen, NL
+  dates: "June 16, 2022"
+  url: https://noordertest.nl/
+  twitter: noordertest
+  status: Registration is Open and Free
 
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania and Online
@@ -296,6 +317,13 @@
   url: https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&rt=C?utm_source=testingconferences
   twitter: PNSQC
   status: CFP is Open until April 22, 2022
+  
+- name: Najaarsevenement Testnet
+  location: Nieuwegein, NL
+  dates: "October 13, 2022"
+  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878493&conpag=&detail_template=objects_agenda_item
+  twitter: TestNetNL
+  status: Registration opens in August
 
 - name: TestBashX Bucks
   location: Buckinghamshire, UK
