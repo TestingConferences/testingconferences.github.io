@@ -233,6 +233,13 @@
   twitter: ministryoftest
   status: Registration is Open, Free for Pro Members
 
+- name: Selenium Conference 2022
+  location: Online
+  dates: "July 29-30, 2022"
+  url: https://2022.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: Early Bird Registration is Open
+
 - name: CAST 2022
   location: San Diego, CA, USA
   dates: "August 8-9, 2022"
