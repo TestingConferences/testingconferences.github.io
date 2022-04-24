@@ -102,6 +102,13 @@
   twitter: testingmindcon
   status: Registration is Open
 
+- name: Axiom Summit 2022
+  location: Online
+  dates: "May 14, 2022"
+  url: https://axiomconf.thetestchat.info/
+  twitter: TheTestChat
+  status: Registration is Open
+  
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
   dates: "May 17, 2022"
