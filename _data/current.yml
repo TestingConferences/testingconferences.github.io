@@ -258,6 +258,12 @@
   location: National Harbor, MD, USA
   dates: "August 29-September 1, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
+    
+- name: "Testit2022"
+  location: Carlsgatan 10C, 211 20 Malmö, Sweden
+  dates: "September 13, 2022"
+  url: https://www.knowit.se/event/testit2022/
+  status: Registration is Open
 
 - name: OnlineTestConf 2022
   location: Online
