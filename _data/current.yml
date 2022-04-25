@@ -1,3 +1,10 @@
+
+- name: "Testit2022"
+  location: Carlsgatan 10C, 211 20 Malmö, Sweden
+  dates: "September 13, 2022"
+  url: https://www.knowit.se/event/testit2022/
+  status: Registration is Open
+
 - name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
   location: Online
   dates: "April 20-21, 2022"
