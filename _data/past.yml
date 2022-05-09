@@ -1,3 +1,68 @@
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Melbourne, AUS
+  dates: "May 5, 2022"
+  url: https://www.testingmind.com/event/testautomationsummit21-melbourne/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: InflectraCon 2022
+  location: Washington, D.C. USA
+  dates: "May 5-6, 2022"
+  url: https://www.inflectracon.com/?utm_source=testingconferences
+  twitter: InflectraCon
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Online
+  dates: "May 4-5, 2022"
+  url: https://www.testingmind.com/event/test-automation-summit-usa-season7/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Odyssey 2022 Testing Automation Conference
+  location: Online
+  dates: "May 4-5, 2022"
+  url: https://odyssey.kobiton.com/registration-2022/?utm_source=testingconferences
+  twitter: kobitonmobile
+
+- name: SauceCon Online 2022
+  location: Online
+  dates: "May 3-5, 2022"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
+- name: German Testing Day 2022
+  location: Frankfurt am Main, Germany
+  dates: "May 3-4, 2022"
+  url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
+  twitter: GermanTesting
+
+- name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april2/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: QA & TEST Safety and Security Online
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+
+- name: Test Driven Conf 2022
+  location: Moscow, Russia
+  dates: "April 28-29, 2022"
+  url: https://tdconf.ru/2022?utm_source=testingconferences
+
+- name: TestBashX Edinburgh
+  location: Edinburgh, UK
+  dates: "April 28, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-edinburgh-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: STAREAST 2022
+  location: Orlando, FL, USA and Online
+  dates: "April 24-29, 2022"
+  url: https://stareast.techwell.com/pricing-packages?utm_source=testingconferences
+  twitter: TechWell
+
 - name: TestBash Mobile
   location: Online
   dates: "April 21, 2022"
