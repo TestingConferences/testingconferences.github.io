@@ -142,6 +142,20 @@
   dates: "June 22, 2022"
   url: https://www.qa-financial.com/events/qa-financial-forum-paris-2022?utm_source=testingconferences
   status: Registration is Open and Free
+  
+- name: "Agile, DevOps & Testing: People, Process and Technology"
+  location: London, United Kingdom
+  dates: "July 7, 2022"
+  url: https://conference.unicom.co.uk/agile-devops-software-testing-conference/london-july/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+  status: Registration is Open
+  
+- name: "Agile, DevOps & Testing: People, Process and Technology"
+  location: Online
+  dates: "July 20-21, 2022"
+  url: https://conference.unicom.co.uk/agile-devops-software-testing-conference/apac-july/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  status: Registration is Open
 
 - name: Selenium Conference 2022
   location: Online
@@ -162,7 +176,7 @@
   dates: "August 29-September 1, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
     
-- name: "Testit2022"
+- name: Testit2022
   location: Carlsgatan 10C, 211 20 Malmö, Sweden
   dates: "September 13, 2022"
   url: https://www.knowit.se/event/testit2022/
