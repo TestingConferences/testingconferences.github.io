@@ -1,3 +1,22 @@
+- name: Axiom Summit 2022
+  location: Online
+  dates: "May 14, 2022"
+  url: https://axiomconf.thetestchat.info/
+  twitter: TheTestChat
+  status: Registration is Open
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Auckland, NZ
+  dates: "May 12, 2022"
+  url: https://www.testingmind.com/event/testautomationsummit21-auckland/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Voorjaarsevenement Testnet
+  location: Nieuwegein, NL
+  dates: "May 12, 2022"
+  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878488&conpag=&detail_template=objects_agenda_item
+  twitter: TestNetNL
+
 - name: Test Automation & Digital QA Virtual Summit 2022
   location: Melbourne, AUS
   dates: "May 5, 2022"

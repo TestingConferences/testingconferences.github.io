@@ -1,24 +1,3 @@
-- name: Voorjaarsevenement Testnet
-  location: Nieuwegein, NL
-  dates: "May 12, 2022"
-  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878488&conpag=&detail_template=objects_agenda_item
-  twitter: TestNetNL
-  status: Registration is Open, Free for members
-
-- name: Test Automation & Digital QA Virtual Summit 2022
-  location: Auckland, NZ
-  dates: "May 12, 2022"
-  url: https://www.testingmind.com/event/testautomationsummit21-auckland/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: Axiom Summit 2022
-  location: Online
-  dates: "May 14, 2022"
-  url: https://axiomconf.thetestchat.info/
-  twitter: TheTestChat
-  status: Registration is Open
-  
 - name: QA or the Highway 2022
   location: Columbus, OH, USA
   dates: "May 17, 2022"
@@ -31,7 +10,7 @@
   dates: "May 17, 2022"
   url: https://www.testingmind.com/event/test-automation-summit-telaviv-21/?utm_source=testingconferences
   twitter: testingmindcon
-  status: Early Bird Registration is Open until April 16, 2022
+  status: Registration is Open
 
 - name: Software Quality Days 2022
   location: Vienna, Austria
@@ -58,7 +37,6 @@
   dates: "May 20, 2022"
   url: https://www.testingmind.com/event/tas2022/test-automation-summit-reading/?utm_source=testingconferences
   twitter: testingmindcon
-  status: CFP is Open until April 15, 2022
 
   name: Live2Test 2022
   location: Online
