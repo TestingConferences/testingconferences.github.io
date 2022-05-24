@@ -1,3 +1,38 @@
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Reading, UK
+  dates: "May 20, 2022"
+  url: https://www.testingmind.com/event/tas2022/test-automation-summit-reading/?utm_source=testingconferences
+  twitter: testingmindcon
+  
+- name: The QA Financial Forum New York 2022
+  location: New York, NY, USA
+  dates: "May 18, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2022?utm_source=testingconferences
+
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Cologne, Germany
+  dates: "May 17-19, 2022"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+
+- name: Software Quality Days 2022
+  location: Vienna, Austria
+  dates: "May 17-19, 2022"
+  url: https://www.software-quality-days.com/?utm_source=testingconferences
+  twitter: swqd
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Tel Aviv, Israel
+  dates: "May 17, 2022"
+  url: https://www.testingmind.com/event/test-automation-summit-telaviv-21/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: QA or the Highway 2022
+  location: Columbus, OH, USA
+  dates: "May 17, 2022"
+  url: https://www.qaorthehighway.com/?utm_source=testingconferences
+  twitter: QAortheHighway
+
 - name: Axiom Summit 2022
   location: Online
   dates: "May 14, 2022"
