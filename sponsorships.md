@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2022-02-09 09:38:00
+last_modified_at: 2022-03-18 13:48:00
 ---
 
 **Sponsoring Us**
@@ -22,28 +22,12 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2022</td>
-    <td>Testing United 2022</td>
-  </tr>
-  <tr>
-    <td>February 2022</td>
-    <td>EuroSTAR 2022</td>
-  </tr>
-  <tr>
-    <td>March 2022</td>
-    <td>EuroSTAR 2022</td>
-  </tr>
-  <tr>
-    <td>April 2022</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>May 2022</td>
-    <td>Open</td>
+    <td>CAST 2022</td>
   </tr>
   <tr>
     <td>June 2022</td>
-    <td>Open</td>
+    <td>AppliTools</td>
   </tr>
   <tr>
     <td>July 2022</td>

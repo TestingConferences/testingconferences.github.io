@@ -67,11 +67,11 @@
   url: https://www.qa-financial.com/events/qa-financial-forum-paris-2022-?utm_source=testingconferences
   status: Registration is Open and Free
   
- - name: Front-End Test Fest
+- name: Front-End Test Fest
   location: Online
   dates: "June 23, 2022"
   url: https://front-endtestfest.com/wjb
-  twitter: #FrontEndTestFest
+  twitter: applitools
   status: Registration is Open and Free
   
 - name: "Agile, DevOps & Testing: People, Process and Technology"
@@ -140,6 +140,13 @@
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
   status: CFP is Open until May 29, 2022
+
+- name: SANAE BEER.EX 2022
+  location: Bratislava, Slovakia and Online
+  dates: "September 28-29, 2022"
+  url: http://sanae.beer?utm_source=testingconferences
+  twitter: sanae_beer
+  status: Registration is Open
 
 - name: SEETEST 2022
   location: Sofia, Bulgaria and Online
@@ -233,6 +240,7 @@
   status: Early Bird Registration is Open until September 18, 2022
   
 - name: System Testing and Valdation (STV) Workshop 2022
-  location: Hiroshima, Japan
-  dates: "November 2022"
-  url: https://www.fokus.fraunhofer.de/go/stv?utm_source=testingconferences
+  location: Guangzhou, China
+  dates: "December 05-09, 2022"
+  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22
+  status: in preparation
