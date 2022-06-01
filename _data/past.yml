@@ -1,3 +1,175 @@
+- name: TestBash Careers
+  location: Online
+  dates: "May 26, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-careers-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: Live2Test 2022
+  location: Online
+  dates: "May 24-25, 2022"
+  url: https://live2test.com/?utm_source=testingconferences
+  twitter: TesterYouHQ
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Reading, UK
+  dates: "May 20, 2022"
+  url: https://www.testingmind.com/event/tas2022/test-automation-summit-reading/?utm_source=testingconferences
+  twitter: testingmindcon
+  
+- name: The QA Financial Forum New York 2022
+  location: New York, NY, USA
+  dates: "May 18, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2022?utm_source=testingconferences
+
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Cologne, Germany
+  dates: "May 17-19, 2022"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+
+- name: Software Quality Days 2022
+  location: Vienna, Austria
+  dates: "May 17-19, 2022"
+  url: https://www.software-quality-days.com/?utm_source=testingconferences
+  twitter: swqd
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Tel Aviv, Israel
+  dates: "May 17, 2022"
+  url: https://www.testingmind.com/event/test-automation-summit-telaviv-21/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: QA or the Highway 2022
+  location: Columbus, OH, USA
+  dates: "May 17, 2022"
+  url: https://www.qaorthehighway.com/?utm_source=testingconferences
+  twitter: QAortheHighway
+
+- name: Axiom Summit 2022
+  location: Online
+  dates: "May 14, 2022"
+  url: https://axiomconf.thetestchat.info/
+  twitter: TheTestChat
+  status: Registration is Open
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Auckland, NZ
+  dates: "May 12, 2022"
+  url: https://www.testingmind.com/event/testautomationsummit21-auckland/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Voorjaarsevenement Testnet
+  location: Nieuwegein, NL
+  dates: "May 12, 2022"
+  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878488&conpag=&detail_template=objects_agenda_item
+  twitter: TestNetNL
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Melbourne, AUS
+  dates: "May 5, 2022"
+  url: https://www.testingmind.com/event/testautomationsummit21-melbourne/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: InflectraCon 2022
+  location: Washington, D.C. USA
+  dates: "May 5-6, 2022"
+  url: https://www.inflectracon.com/?utm_source=testingconferences
+  twitter: InflectraCon
+
+- name: Test Automation & Digital QA Virtual Summit 2022
+  location: Online
+  dates: "May 4-5, 2022"
+  url: https://www.testingmind.com/event/test-automation-summit-usa-season7/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Odyssey 2022 Testing Automation Conference
+  location: Online
+  dates: "May 4-5, 2022"
+  url: https://odyssey.kobiton.com/registration-2022/?utm_source=testingconferences
+  twitter: kobitonmobile
+
+- name: SauceCon Online 2022
+  location: Online
+  dates: "May 3-5, 2022"
+  url: https://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+
+- name: German Testing Day 2022
+  location: Frankfurt am Main, Germany
+  dates: "May 3-4, 2022"
+  url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
+  twitter: GermanTesting
+
+- name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april2/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: QA & TEST Safety and Security Online
+  location: Online
+  dates: "April 28-29, 2022"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+
+- name: Test Driven Conf 2022
+  location: Moscow, Russia
+  dates: "April 28-29, 2022"
+  url: https://tdconf.ru/2022?utm_source=testingconferences
+
+- name: TestBashX Edinburgh
+  location: Edinburgh, UK
+  dates: "April 28, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-edinburgh-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: STAREAST 2022
+  location: Orlando, FL, USA and Online
+  dates: "April 24-29, 2022"
+  url: https://stareast.techwell.com/pricing-packages?utm_source=testingconferences
+  twitter: TechWell
+
+- name: TestBash Mobile
+  location: Online
+  dates: "April 21, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-mobile?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: "Agile, DevOps & Testing: Methods & Tools for Business Value"
+  location: Online
+  dates: "April 20-21, 2022"
+  url: https://conference.unicom.co.uk/adt2022/april1/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
+- name: "Future of Testing: UX"
+  location: Online
+  dates: "April 14, 2022"
+  url: https://applitools.com/future-of-testing-ux-april-2022/?utm_source=other&utm_medium=web-referral&utm_content=webinar&utm_term=220414-fot-ckenst-software-testing-conf-listing&utm_campaign=220414-fot-ux-noram
+  status: Registration is Open and Free
+
+- name: Codeless Conf 2022
+  location: Online
+  dates: "April 9-10, 2022"
+  url: https://www.tech-talks.info/codeless-conf?utm_source=testingconferences
+  twitter: QTechTalks
+
+- name: The QA Financial Forum Chicago 2022
+  location: Chicago, IL, USA
+  dates: "April 5, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-chicago?utm_source=testingconferences
+
+- name: IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022
+  location: Online
+  dates: "April 4-13, 2022"
+  url: https://icst2022.vrain.upv.es/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: TestBashX Brighton
+  location: Brighton, UK
+  dates: "March 31, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-brighton-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
 - name: Selenium Camp 2022
   location: Kyiv, Ukraine
   dates: "March 22, 2022"
