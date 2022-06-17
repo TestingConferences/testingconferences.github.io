@@ -93,7 +93,7 @@
   status: Registration is Open
 
 - name: TestBash UK
-  location: Manchester
+  location: Manchester, UK
   dates: "September 22, 2022"
   url: https://www.ministryoftesting.com/events/testbash-uk?utm_source=testingconferences
   twitter: ministryoftest
@@ -116,8 +116,9 @@
 - name: SEETEST 2022
   location: Sofia, Bulgaria and Online
   dates: "September 28-30, 2022"
-  url: https://seetest.org/?utm_source=testingconferences
+  url: https://seetest.org/index.php?page=visitors-packages?utm_source=testingconferences
   twitter: SEETESTConf
+  status: Early Bird Registration is Open until July 15, 2022
 
 - name: Quality Excites 9 (2022)
   location: Gliwice, Poland
@@ -142,7 +143,7 @@
   dates: "October 8-9, 2022"
   url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: CFP is Open until May 31, 2022
+  status: Registration is Open and Free
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
   location: Portland, Oregon and Online
@@ -195,7 +196,7 @@
   dates: "November 15-16, 2022"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
-  status: CFP is Open until May 31, 2022
+  status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
