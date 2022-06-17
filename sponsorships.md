@@ -22,10 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>May 2022</td>
-    <td>CAST 2022</td>
-  </tr>
-  <tr>
     <td>June 2022</td>
     <td>AppliTools</td>
   </tr>
