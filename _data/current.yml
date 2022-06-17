@@ -1,10 +1,3 @@
-- name: Test Automation Days
-  location: Utrecht, NL
-  dates: "June 15-16, 2022"
-  url: https://www.testautomationdays.com/?utm_source=testingconferences
-  twitter: testautomationd
-  status: Registration is Open
-  
 - name: NoorderTest
   location: Groningen, NL
   dates: "June 16, 2022"
@@ -81,9 +74,9 @@
   status: Early Bird Registration is Open until July 1, 2022
     
 - name: Testit2022
-  location: Carlsgatan 10C, 211 20 Malmö, Sweden
+  location: Malmö, Sweden
   dates: "September 13, 2022"
-  url: https://www.knowit.se/event/testit2022/
+  url: https://www.knowit.se/event/testit2022/?utm_source=testingconferences
   status: Registration is Open
 
 - name: OnlineTestConf 2022
@@ -111,7 +104,7 @@
   dates: "September 26-27, 2022"
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
-  status: CFP is Open until May 29, 2022
+  status: CFP is Closed
 
 - name: SANAE BEER.EX 2022
   location: Bratislava, Slovakia and Online

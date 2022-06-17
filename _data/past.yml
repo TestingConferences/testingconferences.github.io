@@ -1,3 +1,9 @@
+- name: Test Automation Days
+  location: Utrecht, NL
+  dates: "June 15-16, 2022"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+
 - name: EuroSTAR 30th Edition Software Testing Conference
   location: Copenhagen, Denmark
   dates: "June 7-10, 2022"
