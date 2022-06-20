@@ -1,17 +1,3 @@
-- name: NoorderTest
-  location: Groningen, NL
-  dates: "June 16, 2022"
-  url: https://noordertest.nl/?utm_source=testingconferences
-  twitter: noordertest
-  status: Registration is Open and Free
-
-- name: Romanian Testing Conference
-  location: Cluj-Napoca, Romania and Online
-  dates: "June 16-17, 2022"
-  url: https://www.romaniatesting.ro?utm_source=testingconferences
-  twitter: romaniatesting
-  status: Registration is Open
-
 - name: Swiss Testing Day
   location: Zurich, Switzerland
   dates: "June 21, 2022"

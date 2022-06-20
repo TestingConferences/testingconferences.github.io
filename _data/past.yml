@@ -1,3 +1,15 @@
+- name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania and Online
+  dates: "June 16-17, 2022"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+
+- name: NoorderTest
+  location: Groningen, NL
+  dates: "June 16, 2022"
+  url: https://noordertest.nl/?utm_source=testingconferences
+  twitter: noordertest
+
 - name: Test Automation Days
   location: Utrecht, NL
   dates: "June 15-16, 2022"
