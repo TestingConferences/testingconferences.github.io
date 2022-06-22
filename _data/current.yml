@@ -1,38 +1,3 @@
-- name: Agile Testing Days (ATD) USA 2022
-  location: Chicago, IL, USA
-  dates: "June 5-9, 2022"
-  url: https://agiletestingdays.us/?utm_source=testingconferences
-  twitter: AgileTDUSA
-  status: Registration is Open
-
-- name: EuroSTAR 30th Edition Software Testing Conference
-  location: Copenhagen, Denmark
-  dates: "June 7-10, 2022"
-  url: https://conference.eurostarsoft2waretesting.com/?utm_source=testingconferences
-  twitter: esconfs
-  status: Registration is Open
-  
-- name: Test Automation Days
-  location: Utrecht, NL
-  dates: "June 15-16, 2022"
-  url: https://www.testautomationdays.com/?utm_source=testingconferences
-  twitter: testautomationd
-  status: Registration is Open
-  
-- name: NoorderTest
-  location: Groningen, NL
-  dates: "June 16, 2022"
-  url: https://noordertest.nl/?utm_source=testingconferences
-  twitter: noordertest
-  status: Registration is Open and Free
-
-- name: Romanian Testing Conference
-  location: Cluj-Napoca, Romania and Online
-  dates: "June 16-17, 2022"
-  url: https://www.romaniatesting.ro?utm_source=testingconferences
-  twitter: romaniatesting
-  status: Registration is Open
-
 - name: Swiss Testing Day
   location: Zurich, Switzerland
   dates: "June 21, 2022"
@@ -95,9 +60,9 @@
   status: Early Bird Registration is Open until July 1, 2022
     
 - name: Testit2022
-  location: Carlsgatan 10C, 211 20 Malmö, Sweden
+  location: Malmö, Sweden
   dates: "September 13, 2022"
-  url: https://www.knowit.se/event/testit2022/
+  url: https://www.knowit.se/event/testit2022/?utm_source=testingconferences
   status: Registration is Open
 
 - name: OnlineTestConf 2022
@@ -113,11 +78,31 @@
   url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing
   status: Registration is Open
 
+- name: Testing, Diversity, AI Conference
+  location: London, UK
+  dates: "September 19, 2022"
+  url: https://www.bcs.org/events-calendar/2022/september/testing-diversity-ai-conference-software-testing-sg/?utm_source=testingconferences
+  twitter: bcs
+  status: Registration is Open
+
 - name: TestBash UK
-  location: Manchester
+  location: Manchester, UK
   dates: "September 22, 2022"
   url: https://www.ministryoftesting.com/events/testbash-uk?utm_source=testingconferences
   twitter: ministryoftest
+  status: Registration is Open
+
+- name: TestingStage 2022
+  location: Online
+  dates: "September 23, 2022"
+  url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open and Free
+
+- name: QScamp 2022
+  location: Hamburg, Germany
+  dates: "September 23-24, 2022"
+  url: https://qs-barcamp.de/?utm_source=testingconferences
+  twitter: QS_Barcamp
   status: Registration is Open
 
 - name: Targeting Quality (KWSQA) 2022
@@ -125,7 +110,7 @@
   dates: "September 26-27, 2022"
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
-  status: CFP is Open until May 29, 2022
+  status: CFP is Closed
 
 - name: SANAE BEER.EX 2022
   location: Bratislava, Slovakia and Online
@@ -137,8 +122,9 @@
 - name: SEETEST 2022
   location: Sofia, Bulgaria and Online
   dates: "September 28-30, 2022"
-  url: https://seetest.org/?utm_source=testingconferences
+  url: https://seetest.org/index.php?page=visitors-packages?utm_source=testingconferences
   twitter: SEETESTConf
+  status: Early Bird Registration is Open until July 15, 2022
 
 - name: Quality Excites 9 (2022)
   location: Gliwice, Poland
@@ -163,7 +149,7 @@
   dates: "October 8-9, 2022"
   url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: CFP is Open until May 31, 2022
+  status: Registration is Open and Free
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
   location: Portland, Oregon and Online
@@ -204,6 +190,12 @@
   url: https://www.testingtalks.com.au/?utm_source=testingconferences
   twitter: testingtalks
 
+- name: TestCon Europe 2022
+  location: Online
+  dates: "October 26-27, 2022"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: TestBash Core Skills
   location: Online
   dates: "November 15, 2022"
@@ -216,7 +208,7 @@
   dates: "November 15-16, 2022"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
-  status: CFP is Open until May 31, 2022
+  status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
@@ -227,12 +219,12 @@
   
 - name: System Testing and Valdation (STV) Workshop 2022
   location: Guangzhou, China
-  dates: "December 05-09, 2022"
-  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22
+  dates: "December 5-9, 2022"
+  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
   status: in preparation
 
-- name: TestCon Europe 2022
-  location: Online
-  dates: "October 26-27, 2022"
-  url: https://testcon.lt/
-  status: Registration is Open
+- name: Greatest Quality
+  location: Zürich, Switzerland
+  dates: "June 2, 2023"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  status: Blind Bird Registration is Open
