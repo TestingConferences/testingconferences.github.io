@@ -190,6 +190,12 @@
   url: https://www.testingtalks.com.au/?utm_source=testingconferences
   twitter: testingtalks
 
+- name: TestCon Europe 2022
+  location: Online
+  dates: "October 26-27, 2022"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: TestBash Core Skills
   location: Online
   dates: "November 15, 2022"
