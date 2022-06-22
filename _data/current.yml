@@ -98,12 +98,12 @@
   url: https://testingstage.com/?utm_source=testingconferences
   status: Registration is Open and Free
 
-  name: QScamp 2022
-    location: Hamburg, Germany
-    dates: "September 23.-24., 2022"
-    url: https://qs-barcamp.de/?utm_source=testingconferences
-    twitter: QS_Barcamp
-    status: Registration is Open
+- name: QScamp 2022
+  location: Hamburg, Germany
+  dates: "September 23-24, 2022"
+  url: https://qs-barcamp.de/?utm_source=testingconferences
+  twitter: QS_Barcamp
+  status: Registration is Open
 
 - name: Targeting Quality (KWSQA) 2022
   location: Cambridge, ON Canada
