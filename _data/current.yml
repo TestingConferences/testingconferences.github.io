@@ -53,7 +53,14 @@
   twitter: AST_News
   status: Early Bird Registration is Open until sold out
 
-- name: IEEE AUTOTESTCON 2022
+- name: Testμ Conference 2022
+  location: Online
+  dates: "August 23-25, 2022"
+  url: https://bit.ly/3bkvuiF
+  twitter: lambdatesting
+  status: Registration is Open until sold out
+  
+  - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
   dates: "August 29-September 1, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
