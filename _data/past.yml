@@ -1,3 +1,26 @@
+- name: Front-End Test Fest
+  location: Online
+  dates: "June 23, 2022"
+  url: https://front-endtestfest.com/wjb
+  twitter: applitools
+
+- name: The QA Financial Forum Paris 2022
+  location: Paris, France
+  dates: "June 22, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-paris-2022-?utm_source=testingconferences
+
+- name: TestBash World
+  location: Online
+  dates: "June 22, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-world-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: Swiss Testing Day
+  location: Zurich, Switzerland
+  dates: "June 21, 2022"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
+
 - name: Romanian Testing Conference
   location: Cluj-Napoca, Romania and Online
   dates: "June 16-17, 2022"
