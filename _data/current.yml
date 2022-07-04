@@ -208,6 +208,12 @@
   dates: "December 5-9, 2022"
   url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
   status: in preparation
+  
+  - name: Agile Testing Alliance Global Testing Retreat 2022
+  location: Online
+  dates: "December 9-11, 2022"
+  url: https://gtr.agiletestingalliance.org
+  twitter: TestingRetreat
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
