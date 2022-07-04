@@ -5,6 +5,13 @@
   twitter: UNICOMSeminars
   status: Early Bird Registration is Open until June 22, 2022
   
+- name: Selenium Conference Lite
+  location: Online
+  dates: "July 14, 2022"
+  url: https://2022.seleniumconf.in/seconf-lite.html?utm_source=testingconferences
+  twitter: seleniumconf
+  status: Registration is Open and Free
+
 - name: "Agile, DevOps & Testing: People, Process and Technology"
   location: Online
   dates: "July 20-21, 2022"
@@ -90,7 +97,7 @@
   dates: "September 26-27, 2022"
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
-  status: CFP is Closed
+  status: Early Bird Registration is Open until August 27th
 
 - name: SANAE BEER.EX 2022
   location: Bratislava, Slovakia and Online
@@ -155,7 +162,7 @@
   location: Munich, Germany
   dates: "October 17-18, 2022"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  status: Registration is Open
+  status: Registration is Open, 50% off until July 31st then Early Bird
 
 - name: The QA Financial Forum London 2022
   location: London, UK
