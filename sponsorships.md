@@ -27,7 +27,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>August 2022</td>
-    <td>Open</td>
+    <td>TestingStage 2022</td>
   </tr>
   <tr>
     <td>September 2022</td>
