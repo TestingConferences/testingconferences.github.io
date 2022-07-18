@@ -1,18 +1,4 @@
 - name: "Agile, DevOps & Testing: People, Process and Technology"
-  location: London, United Kingdom
-  dates: "July 7, 2022"
-  url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/london-july/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Early Bird Registration is Open until June 22, 2022
-  
-- name: Selenium Conference Lite
-  location: Online
-  dates: "July 14, 2022"
-  url: https://2022.seleniumconf.in/seconf-lite.html?utm_source=testingconferences
-  twitter: seleniumconf
-  status: Registration is Open and Free
-
-- name: "Agile, DevOps & Testing: People, Process and Technology"
   location: Online
   dates: "July 20-21, 2022"
   url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/?utm_source=testingconferences
@@ -216,7 +202,7 @@
   dates: "November 21-24, 2022"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until September 18, 2022
+  status: Early Bird Registration is Open until September 18, 2022. 
   
 - name: System Testing and Valdation (STV) Workshop 2022
   location: Guangzhou, China
@@ -236,6 +222,13 @@
   dates: "June 2, 2023"
   url: https://www.greatestquality.ch/?utm_source=testingconferences
   status: Blind Bird Registration is Open
+
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Cologne, Germany
+  dates: "June 13-15, 2023"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+  status: CFP is Open until August 31, 2022
 
 - name: EuroSTAR 2023 Software Testing Conference
   location: Antwerp, Belgium

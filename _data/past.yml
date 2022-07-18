@@ -1,3 +1,15 @@
+- name: Selenium Conference Lite
+  location: Online
+  dates: "July 14, 2022"
+  url: https://2022.seleniumconf.in/seconf-lite.html?utm_source=testingconferences
+  twitter: seleniumconf
+
+- name: "Agile, DevOps & Testing: People, Process and Technology"
+  location: London, United Kingdom
+  dates: "July 7, 2022"
+  url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/london-july/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
 - name: Front-End Test Fest
   location: Online
   dates: "June 23, 2022"
