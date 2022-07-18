@@ -45,7 +45,14 @@
   dates: "August 29-September 1, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
   status: Early Bird Registration is Open until July 1, 2022
-    
+
+- name: "QA: Challenge Accepted 2022"
+  location: Sofia, Bulgaria and Online
+  dates: "September 10, 2022"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+  status: Registration is Open, use code 20000-TESTC for 20% discount
+
 - name: Testit2022
   location: Malmö, Sweden
   dates: "September 13, 2022"
