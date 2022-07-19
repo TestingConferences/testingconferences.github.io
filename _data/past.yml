@@ -3743,11 +3743,11 @@
   url: http://north.softwaretestingconference.com/
   twitter: testmagazine
 
-- name: Testival eu 2016
+- name: Targeting Quality 2016 (KWSQA)
   location: Kitchener, ON, Canada
   dates: "September 26-27, 2016"
   url: http://kwsqa.org/conference/
-  twitter: testivaleu
+  twitter: kwsqa
 
 - name: New Testing Conference
   location: New York, NY, USA
@@ -3773,11 +3773,10 @@
   url: http://www.stpcon.com/
   twitter: softwaretestpro
 
-- name: Targeting Quality 2016
+- name: Testival eu 2016
   location: Rijeka, Croatia
   dates: "September 16-17, 2016"
   url: http://www.testival.eu/
-  twitter: kwsqa
 
 - name: South Eastern Europe Testing Conference (SEETEST) 2016
   location: Bucharest, Romania
