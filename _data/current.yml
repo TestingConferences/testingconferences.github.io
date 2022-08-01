@@ -195,6 +195,13 @@
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
   status: Registration is Open
+  
+- name: World Conference Next Generation Testing 2022
+  location: Bengaluru, India
+  dates: "November 16, 2022"
+  url: https://www.unicomlearning.com/2022/software-testing-conference/bengaluru-india/
+  twitter: UNICOMLearning
+  status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany
