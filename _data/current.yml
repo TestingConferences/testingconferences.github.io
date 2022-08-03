@@ -12,6 +12,13 @@
   twitter: lambdatesting
   status: Registration is Open until sold out
   
+- name: Future of Testing | APAC
+  location: Online
+  dates: "August 24, 2022"
+  url: https://applitools.info/hh9
+  twitter: applitools
+  status: Registration is Open and Free
+  
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
   dates: "August 29-September 1, 2022"
@@ -56,6 +63,13 @@
   url: https://www.bcs.org/events-calendar/2022/september/testing-diversity-ai-conference-software-testing-sg/?utm_source=testingconferences
   twitter: bcs
   status: Registration is Open
+
+- name: Future of Testing | North America
+  location: Online
+  dates: "September 22, 2022"
+  url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=220824-softwaretestconf-free
+  twitter: applitools
+  status: Coming Soon
 
 - name: TestBash UK
   location: Manchester, UK
