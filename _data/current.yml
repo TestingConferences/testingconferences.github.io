@@ -1,10 +1,3 @@
-- name: Selenium Conference 2022
-  location: Online
-  dates: "July 29-30, 2022"
-  url: https://2022.seleniumconf.in/?utm_source=testingconferences
-  twitter: seleniumconf
-  status: Registration is Open
-
 - name: Testμ Conference 2022
   location: Online
   dates: "August 23-25, 2022"
