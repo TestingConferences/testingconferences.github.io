@@ -116,7 +116,7 @@
   dates: "October 2-7, 2022"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Super Early Bird Registration is Open until August 5, 2022
+  status: Early Bird Registration is Open until September 2, 2022
 
 - name: HUSTEF 2022
   location: Budapest, Hungary
@@ -256,3 +256,10 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Open until September 9, 2022
+
+- name: STAREAST 2023
+  location: Orlando, FL, USA
+  dates: "April 30-May 5, 2023"
+  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
+  twitter: TechWell
+  status: CFP is Open until September 11, 2022
