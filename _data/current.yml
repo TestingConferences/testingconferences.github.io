@@ -43,6 +43,13 @@
   url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing
   status: Registration is Open
 
+- name: Future of Testing Forum | Seattle
+  location: Seattle, WA USA
+  dates: "September 15, 2022"
+  url: https://applitools.com/future-of-testing-forum-seattle/?utm_source=other&utm_medium=web-referral&utm_content=field-event&utm_term=220915-softwaretestconf-free&utm_campaign=220915-fot-forum-seattle
+  twitter: applitools
+  status: Registration is Open
+
 - name: Testing, Diversity, AI Conference
   location: London, UK
   dates: "September 19, 2022"
@@ -224,6 +231,13 @@
   twitter: TestingRetreat
   status: Registration is Open
 
+- name: STAREAST 2023
+  location: Orlando, FL, USA
+  dates: "April 30-May 5, 2023"
+  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
+  twitter: TechWell
+  status: CFP is Open until September 11, 2022
+
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
@@ -243,10 +257,3 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Open until September 9, 2022
-
-- name: STAREAST 2023
-  location: Orlando, FL, USA
-  dates: "April 30-May 5, 2023"
-  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
-  twitter: TechWell
-  status: CFP is Open until September 11, 2022
