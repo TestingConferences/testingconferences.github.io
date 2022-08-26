@@ -231,6 +231,13 @@
   twitter: TestingRetreat
   status: Registration is Open
 
+- name: STAREAST 2023
+  location: Orlando, FL, USA
+  dates: "April 30-May 5, 2023"
+  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
+  twitter: TechWell
+  status: CFP is Open until September 11, 2022
+
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
@@ -250,10 +257,3 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Open until September 9, 2022
-
-- name: STAREAST 2023
-  location: Orlando, FL, USA
-  dates: "April 30-May 5, 2023"
-  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
-  twitter: TechWell
-  status: CFP is Open until September 11, 2022
