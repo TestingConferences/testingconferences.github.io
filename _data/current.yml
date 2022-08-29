@@ -1,15 +1,7 @@
-- name: Testμ Conference 2022
-  location: Online
-  dates: "August 23-25, 2022"
-  url: https://bit.ly/3bkvuiF
-  twitter: lambdatesting
-  status: Registration is Open until sold out
-  
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
   dates: "August 29-September 1, 2022"
   url: https://2022.autotestcon.com/?utm_source=testingconferences
-  status: Early Bird Registration is Open until July 1, 2022
 
 - name: Testival 2022 Osijek
   location: Osijek, Croatia
@@ -40,7 +32,7 @@
 - name: ETSI 9th UCAAT - User Conference on Advanced Automated Testing
   location: Munich, Germany
   dates: "September 13-15, 2022"
-  url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing
+  url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing?utm_source=testingconferences
   status: Registration is Open
 
 - name: Future of Testing Forum | Seattle
@@ -89,7 +81,7 @@
   dates: "September 26-27, 2022"
   url: https://kwsqa.org/tq2022/?utm_source=testingconferences
   twitter: kwsqa
-  status: Early Bird Registration is Open until August 26th
+  status: Registration is Open
 
 - name: SANAE BEER.EX 2022
   location: Bratislava, Slovakia and Online
@@ -103,7 +95,7 @@
   dates: "September 28-30, 2022"
   url: https://seetest.org/index.php?page=visitors-packages?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Early Bird Registration is Open until July 15, 2022
+  status: Registration is Open
 
 - name: STARWEST 2022
   location: Anaheim, CA, USA and Online
@@ -130,11 +122,12 @@
   dates: "October 10-12, 2022"
   url: https://www.pnsqc.org/conference.php/?utm_source=testingconferences
   twitter: PNSQC
+  status: Early Bird Registration is Open until September 30, 2022
   
 - name: Najaarsevenement Testnet
   location: Nieuwegein, NL
   dates: "October 13, 2022"
-  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878493&conpag=&detail_template=objects_agenda_item
+  url: https://www.testnet.org/cgi/objects.cgi?site=testnet&id=12878493&conpag=&detail_template=objects_agenda_item?utm_source=testingconferences
   twitter: TestNetNL
   status: Registration opens in August
 
@@ -149,7 +142,7 @@
   location: Munich, Germany
   dates: "October 17-18, 2022"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  status: Registration is Open, 50% off until July 31st then Early Bird
+  status: Early Brid Registration is Open until September 30, 2022
 
 - name: The QA Financial Forum London 2022
   location: London, UK
