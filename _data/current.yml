@@ -18,8 +18,8 @@
   twitter: bcs
   status: Registration is Open
 
-- name: Future of Testing Forum | Seattle
-  location: Seattle, WA
+- name: Future of Testing Forum | Toronto
+  location: Toronto, ON
   dates: "September 21, 2022"
   url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=22921-softwaretestconf-free
   twitter: applitools
@@ -199,6 +199,13 @@
   dates: "December 5-9, 2022"
   url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
   status: in preparation
+
+- name: Workshop on Performance and Reliability (WOPR) 29
+  location: Montevideo, Uruguay
+  dates: "December 6-8, 2022"
+  url: http://www.performance-workshop.org/apply-for-wopr/utm_source=testingconferences
+  twitter: WOPR_Workshop
+  status: CFP is Open
   
 - name: Agile Testing Alliance Global Testing Retreat 2022
   location: Online
