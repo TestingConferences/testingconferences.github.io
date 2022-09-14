@@ -22,16 +22,12 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>August 2022</td>
-    <td>TestingStage 2022</td>
-  </tr>
-  <tr>
     <td>September 2022</td>
-    <td>AppliTools</td>
+    <td>CAST 2022</td>
   </tr>
   <tr>
     <td>October 2022</td>
-    <td>CAST 2022</td>
+    <td>AppliTools</td>
   </tr>
   <tr>
     <td>December 2022</td>
@@ -59,6 +55,10 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2023</td>
+    <td>Open</td>
+  </tr>
+    <tr>
+    <td>July 2023</td>
     <td>Open</td>
   </tr>
 </table>
