@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2022-03-18 13:48:00
+last_modified_at: 2022-09-14 11:29:00
 ---
 
 **Sponsoring Us**
