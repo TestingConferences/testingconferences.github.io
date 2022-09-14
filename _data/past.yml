@@ -1,3 +1,19 @@
+- name: Testit2022
+  location: Malmö, Sweden
+  dates: "September 13, 2022"
+  url: https://www.knowit.se/event/testit2022/?utm_source=testingconferences
+
+- name: "QA: Challenge Accepted 2022"
+  location: Sofia, Bulgaria and Online
+  dates: "September 10, 2022"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+
+- name: Testival 2022 Osijek
+  location: Osijek, Croatia
+  dates: "September 9-10, 2022"
+  url: http://www.testival.eu/?utm_source=testingconferences
+
 - name: IEEE AUTOTESTCON 2022
   location: National Harbor, MD, USA
   dates: "August 29-September 1, 2022"
