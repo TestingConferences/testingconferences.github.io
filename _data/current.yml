@@ -44,12 +44,12 @@
   twitter: bcs
   status: Registration is Open
 
-- name: Future of Testing | North America
-  location: Online
-  dates: "September 22, 2022"
-  url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=220824-softwaretestconf-free
+- name: Future of Testing Forum | Seattle
+  location: Seattle, WA
+  dates: "September 21, 2022"
+  url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=22921-softwaretestconf-free
   twitter: applitools
-  status: Coming Soon
+  status: Registration is Open and Free
 
 - name: TestBash UK
   location: Manchester, UK
@@ -171,6 +171,13 @@
   url: https://testcon.lt/?utm_source=testingconferences
   status: Registration is Open
 
+- name: Future of Testing | North America
+  location: Online
+  dates: "October 27, 2022"
+  url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=221027-softwaretestconf-free
+  twitter: applitools
+  status: Coming Soon
+  
 - name: CAST 2022
   location: San Diego, CA, USA
   dates: "November 9-10, 2022"
