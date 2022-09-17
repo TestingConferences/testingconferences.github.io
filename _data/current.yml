@@ -86,6 +86,12 @@
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HUSTEF2022
   
+- name: RoboCon 2022 Germany
+  location: Frankfurt, Germany
+  dates: "October 5, 2022"
+  url: https://robocon.io/germany
+  status: Registration is Open
+
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
@@ -220,6 +226,20 @@
   url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
   twitter: TestingRetreat
   status: Registration is Open
+
+- name: RoboCon 2023 Helsinki
+  location: Helsinki, Finland
+  dates: "January 17-20,2023"
+  url: https://robocon.io/
+  twitter: robotframework
+  status: CFP is Open, Blind Robot Registration is Open
+
+- name: RoboCon 2023 Online
+  location: Online
+  dates: "Febuary 27-March 3,2023"
+  url: https://robocon.io/
+  twitter: robotframework
+  status: CFP is Open, Blind Robot Registration is Open
 
 - name: STAREAST 2023
   location: Orlando, FL, USA
