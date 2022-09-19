@@ -1,16 +1,3 @@
-- name: ETSI 9th UCAAT - User Conference on Advanced Automated Testing
-  location: Munich, Germany
-  dates: "September 13-15, 2022"
-  url: https://www.etsi.org/events/upcoming-events/2028-2022-09-9th-ucaat-user-conference-on-advanced-automated-testing?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Future of Testing Forum | Seattle
-  location: Seattle, WA USA
-  dates: "September 15, 2022"
-  url: https://applitools.com/future-of-testing-forum-seattle/?utm_source=other&utm_medium=web-referral&utm_content=field-event&utm_term=220915-softwaretestconf-free&utm_campaign=220915-fot-forum-seattle
-  twitter: applitools
-  status: Registration is Open
-
 - name: Testing, Diversity, AI Conference
   location: London, UK
   dates: "September 19, 2022"
@@ -89,7 +76,7 @@
 - name: RoboCon 2022 Germany
   location: Frankfurt, Germany
   dates: "October 5, 2022"
-  url: https://robocon.io/germany
+  url: https://robocon.io/germany?utm_source=testingconferences
   status: Registration is Open
 
 - name: TestFlix 2022
@@ -230,21 +217,21 @@
 - name: RoboCon 2023 Helsinki
   location: Helsinki, Finland
   dates: "January 17-20,2023"
-  url: https://robocon.io/
+  url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
   status: CFP is Open, Blind Robot Registration is Open
 
 - name: RoboCon 2023 Online
   location: Online
   dates: "Febuary 27-March 3,2023"
-  url: https://robocon.io/
+  url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
   status: CFP is Open, Blind Robot Registration is Open
 
 - name: STAREAST 2023
   location: Orlando, FL, USA
   dates: "April 30-May 5, 2023"
-  url: https://stareast.techwell.com/speak-stareast??utm_source=testingconferences
+  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: CFP is Open until September 11, 2022
 
