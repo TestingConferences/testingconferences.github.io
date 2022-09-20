@@ -228,12 +228,19 @@
   twitter: robotframework
   status: CFP is Open, Blind Robot Registration is Open
 
+- name: Selenium Conference 2023
+  location: Chicago, IL, USA
+  dates: "March 28-30, 2023"
+  url: https://seconf2023.wpengine.com/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: CFP is Open until October, 23, 2022
+
 - name: STAREAST 2023
   location: Orlando, FL, USA
   dates: "April 30-May 5, 2023"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open until September 11, 2022
+  status: CFP is Open until September 23, 2022
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
