@@ -258,7 +258,8 @@
 - name: Romania Testing Conference
   location: Cluj-Napoca, Romania
   dates: "June 6-8, 2023"
-  url: https://www.romaniatesting.ro
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: RomaniaTesting
   status: CFP opens October 5, 2022
 
 - name: Agile Testing Days (ATD) Open Air Festival
