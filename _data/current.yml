@@ -254,6 +254,13 @@
   dates: "June 2, 2023"
   url: https://www.greatestquality.ch/?utm_source=testingconferences
   status: Blind Bird Registration is Open
+  
+- name: Romania Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "June 6-8, 2023"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: RomaniaTesting
+  status: CFP opens October 5, 2022
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
