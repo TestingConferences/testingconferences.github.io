@@ -177,7 +177,7 @@
   dates: "January 17-20, 2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: CFP is Open, Blind Robot Registration is Open
+  status: Blind Robot Registration is Open
 
 - name: Automation Guild Online Conference 2023
   location: Online
@@ -188,10 +188,10 @@
 
 - name: RoboCon 2023 Online
   location: Online
-  dates: "Febuary 27-March 3,2023"
+  dates: "February 27-March 3,2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: CFP is Open, Blind Robot Registration is Open
+  status: CFP is Open until October 16, 2022. Blind Robot registration is open.
 
 - name: Selenium Conference 2023
   location: Chicago, IL, USA
@@ -218,7 +218,7 @@
   dates: "June 6-8, 2023"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
-  status: CFP opens October 5, 2022
+  status: CFP Opens October 5, 2022
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
