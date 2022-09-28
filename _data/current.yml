@@ -125,7 +125,7 @@
   dates: "November 15-16, 2022"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
-  status: Registration is Open
+  status: Registration is Open and Free
   
 - name: World Conference Next Generation Testing 2022
   location: Bengaluru, India
@@ -135,11 +135,11 @@
   status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2022
-  location: Potsdam, Germany
+  location: Potsdam, Germany and Online
   dates: "November 21-24, 2022"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until September 18, 2022
+  status: Bird Registration is Open
 
 - name: OnlineTestConf 2022
   location: Online
@@ -148,29 +148,33 @@
   twitter: OnlineTestConf
   status: Registration is Open and Free
   
-- name: System Testing and Valdation (STV) Workshop 2022
+- name: System Testing and Validation (STV) Workshop 2022
   location: Guangzhou, China
   dates: "December 5-9, 2022"
   url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
-  status: in preparation
+
+- name: Software Quality, Reliability, and Security (QRS) 2022
+  location: Guangzhou, China
+  dates: "December 5-9, 2022"
+  url: https://qrs22.techconf.org/?utm_source=testingconferences
 
 - name: Workshop on Performance and Reliability (WOPR) 29
   location: Montevideo, Uruguay
   dates: "December 6-8, 2022"
-  url: http://www.performance-workshop.org/apply-for-wopr/utm_source=testingconferences
+  url: http://www.performance-workshop.org/wopr29/utm_source=testingconferences
   twitter: WOPR_Workshop
-  status: CFP is Open
+  status: Invitations Sent By October 15, 2022
   
 - name: Agile Testing Alliance Global Testing Retreat 2022
   location: Online
   dates: "December 9-11, 2022"
   url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
   twitter: TestingRetreat
-  status: Registration is Open
+  status: Early Bird Registration is Open until September 29, 2022
 
 - name: RoboCon 2023 Helsinki
   location: Helsinki, Finland
-  dates: "January 17-20,2023"
+  dates: "January 17-20, 2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
   status: CFP is Open, Blind Robot Registration is Open
@@ -201,13 +205,13 @@
   dates: "April 30-May 5, 2023"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open until September 23, 2022
+  status: Registration will open soon
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
   url: https://www.greatestquality.ch/?utm_source=testingconferences
-  status: Blind Bird Registration is Open
+  status: Early Bird Registration is Open
   
 - name: Romania Testing Conference
   location: Cluj-Napoca, Romania
@@ -221,11 +225,12 @@
   dates: "June 13-15, 2023"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP is Open until August 31, 2022
+  status: Super Early Bird Registration is Open until December 31, 2022
 
 - name: EuroSTAR 2023 Software Testing Conference
   location: Antwerp, Belgium
   dates: "June 13-16, 2023"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Open until September 9, 2022
+  status: Super Early Bird Registration is Open until October 31, 2022
+
