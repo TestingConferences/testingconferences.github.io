@@ -1,3 +1,44 @@
+- name: Targeting Quality (KWSQA) 2022
+  location: Cambridge, ON Canada
+  dates: "September 26-27, 2022"
+  url: https://kwsqa.org/tq2022/?utm_source=testingconferences
+  twitter: kwsqa
+
+- name: QScamp 2022
+  location: Hamburg, Germany
+  dates: "September 23-24, 2022"
+  url: https://qs-barcamp.de/?utm_source=testingconferences
+  twitter: QS_Barcamp
+
+- name: TestingStage 2022
+  location: Online
+  dates: "September 23, 2022"
+  url: https://testingstage.com/?utm_source=testingconferences
+
+- name: TestBash UK
+  location: Manchester, UK
+  dates: "September 22, 2022"
+  url: https://www.ministryoftesting.com/events/testbash-uk?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: Future of Testing Forum | Toronto
+  location: Toronto, ON
+  dates: "September 21, 2022"
+  url: https://applitools.com/upcoming-events/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=22921-softwaretestconf-free
+  twitter: applitools
+
+- name: QA ATL Conference 2022 | The Future of Testing
+  location: Atlanta, GA, USA and Online
+  dates: "September 19-23, 2022"
+  url: https://www.qaatl.com/?utm_source=testingconferences
+  twitter: AQAAorg
+
+- name: Testing, Diversity, AI Conference
+  location: London, UK
+  dates: "September 19, 2022"
+  url: https://www.bcs.org/events-calendar/2022/september/testing-diversity-ai-conference-software-testing-sg/?utm_source=testingconferences
+  twitter: bcs
+
 - name: Future of Testing Forum | Seattle
   location: Seattle, WA USA
   dates: "September 15, 2022"
