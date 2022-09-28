@@ -65,7 +65,14 @@
   dates: "October 18, 2022"
   url: https://www.qa-financial.com/events/qa-financial-forum-london-2022?utm_source=testingconferences
   status: Registration is Open and Free
-  
+
+- name: QA & TEST Embedded 2022
+  location: Bilbao, Spain
+  dates: "October 19-21, 2022"
+  url: https://embedded.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Registration is Open
+
 - name: Test Expo, Agile & DevOps Expo and Low Code Expo 
   location: London, UK
   dates: "October 20, 2022"
@@ -192,6 +199,13 @@
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
   status: CFP is Open until October 16, 2022. Blind Robot registration is open.
+
+- name: QA & TEST Safety and Security 2023
+  location: TBA
+  dates: "March 2023"
+  url: https://www.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: Announced
 
 - name: Selenium Conference 2023
   location: Chicago, IL, USA
