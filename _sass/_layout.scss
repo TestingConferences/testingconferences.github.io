@@ -13,12 +13,15 @@
 }
 
 .site-title {
-    font-size: 50px;
     line-height: 64px;
     letter-spacing: -1px;
     margin-bottom: 0;
     text-shadow: 2px 2px 2px #CCC;
+
+    h1 {
+        font-size: 50px;
     }
+}
 
 .site-nav {
     float: right;
@@ -56,7 +59,7 @@
             padding-top: 10px;
             text-align: center;
 
-            > svg {
+            >svg {
                 width: 18px;
                 height: 15px;
 
@@ -163,29 +166,30 @@
 
 .footer-col-1 {
     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
     width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width:         calc(40% - (#{$spacing-unit} / 2));
+    width: calc(40% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
+
     .footer-col-1,
     .footer-col-2 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+        width: calc(50% - (#{$spacing-unit} / 2));
     }
 
     .footer-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: calc(100% - (#{$spacing-unit} / 2));
     }
 }
 
@@ -193,7 +197,7 @@
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: calc(100% - (#{$spacing-unit} / 2));
     }
 }
 
@@ -216,15 +220,15 @@
     border: 1px;
     border-color: #e8e8e8;
 
-    > li {
+    >li {
         margin-bottom: $spacing-unit;
         padding: 5px;
     }
 
     h2 {
-      font-size: 26px;
-      margin-bottom: 1px;
-      margin-left: 5px;
+        font-size: 26px;
+        margin-bottom: 1px;
+        margin-left: 5px;
     }
 
     .fa {
@@ -294,61 +298,64 @@
 }
 
 .lower-page {
-      list-style: none;
-      border: 1px;
-      border-color: #e8e8e8;
-      list-style: none;
-      text-shadow: 2px 2px 2px #CCC;
-      text-align: left;
+    list-style: none;
+    border: 1px;
+    border-color: #e8e8e8;
+    list-style: none;
+    text-shadow: 2px 2px 2px #CCC;
+    text-align: left;
 
-      a {
-          color: #225c80;
-      }
+    a {
+        color: #225c80;
+    }
 
-      > li {
-          margin-bottom: $spacing-unit;
-          padding: 5px;
-      }
+    >li {
+        margin-bottom: $spacing-unit;
+        padding: 5px;
+    }
 
-      h2 {
+    h2 {
         font-size: 26px;
         font-weight: bold;
         margin-left: 5px;
-      }
+    }
 }
 
 #promo {
-  position: relative;
-  z-index: 101;
-  top: 0;
-  left: 0;
-  right: 0;
-  background: #FFD645;
-  color: black;
-  a {
-      color: blue;
-  };
-  text-align: center;
-  line-height: 1.5;
-  font-weight: normal;
-  overflow: hidden;
-  -webkit-box-shadow: 0 0 5px black;
-  -moz-box-shadow:    0 0 5px black;
-  box-shadow:         0 0 5px black;
-  padding-left: 10px;
-  padding-right: 25px;
-  padding-top: 5px;
+    position: relative;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #00968F;
+    color: black;
+
+    a {
+        color: blue;
+    }
+
+    ;
+    text-align: center;
+    line-height: 1.5;
+    font-weight: normal;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow: 0 0 5px black;
+    box-shadow: 0 0 5px black;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-top: 5px;
 }
 
 #close {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  text-indent: -9999px;
-  background: url(/assets/close.png);
-  height: 16px;
-  width: 16px;
-  cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    text-indent: -9999px;
+    background: url(/assets/close.png);
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
 }
 
 .push {

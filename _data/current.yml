@@ -1,3 +1,30 @@
+- name: SEETEST 2022
+  location: Sofia, Bulgaria and Online
+  dates: "September 29-30, 2022"
+  url: https://seetest.org?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Registration is Open
+
+- name: STARWEST 2022
+  location: Anaheim, CA, USA and Online
+  dates: "October 2-7, 2022"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+  status: Registration is Open
+
+- name: HUSTEF 2022
+  location: Budapest, Hungary
+  dates: "October 4-6, 2022"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: HUSTEF2022
+  status: Registration is Open
+  
+- name: RoboCon 2022 Germany
+  location: Frankfurt, Germany
+  dates: "October 5, 2022"
+  url: https://robocon.io/germany?utm_source=testingconferences
+  status: Registration is Open
+ 
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
