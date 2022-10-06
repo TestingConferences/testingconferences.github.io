@@ -1,3 +1,15 @@
+- name: RoboCon 2022 Germany
+  location: Frankfurt, Germany
+  dates: "October 5, 2022"
+  url: https://robocon.io/germany?utm_source=testingconferences
+  status: Registration is Open
+
+- name: SEETEST 2022
+  location: Sofia, Bulgaria and Online
+  dates: "September 29-30, 2022"
+  url: https://seetest.org?utm_source=testingconferences
+  twitter: SEETESTConf
+
 - name: SANAE BEER.EX 2022
   location: Bratislava, Slovakia and Online
   dates: "September 28-29, 2022"
