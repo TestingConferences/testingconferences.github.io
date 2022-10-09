@@ -1,3 +1,21 @@
+- name: TestFlix 2022
+  location: Online
+  dates: "October 8-9, 2022"
+  url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
+  twitter: the_test_tribe
+
+- name: HUSTEF 2022
+  location: Budapest, Hungary
+  dates: "October 4-6, 2022"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: HUSTEF2022
+
+- name: STARWEST 2022
+  location: Anaheim, CA, USA and Online
+  dates: "October 2-7, 2022"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: RoboCon 2022 Germany
   location: Frankfurt, Germany
   dates: "October 5, 2022"

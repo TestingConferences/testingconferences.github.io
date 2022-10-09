@@ -1,24 +1,3 @@
-- name: STARWEST 2022
-  location: Anaheim, CA, USA and Online
-  dates: "October 2-7, 2022"
-  url: https://starwest.techwell.com/?utm_source=testingconferences
-  twitter: techwell
-  status: Registration is Open
-
-- name: HUSTEF 2022
-  location: Budapest, Hungary
-  dates: "October 4-6, 2022"
-  url: https://hustef.hu/?utm_source=testingconferences
-  twitter: HUSTEF2022
-  status: Registration is Open
- 
-- name: TestFlix 2022
-  location: Online
-  dates: "October 8-9, 2022"
-  url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
-  twitter: the_test_tribe
-  status: Registration is Open and Free
-
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
   location: Portland, Oregon and Online
   dates: "October 10-12, 2022"
@@ -38,7 +17,7 @@
   dates: "October 17-18, 2022"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Brid Registration is Open until September 30, 2022
+  status: Registration is Open
 
 - name: The QA Financial Forum London 2022
   location: London, UK
@@ -98,7 +77,7 @@
   dates: "November 9-10, 2022"
   url: https://associationforsoftwaretesting.org/conference/cast-2022/?utm_source=testingconferences
   twitter: AST_News
-  status: Early Bird Registration is Open until sold out
+  status: Registration is Open
 
 - name: TestBash Core Skills
   location: Online
