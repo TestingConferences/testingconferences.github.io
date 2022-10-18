@@ -1,3 +1,15 @@
+- name: TestBashX Bucks
+  location: Buckinghamshire, UK
+  dates: "October 14, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022?utm_source=testingconferences
+  twitter: ministryoftest
+  
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2022
+  location: Portland, Oregon and Online
+  dates: "October 10-12, 2022"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
 - name: TestFlix 2022
   location: Online
   dates: "October 8-9, 2022"
