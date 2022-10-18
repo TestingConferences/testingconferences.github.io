@@ -55,8 +55,8 @@
 - name: Experience 2022
   location: Boston, MA, USA and Online
   dates: "November 1-2, 2022"
-  url: https://experience.mabl.com
-  status: Registration is Open and Free
+  url: https://experience.mabl.com?utm_source=testingconferences
+  status: Registration is Open and Free for Virtual
   
 - name: CAST 2022
   location: San Diego, CA, USA
@@ -97,7 +97,7 @@
   dates: "November 16, 2022"
   url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/testing-diversity-ai-conference/?utm_source=testingconferences
   twitter: bcs
-  status: Moved from September
+  status: Registration is Open
 
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany and Online
@@ -135,7 +135,7 @@
   dates: "December 9-11, 2022"
   url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
   twitter: TestingRetreat
-  status: Early Bird Registration is Open until September 29, 2022
+  status: Early Bird Registration is Open until October 31, 2022
 
 - name: RoboCon 2023 Helsinki
   location: Helsinki, Finland
@@ -156,7 +156,7 @@
   dates: "February 27-March 3,2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: CFP is Open until October 16, 2022. Blind Robot registration is open.
+  status: Blind Robot registration is open.
 
 - name: QA & TEST Safety and Security 2023
   location: TBA
@@ -190,7 +190,7 @@
   dates: "June 6-8, 2023"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
-  status: CFP Opens October 5, 2022
+  status: CFP is Open until December 16, 2022
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
