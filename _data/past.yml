@@ -1,3 +1,14 @@
+- name: The QA Financial Forum London 2022
+  location: London, UK
+  dates: "October 18, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-london-2022?utm_source=testingconferences
+
+- name: AutomationSTAR
+  location: Munich, Germany
+  dates: "October 17-18, 2022"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
 - name: TestBashX Bucks
   location: Buckinghamshire, UK
   dates: "October 14, 2022"
