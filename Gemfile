@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'github-pages', '>= 226', group: :jekyll_plugins
-gem 'html-proofer', '>= 3.19.4'
+gem 'html-proofer', '>= 3.19.3'
 gem 'jekyll-watch'
 gem "jekyll", ">= 3.9.0"
 gem 'jekyll-sitemap', '~> 1.4', '>= 1.4.0'
