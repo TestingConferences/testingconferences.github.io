@@ -1,3 +1,68 @@
+- name: QA & TEST Embedded 2022
+  location: Bilbao, Spain
+  dates: "October 19-21, 2022"
+  url: https://embedded.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+
+- name: Test Expo, Agile & DevOps Expo and Low Code Expo 
+  location: London, UK
+  dates: "October 20, 2022"
+  url: https://conference.unicomseminars.org/expo/2022/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: Test.Bash();
+  location: Online
+  dates: "October 20, 2022"
+  url: https://www.ministryoftesting.com/events/test-bash-2022?utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: Testing Talks Conference
+  location: South Wharf, Victoria, Australia
+  dates: "October 20, 2022"
+  url: https://www.testingtalks.com.au/?utm_source=testingconferences
+  twitter: testingtalks
+
+- name: The QA Financial Forum London 2022
+  location: London, UK
+  dates: "October 18, 2022"
+  url: https://www.qa-financial.com/events/qa-financial-forum-london-2022?utm_source=testingconferences
+
+- name: AutomationSTAR
+  location: Munich, Germany
+  dates: "October 17-18, 2022"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: TestBashX Bucks
+  location: Buckinghamshire, UK
+  dates: "October 14, 2022"
+  url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022?utm_source=testingconferences
+  twitter: ministryoftest
+  
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2022
+  location: Portland, Oregon and Online
+  dates: "October 10-12, 2022"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: TestFlix 2022
+  location: Online
+  dates: "October 8-9, 2022"
+  url: https://thetesttribe.com/testflix-2022/?utm_source=testingconferences
+  twitter: the_test_tribe
+
+- name: HUSTEF 2022
+  location: Budapest, Hungary
+  dates: "October 4-6, 2022"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: HUSTEF2022
+
+- name: STARWEST 2022
+  location: Anaheim, CA, USA and Online
+  dates: "October 2-7, 2022"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
 - name: RoboCon 2022 Germany
   location: Frankfurt, Germany
   dates: "October 5, 2022"
