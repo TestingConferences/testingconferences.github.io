@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: ruby:2.6.10-slim-buster
+      - image: cimg/ruby:2.6.0-node
         environment:
           BUNDLER_VERSION: 2.2.15
     steps:
