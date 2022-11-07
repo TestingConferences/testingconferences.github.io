@@ -88,7 +88,13 @@
   url: http://www.performance-workshop.org/wopr29/utm_source=testingconferences
   twitter: WOPR_Workshop
   status: Invitations Sent By October 15, 2022
-  
+
+- name: Quality Sense Conf 2022
+  location: Montevideo, Uruguay and Online
+  dates: "December 9, 2022"
+  url: https://qualitysenseconf.com
+  status: Registration is Open and Free
+ 
 - name: Agile Testing Alliance Global Testing Retreat 2022
   location: Online
   dates: "December 9-11, 2022"
