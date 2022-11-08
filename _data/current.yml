@@ -1,22 +1,3 @@
-- name: TestCon Europe 2022
-  location: Online
-  dates: "October 26-27, 2022"
-  url: https://testcon.lt/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Future of Testing | North America
-  location: Online
-  dates: "October 27, 2022"
-  url: https://applitools.info/1zf
-  twitter: applitools
-  status: Registration is Open and Free
-
-- name: Experience 2022
-  location: Boston, MA, USA and Online
-  dates: "November 1-2, 2022"
-  url: https://experience.mabl.com?utm_source=testingconferences
-  status: Registration is Open and Free for Virtual
-  
 - name: CAST 2022
   location: San Diego, CA, USA
   dates: "November 9-10, 2022"
