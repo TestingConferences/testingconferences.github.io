@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2022-09-14 11:29:00
+last_modified_at: 2022-11-10 11:40:00
 ---
 
 **Sponsoring Us**
@@ -22,12 +22,8 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>September 2022</td>
-    <td>CAST 2022</td>
-  </tr>
-  <tr>
-    <td>October 2022</td>
-    <td>AppliTools</td>
+    <td>November 2022</td>
+    <td>Open</td>
   </tr>
   <tr>
     <td>December 2022</td>
