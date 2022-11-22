@@ -272,6 +272,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  commonmarker (~> 0.23.6)
   github-pages (>= 226)
   html-proofer (~> 3.19.4)
   jekyll (>= 3.9.0)
