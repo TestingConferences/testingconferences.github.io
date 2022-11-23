@@ -39,14 +39,13 @@
 - name: Workshop on Performance and Reliability (WOPR) 29
   location: Montevideo, Uruguay
   dates: "December 6-8, 2022"
-  url: http://www.performance-workshop.org/wopr29/utm_source=testingconferences
+  url: http://www.performance-workshop.org/wopr29?utm_source=testingconferences
   twitter: WOPR_Workshop
-  status: Invitations Sent By October 15, 2022
 
 - name: Quality Sense Conf 2022
   location: Montevideo, Uruguay and Online
   dates: "December 9, 2022"
-  url: https://qualitysenseconf.com
+  url: https://qualitysenseconf.com?utm_source=testingconferences
   status: Registration is Open and Free
  
 - name: Agile Testing Alliance Global Testing Retreat 2022
@@ -54,7 +53,7 @@
   dates: "December 9-11, 2022"
   url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
   twitter: TestingRetreat
-  status: Early Bird Registration is Open until October 31, 2022
+  status: Registration is Open
 
 - name: SeaStar Quality Conference 2022
   location: Dominican Republic
@@ -67,7 +66,7 @@
   dates: "January 17-20, 2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: Blind Robot Registration is Open
+  status: Early Robot Registration is Open
 
 - name: Automation Guild Online Conference 2023
   location: Online
@@ -81,7 +80,7 @@
   dates: "February 27-March 3,2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: Blind Robot registration is open.
+  status: Early Robot Registration is Open
 
 - name: QA & TEST Safety and Security 2023
   location: TBA
@@ -102,19 +101,18 @@
   dates: "March 28-30, 2023"
   url: https://seconf2023.wpengine.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: CFP is Open until October 23, 2022
 
 - name: InflectraCon 2023
   location: Washington, D.C. USA
   dates: "April 19-21, 2023"
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
-  status: CFP is Open until October 31, 2022. Super Early Bird Registration is Open until November 1, 2022. 
+  status: Early Bird Registration is Open until January 31, 2023 
 
 - name: STAREAST 2023
   location: Orlando, FL, USA
   dates: "April 30-May 5, 2023"
-  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
+  url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
   status: Registration will open soon
 
@@ -143,14 +141,14 @@
   dates: "June 13-16, 2023"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Super Early Bird Registration is Open until October 31, 2022
+  status: Early Bird Registration is Open
 
 - name: Testμ Conference 2023
   location: Online
   dates: "August 23-25, 2023"
   url: https://www.lambdatest.com/testuconf-2022?utm_source=STC&utm_medium=organic&utm_content=testmu_2023
   twitter: lambdatesting
-  status: Call For Papers open
+  status: CFP is Open
 
 - name: TestBash UK 2023
   location: Cambridge, United Kingdom
