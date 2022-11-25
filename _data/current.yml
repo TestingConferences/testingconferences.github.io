@@ -1,17 +1,3 @@
-- name: Agile Testing Days (ATD) 2022
-  location: Potsdam, Germany and Online
-  dates: "November 21-24, 2022"
-  url: https://agiletestingdays.com/?utm_source=testingconferences
-  twitter: AgileTD
-  status: Bird Registration is Open
-
-- name: Testing Portugal Conference
-  location: Lisbon, Portugal
-  dates: "November 22, 2022"
-  url: https://testingportugal.pstqb.pt/?utm_source=testingconferences
-  twitter: PSTQB
-  status: Registration is Open
-
 - name: OnlineTestConf 2022
   location: Online
   dates: "November 29, 2022"
@@ -156,3 +142,10 @@
   url: https://www.ministryoftesting.com/events/testbash-uk-2023?utm_medium=web&utm_source=testingconferences
   twitter: ministryoftest
   status: <a href="https://www.ministryoftesting.com/events/testbash-uk-2023/proposal/submit?utm_medium=web&utm_source=testingconferences">Call For Papers open</a>, Blind-bird tickets available
+
+- name: Agile Testing Days (ATD) 2023
+  location: Potsdam, Germany
+  dates: "November 13-16, 2023"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: Announced

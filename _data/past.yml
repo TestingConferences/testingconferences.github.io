@@ -1,3 +1,15 @@
+- name: Agile Testing Days (ATD) 2022
+  location: Potsdam, Germany and Online
+  dates: "November 21-24, 2022"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+
+- name: Testing Portugal Conference
+  location: Lisbon, Portugal
+  dates: "November 22, 2022"
+  url: https://testingportugal.pstqb.pt/?utm_source=testingconferences
+  twitter: PSTQB
+
 - name: Testing, Diversity, AI Conference
   location: London, UK and Online
   dates: "November 16, 2022"
