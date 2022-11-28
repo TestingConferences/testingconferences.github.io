@@ -61,6 +61,13 @@
   twitter: testguilds
   status: CFP is Open
 
+- name: Worqference 2023
+  location: Online
+  dates: "February 24-26, 2023"
+  url: https://www.thetesttribe.com/worqference/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Registration is Open and 50% off
+
 - name: RoboCon 2023 Online
   location: Online
   dates: "February 27-March 3,2023"
@@ -102,6 +109,27 @@
   twitter: TechWell
   status: Registration will open soon
 
+- name: Agile Testing Days (ATD) USA 2023
+  location: Chicago, IL, USA
+  dates: "May 22-24, 2023"
+  url: https://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+  status: Registration will open soon
+
+- name: German Testing Day 2023
+  location: Frankfurt am Main, Germany
+  dates: "May 23-24, 2023"
+  url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
+  twitter: GermanTesting
+  status: Program to be released in January 2023
+
+- name: Test Automation Days 2023
+  location: Utrecht, NL
+  dates: "May 24-25, 2023"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+  status: Early Bird Registration is open until February 1, 2023
+
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
@@ -114,6 +142,13 @@
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
   status: CFP is Open until December 16, 2022
+
+- name: Nordic Testing Days (NTD) 2023
+  location: Tallinn, Estonia
+  dates: "June 7-9, 2023"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+  status: CFP is Closed
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
@@ -135,6 +170,13 @@
   url: https://www.lambdatest.com/testuconf-2022?utm_source=STC&utm_medium=organic&utm_content=testmu_2023
   twitter: lambdatesting
   status: CFP is Open
+
+- name: Testing United 2023
+  location: Bratislava, SK, VR and Miami, USA
+  dates: "September 4-5, 2023"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+  status: Registration is Open and 30% off until November 30, 2022
 
 - name: TestBash UK 2023
   location: Liverpool, United Kingdom
