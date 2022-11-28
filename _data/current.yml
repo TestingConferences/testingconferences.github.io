@@ -92,7 +92,7 @@
 - name: Selenium Conference 2023
   location: Chicago, IL, USA
   dates: "March 28-30, 2023"
-  url: https://seconf2023.wpengine.com/?utm_source=testingconferences
+  url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
 
 - name: InflectraCon 2023
@@ -107,14 +107,14 @@
   dates: "April 30-May 5, 2023"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
-  status: Registration will open soon
+  status: Registration will Open soon
 
 - name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA
   dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Registration will open soon
+  status: Registration will Open soon
 
 - name: German Testing Day 2023
   location: Frankfurt am Main, Germany
