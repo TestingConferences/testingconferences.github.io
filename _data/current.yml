@@ -64,9 +64,16 @@
 - name: "Testing, Agile, DevOps and Low code Showcase: Methods and Tools"
   location: Manchester, United Kingdom
   dates: "February 9, 2023"
-  url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/
+  url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open 
+  
+- name: "Testing, Agile, DevOps and Low code Showcase: Methods and Tools"
+  location: Bengaluru, India
+  dates: "February 23, 2023"
+  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/?utm_source=testingconferences
+  twitter: UNICOMLearning
+  status: Registration is Open
 
 - name: Worqference 2023
   location: Online
