@@ -1,17 +1,3 @@
-- name: OnlineTestConf 2022
-  location: Online
-  dates: "November 29, 2022"
-  url: https://www.onlinetestconf.com/?utm_source=testingconferences
-  twitter: OnlineTestConf
-  status: Registration is Open and Free
-  
-- name: ReTestBash
-  location: Online
-  dates: "December 1, 2022"
-  url: https://www.ministryoftesting.com/events/retestbash-uk-2022?utm_medium=web&utm_source=testingconferences
-  twitter: ministryoftest
-  status: Free for Pro Members and attendees of TestBash UK 2022. Tickets are also available.
-
 - name: System Testing and Validation (STV) Workshop 2022
   location: Guangzhou, China
   dates: "December 5-9, 2022"
@@ -108,6 +94,7 @@
   dates: "March 28-30, 2023"
   url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
+  status: Early Bird Registration is Open until December 16, 2022
 
 - name: InflectraCon 2023
   location: Washington, D.C. USA
