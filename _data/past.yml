@@ -1,3 +1,15 @@
+- name: ReTestBash
+  location: Online
+  dates: "December 1, 2022"
+  url: https://www.ministryoftesting.com/events/retestbash-uk-2022?utm_medium=web&utm_source=testingconferences
+  twitter: ministryoftest
+
+- name: OnlineTestConf 2022
+  location: Online
+  dates: "November 29, 2022"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
 - name: Agile Testing Days (ATD) 2022
   location: Potsdam, Germany and Online
   dates: "November 21-24, 2022"
