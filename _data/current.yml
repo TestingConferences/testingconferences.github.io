@@ -1,38 +1,3 @@
-- name: System Testing and Validation (STV) Workshop 2022
-  location: Guangzhou, China
-  dates: "December 5-9, 2022"
-  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
-
-- name: Software Quality, Reliability, and Security (QRS) 2022
-  location: Guangzhou, China
-  dates: "December 5-9, 2022"
-  url: https://qrs22.techconf.org/?utm_source=testingconferences
-
-- name: Workshop on Performance and Reliability (WOPR) 29
-  location: Montevideo, Uruguay
-  dates: "December 6-8, 2022"
-  url: http://www.performance-workshop.org/wopr29?utm_source=testingconferences
-  twitter: WOPR_Workshop
-
-- name: Quality Sense Conf 2022
-  location: Montevideo, Uruguay and Online
-  dates: "December 9, 2022"
-  url: https://qualitysenseconf.com?utm_source=testingconferences
-  status: Registration is Open and Free
- 
-- name: Agile Testing Alliance Global Testing Retreat 2022
-  location: Online
-  dates: "December 9-11, 2022"
-  url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
-  twitter: TestingRetreat
-  status: Registration is Open
-
-- name: SeaStar Quality Conference 2022
-  location: Dominican Republic
-  dates: "December 12-15, 2022"
-  url: https://quality.seastarconf.com/?utm_source=testingconferences
-  status: Registration is Open 
-
 - name: RoboCon 2023 Helsinki
   location: Helsinki, Finland
   dates: "January 17-20, 2023"
@@ -109,6 +74,12 @@
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
   status: Registration will Open soon
+
+- name: SeaStar Quality Conference 2022
+  location: Dominican Republic
+  dates: "May 7-11, 2023"
+  url: https://quality.seastarconf.com/?utm_source=testingconferences
+  status: Registration is Open 
 
 - name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA

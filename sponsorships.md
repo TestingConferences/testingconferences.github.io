@@ -22,10 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>December 2022</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>January 2023</td>
     <td>TestingUnited</td>
   </tr>
