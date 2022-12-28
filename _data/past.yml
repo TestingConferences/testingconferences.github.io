@@ -1,3 +1,30 @@
+- name: Agile Testing Alliance Global Testing Retreat 2022
+  location: Online
+  dates: "December 9-11, 2022"
+  url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
+  twitter: TestingRetreat
+
+- name: Quality Sense Conf 2022
+  location: Montevideo, Uruguay and Online
+  dates: "December 9, 2022"
+  url: https://qualitysenseconf.com?utm_source=testingconferences
+ 
+- name: Workshop on Performance and Reliability (WOPR) 29
+  location: Montevideo, Uruguay
+  dates: "December 6-8, 2022"
+  url: http://www.performance-workshop.org/wopr29?utm_source=testingconferences
+  twitter: WOPR_Workshop
+
+- name: System Testing and Validation (STV) Workshop 2022
+  location: Guangzhou, China
+  dates: "December 5-9, 2022"
+  url: https://www.fokus.fraunhofer.de/en/sqc/event/stv22?utm_source=testingconferences
+
+- name: Software Quality, Reliability, and Security (QRS) 2022
+  location: Guangzhou, China
+  dates: "December 5-9, 2022"
+  url: https://qrs22.techconf.org/?utm_source=testingconferences
+
 - name: ReTestBash
   location: Online
   dates: "December 1, 2022"
