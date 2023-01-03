@@ -8,9 +8,9 @@
 - name: Automation Guild Online Conference 2023
   location: Online
   dates: "February 6-10, 2023"
-  url: https://guildconferences.com/call-for-speakers/?utm_source=testingconferences
+  url: https://guildconferences.com/ag-2023/?utm_source=testingconferences
   twitter: testguilds
-  status: CFP is Open
+  status: Registration is Open
   
 - name: "Testing, Agile, DevOps and Low code Showcase: Methods and Tools"
   location: Manchester, United Kingdom
@@ -40,13 +40,6 @@
   twitter: robotframework
   status: Early Robot Registration is Open
 
-- name: QA & TEST Safety and Security 2023
-  location: TBA
-  dates: "March 2023"
-  url: https://www.qatest.org/?utm_source=testingconferences
-  twitter: QATestBilbao
-  status: Announced
-
 - name: TestBash Spring
   location: Online
   dates: "March 23, 2023"
@@ -67,6 +60,13 @@
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
   status: Early Bird Registration is Open until January 31, 2023 
+
+- name: QA & TEST Safety and Security 2023
+  location: TBA
+  dates: "April 26-27, 2023"
+  url: https://safety.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: <a href="https://safety.qatest.org/convocatoria-safsec/" target="_blank">CFP is Open</a> until January 15, 2023
 
 - name: STAREAST 2023
   location: Orlando, FL, USA and Online
@@ -105,9 +105,9 @@
 - name: QA or the Highway
   location: Columbus, OH, USA
   dates: "May 30, 2023"
-  url: https://www.qaorthehwy.com/
+  url: https://www.qaorthehwy.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: CFP is Open & Early Bird Registration open soon
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform" target="_blank">CFP is Open</a> & Early Bird Registration open soon
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
@@ -120,14 +120,12 @@
   dates: "June 6-8, 2023"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
-  status: CFP is Open until December 16, 2022
 
 - name: Nordic Testing Days (NTD) 2023
   location: Tallinn, Estonia
   dates: "June 7-9, 2023"
   url: http://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
-  status: CFP is Closed
 
 - name: Agile Testing Days (ATD) Open Air Festival
   location: Cologne, Germany
@@ -155,7 +153,7 @@
   dates: "September 4-5, 2023"
   url: https://www.testingunited.com/?utm_source=testingconferences
   twitter: testing_united
-  status: Registration is Open and 30% off until November 30, 2022
+  status: Registration is Open
 
 - name: TestBash UK 2023
   location: Liverpool, United Kingdom
@@ -170,6 +168,13 @@
   url: https://www.qachallengeaccepted.com/?utm_medium=web&utm_source=testingconferences
   twitter: qachallenge
   status: Announced
+
+- name: QA & TEST Embedded 2023
+  location: Bilbao, Spain
+  dates: "October 18-20, 2023"
+  url: https://embedded.qatest.org/?utm_source=testingconferences
+  twitter: QATestBilbao
+  status: <a href="https://embedded.qatest.org/call-for-papers/" target="_blank">CFP is Open</a> until March 19, 2023
 
 - name: Agile Testing Days (ATD) 2023
   location: Potsdam, Germany
