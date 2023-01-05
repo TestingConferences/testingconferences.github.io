@@ -11,6 +11,13 @@
   url: https://guildconferences.com/ag-2023/?utm_source=testingconferences
   twitter: testguilds
   status: Registration is Open
+
+- name: PNSQC 2023 Quality Jam
+  location: Portland, Oregon, USA and Online
+  dates: "February 8, 2023"
+  url: https://viethconsulting.com/Calendar/moreinfo.php?eventid=75399 
+  twitter: PNSQC
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1221679" target="_blank">CFP is Open until February 4, 2023</a>
   
 - name: "Testing, Agile, DevOps and Low code Showcase: Methods and Tools"
   location: Manchester, United Kingdom
@@ -164,9 +171,16 @@
 
 - name: "QA: Challenge Accepted 2023"
   location: Sofia, Bulgaria
-  dates: "October 1st, 2023"
+  dates: "October 1, 2023"
   url: https://www.qachallengeaccepted.com/?utm_medium=web&utm_source=testingconferences
   twitter: qachallenge
+  status: Announced
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2023
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2023"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
   status: Announced
 
 - name: QA & TEST Embedded 2023
