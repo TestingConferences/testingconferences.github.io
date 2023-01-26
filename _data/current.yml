@@ -121,6 +121,7 @@
   dates: "June 6-8, 2023"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
+  status: Announced 
 
 - name: Nordic Testing Days (NTD) 2023
   location: Tallinn, Estonia
@@ -133,7 +134,7 @@
   dates: "June 13-15, 2023"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Super Early Bird Registration is Open until December 31, 2022
+  status: Early Bird Registration is Open until April 30, 2023
 
 - name: EuroSTAR 2023 Software Testing Conference
   location: Antwerp, Belgium
@@ -142,12 +143,19 @@
   twitter: esconfs
   status: Early Bird Registration is Open
 
+- name: Appium Conference 2023
+  location: Bangalore, India
+  dates: "June 22-24, 2023"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+  status: <a href="https://confengine.com/conferences/appium-conf-2023" target="_blank">CFP is Open</a> until March 19, 2023
+
 - name: Testμ Conference 2023
   location: Online
   dates: "August 23-25, 2023"
   url: https://www.lambdatest.com/testuconf-2022?utm_source=STC&utm_medium=organic&utm_content=testmu_2023
   twitter: lambdatesting
-  status: CFP is Open
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXtExU7iWAune2w8x3TXORsHB8L6vFWCBRzJ_mPdejwMJkrQ/viewform?usp=send_form" target="_blank">CFP is Open</a>
 
 - name: Testing United 2023
   location: Bratislava, SK, VR and Miami, USA
@@ -169,6 +177,13 @@
   url: https://www.qachallengeaccepted.com/?utm_medium=web&utm_source=testingconferences
   twitter: qachallenge
   status: Announced
+
+- name: STARWEST 2023
+  location: Anaheim, CA, USA and Online
+  dates: "October 1-6, 2023"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+  status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 12, 2023
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2023
   location: Portland, Oregon, USA
