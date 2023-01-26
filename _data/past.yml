@@ -1,3 +1,9 @@
+- name: RoboCon 2023 Helsinki
+  location: Helsinki, Finland
+  dates: "January 17-20, 2023"
+  url: https://robocon.io/?utm_source=testingconferences
+  twitter: robotframework
+
 - name: Agile Testing Alliance Global Testing Retreat 2022
   location: Online
   dates: "December 9-11, 2022"

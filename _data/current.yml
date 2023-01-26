@@ -1,10 +1,3 @@
-- name: RoboCon 2023 Helsinki
-  location: Helsinki, Finland
-  dates: "January 17-20, 2023"
-  url: https://robocon.io/?utm_source=testingconferences
-  twitter: robotframework
-  status: Early Robot Registration is Open
-
 - name: Automation Guild Online Conference 2023
   location: Online
   dates: "February 6-10, 2023"
@@ -38,21 +31,21 @@
   dates: "February 24-26, 2023"
   url: https://www.thetesttribe.com/worqference/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: Registration is Open and 50% off
+  status: Early Bird Registration is Open
 
 - name: RoboCon 2023 Online
   location: Online
   dates: "February 27-March 3,2023"
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
-  status: Early Robot Registration is Open
+  status: Registration is Open
 
 - name: TestBash Spring
   location: Online
   dates: "March 23, 2023"
   url: https://www.ministryoftesting.com/events/testbash-spring-2023?utm_medium=web&utm_source=testingconferences
   twitter: ministryoftest
-  status: <a href="https://www.ministryoftesting.com/events/testbash-spring-2023/proposal/submit?utm_medium=web&utm_source=testingconferences">Call For Papers open</a>, <a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Free for Pro Members</a>
+  status: <a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Free for Pro Members</a>
 
 - name: Selenium Conference 2023
   location: Chicago, IL, USA
@@ -69,11 +62,11 @@
   status: Early Bird Registration is Open until January 31, 2023 
 
 - name: QA & TEST Safety and Security 2023
-  location: TBA
+  location: Madrid, Spain
   dates: "April 26-27, 2023"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: <a href="https://safety.qatest.org/convocatoria-safsec/" target="_blank">CFP is Open</a> until January 15, 2023
+  status: <a href="https://safety.qatest.org/convocatoria-safsec/" target="_blank">CFP is Open</a> until January 29, 2023. Registration is Open
 
 - name: STAREAST 2023
   location: Orlando, FL, USA and Online
@@ -86,28 +79,29 @@
   location: Dominican Republic
   dates: "May 7-11, 2023"
   url: https://quality.seastarconf.com/?utm_source=testingconferences
-  status: Registration is Open 
+  twitter: QA_nna
+  status: Registration is Open
 
 - name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA
   dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Registration will Open soon
+  status: Super Early Bird Registration is Open until February 28, 2023
 
 - name: German Testing Day 2023
   location: Frankfurt am Main, Germany
   dates: "May 23-24, 2023"
   url: https://www.germantestingday.info/german-testing-day-2022/?utm_source=testingconferences
   twitter: GermanTesting
-  status: Program to be released in January 2023
+  status: Registration is Open
 
 - name: Test Automation Days 2023
   location: Utrecht, NL
   dates: "May 24-25, 2023"
   url: https://www.testautomationdays.com/?utm_source=testingconferences
   twitter: testautomationd
-  status: Early Bird Registration is open until February 1, 2023
+  status: Early Bird Registration is Open until February 1, 2023
   
 - name: QA or the Highway
   location: Columbus, OH, USA
