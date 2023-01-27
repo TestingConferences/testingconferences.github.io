@@ -87,7 +87,7 @@
   dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Super Early Bird Registration is Open until February 28, 2023
+  status: Super Early Bird Registration is Open until February 28, 2023. 
 
 - name: German Testing Day 2023
   location: Frankfurt am Main, Germany
@@ -199,9 +199,16 @@
   twitter: QATestBilbao
   status: <a href="https://embedded.qatest.org/call-for-papers/" target="_blank">CFP is Open</a> until March 19, 2023
 
+- name: CAST 2023
+  location: TBD
+  dates: "November, 2023"
+  url: https://associationforsoftwaretesting.org/conference/
+  twitter: AST_News
+  status: Announced
+
 - name: Agile Testing Days (ATD) 2023
   location: Potsdam, Germany
   dates: "November 13-16, 2023"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: Announced
+  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP opens in Februray 2023 and will be open until March 19th, 2023.</a>
