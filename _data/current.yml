@@ -115,7 +115,7 @@
   dates: "May 30-June 1, 2023"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://www.expoqa.com/en-c4p.html" target="_blank">CFP is Open until February 12, 2023</a>
+  status: <a href="https://www.expoqa.com/en-c4p.html?utm_source=testingconferences" target="_blank">CFP is Open until February 12, 2023</a>
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
