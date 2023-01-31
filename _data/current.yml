@@ -110,6 +110,13 @@
   twitter: QAortheHighway
   status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform" target="_blank">CFP is Open</a> until Feb 28, 2023 & <a href="https://www.qaorthehwy.com/tickets" target="_blank">Early Bird registration is open</a>
 
+- name: expo:QA 23
+  location: Madrid, Spain
+  dates: "May 30-June 1, 2023"
+  url: http://www.expoqa.com/?utm_source=testingconferences
+  twitter: expoqa
+  status: <a href="https://www.expoqa.com/en-c4p.html" target="_blank">CFP is Open until February 12, 2023</a>
+
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
