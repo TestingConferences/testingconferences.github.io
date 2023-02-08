@@ -39,7 +39,14 @@
   url: https://robocon.io/?utm_source=testingconferences
   twitter: robotframework
   status: Registration is Open
-
+  
+- name: Test Automation University Conference
+  location: Online
+  dates: "March 8-9,2023"
+  url: https://applitools.com/tau-conference-march-2023/?utm_source=other&utm_medium=web-referral&utm_content=test-automation-u&utm_term=230308-softwaretestconf-free&utm_campaign=230308-tau-conference
+  twitter: TestAutomationU
+  status: Registration is Open and Free. 
+  
 - name: TestBash Spring
   location: Online
   dates: "March 23, 2023"
