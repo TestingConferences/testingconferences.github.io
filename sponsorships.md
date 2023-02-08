@@ -49,6 +49,31 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>July 2023</td>
     <td>Open</td>
   </tr>
+  </tr>
+    <tr>
+    <td>August 2023</td>
+    <td>Open</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>September 2023</td>
+    <td>Open</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>October 2023</td>
+    <td>CAST 2023</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>November 2023</td>
+    <td>CAST 2023</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>December 2023</td>
+    <td>CAST 2023</td>
+  </tr>
 </table>
 
 

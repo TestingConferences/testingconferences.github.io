@@ -178,6 +178,13 @@
   twitter: testing_united
   status: Registration is Open
 
+- name: SEETEST 2023
+  location:  Bucharest, Romania and Online
+  dates: "September 18-20, 2023"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Super Early Bird Registration is Open until February 28, 2023. <a href="https://seetest.org/?utm_source=testingconferences" target="_blank">CFP will Open</a> on March 1
+
 - name: TestBash UK 2023
   location: Liverpool, United Kingdom
   dates: "September 20-21, 2023"

@@ -9,4 +9,3 @@ services:
     restart: unless-stopped
     volumes:
       - ./:/srv/jekyll
-
