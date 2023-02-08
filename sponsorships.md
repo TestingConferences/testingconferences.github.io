@@ -67,12 +67,12 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
     <tr>
     <td>November 2023</td>
-    <td>CAST 2023</td>
+    <td>Open</td>
   </tr>
   </tr>
     <tr>
     <td>December 2023</td>
-    <td>CAST 2023</td>
+    <td>Open</td>
   </tr>
 </table>
 
