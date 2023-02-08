@@ -45,7 +45,7 @@
   dates: "March 8-9,2023"
   url: https://applitools.com/tau-conference-march-2023/?utm_source=other&utm_medium=web-referral&utm_content=test-automation-u&utm_term=230308-softwaretestconf-free&utm_campaign=230308-tau-conference
   twitter: TestAutomationU
-  status: Registration is Open and Free. 
+  status: Registration is Open and Free
   
 - name: TestBash Spring
   location: Online
@@ -66,14 +66,14 @@
   dates: "April 19-21, 2023"
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
-  status: Early Bird Registration is Open until January 31, 2023 
+  status: Registration is Open. Some tickets are on sale until February 28, 2023
 
 - name: QA & TEST Safety and Security 2023
   location: Madrid, Spain
   dates: "April 26-27, 2023"
   url: https://safety.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: <a href="https://safety.qatest.org/convocatoria-safsec/" target="_blank">CFP is Open</a> until January 29, 2023. Registration is Open
+  status: Registration is Open
 
 - name: STAREAST 2023
   location: Orlando, FL, USA and Online
@@ -108,7 +108,7 @@
   dates: "May 24-25, 2023"
   url: https://www.testautomationdays.com/?utm_source=testingconferences
   twitter: testautomationd
-  status: Early Bird Registration is Open until February 1, 2023
+  status: Registration is Open
   
 - name: QA or the Highway
   location: Columbus, OH, USA
