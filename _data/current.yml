@@ -10,7 +10,7 @@
   dates: "February 8, 2023"
   url: https://viethconsulting.com/Calendar/moreinfo.php?eventid=75399 
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1221679" target="_blank">CFP is Open until February 4, 2023</a>
+  status: Registration is Open and Free
   
 - name: "Testing, Agile, DevOps and Low code Showcase: Methods and Tools"
   location: Manchester, United Kingdom
@@ -155,7 +155,7 @@
   dates: "June 13-16, 2023"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open
+  status: Early Bird Registration is Open until April 15, 2023
 
 - name: Appium Conference 2023
   location: Bangalore, India
@@ -209,7 +209,7 @@
 - name: WeTest.Athens 2023
   location: Athens, Greece, Europe
   dates: "October 5-6, 2023"
-  url: https://wetest-athens.gr/
+  url: https://wetest-athens.gr/?utm_source=testingconferences
   status: Announced
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2023
