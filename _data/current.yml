@@ -240,6 +240,13 @@
   twitter: AST_News
   status: Announced
 
+- name: SANAE BEER.EX 2023
+  location: Bratislava, Slovakia
+  dates: "November 8-9, 2023"
+  url: https://sanae.beer?utm_source=testingconferences
+  twitter: sanae_beer
+  status: CFP is open
+
 - name: Agile Testing Days (ATD) 2023
   location: Potsdam, Germany
   dates: "November 13-16, 2023"
