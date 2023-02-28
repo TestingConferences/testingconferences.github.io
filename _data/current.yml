@@ -33,6 +33,12 @@
   twitter: InflectraCon
   status: Registration is Open. Some tickets are on sale until February 28, 2023
 
+- name: TestingStage 2023
+  location: Online
+  dates: "April 21, 2023"
+  url: https://testingstage.com/?utm_source=testingconferences
+  status: Registration is Open and Free
+
 - name: QA & TEST Safety and Security 2023
   location: Madrid, Spain
   dates: "April 26-27, 2023"
@@ -47,7 +53,7 @@
   twitter: TechWell
   status: Super Early Bird Registration is Open until March 3, 2023
 
-- name: SeaStar Quality Conference 2022
+- name: SeaStar Quality Conference 2023
   location: Dominican Republic
   dates: "May 7-11, 2023"
   url: https://quality.seastarconf.com/?utm_source=testingconferences
@@ -80,7 +86,7 @@
   dates: "May 30, 2023"
   url: https://www.qaorthehwy.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform" target="_blank">CFP is Open</a> until Feb 28, 2023 & <a href="https://www.qaorthehwy.com/tickets" target="_blank">Early Bird Registration is open</a>
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform" target="_blank">CFP is Open</a> until Feb 28, 2023 & <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is open</a>
 
 - name: expo:QA 23
   location: Madrid, Spain
