@@ -193,6 +193,13 @@
   twitter: hustef
   status: <a href="https://hustef.hu/cfp2023/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 24, 2023
   
+- name: TestIstanbul 2023
+  location: Online
+  dates: "October 5-6, 2023"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul
+  status: Super Early Registration is open until May 31, 2023
+  
 - name: WeTest.Athens 2023
   location: Athens, Greece, Europe
   dates: "October 6, 2023"
