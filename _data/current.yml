@@ -79,6 +79,13 @@
   url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2023?utm_source=testingconferences
   status: Registration is Open and Free
 
+- name: Live2Test 2023
+  location: Online
+  dates: "May 24-25, 2023"
+  url: https://live2test.com/?utm_source=testingconferences
+  twitter: TesterYouHQ
+  status: Early Bird Registration is Open until April 31, 2023
+
 - name: Test Automation Days 2023
   location: Utrecht, NL
   dates: "May 24-25, 2023"
