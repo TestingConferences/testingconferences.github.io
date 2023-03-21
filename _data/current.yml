@@ -23,7 +23,7 @@
   dates: "April 19-21, 2023"
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
-  status: Registration is Open
+  status: Registration is Open. Tickets $75 off until April 3, 2023
 
 - name: TestingStage 2023
   location: Online
@@ -43,41 +43,34 @@
   dates: "April 30-May 5, 2023"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Registration is Open until March 3, 2023
-
-- name: SeaStar Quality Conference 2023
-  location: Dominican Republic
-  dates: "October 15-19, 2023"
-  url: https://quality.seastarconf.com/?utm_source=testingconferences
-  twitter: QA_nna
-  status: Early Bird Registration is Open until March 7, 2023
+  status: Early Bird Registration is Open until March 31, 2023
 
 - name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA
   dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Super Early Bird Registration is Open until February 28, 2023
+  status: Early Bird Registration is Open until May 1, 2023
 
 - name: German Testing Day 2023
   location: Frankfurt am Main, Germany
   dates: "May 23-24, 2023"
   url: https://www.germantestingday.info/german-testing-day-2023/?utm_source=testingconferences
   twitter: GermanTesting
-  status: Early Bird Registration is Open until April 28, 2023
+  status: Registration is Open
+
+- name: Live2Test 2023
+  location: Online
+  dates: "May 23-24, 2023"
+  url: https://live2test.com/?utm_source=testingconferences
+  twitter: TesterYouHQ
+  status: Super Early Bird Registration is Open until March 31, 2023
 
 - name: The QA Financial Forum New York 
   location: New York, NY, USA
   dates: "May 24, 2023"
   url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2023?utm_source=testingconferences
   status: Registration is Open and Free
-
-- name: Live2Test 2023
-  location: Online
-  dates: "May 24-25, 2023"
-  url: https://live2test.com/?utm_source=testingconferences
-  twitter: TesterYouHQ
-  status: Early Bird Registration is Open until April 31, 2023
 
 - name: Test Automation Days 2023
   location: Utrecht, NL
@@ -98,14 +91,14 @@
   dates: "May 30, 2023"
   url: https://www.qaorthehwy.com/?utm_source=testingconferences
   twitter: QAortheHighway
-  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform" target="_blank">CFP is Open</a> until Feb 28, 2023 & <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is open</a>
+  status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open Until March 31, 2023</a>
 
 - name: expo:QA 23
   location: Madrid, Spain
   dates: "May 30-June 1, 2023"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: Registration is Opening Soon
+  status: Early Bird Registration is Open until April 14, 2023
 
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
@@ -176,6 +169,13 @@
   url: https://www.testingunited.com/?utm_source=testingconferences
   twitter: testing_united
   status: Registration is Open
+
+- name: Hands on Testing 2023
+  location: Guadalajara, Mexico and Online
+  dates: "September 6-9, 2023"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+  status:  <a href="https://sessionize.com/hands-on-testing-2023" target="_blank">CFP is Open Until April 30, 2023</a>
 
 - name: Targeting Quality 2023
   location:  Cambridge, Ontario, Canada
@@ -252,6 +252,12 @@
   url: https://qualitycon.tech/?utm_source=testingconferences
   status: <a href="https://qualitycon.tech/#pricing/?utm_source=testingconferences" target="_blank">Super Early Bird registration is open until May 10, 2023</a>, <a href="https://forms.gle/oqbMzPDMHRcpsrMj7/?utm_source=testingconferences" target="_blank">CFP is Open until April 20, 2023</a>
 
+- name: SeaStar Quality Conference 2023
+  location: Dominican Republic
+  dates: "October 15-19, 2023"
+  url: https://quality.seastarconf.com/?utm_source=testingconferences
+  twitter: QA_nna
+  status: Early Bird Registration is Open until May 7, 2023
 
 - name: QA & TEST Embedded 2023
   location: Bilbao, Spain
