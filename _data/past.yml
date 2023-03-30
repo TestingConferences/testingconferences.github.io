@@ -1,3 +1,15 @@
+- name: Selenium Conference 2023
+  location: Chicago, IL, USA
+  dates: "March 28-30, 2023"
+  url: https://seleniumconf.com/?utm_source=testingconferences
+  twitter: seleniumconf
+
+- name: TestBash Spring
+  location: Online
+  dates: "March 23, 2023"
+  url: https://www.ministryoftesting.com/events/testbash-spring-2023?utm_medium=web&utm_source=testingconferences
+  twitter: ministryoftest
+
 - name: RoboCon 2023 Online
   location: Online
   dates: "February 27-March 3,2023"
