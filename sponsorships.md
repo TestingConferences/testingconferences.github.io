@@ -22,14 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>March 2023</td>
-    <td>EuroSTAR 2023</td>
-  </tr>
-  <tr>
-    <td>April 2023</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>May 2023</td>
     <td>EuroSTAR 2023</td>
   </tr>
