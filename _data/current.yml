@@ -136,6 +136,13 @@
   twitter: appium_conf
   status: <a href="https://confengine.com/conferences/appium-conf-2023" target="_blank">CFP is Open</a> until March 19, 2023
   
+  name: TribeQonf - 1 Conference For All Things Testing 						
+  location: Radisson Blu Hotel, Bangalore, India
+  dates: "July 14-15, 2023"
+  url: https://www.thetesttribe.com/tribeqonf/
+  twitter: the_test_tribe
+  status: Registration is Open
+  
 - name: "Agile, DevOps and Testing Showcase: Methods and Tools"
   location: Pune, India
   dates: "August 3, 2023"
