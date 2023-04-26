@@ -1,3 +1,14 @@
+- name: TestingStage 2023
+  location: Online
+  dates: "April 21, 2023"
+  url: https://testingstage.com/?utm_source=testingconferences
+
+- name: InflectraCon 2023
+  location: Washington, D.C. USA
+  dates: "April 19-21, 2023"
+  url: https://www.inflectracon.com/?utm_source=testingconferences
+  twitter: InflectraCon
+
 - name: The QA Financial Forum Chicago 
   location: Chicago, IL, USA
   dates: "April 4, 2023"
