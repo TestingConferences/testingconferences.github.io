@@ -281,10 +281,10 @@
   twitter: AgileTD
   status: Super Early Bird Registration is Open until May 14, 2023.
 
-name: UCAAT 2023
+- name: UCAAT 2023
   location: Timisoara, Romania
   dates: "November 14-16, 2023"
-  url: https://www.etsi.org/ucaat
+  url: https://www.etsi.org/ucaat?utm_source=testingconferences
   twitter: ETSI_STANDARDS
   status: CFP open until May 8, 2023
   
