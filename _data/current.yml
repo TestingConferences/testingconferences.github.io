@@ -8,7 +8,7 @@
   name: QonfX - Embracing the Future of Testing (Free Online Software Testing Conference)
   location: Online
   dates: "April 29, 2023"
-  url: https://www.thetesttribe.com/qonfx-2023/
+  url: https://www.thetesttribe.com/qonfx-2023/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open & Free
 
@@ -17,7 +17,7 @@
   dates: "April 30-May 5, 2023"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
-  status: Bird Registration is Open
+  status: Registration is Open
 
 - name: National Software Testing Conference 2023
   location: London, UK
@@ -92,7 +92,7 @@
   dates: "June 6-8, 2023"
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
-  status: Early Bird Registration is Open 
+  status: Registration is Open 
 
 - name: Nordic Testing Days (NTD) 2023
   location: Tallinn, Estonia
@@ -118,7 +118,7 @@
 - name: TestExpo and Agile, DevOps & Low Code Expo 							
   location: Bangalore, India
   dates: "June 22, 2023"
-  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-june-india-2023/
+  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-june-india-2023/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
 
@@ -166,16 +166,16 @@
 - name: Targeting Quality 2023
   location:  Cambridge, Ontario, Canada
   dates: "September 18-19, 2023"
-  url: https://targetingquality.ca/?utm_source=testingconferences
+  url: https://kwsqa.org/tq2023/?utm_source=testingconferences
   twitter: KWSQA
-  status: <a href="https://kwsqa.org/tq2023/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 16. <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration</a> is Open until March 31, 2023
+  status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until May 31, 2023.
 
 - name: SEETEST 2023
   location:  Bucharest, Romania and Online
   dates: "September 18-20, 2023"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: <a href="https://seetest.org/?utm_source=testingconferences" target="_blank">CFP is Open until April 15, 2023</a>. Early Bird Registration is Open until July 15, 2023.
+  status: Early Bird Registration is Open until July 15, 2023
 
 - name: IFIP-ICTSS 2023 (International Conference on Testing Software and Systems)
   location:  Bergamo, Italy
@@ -203,14 +203,14 @@
   dates: "October 1-6, 2023"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
-  status: Registration will be Open Soon
+  status: Super Early Bird Registration is Open until August 4, 2023
   
 - name: HUSTEF 2023
   location: Budapest, Hungary
   dates: "October 3-5, 2023"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: hustef
-  status: <a href="https://hustef.hu/cfp2023/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 24, 2023
+  status: Registration will Open Soon
   
 - name: TestIstanbul 2023
   location: Online
@@ -230,20 +230,21 @@
   dates: "October 9-11, 2023"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1253451?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 16, 2023
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1253451?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 30, 2023
 
 - name: ParisTestConf
   location: Paris, France
   dates: "October 10, 2023"
   url: https://paristestconf.com/call-for-papers-2023/?utm_source=testingconferences
   twitter: paristestconf
-  status: <a href="https://sessionize.com/paristestconf-2023/?utm_source=testingconferences" target="_blank">CFP</a> & <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Early Bird registrations</a> are open until May 31, 2023
+  status: <a href="https://sessionize.com/paristestconf-2023/?utm_source=testingconferences" target="_blank">CFP</a> & <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Early Bird Registrations</a> are open until May 31, 2023
 
 - name: QualityCon 2023
   location: Online
   dates: "October 10, 2023"
   url: https://qualitycon.tech/?utm_source=testingconferences
-  status: <a href="https://qualitycon.tech/#pricing/?utm_source=testingconferences" target="_blank">Super Early Bird registration is open until May 10, 2023</a>, <a href="https://forms.gle/oqbMzPDMHRcpsrMj7/?utm_source=testingconferences" target="_blank">CFP is Open until April 20, 2023</a>
+  twitter: qualitycon_tech
+  status: <a href="https://qualitycon.tech/#pricing/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is open until May 10, 2023</a>
 
 - name: SeaStar Quality Conference 2023
   location: Dominican Republic
@@ -257,28 +258,28 @@
   dates: "October 18-20, 2023"
   url: https://embedded.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
-  status: <a href="https://embedded.qatest.org/convocatoria/?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 19, 2023
+  status: <a href="https://embedded.qatest.org/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> until July 2023
 
 - name: CAST 2023
   location: Charlotte, North Carolina, USA
   dates: "November 6-7, 2023"
-  url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
+  url: https://associationforsoftwaretesting.org/conference/cast-2023/?utm_source=testingconferences
   twitter: AST_News
-  status: <a href="https://www.papercall.io/cast2023cfp" target="_blank">CFP is Open until April 30, 2023</a>
+  status: <a href="https://www.papercall.io/cast2023cfp" target="_blank">CFP is Open until April 30, 2023</a>. <a href="https://members.associationforsoftwaretesting.org/events/64383ed645991e000958da70/description?ticket=64383ed645991e000958da71" target="_blank">Blind Bird Registration is Open</a>. 
 
 - name: SANAE BEER.EX 2023
   location: Bratislava, Slovakia
   dates: "November 8-9, 2023"
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
-  status: CFP is Open
+  status: CFP is Open until April 30, 2023
 
 - name: Agile Testing Days (ATD) 2023
   location: Potsdam, Germany
   dates: "November 13-16, 2023"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open until March 19th, 2023</a>. Super Early Bird Registration is Open until May 14, 2023
+  status: Super Early Bird Registration is Open until May 14, 2023.
 
 - name: AutomationSTAR 2023
   location: Berlin, Germany
