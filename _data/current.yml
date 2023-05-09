@@ -1,10 +1,3 @@
-- name: STAREAST 2023
-  location: Orlando, FL, USA and Online
-  dates: "April 30-May 5, 2023"
-  url: https://stareast.techwell.com?utm_source=testingconferences
-  twitter: TechWell
-  status: Registration is Open
-
 - name: National Software Testing Conference 2023
   location: London, UK
   dates: "May 15-16, 2023"
@@ -79,6 +72,15 @@
   url: https://www.romaniatesting.ro?utm_source=testingconferences
   twitter: RomaniaTesting
   status: Registration is Open 
+  
+- name: Front-End Test Fest
+  location: Online
+  dates: "June 7, 2023"
+  url: http://front-endtestfest.com/8mf
+  twitter: applitools
+  twitter: Cypress_io
+  twitter: Netlify
+  status: Registration is Open and <a href="https://applitools.com/front-endtestfest-june-2023/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=230607-softwaretestconf-free&utm_campaign=2023-fetf" target="_blank">Free</a>
 
 - name: Nordic Testing Days (NTD) 2023
   location: Tallinn, Estonia
