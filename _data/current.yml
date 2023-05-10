@@ -9,7 +9,7 @@
   dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
   twitter: AgileTDUSA
-  status: Early Bird Registration is Open until May 1, 2023
+  status: Registration is Open
 
 - name: German Testing Day 2023
   location: Frankfurt am Main, Germany
@@ -23,7 +23,7 @@
   dates: "May 23-24, 2023"
   url: https://live2test.com/?utm_source=testingconferences
   twitter: TesterYouHQ
-  status: Early Bird Registration is Open until April 31, 2023
+  status: Registration is Open
 
 - name: The QA Financial Forum New York 
   location: New York, NY, USA
@@ -78,8 +78,6 @@
   dates: "June 7, 2023"
   url: http://front-endtestfest.com/8mf
   twitter: applitools
-  twitter: Cypress_io
-  twitter: Netlify
   status: Registration is Open and <a href="https://applitools.com/front-endtestfest-june-2023/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=230607-softwaretestconf-free&utm_campaign=2023-fetf" target="_blank">Free</a>
 
 - name: Nordic Testing Days (NTD) 2023
@@ -94,7 +92,7 @@
   dates: "June 13-15, 2023"
   url: https://openair.agiletestingdays.com?utm_source=testingconferences
   twitter: AgileTD
-  status: Early Bird Registration is Open until April 30, 2023
+  status: Registration is Open
 
 - name: EuroSTAR 2023 Software Testing Conference
   location: Antwerp, Belgium
@@ -115,6 +113,7 @@
   dates: "June 22-24, 2023"
   url: https://appiumconf.com/?utm_source=testingconferences
   twitter: appium_conf
+  status: Postponed to a future date
   
 - name: TribeQonf - 1 Conference For All Things Testing 						
   location: Bangalore, India
@@ -149,7 +148,6 @@
   dates: "September 6-9, 2023"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
-  status: <a href="https://sessionize.com/hands-on-testing-2023" target="_blank">CFP is Open Until April 30, 2023</a>
 
 - name: Targeting Quality 2023
   location:  Cambridge, Ontario, Canada
