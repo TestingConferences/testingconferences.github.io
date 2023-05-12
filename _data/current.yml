@@ -44,7 +44,13 @@
   url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/london-may/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
-  
+
+- name: QA Global Summit'23
+  location: Live
+  dates: "May 30-31, 2023"
+  url: https://events.geekle.us/qa23/
+  status: Registration is Open
+
 - name: QA or the Highway
   location: Columbus, OH, USA
   dates: "May 30, 2023"
@@ -114,6 +120,12 @@
   url: https://appiumconf.com/?utm_source=testingconferences
   twitter: appium_conf
   status: Postponed to a future date
+  
+- name: AI in QA and Testing Conference'23
+  location: Live
+  dates: "July 11, 2023"
+  url: https://events.geekle.us/aitesting/
+  status: Registration is Open
   
 - name: TribeQonf - 1 Conference For All Things Testing 						
   location: Bangalore, India
