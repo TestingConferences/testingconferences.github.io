@@ -106,7 +106,14 @@
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: Registration is Open
-  
+
+- name: BCS SIGiST Summer Conference 2023
+  location: London, UK
+  dates: "June 14, 2023"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2023/?utm_source=testingconferences
+  twitter: SIGiST
+  status: <a href="https://www.bcs.org/events-calendar/2023/june/hybrid-event-bcs-sigist-summer-2023-software-testing-conference/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: TestExpo and Agile, DevOps & Low Code Expo 							
   location: Bangalore, India
   dates: "June 22, 2023"
