@@ -1,9 +1,3 @@
-- name: National Software Testing Conference 2023
-  location: London, UK
-  dates: "May 15-16, 2023"
-  url: https://www.softwaretestingnews.co.uk/products/national-software-testing-conference/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA
   dates: "May 22-24, 2023"
@@ -263,6 +257,12 @@
   url: https://embedded.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
   status: <a href="https://embedded.qatest.org/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open Until July 31, 2023
+
+- name: LATAM Testing
+  location: Online
+  dates: "October 20, 2023"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  status: Registration is Open and Free
 
 - name: CAST 2023
   location: Charlotte, North Carolina, USA
