@@ -31,11 +31,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
     <tr>
     <td>July 2023</td>
-    <td>Open</td>
+    <td>Testμ 2023</td>
   </tr>
   <tr>
     <td>August 2023</td>
-    <td>Open</td>
+    <td>Testμ 2023</td>
   </tr>
   <tr>
     <td>September 2023</td>
