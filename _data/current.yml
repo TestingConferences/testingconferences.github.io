@@ -5,6 +5,7 @@
   twitter: QAortheHighway
   status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+
 - name: QA Global Summit'23
   location: Online
   dates: "May 30-31, 2023"
@@ -80,6 +81,12 @@
   url: https://appiumconf.com/?utm_source=testingconferences
   twitter: appium_conf
   status: Postponed to a future date
+  
+- name: TestBustersNight June 2023
+  location: Online
+  dates: "June 29, 2023"
+  url: https://www.linkedin.com/events/48th-testbustersnightbroughttoy7068528350381711360/
+  status: Registration is Open
   
 - name: AI in QA and Testing Conference'23
   location: Online
