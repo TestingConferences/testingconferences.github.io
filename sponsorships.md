@@ -39,7 +39,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>September 2023</td>
-    <td>Open</td>
+    <td>Test Tribe</td>
   </tr>
   <tr>
     <td>October 2023</td>
