@@ -1,3 +1,38 @@
+- name: "Testing, Agile, Devops & Low Code Showcase: Towards Better Customer Experience"
+  location: London, UK
+  dates: "May 25, 2023"
+  url: https://conference.unicomseminars.org/agile-devops-software-testing-conference/london-may/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: Test Automation Days 2023
+  location: Utrecht, NL
+  dates: "May 24-25, 2023"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+
+- name: The QA Financial Forum New York 
+  location: New York, NY, USA
+  dates: "May 24, 2023"
+  url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2023?utm_source=testingconferences
+
+- name: Live2Test 2023
+  location: Online
+  dates: "May 23-24, 2023"
+  url: https://live2test.com/?utm_source=testingconferences
+  twitter: TesterYouHQ
+
+- name: German Testing Day 2023
+  location: Frankfurt am Main, Germany
+  dates: "May 23-24, 2023"
+  url: https://www.germantestingday.info/german-testing-day-2023/?utm_source=testingconferences
+  twitter: GermanTesting
+
+- name: Agile Testing Days (ATD) USA 2023
+  location: Chicago, IL, USA
+  dates: "May 22-24, 2023"
+  url: https://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+
 - name: National Software Testing Conference 2023
   location: London, UK
   dates: "May 15-16, 2023"
