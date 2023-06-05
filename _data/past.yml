@@ -1,3 +1,20 @@
+- name: expo:QA 23
+  location: Madrid, Spain
+  dates: "May 30-June 1, 2023"
+  url: http://www.expoqa.com/?utm_source=testingconferences
+  twitter: expoqa
+
+- name: QA Global Summit'23
+  location: Online
+  dates: "May 30-31, 2023"
+  url: https://events.geekle.us/qa23/?utm_source=testingconferences
+
+- name: QA or the Highway
+  location: Columbus, OH, USA
+  dates: "May 30, 2023"
+  url: https://www.qaorthehwy.com/?utm_source=testingconferences
+  twitter: QAortheHighway
+
 - name: "Testing, Agile, Devops & Low Code Showcase: Towards Better Customer Experience"
   location: London, UK
   dates: "May 25, 2023"
