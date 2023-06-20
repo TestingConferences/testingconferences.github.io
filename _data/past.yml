@@ -1,3 +1,39 @@
+- name: BCS SIGiST Summer Conference 2023
+  location: London, UK
+  dates: "June 14, 2023"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2023/?utm_source=testingconferences
+  twitter: SIGiST
+
+- name: EuroSTAR 2023 Software Testing Conference
+  location: Antwerp, Belgium
+  dates: "June 13-16, 2023"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: Agile Testing Days (ATD) Open Air Festival
+  location: Cologne, Germany
+  dates: "June 13-15, 2023"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+
+- name: Nordic Testing Days (NTD) 2023
+  location: Tallinn, Estonia
+  dates: "June 7-9, 2023"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
+- name: Front-End Test Fest
+  location: Online
+  dates: "June 7, 2023"
+  url: http://front-endtestfest.com/8mf
+  twitter: applitools
+
+- name: Romania Testing Conference
+  location: Cluj-Napoca, Romania
+  dates: "June 6-8, 2023"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: RomaniaTesting
+
 - name: GreaTest Quality Convention
   location: Zürich, Switzerland
   dates: "June 2, 2023"
