@@ -43,7 +43,7 @@
   dates: "August 22-24, 2023"
   url: https://www.lambdatest.com/testmuconf-2023?utm_source=STC&utm_medium=organic&utm_content=testmu_2023
   twitter: lambdatesting
-  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXtExU7iWAune2w8x3TXORsHB8L6vFWCBRzJ_mPdejwMJkrQ/viewform?usp=send_form" target="_blank">CFP is Open until May 31, 2023</a>. Registration is Open and Free
+  status: Registration is Open and Free
 
 - name: Testing United 2023
   location: Bratislava, SK and VR
@@ -57,6 +57,7 @@
   dates: "September 6-9, 2023"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
+  status: Registration is Open
 
 - name: The QA Financial Forum London 2023
   location: London, UK
@@ -69,7 +70,7 @@
   dates: "September 18-19, 2023"
   url: https://kwsqa.org/tq2023/?utm_source=testingconferences
   twitter: KWSQA
-  status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until June 16, 2023.
+  status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until June 30, 2023.
 
 - name: SEETEST 2023
   location:  Bucharest, Romania and Online
@@ -83,14 +84,13 @@
   dates: "September 18-20, 2023"
   url: https://conf.researchr.org/home/ictss-2023
   twitter: ICTSSConf
-  status: <a href="https://conf.researchr.org/track/ictss-2023/ictss-2023#Call-for-Papers" target="_blank">CFP is Open until May 13, 2023</a>
   
 - name: TestBash UK 2023
   location: Liverpool, United Kingdom
   dates: "September 20-21, 2023"
   url: https://www.ministryoftesting.com/events/testbash-uk-2023?utm_medium=web&utm_source=testingconferences
   twitter: ministryoftest
-  status: <a href="https://www.ministryoftesting.com/events/testbash-uk-2023?utm_medium=web&utm_source=testingconferences">Super Early Bird Registration is Open until May 31, 2023</a>
+  status: <a href="https://www.ministryoftesting.com/events/testbash-uk-2023?utm_medium=web&utm_source=testingconferences">Early Bird Registration is Open until August 31, 2023</a>
 
 - name: TestFlix 2023
   location: Online
@@ -144,7 +144,7 @@
   dates: "October 10, 2023"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
-  status: <a href="https://sessionize.com/paristestconf-2023/?utm_source=testingconferences" target="_blank">CFP</a> & <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Early Bird Registrations</a> are open until May 31, 2023
+  status: <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is open until May 31, 2023
 
 - name: QualityCon 2023
   location: Online
