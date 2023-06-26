@@ -1,17 +1,3 @@
-- name: TestExpo and Agile, DevOps & Low Code Expo 							
-  location: Bangalore, India
-  dates: "June 22, 2023"
-  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-june-india-2023/?utm_source=testingconferences
-  twitter: UNICOMLearning
-  status: Registration is Open
-
-- name: Appium Conference 2023
-  location: Bangalore, India
-  dates: "June 22-24, 2023"
-  url: https://appiumconf.com/?utm_source=testingconferences
-  twitter: appium_conf
-  status: Postponed to a future date
-  
 - name: TestBustersNight June 2023
   location: Online
   dates: "June 29, 2023"

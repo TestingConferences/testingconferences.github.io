@@ -1,3 +1,15 @@
+- name: Appium Conference 2023
+  location: Bangalore, India
+  dates: "June 22-24, 2023"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+
+- name: TestExpo and Agile, DevOps & Low Code Expo 							
+  location: Bangalore, India
+  dates: "June 22, 2023"
+  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-june-india-2023/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
 - name: BCS SIGiST Summer Conference 2023
   location: London, UK
   dates: "June 14, 2023"
