@@ -24,6 +24,30 @@
   twitter: UNICOMLearning
   status: Registration is Open
 
+- name: "ICSTP 2023: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
+
+- name: "ICSTPQM 2023: Software Testing Process and Quality Management Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-process-and-quality-management-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
+
+- name: "ICSTS 2023: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
+
+- name: "ICSTTP 2023: Software Testing, Types and Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-types-and-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
+
 - name: Testμ Conference 2023
   location: Online
   dates: "August 22-24, 2023"
@@ -174,6 +198,12 @@
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
 
+- name: "ICSTM 2023: Software Testing and Methods Conference"
+  location: New York, NY, USA
+  dates: "October 9-10, 2023"
+  url: https://waset.org/software-testing-and-methods-conference-in-october-2023-in-new-york?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
+
 - name: ParisTestConf
   location: Paris, France
   dates: "October 10, 2023"
@@ -269,6 +299,12 @@
   url: https://associationforsoftwaretesting.org/conference/cast-2023/?utm_source=testingconferences
   twitter: AST_News
   status: <a href="https://members.associationforsoftwaretesting.org/events/64383ed645991e000958da70/description?ticket=64383ed645991e000958da71" target="_blank">Blind Bird Registration is Open</a> until June 1, 2023. 
+
+- name: "ICSTM 2023: Software Testing Methods Conference"
+  location: San Francisco, CA, USA
+  dates: "November 6-7, 2023"
+  url: https://waset.org/software-testing-methods-conference-in-november-2023-in-san-francisco?utm_source=testingconferences
+  status: CFP is Open until June 29, 2023
 
 - name: SANAE BEER.EX 2023
   location: Bratislava, Slovakia
