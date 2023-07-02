@@ -7,6 +7,6 @@ services:
       - 4000:4000  # jekyll ui
     command: sh -c "bundle install && jekyll serve"
     restart: unless-stopped
-    platform: linux/arm64
+    platform: linux/amd64
     volumes:
       - ./:/srv/jekyll
