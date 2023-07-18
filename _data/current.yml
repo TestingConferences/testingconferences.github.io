@@ -9,25 +9,21 @@
   location: Amsterdam, Netherlands
   dates: "August 3-4, 2023"
   url: https://waset.org/software-testing-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: "ICSTPQM 2023: Software Testing Process and Quality Management Conference"
   location: Amsterdam, Netherlands
   dates: "August 3-4, 2023"
   url: https://waset.org/software-testing-process-and-quality-management-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: "ICSTS 2023: Software Testing Strategies Conference"
   location: Amsterdam, Netherlands
   dates: "August 3-4, 2023"
   url: https://waset.org/software-testing-strategies-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: "ICSTTP 2023: Software Testing, Types and Process Conference"
   location: Amsterdam, Netherlands
   dates: "August 3-4, 2023"
   url: https://waset.org/software-testing-types-and-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: Testμ Conference 2023
   location: Online
@@ -82,14 +78,14 @@
   dates: "September 18-19, 2023"
   url: https://kwsqa.org/tq2023/?utm_source=testingconferences
   twitter: KWSQA
-  status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until June 30, 2023.
+  status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Bird Registration</a> is Open
 
 - name: SEETEST 2023
   location:  Bucharest, Romania and Online
   dates: "September 18-20, 2023"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Early Bird Registration is Open until July 15, 2023
+  status: Registration is Open
 
 - name: IFIP-ICTSS 2023 (International Conference on Testing Software and Systems)
   location:  Bergamo, Italy
@@ -121,9 +117,9 @@
 - name: TestFlix 2023
   location: Online
   dates: "September 23-24, 2023"
-  url: https://www.thetesttribe.com/testflix-2023-call-for-papers/?utm_source=testingconferences
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   twitter: the_test_tribe
-  status: <a href="https://www.thetesttribe.com/testflix-2023-call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open until June 24, 2023</a>
+  status: Registration is Open and Free
 
 - name: Test Automation & Digital QA Summit 2023
   location: Vancouver, BC, Canada
@@ -165,32 +161,32 @@
   dates: "October 5-6, 2023"
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul
-  status: Super Early Registration is open until May 31, 2023
+  status: Early Registration is open until July 31, 2023
   
 - name: WeTest.Athens 2023
   location: Athens, Greece, Europe
   dates: "October 6, 2023"
   url: https://wetest-athens.gr/?utm_source=testingconferences
-  status: Registration will be Open Soon
+  status: Registration is Open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2023
   location: Portland, Oregon, USA
   dates: "October 9-11, 2023"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
+  status: Early Bird Registration is Open until September 31, 2023
 
 - name: "ICSTM 2023: Software Testing and Methods Conference"
   location: New York, NY, USA
   dates: "October 9-10, 2023"
   url: https://waset.org/software-testing-and-methods-conference-in-october-2023-in-new-york?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: ParisTestConf
   location: Paris, France
   dates: "October 10, 2023"
   url: https://paristestconf.com/?utm_source=testingconferences
   twitter: paristestconf
-  status: <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Buy your tickets !</a>
+  status: <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: QualityCon 2023
   location: Online
@@ -211,7 +207,7 @@
   dates: "October 15-19, 2023"
   url: https://quality.seastarconf.com/?utm_source=testingconferences
   twitter: QA_nna
-  status: Early Bird Registration is Open until June 14, 2023
+  status: Early Bird Registration is Open
 
 - name: Test Automation & Digital QA Summit 2023
   location: Atlanta, GA, USA
@@ -239,7 +235,7 @@
   dates: "October 19, 2023"
   url: https://conference.unicomseminars.org/agile-devops-software-testing-expo/2023/?utm_source=testingconferences
   twitter: UNICOMLearning
-  status: Very Super Early Bird Registration is Open
+  status: Super Early Bird Registration is Open until July 31, 2023
 
 - name: The QA Financial E-Commerce and Retailing Forum New York 2023
   location: New York, NY, USA
@@ -285,7 +281,6 @@
   location: San Francisco, CA, USA
   dates: "November 6-7, 2023"
   url: https://waset.org/software-testing-methods-conference-in-november-2023-in-san-francisco?utm_source=testingconferences
-  status: CFP is Open until June 29, 2023
 
 - name: SANAE BEER.EX 2023
   location: Bratislava, Slovakia
@@ -297,9 +292,9 @@
 - name: OnlineTestConf (OTC) 2023
   location: Online
   dates: "November 13, 2023"
-  url: https://www.onlinetestconf.com/
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Call for Speakers is open until August 10, 2023
+  status: CFP is open until August 10, 2023
 
 - name: Agile Testing Days (ATD) 2023
   location: Potsdam, Germany
@@ -340,7 +335,7 @@
   dates: "November 21-22, 2023"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Programme Launch Offer for Registration is Open
+  status: Programme Launch Offer for Registration is Open until July 31, 2023
 
 - name: TestBash Autumn
   location: Online
