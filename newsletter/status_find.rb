@@ -1,11 +1,23 @@
 require 'yaml'
 
 yaml_data = File.read('../_data/current.yml')
-conferences = YAML.safe_load(yaml_data)
+events = YAML.safe_load(yaml_data)
 
-# Want to find / filter the list by certain statuses such as:
-# Early Bird
-# CFP or Call for Proposal
-# These will be partial matches
+print 'Enter the status: '
+input_status = gets.chomp.downcase
 
-#I should be prompted to enter in the search phrase
+filename = input_status + '_conferences.txt'
+
+filtered_events = events.select do |event|
+    status = event['status']
+    next false unless status.is_a?(String)
+
+    status = status.downcase
+    status.include?(input_status)
+end
+
+modified_yaml_data = YAML.dump(filtered_events)
+
+File.write(filename, modified_yaml_data)
+
+puts "Output saved to #{filename}"
