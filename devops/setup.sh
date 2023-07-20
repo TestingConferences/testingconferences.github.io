@@ -12,5 +12,4 @@ fi
 sleep 60
 
 echo "Loading page"
-
 open http://localhost:4000
