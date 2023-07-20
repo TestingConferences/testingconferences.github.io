@@ -1,10 +1,10 @@
-version: '2'                                                                                        
+version: "2"
 services:
   testingconferences:
-    image: jekyll/jekyll:3.8
+    image: jekyll/jekyll:3.8.6
     container_name: tcorg
     ports:
-      - 4000:4000  # jekyll ui
+      - 4000:4000 # jekyll ui
     command: sh -c "bundle install && jekyll serve"
     restart: unless-stopped
     platform: linux/amd64
