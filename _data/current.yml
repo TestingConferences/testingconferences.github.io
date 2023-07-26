@@ -25,6 +25,13 @@
   dates: "August 3-4, 2023"
   url: https://waset.org/software-testing-types-and-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
 
+- name: Breakpoint 2023
+  location: Online
+  dates: "August 8-9, 2023"
+  url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
+  twitter: browserstack
+  status: Registration is Open and Free
+
 - name: Testμ Conference 2023
   location: Online
   dates: "August 22-24, 2023"
@@ -243,10 +250,11 @@
   url: https://www.qa-financial.com/events/qa-financial-e-commerce-and-retailing-forum-new-york-2023-97?utm_source=testingconferences
   status: Registration is Open and Free
 
-- name: LATAM Testing
+- name: Testing Stage LATAM
   location: Online
   dates: "October 20, 2023"
   url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
   status: Registration is Open and Free
 
 - name: Test Automation & Digital QA Summit 2023
