@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'activesupport', '~> 6.1', '>= 6.1.7.4'
-gem 'commonmarker', '~> 0.23.9'
+gem 'commonmarker', '~> 0.23.10'
 gem 'github-pages', '>= 228', group: :jekyll_plugins
 gem 'html-proofer', '~> 3.19.4'
 gem "jekyll", ">= 3.9.0"
