@@ -14,7 +14,7 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (0.23.9)
+    commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
@@ -274,7 +274,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (~> 6.1, >= 6.1.7.4)
-  commonmarker (~> 0.23.9)
+  commonmarker (~> 0.23.10)
   github-pages (>= 228)
   html-proofer (~> 3.19.4)
   jekyll (>= 3.9.0)
