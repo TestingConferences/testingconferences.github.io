@@ -47,21 +47,21 @@
   status: Registration is Open
 
 - name: Targeting Quality 2023
-  location:  Cambridge, Ontario, Canada
+  location: Cambridge, Ontario, Canada
   dates: "September 18-19, 2023"
   url: https://kwsqa.org/tq2023/?utm_source=testingconferences
   twitter: KWSQA
   status: <a href="https://kwsqa.org/tq2023/registration/?utm_source=testingconferences" target="_blank">Bird Registration</a> is Open
 
 - name: SEETEST 2023
-  location:  Bucharest, Romania and Online
+  location: Bucharest, Romania and Online
   dates: "September 18-20, 2023"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
   status: Registration is Open
 
 - name: IFIP-ICTSS 2023 (International Conference on Testing Software and Systems)
-  location:  Bergamo, Italy
+  location: Bergamo, Italy
   dates: "September 18-20, 2023"
   url: https://conf.researchr.org/home/ictss-2023
   twitter: ICTSSConf
@@ -127,21 +127,21 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: techwell
   status: Super Early Bird Registration is Open until August 4, 2023
-  
+
 - name: HUSTEF 2023
   location: Budapest, Hungary
   dates: "October 3-5, 2023"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: hustef
   status: <a href="https://hustef.hu/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
-  
+
 - name: TestIstanbul 2023
   location: Online
   dates: "October 5-6, 2023"
   url: https://testistanbul.org/?utm_source=testingconferences
   twitter: testistanbul
   status: Early Registration is open until July 31, 2023
-  
+
 - name: WeTest.Athens 2023
   location: Athens, Greece, Europe
   dates: "October 6, 2023"
@@ -209,7 +209,7 @@
   twitter: QATestBilbao
   status: <a href="https://embedded.qatest.org/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open Until July 31, 2023
 
-- name: TestExpo and Agile, DevOps & Low Code Expo 							
+- name: TestExpo and Agile, DevOps & Low Code Expo
   location: London, UK and Online
   dates: "October 19, 2023"
   url: https://conference.unicomseminars.org/agile-devops-software-testing-expo/2023/?utm_source=testingconferences
@@ -255,7 +255,7 @@
   dates: "November 6-7, 2023"
   url: https://associationforsoftwaretesting.org/conference/cast-2023/?utm_source=testingconferences
   twitter: AST_News
-  status: <a href="https://members.associationforsoftwaretesting.org/events/64383ed645991e000958da70/description?ticket=64383ed645991e000958da71" target="_blank">Blind Bird Registration is Open</a> until June 1, 2023. 
+  status: <a href="https://members.associationforsoftwaretesting.org/events/64383ed645991e000958da70/description?ticket=64383ed645991e000958da71" target="_blank">Early Bird Registration is Open</a>
 
 - name: "ICSTM 2023: Software Testing Methods Conference"
   location: San Francisco, CA, USA
@@ -288,7 +288,7 @@
   dates: "November 14-16, 2023"
   url: https://www.etsi.org/ucaat?utm_source=testingconferences
   twitter: ETSI_STANDARDS
-  
+
 - name: Test Automation & Digital QA Summit 2023
   location: Tel Aviv, Israel
   dates: "November 14, 2023"
