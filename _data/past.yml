@@ -1,3 +1,35 @@
+- name: Breakpoint 2023
+  location: Online
+  dates: "August 8-9, 2023"
+  url: https://www.browserstack.com/events/breakpoint?utm_source=testingconferences
+  twitter: browserstack
+
+- name: "ICSTTP 2023: Software Testing, Types and Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-types-and-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTS 2023: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTPQM 2023: Software Testing Process and Quality Management Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-process-and-quality-management-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTP 2023: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 3-4, 2023"
+  url: https://waset.org/software-testing-process-conference-in-august-2023-in-amsterdam?utm_source=testingconferences
+
+- name: "Agile, DevOps and Testing Showcase: Methods and Tools"
+  location: Pune, India
+  dates: "August 3, 2023"
+  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/pune-india-2023/?utm_source=testingconferences
+  twitter: UNICOMLearning
+
 - name: TribeQonf - 1 Conference For All Things Testing 						
   location: Bangalore, India
   dates: "July 14-15, 2023"
