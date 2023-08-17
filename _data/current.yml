@@ -337,3 +337,10 @@
   url: https://www.testingmind.com/event/tas2023/test-automation-summit-manila/?utm_source=testingconferences
   twitter: testingmindcon
   status: Registration is Open
+
+- name: Agile Testing Days (ATD) Open Air
+  location: Germany
+  dates: "June 4-6, 2024"
+  url: https://openair.agiletestingdays.com?utm_source=testingconferences
+  twitter: AgileTD
+  status: CFP is Open until September 17, 2023
