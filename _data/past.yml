@@ -1,3 +1,9 @@
+- name: Testμ Conference 2023
+  location: Online
+  dates: "August 22-24, 2023"
+  url: https://www.lambdatest.com/testmuconf-2023?utm_source=STC&utm_medium=organic&utm_content=testmu_2023
+  twitter: lambdatesting
+
 - name: Breakpoint 2023
   location: Online
   dates: "August 8-9, 2023"
@@ -30,7 +36,7 @@
   url: https://www.unicomlearning.com/agile-devops-software-testing-conference/pune-india-2023/?utm_source=testingconferences
   twitter: UNICOMLearning
 
-- name: TribeQonf - 1 Conference For All Things Testing 						
+- name: TribeQonf - 1 Conference For All Things Testing
   location: Bangalore, India
   dates: "July 14-15, 2023"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
@@ -52,7 +58,7 @@
   url: https://appiumconf.com/?utm_source=testingconferences
   twitter: appium_conf
 
-- name: TestExpo and Agile, DevOps & Low Code Expo 							
+- name: TestExpo and Agile, DevOps & Low Code Expo
   location: Bangalore, India
   dates: "June 22, 2023"
   url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-june-india-2023/?utm_source=testingconferences
@@ -129,7 +135,7 @@
   url: https://www.testautomationdays.com/?utm_source=testingconferences
   twitter: testautomationd
 
-- name: The QA Financial Forum New York 
+- name: The QA Financial Forum New York
   location: New York, NY, USA
   dates: "May 24, 2023"
   url: https://www.qa-financial.com/events/qa-financial-forum-new-york-2023?utm_source=testingconferences
@@ -191,7 +197,7 @@
   url: https://www.inflectracon.com/?utm_source=testingconferences
   twitter: InflectraCon
 
-- name: The QA Financial Forum Chicago 
+- name: The QA Financial Forum Chicago
   location: Chicago, IL, USA
   dates: "April 4, 2023"
   url: https://www.qa-financial.com/events/qa-financial-forum-chicago-2023?utm_source=testingconferences
@@ -235,7 +241,7 @@
 - name: PNSQC 2023 Quality Jam
   location: Portland, Oregon, USA and Online
   dates: "February 8, 2023"
-  url: https://viethconsulting.com/Calendar/moreinfo.php?eventid=75399 
+  url: https://viethconsulting.com/Calendar/moreinfo.php?eventid=75399
   twitter: PNSQC
 
 - name: Automation Guild Online Conference 2023
@@ -260,7 +266,7 @@
   location: Montevideo, Uruguay and Online
   dates: "December 9, 2022"
   url: https://qualitysenseconf.com?utm_source=testingconferences
- 
+
 - name: Workshop on Performance and Reliability (WOPR) 29
   location: Montevideo, Uruguay
   dates: "December 6-8, 2022"
@@ -353,7 +359,7 @@
   url: https://embedded.qatest.org/?utm_source=testingconferences
   twitter: QATestBilbao
 
-- name: Test Expo, Agile & DevOps Expo and Low Code Expo 
+- name: Test Expo, Agile & DevOps Expo and Low Code Expo
   location: London, UK
   dates: "October 20, 2022"
   url: https://conference.unicomseminars.org/expo/2022/?utm_source=testingconferences
@@ -387,7 +393,7 @@
   dates: "October 14, 2022"
   url: https://www.ministryoftesting.com/events/testbashx-buckinghamshire-2022?utm_source=testingconferences
   twitter: ministryoftest
-  
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2022
   location: Portland, Oregon and Online
   dates: "October 10-12, 2022"
@@ -621,7 +627,7 @@
   dates: "May 20, 2022"
   url: https://www.testingmind.com/event/tas2022/test-automation-summit-reading/?utm_source=testingconferences
   twitter: testingmindcon
-  
+
 - name: The QA Financial Forum New York 2022
   location: New York, NY, USA
   dates: "May 18, 2022"
@@ -993,7 +999,7 @@
   twitter: Tricentis
 
 - name: National Software Testing Conference
-  location: London, England 
+  location: London, England
   dates: "October 12-13, 2021"
   url: https://www.softwaretestingnews.co.uk/products/national-software-testing-conference/?utm_source=testingconferences
   twitter: testmagazine
@@ -1699,7 +1705,7 @@
   location: Online
   dates: "October 8, 2020"
   url: https://testistanbul.org/?utm_source=testingconferences
-  twitter: testistanbul 
+  twitter: testistanbul
 
 - name: STARWEST 2020 Virtual+
   location: Online
@@ -4117,7 +4123,7 @@
 
 - name: Automation Guild Online Conference 2017
   location: Online
-  dates: 'January 9-13, 2017'
+  dates: "January 9-13, 2017"
   url: https://automationguild.com/
   twitter: testguilds
 
