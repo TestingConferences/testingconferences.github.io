@@ -1,3 +1,9 @@
+- name: Testing United 2023
+  location: Bratislava, SK and VR
+  dates: "September 4-5, 2023"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+
 - name: Testμ Conference 2023
   location: Online
   dates: "August 22-24, 2023"
