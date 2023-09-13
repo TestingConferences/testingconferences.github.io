@@ -1,3 +1,21 @@
+- name: Test Automation & Digital QA Summit 2023
+  location: Los Angeles, CA, USA
+  dates: "September 12, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-los-angeles/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Test Automation & Digital QA Summit 2023
+  location: Phoenix, AZ, USA
+  dates: "September 8, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-phoenix/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Hands on Testing 2023
+  location: Guadalajara, Mexico and Online
+  dates: "September 6-9, 2023"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+
 - name: Testing United 2023
   location: Bratislava, SK and VR
   dates: "September 4-5, 2023"
