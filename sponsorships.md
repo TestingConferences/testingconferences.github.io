@@ -22,20 +22,8 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>July 2023</td>
-    <td>Testμ 2023</td>
-  </tr>
-  <tr>
-    <td>August 2023</td>
-    <td>Testμ 2023</td>
-  </tr>
-  <tr>
-    <td>September 2023</td>
-    <td>Test Tribe</td>
-  </tr>
-  <tr>
     <td>October 2023</td>
-    <td>CAST 2023</td>
+    <td>Open</td>
   </tr>
   <tr>
     <td>November 2023</td>
@@ -45,8 +33,19 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>December 2023</td>
     <td>Open</td>
   </tr>
+  <tr>
+    <td>January 2024</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>February 2024</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>March 2024</td>
+    <td>Open</td>
+  </tr>
 </table>
-
 
 **Getting Started**
 

@@ -1,3 +1,38 @@
+- name: Odin Test Conference 2023
+  location: Oslo, Norway
+  dates: "September 19, 2023"
+  url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
+
+- name: Test Automation & Digital QA Summit 2023
+  location: Salt Lake, UT, USA
+  dates: "September 19, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-salt-lake/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: IFIP-ICTSS 2023 (International Conference on Testing Software and Systems)
+  location: Bergamo, Italy
+  dates: "September 18-20, 2023"
+  url: https://conf.researchr.org/home/ictss-2023?utm_source=testingconferences
+  twitter: ICTSSConf
+
+- name: SEETEST 2023
+  location: Bucharest, Romania and Online
+  dates: "September 18-20, 2023"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+
+- name: Targeting Quality 2023
+  location: Cambridge, Ontario, Canada
+  dates: "September 18-19, 2023"
+  url: https://kwsqa.org/tq2023/?utm_source=testingconferences
+  twitter: KWSQA
+
+- name: Test Automation & Digital QA Summit 2023
+  location: San Francisco, CA, USA
+  dates: "September 15, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-san-francisco/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: The QA Financial Forum London 2023
   location: London, UK
   dates: "September 13, 2023"
