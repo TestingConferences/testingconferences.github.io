@@ -235,6 +235,13 @@
   twitter: testingmindcon
   status: Registration is Open
 
+- name: test:fest 2024
+  location: Wrocław, Poland
+  dates: "March 2, 2024"
+  url: https://testfest.pl/?utm_source=testingconferences
+  twitter: test_fest_
+  status: CFP is Open until November 13, 2023
+
 - name: STAREAST 2024
   location: Orlando, FL, USA
   dates: "April 28 - May 3, 2024"
