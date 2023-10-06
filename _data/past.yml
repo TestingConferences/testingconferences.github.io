@@ -1,3 +1,33 @@
+- name: TestIstanbul 2023
+  location: Online
+  dates: "October 5-6, 2023"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul
+
+- name: HUSTEF 2023
+  location: Budapest, Hungary
+  dates: "October 3-5, 2023"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: hustef
+
+- name: STARWEST 2023
+  location: Anaheim, CA, USA and Online
+  dates: "October 1-6, 2023"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+
+- name: "QA: Challenge Accepted 2023"
+  location: Sofia, Bulgaria and Online
+  dates: "October 1, 2023"
+  url: https://www.qachallengeaccepted.com/?utm_medium=web&utm_source=testingconferences
+  twitter: qachallenge
+
+- name: Test Automation & Digital QA Summit 2023
+  location: Minneapolis, MN, USA
+  dates: "September 29, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-minneapolis/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: Test Automation & Digital QA Summit 2023
   location: Vancouver, BC, Canada
   dates: "September 26, 2023"
