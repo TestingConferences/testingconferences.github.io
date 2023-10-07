@@ -122,9 +122,9 @@
 - name: CAST 2023
   location: Charlotte, North Carolina, USA
   dates: "November 6-7, 2023"
-  url: https://associationforsoftwaretesting.org/conference/cast-2023/?utm_source=testingconferences
+  url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
-  status: <a href="https://members.associationforsoftwaretesting.org/events/64383ed645991e000958da70/description?ticket=64383ed645991e000958da71" target="_blank">Early Bird Registration is Open</a>
+  status: Canceled
 
 - name: "ICSTM 2023: Software Testing Methods Conference"
   location: San Francisco, CA, USA
@@ -200,7 +200,7 @@
   twitter: testingmindcon
   status: Registration is Open
 
-- name: test:fest 2024
+- name: "test:fest 2024"
   location: Wrocław, Poland
   dates: "March 2, 2024"
   url: https://testfest.pl/?utm_source=testingconferences
