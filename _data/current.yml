@@ -1,69 +1,3 @@
-- name: WeTest.Athens 2023
-  location: Athens, Greece, Europe
-  dates: "October 6, 2023"
-  url: https://wetest-athens.gr/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Pacific Northwest Software Quality Conference (PNSQC) 2023
-  location: Portland, Oregon, USA
-  dates: "October 9-11, 2023"
-  url: https://www.pnsqc.org/?utm_source=testingconferences
-  twitter: PNSQC
-  status: Early Bird Registration is Open until September 31, 2023
-
-- name: "ICSTM 2023: Software Testing and Methods Conference"
-  location: New York, NY, USA
-  dates: "October 9-10, 2023"
-  url: https://waset.org/software-testing-and-methods-conference-in-october-2023-in-new-york?utm_source=testingconferences
-
-- name: ParisTestConf
-  location: Paris, France
-  dates: "October 10, 2023"
-  url: https://paristestconf.com/?utm_source=testingconferences
-  twitter: paristestconf
-  status: <a href="https://www.helloasso.com/associations/agile-france/evenements/paristestconf-1?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: QualityCon 2023
-  location: Online
-  dates: "October 10, 2023"
-  url: https://qualitycon.tech/?utm_source=testingconferences
-  twitter: qualitycon_tech
-  status: Registration is Open
-
-- name: Tesena Fest 2023
-  location: Prague, Czech Republic
-  dates: "October 12, 2023"
-  url: https://www.tesena.com/en/tesena-fest-2023?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Test Automation & Digital QA Summit 2023
-  location: Atlanta, GA, USA
-  dates: "October 13, 2023"
-  url: https://www.testingmind.com/event/tas2023/test-automation-summit-atlanta/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: SeaStar Quality Conference 2023
-  location: Dominican Republic
-  dates: "October 15-19, 2023"
-  url: https://quality.seastarconf.com/?utm_source=testingconferences
-  twitter: QA_nna
-  status: Early Bird Registration is Open until September 24, 2023
-
-- name: Test Automation & Digital QA Summit 2023
-  location: Atlanta, GA, USA
-  dates: "October 13, 2023"
-  url: https://www.testingmind.com/event/tas2023/test-automation-summit-atlanta/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: Test Automation & Digital QA Summit 2023
-  location: Raleigh Durham, NC, USA
-  dates: "October 17, 2023"
-  url: https://www.testingmind.com/event/tas2023/test-automation-summit-raleigh-durham/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
 - name: QA & TEST Embedded 2023
   location: Bilbao, Spain
   dates: "October 18-20, 2023"
@@ -111,13 +45,20 @@
   url: https://www.testingmind.com/event/tas2023/test-automation-summit-boston/?utm_source=testingconferences
   twitter: testingmindcon
   status: Registration is Open
-
-- name: ReTestBash 2023
+  
+- name: ReTestBash UK 2023
   location: Online
-  dates: "December 1, 2022"
+  dates: "November 2, 2023"
   url: https://www.ministryoftesting.com/events/retestbash-uk-2023&utm_source=testingconferences
   twitter: ministryoftest
   status: Register for free as a<a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Pro member</a>
+
+- name: Future of Testing: AI in Automation
+  location: Online
+  dates: "November 7, 2023"
+  url: https://applitools.com/future-of-testing-november-2023/?utm_source=other&utm_medium=web-referral&utm_content=virtual-event&utm_term=231107-softwaretestconf-free&utm_campaign=231107-future-of-testing-virtual-event
+  twitter: applitools
+  status: Registration is Open and Free
 
 - name: CAST 2023
   location: Charlotte, North Carolina, USA
