@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2022-11-10 11:40:00
+last_modified_at: 2023-05-24 11:28:00
 ---
 
 **Sponsoring Us**
@@ -22,28 +22,8 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>May 2023</td>
-    <td>EuroSTAR 2023</td>
-  </tr>
-  <tr>
-    <td>June 2023</td>
-    <td>Open</td>
-  </tr>
-    <tr>
-    <td>July 2023</td>
-    <td>Open</td>
-  </tr>
-  <tr>
-    <td>August 2023</td>
-    <td>Open</td>
-  </tr>
-  <tr>
-    <td>September 2023</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>October 2023</td>
-    <td>CAST 2023</td>
+    <td>AutomationSTAR 2023</td>
   </tr>
   <tr>
     <td>November 2023</td>
@@ -53,8 +33,23 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>December 2023</td>
     <td>Open</td>
   </tr>
+  <tr>
+    <td>January 2024</td>
+    <td>EuroSTAR</td>
+  </tr>
+  <tr>
+    <td>February 2024</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>March 2024</td>
+    <td>Open</td>
+  </tr>
+    <tr>
+    <td>April 2024</td>
+    <td>EuroSTAR/AutomationSTAR</td>
+  </tr>
 </table>
-
 
 **Getting Started**
 
