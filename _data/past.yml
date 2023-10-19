@@ -1,3 +1,54 @@
+- name: Test Automation & Digital QA Summit 2023
+  location: Raleigh Durham, NC, USA
+  dates: "October 17, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-raleigh-durham/?utm_source=testingconferences
+  twitter: testingmindcon
+  
+- name: SeaStar Quality Conference 2023
+  location: Dominican Republic
+  dates: "October 15-19, 2023"
+  url: https://quality.seastarconf.com/?utm_source=testingconferences
+  twitter: QA_nna
+
+- name: Test Automation & Digital QA Summit 2023
+  location: Atlanta, GA, USA
+  dates: "October 13, 2023"
+  url: https://www.testingmind.com/event/tas2023/test-automation-summit-atlanta/?utm_source=testingconferences
+  twitter: testingmindcon
+  
+- name: Tesena Fest 2023
+  location: Prague, Czech Republic
+  dates: "October 12, 2023"
+  url: https://www.tesena.com/en/tesena-fest-2023?utm_source=testingconferences
+  
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2023
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2023"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: "ICSTM 2023: Software Testing and Methods Conference"
+  location: New York, NY, USA
+  dates: "October 9-10, 2023"
+  url: https://waset.org/software-testing-and-methods-conference-in-october-2023-in-new-york?utm_source=testingconferences
+
+- name: ParisTestConf
+  location: Paris, France
+  dates: "October 10, 2023"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  twitter: paristestconf
+
+- name: QualityCon 2023
+  location: Online
+  dates: "October 10, 2023"
+  url: https://qualitycon.tech/?utm_source=testingconferences
+  twitter: qualitycon_tech
+
+- name: WeTest.Athens 2023
+  location: Athens, Greece, Europe
+  dates: "October 6, 2023"
+  url: https://wetest-athens.gr/?utm_source=testingconferences
+
 - name: TestIstanbul 2023
   location: Online
   dates: "October 5-6, 2023"
