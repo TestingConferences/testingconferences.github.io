@@ -16,14 +16,14 @@
   location: Online
   dates: "October 28, 2023"
   url: https://github.com/SeleniumHQ/sosc/
-  status: Registration is Open and Free. [Open an Issue to RSVP](https://github.com/SeleniumHQ/sosc/).
+  status: Registration is Open and Free | <a href="https://github.com/SeleniumHQ/sosc/" target="_blank">Open an Issue to Register</a>.
 
 - name: ReTestBash UK 2023
   location: Online
   dates: "November 2, 2023"
   url: https://www.ministryoftesting.com/events/retestbash-uk-2023&utm_source=testingconferences
   twitter: ministryoftest
-  status: Register for free as a<a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Pro member</a>
+  status: Register for free as a <a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Pro member</a>
 
 - name: "Future of Testing: AI in Automation"
   location: Online
