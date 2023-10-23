@@ -152,10 +152,10 @@
   dates: "March 11-12, 2024"
   url: https://waset.org/global-software-development-and-testing-conference-in-march-2024-in-istanbul?utm_source=testingconferences
 
-- name: "ICGSDT 2024: Global Software Development and Testing Conference"
-  location: Istanbul, Turkey
+- name: "ICSTM 2024: Software Testing Methods Conference"
+  location: Miami, FL USA
   dates: "March 11-12, 2024"
-  url: https://waset.org/global-software-development-and-testing-conference-in-march-2024-in-istanbul?utm_source=testingconferences
+  url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
 
 - name: STAREAST 2024
   location: Orlando, FL, USA
@@ -184,6 +184,16 @@
   url: https://romaniatesting.ro
   twitter: romaniatesting
   status: <a href="https://www.romaniatesting.ro" target="_blank">CFP is Open</a> | <a href="https://www.romaniatesting.ro">Registration is open until November 31, 2023</a>
+
+- name: "ICSTP 2024: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-process-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTS 2024: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
 
 - name: Testμ 2024
   location: Online
