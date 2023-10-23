@@ -16,14 +16,14 @@
   location: Online
   dates: "October 28, 2023"
   url: https://github.com/SeleniumHQ/sosc/
-  status: Registration is Open and Free | <a href="https://github.com/SeleniumHQ/sosc/" target="_blank">Open an Issue to Register</a>.
+  status: Registration is Open and Free | <a href="https://github.com/SeleniumHQ/sosc/" target="_blank">Open an Issue to Register</a>
 
 - name: ReTestBash UK 2023
   location: Online
   dates: "November 2, 2023"
   url: https://www.ministryoftesting.com/events/retestbash-uk-2023&utm_source=testingconferences
   twitter: ministryoftest
-  status: Register for free as a <a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Pro member</a>
+  status: Register for free as a<a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences"> Pro Member</a>
 
 - name: "Future of Testing: AI in Automation"
   location: Online
@@ -120,12 +120,42 @@
   twitter: testingmindcon
   status: Registration is Open
 
+- name: "ICSTM 2024: Software Testing and Methods Conference"
+  location: Bali, Indoneasia
+  dates: "January 11-12, 2024"
+  url: https://waset.org/software-testing-and-methods-conference-in-january-2024-in-bali?utm_source=testingconferences
+
+- name: "ICSTTP 2024: Software Testing, Types and Process Conference"
+  location: London, England
+  dates: "January 15-16, 2024"
+  url: https://waset.org/software-testing-types-and-process-conference-in-january-2024-in-london?utm_source=testingconferences
+
+- name: "ICSTV 2024: Software Testing and Validation Conference"
+  location: Amsterdam, Netherlands
+  dates: "January 15-16, 2024"
+  url: https://waset.org/software-testing-and-validation-conference-in-january-2024-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTA 2024: Software Testing and Applications Conference"
+  location: Rio de Janeiro, Brazil
+  dates: "February 1-2, 2024"
+  url: https://waset.org/software-testing-and-applications-conference-in-february-2024-in-rio-de-janeiro?utm_source=testingconferences
+
 - name: "test:fest 2024"
   location: Wrocław, Poland
   dates: "March 2, 2024"
   url: https://testfest.pl/?utm_source=testingconferences
   twitter: test_fest_
   status: CFP is Open until November 13, 2023
+
+- name: "ICGSDT 2024: Global Software Development and Testing Conference"
+  location: Istanbul, Turkey
+  dates: "March 11-12, 2024"
+  url: https://waset.org/global-software-development-and-testing-conference-in-march-2024-in-istanbul?utm_source=testingconferences
+
+- name: "ICSTM 2024: Software Testing Methods Conference"
+  location: Miami, FL USA
+  dates: "March 11-12, 2024"
+  url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
 
 - name: STAREAST 2024
   location: Orlando, FL, USA
@@ -161,6 +191,16 @@
   url: https://romaniatesting.ro
   twitter: romaniatesting
   status: <a href="https://www.romaniatesting.ro" target="_blank">CFP is Open</a> | <a href="https://www.romaniatesting.ro">Registration is open until November 31, 2023</a>
+
+- name: "ICSTP 2024: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-process-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTS 2024: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
 
 - name: Testμ 2024
   location: Online
