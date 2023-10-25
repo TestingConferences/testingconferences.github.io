@@ -25,19 +25,12 @@
   twitter: applitools
   status: Registration is Open and Free
 
-- name: Quality Sensen Conf 2023
+- name: Quality Sense Conf 2023
   location: Santiago De Chile & Online
   dates: "November 9-10, 2023"
   url: https://qualitysenseconf.com/&utm_source=testingconferences
   twitter: abstractaus
   status: Registration is Open
-
-- name: ReTestBash 2023
-  location: Online
-  dates: "December 1, 2022"
-  url: https://www.ministryoftesting.com/events/retestbash-uk-2023&utm_source=testingconferences
-  twitter: ministryoftest
-  status: Register for free as a<a href="https://www.ministryoftesting.com/membership?utm_medium=web&utm_source=testingconferences">Pro member</a>
 
 - name: "ICSTM 2023: Software Testing Methods Conference"
   location: San Francisco, CA, USA
@@ -138,7 +131,7 @@
   dates: "March 2, 2024"
   url: https://testfest.pl/?utm_source=testingconferences
   twitter: test_fest_
-  status: CFP is Open until November 13, 2023
+  status: CFP is Closed
 
 - name: "ICGSDT 2024: Global Software Development and Testing Conference"
   location: Istanbul, Turkey
@@ -155,7 +148,7 @@
   dates: "April 28 - May 3, 2024"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: CFP is Open until September 24, 2023
+  status: Registration is Opening Soon
 
 - name: expo:QA 24
   location: Madrid, Spain
@@ -171,19 +164,12 @@
   twitter: testautomationd
   status: <a href="https://www.testautomationdays.com/call-for-cases/" target="_blank">CFP is Open</a> until January 19, 2024
 
-- name: Agile Testing Days (ATD) Open Air
-  location: Germany
-  dates: "June 4-6, 2024"
-  url: https://openair.agiletestingdays.com?utm_source=testingconferences
-  twitter: AgileTD
-  status: CFP is Open until September 17, 2023
-
 - name: Romanian Testing Conference
   location: Romania
   dates: "June 12-14, 2024"
-  url: https://romaniatesting.ro
+  url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: <a href="https://www.romaniatesting.ro" target="_blank">CFP is Open</a> | <a href="https://www.romaniatesting.ro">Registration is open until November 31, 2023</a>
+  status: <a href="https://www.romaniatesting.ro?utm_source=testingconferences" target="_blank">CFP is Open until November 30, 2023</a> | <a href="https://www.romaniatesting.ro?utm_source=testingconferences">Registration is open until November 31, 2023</a>
 
 - name: "ICSTP 2024: Software Testing Process Conference"
   location: Amsterdam, Netherlands
@@ -197,7 +183,14 @@
 
 - name: Testμ 2024
   location: Online
-  dates: "August 20 - 22, 2024"
+  dates: "August 20-22, 2024"
   url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
   twitter: lambdatesting
   status: <a href="https://forms.gle/kczyTSL8epE3so9Y8" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
+
+- name: TestBash UK 2024
+  location: Online
+  dates: "September 25-26, 2024"
+  url: https://www.ministryoftesting.com/events/testbash-uk-2024?utm_medium=web&utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until January 31, 2024
