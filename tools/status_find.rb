@@ -16,6 +16,8 @@ filtered_events = events.select do |event|
     status.include?(input_status)
 end
 
+filtered_conferences.each { |conference| conference.delete('twitter') }
+
 modified_yaml_data = YAML.dump(filtered_events)
 
 File.write(filename, modified_yaml_data)
