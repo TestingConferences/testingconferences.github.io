@@ -164,6 +164,12 @@
   twitter: testautomationd
   status: <a href="https://www.testautomationdays.com/call-for-cases/" target="_blank">CFP is Open</a> until January 19, 2024
 
+- name: WeTest.Athens 2024
+  location: Athens, Greece
+  dates: "June 7, 2024"
+  url: https://www.wetest-athens.gr/
+  status: <a href="https://lnkd.in/dNizTjba" target="_blank">CFP is Open</a> until December 30, 2023
+
 - name: Romanian Testing Conference
   location: Romania
   dates: "June 12-14, 2024"
