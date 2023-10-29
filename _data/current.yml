@@ -1,16 +1,3 @@
-- name: Test Automation & Digital QA Summit 2023
-  location: Boston, MA, USA
-  dates: "October 27, 2023"
-  url: https://www.testingmind.com/event/tas2023/test-automation-summit-boston/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
-- name: Selenium Open Space Conference
-  location: Online
-  dates: "October 28, 2023"
-  url: https://github.com/SeleniumHQ/sosc/
-  status: Registration is Open and Free | <a href="https://github.com/SeleniumHQ/sosc/" target="_blank">Open an Issue to Register</a>
-
 - name: ReTestBash UK 2023
   location: Online
   dates: "November 2, 2023"
