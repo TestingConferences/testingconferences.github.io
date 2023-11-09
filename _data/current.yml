@@ -140,7 +140,7 @@
 - name: WeTest.Athens 2024
   location: Athens, Greece
   dates: "June 7, 2024"
-  url: https://www.wetest-athens.gr/
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://forms.gle/8BGN9Arq5Pyk9vhAA" target="_blank">CFP is Open</a> until December 30, 2023
 
 - name: Romanian Testing Conference
@@ -175,7 +175,7 @@
   status: CFP is Open until January 31, 2024
 
 - name: Odin Testkonferansen Norway 2024
-  location: Oslo
+  location: Oslo, Norway
   dates: "September 26, 2024"
-  url: https://event.dataforeningen.no/odin/
+  url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
   status: CFP is Open until March 15, 2024
