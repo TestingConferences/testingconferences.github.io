@@ -5,18 +5,6 @@
   twitter: abstractaus
   status: Registration is Open
 
-- name: "ICSTM 2023: Software Testing Methods Conference"
-  location: San Francisco, CA, USA
-  dates: "November 6-7, 2023"
-  url: https://waset.org/software-testing-methods-conference-in-november-2023-in-san-francisco?utm_source=testingconferences
-
-- name: SANAE BEER.EX 2023
-  location: Bratislava, Slovakia
-  dates: "November 8-9, 2023"
-  url: https://sanae.beer?utm_source=testingconferences
-  twitter: sanae_beer
-  status: Registration is Open
-
 - name: OnlineTestConf (OTC) 2023
   location: Online
   dates: "November 13, 2023"
@@ -136,6 +124,13 @@
   url: https://www.testautomationdays.com?utm_source=testingconferences
   twitter: testautomationd
   status: <a href="https://www.testautomationdays.com/call-for-cases/" target="_blank">CFP is Open</a> until January 19, 2024
+
+- name: GreaTest Quality Convention 2024
+  location: Zürich, Switzerland
+  dates: "June 7, 2024"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  twitter: gtq_con
+  status: Early Bird Pricing is Open
 
 - name: WeTest.Athens 2024
   location: Athens, Greece

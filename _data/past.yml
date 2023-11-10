@@ -1,3 +1,14 @@
+- name: SANAE BEER.EX 2023
+  location: Bratislava, Slovakia
+  dates: "November 8-9, 2023"
+  url: https://sanae.beer?utm_source=testingconferences
+  twitter: sanae_beer
+
+- name: "ICSTM 2023: Software Testing Methods Conference"
+  location: San Francisco, CA, USA
+  dates: "November 6-7, 2023"
+  url: https://waset.org/software-testing-methods-conference-in-november-2023-in-san-francisco?utm_source=testingconferences
+
 - name: "Future of Testing: AI in Automation"
   location: Online
   dates: "November 7, 2023"
