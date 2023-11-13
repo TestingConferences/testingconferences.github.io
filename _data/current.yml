@@ -1,10 +1,3 @@
-- name: Quality Sense Conf 2023
-  location: Santiago De Chile & Online
-  dates: "November 9-10, 2023"
-  url: https://qualitysenseconf.com/&utm_source=testingconferences
-  twitter: abstractaus
-  status: Registration is Open
-
 - name: OnlineTestConf (OTC) 2023
   location: Online
   dates: "November 13, 2023"
@@ -103,6 +96,13 @@
   location: Miami, FL USA
   dates: "March 11-12, 2024"
   url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
+
+- name: "Testing Peers Conference 2024"
+  location: Nottingham, UK
+  dates: "March 14, 2024"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+  status: <a href="https://testingpeerscon.com/written-submission/" target="_blank">CFP is Open</a> until December 10, 2024
 
 - name: STAREAST 2024
   location: Orlando, FL, USA
