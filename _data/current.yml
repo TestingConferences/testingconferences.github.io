@@ -80,6 +80,13 @@
   dates: "February 1-2, 2024"
   url: https://waset.org/software-testing-and-applications-conference-in-february-2024-in-rio-de-janeiro?utm_source=testingconferences
 
+- name: "Spartans Summit 2024 by LambdaTest"
+  location: Online
+  dates: "February 6, 2024"
+  url: https://www.lambdatest.com/spartans-summit-2024?utm_source=STC&utm_medium=organic&utm_content=spartans_2024
+  twitter: lambdatesting
+  status: Registration is Open
+
 - name: "test:fest 2024"
   location: Wrocław, Poland
   dates: "March 2, 2024"
