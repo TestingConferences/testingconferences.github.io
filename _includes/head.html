@@ -29,13 +29,23 @@
     const message =
       `Welcome to Testing Conferences!
     
-        Does this page need fixes or is our content out of date? Everyone is encourged to contribute!
-        🤝 Contribute to Testing Conferences: https://testingconferences.org/how-to-contribute/
-        🔎 Create a new Github issue: https://github.com/TestingConferences/testingconferences.github.io/issues/new
-        🚀 We like your curiosity! Help us improve or sign up for our newsletter to learn more: https://testingconferences.org/subscribe/
-        `;
+      Does this page need fixes or is our content out of date? Everyone is encourged to contribute!
+      🤝 Contribute to Testing Conferences: https://testingconferences.org/how-to-contribute/
+      🔎 Create a new Github issue: https://github.com/TestingConferences/testingconferences.github.io/issues/new
+      🚀 We like your curiosity! Help us improve or sign up for our newsletter to learn more: https://testingconferences.org/subscribe/
+      `;
 
     console.log(message);
+  </script>
+
+  <!-- Banner Tracking -->
+  <script>
+    document.getElementById('#promo').addEventListener('click', function () {
+      gtag('event', 'BannerLinkClick', {
+        'event_category': 'Banner Clicks',
+        'event_label': 'Link Click'
+      });
+    });
   </script>
 
 </head>

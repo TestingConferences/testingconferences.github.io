@@ -61,7 +61,7 @@
   dates: "May 28-30, 2024"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.com/en-c4p.html#c4p" target=_blank>CFP is Open</a> until October 23, 2024
+  status: <a href="https://expoqa.com/en-c4p.html#c4p" target=_blank>CFP is Open</a> until October 23, 2023
 
 - name: Test Automation Days 2024
   location: Rotterdam, the Netherlands
@@ -82,6 +82,13 @@
   dates: "June 7, 2024"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://forms.gle/8BGN9Arq5Pyk9vhAA" target="_blank">CFP is Open</a> until December 30, 2023
+
+- name: EuroSTAR Software Testing Conference 2024
+  location: Stockholm, Sweden
+  dates: "June 11-14, 2024"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Super Early Bird Registration is Open
 
 - name: Romanian Testing Conference
   location: Romania
@@ -119,3 +126,10 @@
   dates: "September 26, 2024"
   url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
   status: CFP is Open until March 15, 2024
+
+- name: AutomationSTAR Test Automation Conference 2024
+  location: Vienna, Austria
+  dates: "October 9-10, 2024"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is Opening Soon
