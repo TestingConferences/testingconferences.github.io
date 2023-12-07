@@ -127,6 +127,13 @@
   url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
   status: CFP is Open until March 15, 2024
 
+- name: HUSTEF Software Testing Conference 2024
+  location: Budapest, Hungary
+  dates: "October 8-10, 2024"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: hustef
+  status: CFP is Opening Soon
+
 - name: AutomationSTAR Test Automation Conference 2024
   location: Vienna, Austria
   dates: "October 9-10, 2024"
