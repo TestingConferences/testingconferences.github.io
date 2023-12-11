@@ -22,14 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>October 2023</td>
-    <td>AutomationSTAR 2023</td>
-  </tr>
-  <tr>
-    <td>November 2023</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>December 2023</td>
     <td>Open</td>
   </tr>
@@ -55,6 +47,10 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2024</td>
+    <td>Open</td>
+  </tr>
+    <tr>
+    <td>July 2024</td>
     <td>Open</td>
   </tr>
 </table>
