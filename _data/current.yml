@@ -23,7 +23,7 @@
   dates: "February 6, 2024"
   url: https://www.lambdatest.com/spartans-summit-2024?utm_source=STC&utm_medium=organic&utm_content=spartans_2024
   twitter: lambdatesting
-  status: Registration is Open
+  status: Registration is Open and Free
 
 - name: "test:fest 2024"
   location: Wrocław, Poland
@@ -47,21 +47,20 @@
   dates: "March 14, 2024"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
-  status: <a href="https://testingpeerscon.com/written-submission/" target="_blank">CFP is Open</a> until December 10, 2024
+  status: Early Bird Pricing is Open
 
 - name: STAREAST 2024
   location: Orlando, FL, USA
   dates: "April 28 - May 3, 2024"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
-  status: Registration is Opening Soon
+  status: Super Early Bird Registration is Open until March 1, 2024
 
 - name: expo:QA 24
   location: Madrid, Spain
   dates: "May 28-30, 2024"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.com/en-c4p.html#c4p" target=_blank>CFP is Open</a> until October 23, 2023
 
 - name: Test Automation Days 2024
   location: Rotterdam, the Netherlands
@@ -95,7 +94,6 @@
   dates: "June 12-14, 2024"
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: <a href="https://www.romaniatesting.ro?utm_source=testingconferences" target="_blank">CFP is Open until November 30, 2023</a> | <a href="https://www.romaniatesting.ro?utm_source=testingconferences">Registration is open until November 31, 2023</a>
 
 - name: "ICSTP 2024: Software Testing Process Conference"
   location: Amsterdam, Netherlands
@@ -112,7 +110,7 @@
   dates: "August 21-23, 2024"
   url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
   twitter: lambdatesting
-  status: <a href="https://forms.gle/kczyTSL8epE3so9Y8" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
+  status: <a href="https://forms.gle/kczyTSL8epE3so9Y8" target="_blank">CFP is Open until January 20, 2024</a> | <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
 
 - name: TestBash UK 2024
   location: Online
@@ -139,7 +137,7 @@
   dates: "October 9-10, 2024"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Opening Soon
+  status: CFP is Opening in January 2024
 
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
