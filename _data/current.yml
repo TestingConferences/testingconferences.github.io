@@ -109,7 +109,7 @@
 
 - name: Testμ 2024
   location: Online
-  dates: "August 20-22, 2024"
+  dates: "August 21-23, 2024"
   url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
   twitter: lambdatesting
   status: <a href="https://forms.gle/kczyTSL8epE3so9Y8" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
@@ -127,9 +127,22 @@
   url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
   status: CFP is Open until March 15, 2024
 
+- name: HUSTEF Software Testing Conference 2024
+  location: Budapest, Hungary
+  dates: "October 8-10, 2024"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: hustef
+  status: CFP is Opening Soon
+
 - name: AutomationSTAR Test Automation Conference 2024
   location: Vienna, Austria
   dates: "October 9-10, 2024"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Opening Soon
+
+- name: Agile Testing Days 2024
+  location: Potsdam, Germany
+  dates: "November 19-22, 2024"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  status: CFP is Open until February 11, 2024
