@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2023-12-12 11:47:00
+last_modified_at: 2023-12-13 11:47:00
 ---
 
 **Sponsoring Us**
@@ -39,19 +39,19 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>May 2024</td>
-    <td>Open</td>
+    <td>Testμ 2024</td>
   </tr>
   <tr>
     <td>June 2024</td>
-    <td>Open</td>
+    <td>Testμ 2024</td>
   </tr>
   <tr>
     <td>July 2024</td>
-    <td>Open</td>
+    <td>Testμ 2024</td>
   </tr>
   <tr>
     <td>August 2024</td>
-    <td>Open</td>
+    <td>Testμ 2024</td>
   </tr>
 </table>
 
