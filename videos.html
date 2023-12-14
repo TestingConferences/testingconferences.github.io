@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /event-videos/
+title: Free Video Recordings from Past Software Testing Conferences
+---
+
+<h1>Event Videos</h1>
+<p>Many online conferences and workshops post their event videos and recordings online afterwards. When we can, we keep track of them so you don't have to.</p>
+
+<ul class="post-list">
+{% for past in site.data.past %}
+    {% if past.video_url != nil %}
+        <li>
+            <h2><a href="{{past.url}}">{{ past.name }}</a></h2>
+            <p>
+            <i class="fa fa-calendar"></i> {{ past.dates }} <i class="fa fa-map-marker"></i> {{ past.location }}
+            {% if past.twitter != nil %}<a href="https://www.twitter.com/{{past.twitter}}"><i
+                class="fa fa-twitter"></i>{{past.twitter}}</a>{% endif %}
+            <a href="{{ past.video_url }}"><i class="fa fa-video-camera"></i> Event
+                Videos</a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
