@@ -25,6 +25,13 @@
   twitter: lambdatesting
   status: Registration is Open and Free
 
+- name: "Worqference"
+  location: Online
+  dates: "February 23-25, 2024"
+  url: https://www.thetesttribe.com/worqference/
+  twitter: the_test_tribe
+  status: Registration is Open 
+
 - name: "test:fest 2024"
   location: Wrocław, Poland
   dates: "March 2, 2024"
@@ -48,6 +55,13 @@
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: Early Bird Pricing is Open
+
+- name: "QonfX"
+  location: Online
+  dates: "April 20, 2024"
+  url: https://www.thetesttribe.com/qonfx/
+  twitter: the_test_tribe
+  status: Registration is Open and Free
 
 - name: STAREAST 2024
   location: Orlando, FL, USA
@@ -95,6 +109,13 @@
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
 
+- name: "TribeQonf"
+  location: Bangalore, India
+  dates: "July 5-6, 2024"
+  url: https://www.thetesttribe.com/tribeqonf/
+  twitter: the_test_tribe
+  status: Registration is Open
+
 - name: "ICSTP 2024: Software Testing Process Conference"
   location: Amsterdam, Netherlands
   dates: "August 5-6, 2024"
@@ -138,6 +159,13 @@
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Opening in January 2024
+
+- name: "TestFlix"
+  location: Online
+  dates: "October 19-20, 2024"
+  url: https://www.thetesttribe.com/testflix/
+  twitter: the_test_tribe
+  status: Registration is Open and Free
 
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
