@@ -50,7 +50,7 @@
   status: Early Bird Pricing is Open
 
 - name: STAREAST 2024
-  location: Orlando, FL, USA
+  location: Orlando, FL, USA and Online
   dates: "April 28 - May 3, 2024"
   url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
@@ -118,6 +118,13 @@
   url: https://www.ministryoftesting.com/events/testbash-brighton-2024?utm_medium=web&utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Open until February 14th 2024
+
+- name: STARWEST 2024
+  location: Anaheim, CA, USA and Online
+  dates: "September 22-27, 2024"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 4, 2024
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
