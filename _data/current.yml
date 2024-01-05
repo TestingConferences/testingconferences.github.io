@@ -18,24 +18,24 @@
   dates: "February 1-2, 2024"
   url: https://waset.org/software-testing-and-applications-conference-in-february-2024-in-rio-de-janeiro?utm_source=testingconferences
 
-- name: "Automation Guild 2024"
+- name: Automation Guild 2024
   location: Online
   dates: "February 5-9, 2024"
   url: https://www.testguild.com/ag-2024/?utm_source=testingconferences&utm_medium=organic&utm_content=ag_2024
   twitter: testguilds
   status: Registration is Open
 
-- name: "Spartans Summit 2024 by LambdaTest"
+- name: Spartans Summit 2024 by LambdaTest
   location: Online
   dates: "February 6, 2024"
   url: https://www.lambdatest.com/spartans-summit-2024?utm_source=STC&utm_medium=organic&utm_content=spartans_2024
   twitter: lambdatesting
   status: Registration is Open and Free
 
-- name: "Worqference"
+- name: Worqference
   location: Online
   dates: "February 23-25, 2024"
-  url: https://www.thetesttribe.com/worqference/
+  url: https://www.thetesttribe.com/worqference/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open 
 
@@ -56,17 +56,17 @@
   dates: "March 11-12, 2024"
   url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
 
-- name: "Testing Peers Conference 2024"
+- name: Testing Peers Conference 2024
   location: Nottingham, UK
   dates: "March 14, 2024"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: Early Bird Pricing is Open
 
-- name: "QonfX"
+- name: QonfX
   location: Online
   dates: "April 20, 2024"
-  url: https://www.thetesttribe.com/qonfx/
+  url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open and Free
 
@@ -77,7 +77,7 @@
   twitter: TechWell
   status: Super Early Bird Registration is Open until March 1, 2024
 
-- name: expo:QA 24
+- name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
   url: http://www.expoqa.com/?utm_source=testingconferences
@@ -116,10 +116,10 @@
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
 
-- name: "TribeQonf"
+- name: TribeQonf
   location: Bangalore, India
   dates: "July 12-13, 2024"
-  url: https://www.thetesttribe.com/tribeqonf/
+  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open
 
@@ -152,7 +152,7 @@
   dates: "September 18-19, 2024"
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
-  status: CFP is open
+  status: CFP is Open
 
 - name: STARWEST 2024
   location: Anaheim, CA, USA and Online
@@ -181,10 +181,10 @@
   twitter: esconfs
   status: CFP is Opening in January 2024
 
-- name: "TestFlix"
+- name: TestFlix
   location: Online
   dates: "October 19-20, 2024"
-  url: https://www.thetesttribe.com/testflix/
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open and Free
 
