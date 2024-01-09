@@ -7,7 +7,7 @@ This is a simple list of software testing conferences and workshops published co
 > git clone git@github.com:TestingConferences/testingconferences.github.io.git
 > cd testingconferences.github.io
 
-2. Make sure you've got Docker installed and Run the setup process 
+2. Make sure you've got Docker (or Orbstack) installed and Run the setup process 
 > /devops/setup.sh
 
 ## Contributing Guidelines
@@ -15,6 +15,8 @@ The list of events is driven by files in the ```_data``` folder - if you have an
   - The _order_ of the events listed in ```current.yml``` and ```past.yml``` dictates the _order_ displayed, please make sure to properly insert events.
   - If possible, spell out the conference name and add the abbreviation. Otherwise just use the abbreviation:
     - Example: Workshop on Performance and Reliability (WOPR)
+  - If the conference name has a colon (:), place the entire name in quotes. Otherwise this can cause build errors. 
+    - Example: ```"test:fest 2099"``` or ```"IBCU: Workshop on Testing 2099"``` 
   - Include the year
     - Sometimes workshops use a version instead of a year
       - Example: Workshop on Performance and Reliability (WOPR) 24
@@ -25,6 +27,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
     - Early Bird Registration is open
     - Registration is open / closed
     - Feel free to put in dates about when things expire
+    - Feel free to put the status as a link to the correct place
   - Optionally include a link to a conference video playlist. This will only appear for past conferences and can be added directly to the ```past.yml``` file.
     - These should be videos from the conference presentations or talks. No marketing videos please.  
 
