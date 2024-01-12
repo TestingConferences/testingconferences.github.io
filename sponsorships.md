@@ -27,11 +27,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>February 2024</td>
-    <td>Testing United</td>
+    <td>Open</td>
   </tr>
   <tr>
     <td>March 2024</td>
-    <td>Open</td>
+    <td>Testing United</td>
   </tr>
     <tr>
     <td>April 2024</td>
@@ -56,6 +56,18 @@ change month to month and year to year as traffic grows. We do offer multi-month
   <tr>
     <td>September 2024</td>
     <td>Testing United</td>
+  </tr>
+  <tr>
+    <td>October 2024</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>November 2024</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>December 2024</td>
+    <td>Open</td>
   </tr>
 </table>
 
