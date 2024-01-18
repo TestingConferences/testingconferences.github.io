@@ -68,7 +68,7 @@
 - name: STAREAST 2024
   location: Orlando, FL, USA and Online
   dates: "April 28 - May 3, 2024"
-  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferencesxf
+  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
   twitter: TechWell
   status: Super Early Bird Registration is Open until March 1, 2024
 
@@ -110,6 +110,13 @@
   dates: "June 12-14, 2024"
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
+
+  - name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
+  location: Online and in-person in London
+  dates: "June 19, 2024"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2024/
+  twitter: SIGiST
+  status: Call for papers is open
 
 - name: TribeQonf
   location: Bangalore, India
@@ -189,9 +196,4 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 11, 2024 | Super Early Bird Pricing is Open until April 26, 2024
 
-- name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
-  location: Online and in-person in London
-  dates: "June 19, 2024"
-  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2024/
-  twitter: SIGiST
-  status: Call for papers is open
+
