@@ -166,6 +166,13 @@
   url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
   status: CFP is Open until March 15, 2024
 
+- name: SEETEST 2024
+  location: Zagreb, Croatia and Online
+  dates: "September 25-27, 2024"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Super Early Bird Pricing is Open until February 29, 2024
+
 - name: HUSTEF Software Testing Conference 2024
   location: Budapest, Hungary
   dates: "October 8-10, 2024"
@@ -185,6 +192,13 @@
   dates: "October 14-15, 2023"
   url: https://qualitysenseconf.com/&utm_source=testingconferences
   twitter: abstractaus
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2024
+  location: Portland, Oregon and Online
+  dates: "October 14-16, 2024"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+  status: CFP is Open until April 1, 2024
 
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
