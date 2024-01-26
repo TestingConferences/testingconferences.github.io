@@ -79,6 +79,12 @@
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
 
+- name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam)
+  location: Santiago de Chile, Chile
+  dates: "December 6-8, 2023"
+  url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
+  twitter: WOPR_Workshop
+
 - name: "ICSTM 2023: Software Testing Methods Conference"
   location: San Francisco, CA, USA
   dates: "November 6-7, 2023"
