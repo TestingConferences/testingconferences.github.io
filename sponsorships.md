@@ -27,7 +27,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>February 2024</td>
-    <td>Open</td>
+    <td>WeTest.Athens 2024</td>
   </tr>
   <tr>
     <td>March 2024</td>
