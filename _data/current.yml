@@ -1,21 +1,9 @@
-- name: "ICSTA 2024: Software Testing and Applications Conference"
-  location: Rio de Janeiro, Brazil
-  dates: "February 1-2, 2024"
-  url: https://waset.org/software-testing-and-applications-conference-in-february-2024-in-rio-de-janeiro?utm_source=testingconferences
-
 - name: Automation Guild 2024
   location: Online
   dates: "February 5-9, 2024"
   url: https://www.testguild.com/ag-2024/?utm_source=testingconferences&utm_medium=organic&utm_content=ag_2024
   twitter: testguilds
   status: Registration is Open
-
-- name: Spartans Summit 2024 by LambdaTest
-  location: Online
-  dates: "February 6, 2024"
-  url: https://www.lambdatest.com/spartans-summit-2024?utm_source=STC&utm_medium=organic&utm_content=spartans_2024
-  twitter: lambdatesting
-  status: Registration is Open and Free
 
 - name: Worqference
   location: Online
