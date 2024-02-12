@@ -140,6 +140,13 @@
   dates: "September 18-19, 2024"
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
+  
+- name: TESTIT 2024
+  location: Malmö, Sweden
+  dates: "September 17, 2024"
+  url: https://www.knowit.eu/services/solutions/system-development-and-management/test-and-quality-assurance/conference-testit/
+  twitter: testit2024
+  
 
 - name: STARWEST 2024
   location: Anaheim, CA, USA and Online
@@ -147,6 +154,7 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
   status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 4, 2024
+  
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
