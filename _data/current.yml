@@ -54,20 +54,20 @@
   dates: "May 29-30, 2024"
   url: https://www.testautomationdays.com?utm_source=testingconferences
   twitter: testautomationd
-  status: Early Bird Registration is Open until February 1, 2024
+  status: Registration is Open
 
 - name: GreaTest Quality Convention 2024
   location: Zürich, Switzerland
   dates: "June 7, 2024"
   url: https://www.greatestquality.ch/?utm_source=testingconferences
   twitter: gtq_con
-  status: Early Bird Pricing is Open
+  status: Registration is Open
 
 - name: WeTest.Athens 2024
   location: Athens, Greece
   dates: "June 7, 2024"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: Super Early Bird Registration is Open
+  status: Early Ticket Registration is Open until March 31, 2024
 
 - name: EuroSTAR Software Testing Conference 2024
   location: Stockholm, Sweden
@@ -84,11 +84,10 @@
   status: Super Early Bird Registration is Open until March 1, 2024
 
 - name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
-  location: Online and in-person in London
+  location: Online and London, UK
   dates: "June 19, 2024"
   url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2024/?utm_source=testingconferences
   twitter: SIGiST
-  status: CFP is Open until February 14, 2024
 
 - name: QA or the Highway
   location: Columbus, Ohio, USA
@@ -131,7 +130,7 @@
 - name: Testit 2024
   location: Onsite
   dates: "September 17, 2024"
-  url: https://www.knowit.eu/services/solutions/system-development-and-management/test-and-quality-assurance/conference-testit/
+  url: https://www.knowit.eu/services/solutions/system-development-and-management/test-and-quality-assurance/conference-testit/?utm_source=testingconferences
   twitter: testit
   status: Registration is Open
 
@@ -140,13 +139,14 @@
   dates: "September 18-19, 2024"
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
+  status: Early Bird Registration is Open until April 30, 2024
 
 - name: STARWEST 2024
   location: Anaheim, CA, USA and Online
   dates: "September 22-27, 2024"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 4, 2024
+  status: Registration will open soon
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
@@ -166,13 +166,13 @@
   dates: "September 28, 2024"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: CFP is Open until 1 May 2024, Registration is Open - Free for Online, Super Early Discounts for Onsite
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4h2aYitFCMlVFCWLjM551Mp2a22RLczlMCqF8w3uYz-8UDw/viewform" target="_blank">CFP is Open</a> until 1 May 2024, <a href="https://www.cognitoforms.com/WebbicusLtd/buyticketsforchallengeacceptedconferences2024" target="_blank">Registration is Open - Free for Online, Super Early Discounts for Onsite
 
 - name: Targeting Quality 2024
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 28, 2024. <a href="https://kwsqa.org/tq2024/call-for-presentations/" target="_blank">CFP is open</a> until April 16, 2024.
+  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 28, 2024. <a href="https://kwsqa.org/tq2024/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is open</a> until April 16, 2024.
 
 - name: HUSTEF Software Testing Conference 2024
   location: Budapest, Hungary
@@ -186,7 +186,7 @@
   dates: "October 9-10, 2024"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Open until January 31, 2024
+  status: 2 for 1 Sale on Tickets
 
 - name: Quality Sense Conf 2024
   location: Medellín, Colombia & Online
@@ -218,6 +218,6 @@
   location: Potsdam, Germany
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
-  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 11, 2024 | Super Early Bird Pricing is Open until April 26, 2024
+  status: Super Early Bird Pricing is Open until April 26, 2024
 
 
