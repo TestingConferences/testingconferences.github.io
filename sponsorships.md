@@ -22,10 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2024</td>
-    <td>EuroSTAR</td>
-  </tr>
-  <tr>
     <td>February 2024</td>
     <td>WeTest.Athens 2024</td>
   </tr>
