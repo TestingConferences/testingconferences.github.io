@@ -112,6 +112,13 @@
   url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
   twitter: lambdatesting
   status: <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
+  
+- name: Hands on Testing 2024
+  location: Mexico City, Mexico and Online
+  dates: "August 21-24, 2024"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is open until March 30th 2024</a>
 
 - name: TestBash Brighton 2024
   location: Brighton, UK
@@ -212,5 +219,3 @@
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
-
-
