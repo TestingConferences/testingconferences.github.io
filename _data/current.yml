@@ -1,10 +1,3 @@
-- name: "test:fest 2024"
-  location: Wrocław, Poland
-  dates: "March 2, 2024"
-  url: https://testfest.pl/?utm_source=testingconferences
-  twitter: test_fest_
-  status: Registration is Open and Free
-
 - name: "ICGSDT 2024: Global Software Development and Testing Conference"
   location: Istanbul, Turkey
   dates: "March 11-12, 2024"
@@ -152,7 +145,7 @@
   dates: "September 25-27, 2024"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: Super Early Bird Pricing is Open until February 29, 2024
+  status: CFP is Open until April 15, 2024
 
 - name: "QA: Challenge Accepted 2024 - The Anniversary"
   location: Sofia, Bulgaria and Online
@@ -192,7 +185,7 @@
   dates: "October 14-16, 2024"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: CFP is Open until April 1, 2024
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1385427">CFP is Open until April 1, 2024</a>. Super Early Bird Pricing is Open until July 1, 2024. 
 
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
@@ -207,10 +200,15 @@
   twitter: the_test_tribe
   status: Registration is Open and Free
 
+- name: Testing United 2024
+  location: Vienna, Austria
+  dates: "November 7-8, 2024"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+  status: Super Early Bird Pricing is Open
+
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
-
-
