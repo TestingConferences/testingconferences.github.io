@@ -29,6 +29,13 @@
   twitter: TechWell
   status: Super Early Bird Registration is Open until March 1, 2024
 
+- name: "POST/CON 24"
+  location: San Francisco, CA, USA
+  dates: "April 30 - May 1, 2024"
+  url: https://www.postman.com/postcon?utm_source=testingconferences
+  twitter: getpostman
+  status: <a href="https://postcon.postman.com/event/5bb77b40-684b-4b79-bb8f-f1420897ee6e/regProcessStep1" target="_blank">Registration is Open</a>
+
 - name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
