@@ -1,20 +1,3 @@
-- name: "ICGSDT 2024: Global Software Development and Testing Conference"
-  location: Istanbul, Turkey
-  dates: "March 11-12, 2024"
-  url: https://waset.org/global-software-development-and-testing-conference-in-march-2024-in-istanbul?utm_source=testingconferences
-
-- name: "ICSTM 2024: Software Testing Methods Conference"
-  location: Miami, FL USA
-  dates: "March 11-12, 2024"
-  url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
-
-- name: Testing Peers Conference 2024
-  location: Nottingham, UK
-  dates: "March 14, 2024"
-  url: https://testingpeerscon.com/?utm_source=testingconferences
-  twitter: testingpeers
-  status: Registration is Open
-
 - name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
   location: Bengaluru, India
   dates: "April 18, 2024"
@@ -28,6 +11,13 @@
   url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open and Free
+
+- name: Mobile Testing & Experience Summit (MTES 24)
+  location: Online
+  dates: "May 16, 2024"
+  url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
+  twitter: kobitonmobile
+  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
   
 - name: "Testing, Agile, DevOps &amp; Low Code Showcase: Methods and Tools"
   location: London, UK
@@ -38,7 +28,7 @@
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: London, UK
-  dates: "23 May 2024"
+  dates: "May 23, 2024"
   url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
@@ -62,7 +52,7 @@
   dates: "April 28 - May 3, 2024"
   url: https://stareast.techwell.com/pricing-packages?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Registration is Open until March 1, 2024
+  status: Early Bird Registration is Open until March 29, 2024
 
 - name: "POST/CON 24"
   location: San Francisco, CA, USA
@@ -76,6 +66,7 @@
   dates: "May 28-30, 2024"
   url: http://www.expoqa.com/?utm_source=testingconferences
   twitter: expoqa
+  status: <a href="https://expoqa.eu/ticket-pricing/" target="_blank">Early Bird Registration</a> is Open until March 31, 2024
 
 - name: Test Automation Days 2024
   location: Rotterdam, the Netherlands
@@ -207,7 +198,7 @@
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 28, 2024. <a href="https://kwsqa.org/tq2024/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is open</a> until April 16, 2024.
+  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 29, 2024. <a href="https://kwsqa.org/tq2024/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is open</a> until April 16, 2024.
 
 - name: HUSTEF Software Testing Conference 2024
   location: Budapest, Hungary
