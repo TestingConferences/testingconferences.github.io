@@ -1,3 +1,19 @@
+- name: Testing Peers Conference 2024
+  location: Nottingham, UK
+  dates: "March 14, 2024"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+
+- name: "ICSTM 2024: Software Testing Methods Conference"
+  location: Miami, FL USA
+  dates: "March 11-12, 2024"
+  url: https://waset.org/software-testing-methods-conference-in-march-2024-in-miami?utm_source=testingconferences
+
+- name: "ICGSDT 2024: Global Software Development and Testing Conference"
+  location: Istanbul, Turkey
+  dates: "March 11-12, 2024"
+  url: https://waset.org/global-software-development-and-testing-conference-in-march-2024-in-istanbul?utm_source=testingconferences
+
 - name: "test:fest 2024"
   location: Wrocław, Poland
   dates: "March 2, 2024"
