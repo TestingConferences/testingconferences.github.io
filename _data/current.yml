@@ -18,13 +18,6 @@
   url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
   twitter: kobitonmobile
   status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
-  
-- name: "Testing, Agile, DevOps &amp; Low Code Showcase: Methods and Tools"
-  location: London, UK
-  dates: "May 23, 2024"
-  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Registration is Open and Free
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: London, UK
@@ -41,7 +34,7 @@
   status: Registration is Open and Free
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
-  location: Rotterdam
+  location: Rotterdam, the Netherlands
   dates: "April 25, 2024"
   url: https://conference.unicom.co.uk/2024/march/agile-devops-software-testing-conference/rotterdam/?utm_source=testingconferences
   twitter: UNICOMSeminars
@@ -93,14 +86,14 @@
   dates: "June 11-14, 2024"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Super Early Bird Registration is Open until February 29, 2024
+  status: Early Bird Registration is Open until April 21, 2024
 
 - name: Romanian Testing Conference
   location: Romania
   dates: "June 12-14, 2024"
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: Super Early Bird Registration is Open until March 1, 2024
+  status: Early Bird Registration is Open until April 30, 2024
 
 - name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
   location: Online and London, UK
@@ -113,7 +106,7 @@
   dates: "June 21, 2024"
   url: https://www.qaorthehwy.com?utm_source=testingconferences
   twitter: QAortheHighway
-  status: CFP is Open until March 1, 2024
+  status: Early Bird Registration is Open
 
 - name: TribeQonf
   location: Bangalore, India
