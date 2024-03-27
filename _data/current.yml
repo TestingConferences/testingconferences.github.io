@@ -137,14 +137,14 @@
   dates: "August 21-24, 2024"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
-  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is open until March 30th 2024</a>
+  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is Open until March 30, 2024</a>
 
 - name: TestBash Brighton 2024
   location: Brighton, UK
   dates: "September 12-13, 2024"
   url: https://www.ministryoftesting.com/events/testbash-brighton-2024?utm_medium=web&utm_source=testingconferences
   twitter: ministryoftest
-  status: CFP is Open until February 14th 2024
+  status: Super Early Bird Registration is Open until May 31, 2024
 
 - name: Testit 2024
   location: Onsite
@@ -170,15 +170,15 @@
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
   dates: "September 26, 2024"
-  url: https://event.dataforeningen.no/odin/?utm_source=testingconferences
-  status: CFP is Open until March 15, 2024
+  url: https://event.dataforeningen.no/odin2024/?utm_source=testingconferences
+  status: <a href="https://event.dataforeningen.no/odin2024/apply-to-be-a-speaker-at-odin-2024/" target="_blank">CFP is Open</a> until April 22, 2024
 
 - name: SEETEST 2024
   location: Zagreb, Croatia and Online
   dates: "September 25-27, 2024"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: CFP is Open until April 15, 2024
+  status: <a href="https://pc.seetest.org/openconf.php" target="_blank">CFP is Open</a> until April 15, 2024
 
 - name: "QA: Challenge Accepted 2024 - The Anniversary"
   location: Sofia, Bulgaria and Online
@@ -198,7 +198,7 @@
   dates: "October 8-10, 2024"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: hustef
-  status: CFP is Open until 11th March 2024
+  status: Early Bird Pricing is Open
 
 - name: AutomationSTAR Test Automation Conference 2024
   location: Vienna, Austria
