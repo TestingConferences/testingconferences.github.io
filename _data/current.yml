@@ -54,6 +54,20 @@
   twitter: getpostman
   status: <a href="https://postcon.postman.com/event/5bb77b40-684b-4b79-bb8f-f1420897ee6e/regProcessStep1" target="_blank">Registration is Open</a>
 
+- name: Mobile Testing & Experience Summit (MTES 24)
+  location: Online
+  dates: "May 16, 2024"
+  url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
+  twitter: kobitonmobile
+  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
+
+- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
+  location: London, UK
+  dates: "May 23, 2024"
+  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+  status: Registration is Open
+
 - name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
@@ -114,6 +128,13 @@
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open
+  
+- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
+  location: Pune, India
+  dates: "July 25, 2024"
+  url: https://conference.unicom.co.uk/2024/july/agile-devops-software-testing-conference/pune/
+  twitter: UNICOMLearning
+  status: Registration is Open
 
 - name: "ICSTP 2024: Software Testing Process Conference"
   location: Amsterdam, Netherlands
@@ -165,7 +186,7 @@
   dates: "September 22-27, 2024"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Registration will open soon
+  status: Registration will Open Soon
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
