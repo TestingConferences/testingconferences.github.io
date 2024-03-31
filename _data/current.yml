@@ -122,6 +122,13 @@
   twitter: QAortheHighway
   status: Early Bird Registration is Open
 
+- name: Selenium Conf 2024
+  location: Online
+  dates: "June 21, 2024"
+  url: https://2024.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Registration is Open
+
 - name: TribeQonf
   location: Bangalore, India
   dates: "July 12-13, 2024"
@@ -252,6 +259,13 @@
   dates: "October 19-20, 2024"
   url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   twitter: the_test_tribe
+  status: Registration is Open and Free
+
+- name: Testing Stage LATAM
+  location: Online
+  dates: "October 25, 2024"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
   status: Registration is Open and Free
 
 - name: Testing United 2024
