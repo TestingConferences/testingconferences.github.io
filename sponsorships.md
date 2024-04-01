@@ -22,14 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>February 2024</td>
-    <td>WeTest.Athens 2024</td>
-  </tr>
-  <tr>
-    <td>March 2024</td>
-    <td>Testing United</td>
-  </tr>
-    <tr>
     <td>April 2024</td>
     <td>EuroSTAR/AutomationSTAR</td>
   </tr>
@@ -59,11 +51,27 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>November 2024</td>
-    <td>Open</td>
+    <td>EuroSTAR</td>
   </tr>
   <tr>
     <td>December 2024</td>
     <td>Open</td>
+  </tr>
+  <tr>
+    <td>January 2025</td>
+    <td>EuroSTAR</td>
+  </tr>
+  <tr>
+    <td>March 2025</td>
+    <td>AutomationSTAR</td>
+  </tr>
+  <tr>
+    <td>April 2025</td>
+    <td>EuroSTAR</td>
+  </tr>
+  <tr>
+    <td>June 2025</td>
+    <td>AutomationSTAR</td>
   </tr>
 </table>
 
