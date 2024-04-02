@@ -286,20 +286,18 @@
   twitter: the_test_tribe
   status: Registration is Open and Free
 
-<<<<<<< HEAD
 - name: TestCon Europe 2024
   location: Vilnius, Lithuania and Online
   dates: "October 22-25, 2024"
   url: https://testcon.lt/?utm_source=testingconferences
   status: CFP is Open
-=======
+
 - name: Testing Stage LATAM
   location: Online
   dates: "October 25, 2024"
   url: https://latamtesting.com/?utm_source=testingconferences
   twitter: testingstage
   status: Registration is Open and Free
->>>>>>> d965bb044b54816fbf059e5e4cac35032e4d8cc6
 
 - name: Testing United 2024
   location: Vienna, Austria
@@ -313,7 +311,6 @@
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
-<<<<<<< HEAD
 
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
@@ -321,7 +318,3 @@
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: Announced
-
-=======
-  
->>>>>>> d965bb044b54816fbf059e5e4cac35032e4d8cc6
