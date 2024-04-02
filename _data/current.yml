@@ -67,6 +67,12 @@
   url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
   twitter: kobitonmobile
   status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
+    
+- name: The Premier Online Conference For Software Testing
+  location: online
+  dates: "May 21-22, 2024"
+  url: https://live2test.com/
+  status: Super Early Bird Pricing is Open until end of March 2024
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: London, UK
@@ -74,7 +80,13 @@
   url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
   twitter: UNICOMSeminars
   status: Registration is Open
-
+  
+- name: İstanbul Software Testing Conference
+  location: Istanbul, Turkey
+  dates: "May 23-24, 2024"
+  url: https://iststc.com/
+  status: Early bird is Open until April, 10, 2024
+  
 - name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
@@ -100,7 +112,7 @@
   location: Athens, Greece
   dates: "June 7, 2024"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: Early Ticket Registration is Open until March 31, 2024
+  status: Registration is Open
 
 - name: EuroSTAR Software Testing Conference 2024
   location: Stockholm, Sweden
@@ -128,6 +140,13 @@
   url: https://www.qaorthehwy.com?utm_source=testingconferences
   twitter: QAortheHighway
   status: Early Bird Registration is Open
+
+- name: Selenium Conf 2024
+  location: Online
+  dates: "June 21, 2024"
+  url: https://2024.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Registration is Open
 
 - name: TribeQonf
   location: Bangalore, India
@@ -233,7 +252,13 @@
   dates: "October 9-10, 2024"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: 2 for 1 Sale on Tickets
+  status: Tickets on Sale
+  
+- name: Test İstanbul
+  location: online
+  dates: "October 10-11, 2024"
+  url: https://testistanbul.org/
+  status: Early Bird Pricing is Open Until May 31, 2024
 
 - name: Quality Sense Conf 2024
   location: Medellín, Colombia & Online
@@ -261,11 +286,20 @@
   twitter: the_test_tribe
   status: Registration is Open and Free
 
+<<<<<<< HEAD
 - name: TestCon Europe 2024
   location: Vilnius, Lithuania and Online
   dates: "October 22-25, 2024"
   url: https://testcon.lt/?utm_source=testingconferences
   status: CFP is Open
+=======
+- name: Testing Stage LATAM
+  location: Online
+  dates: "October 25, 2024"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
+  status: Registration is Open and Free
+>>>>>>> d965bb044b54816fbf059e5e4cac35032e4d8cc6
 
 - name: Testing United 2024
   location: Vienna, Austria
@@ -279,6 +313,7 @@
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
+<<<<<<< HEAD
 
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
@@ -287,3 +322,6 @@
   twitter: testingpeers
   status: Announced
 
+=======
+  
+>>>>>>> d965bb044b54816fbf059e5e4cac35032e4d8cc6
