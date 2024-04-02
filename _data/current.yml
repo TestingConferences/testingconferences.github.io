@@ -12,6 +12,13 @@
   twitter: the_test_tribe
   status: Registration is Open and Free
 
+- name: Qualicon 2024
+  location: Online
+  dates: "May 15-16, 2024"
+  url: https://gamequality.org/qualicon/?utm_source=testingconferences
+  twitter: QualiconGlobal
+  status: CFP is Closed
+
 - name: Mobile Testing & Experience Summit (MTES 24)
   location: Online
   dates: "May 16, 2024"
@@ -254,6 +261,12 @@
   twitter: the_test_tribe
   status: Registration is Open and Free
 
+- name: TestCon Europe 2024
+  location: Vilnius, Lithuania and Online
+  dates: "October 22-25, 2024"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: CFP is Open
+
 - name: Testing United 2024
   location: Vienna, Austria
   dates: "November 7-8, 2024"
@@ -266,3 +279,11 @@
   dates: "November 19-22, 2024"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
+
+- name: Testing Peers Conference 2025
+  location: Nottingham, UK
+  dates: "March 13, 2025"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+  status: Announced
+
