@@ -30,7 +30,7 @@
   dates: "May 16, 2024"
   url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
   twitter: kobitonmobile
-  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
+  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024. Registration is Open and Free
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: London, UK
@@ -96,9 +96,9 @@
 - name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
-  url: http://www.expoqa.com/?utm_source=testingconferences
+  url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.eu/ticket-pricing/" target="_blank">Early Bird Registration</a> is Open until March 31, 2024
+  status: <a href="https://expoqa.eu/ticket-pricing/" target="_blank">Anniversary Sale</a> is Open until April 30, 2024
 
 - name: Test Automation Days 2024
   location: Rotterdam, the Netherlands
@@ -231,7 +231,7 @@
   dates: "September 25-27, 2024"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: <a href="https://pc.seetest.org/openconf.php" target="_blank">CFP is Open</a> until April 15, 2024
+  status: <a href="https://pc.seetest.org/openconf.php" target="_blank">CFP is Open</a> until April 30, 2024
 
 - name: "QA: Challenge Accepted 2024 - The Anniversary"
   location: Sofia, Bulgaria and Online
@@ -258,7 +258,7 @@
   dates: "October 9-10, 2024"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Tickets on Sale
+  status: Launch Offer is Open Until May 16, 2024
   
 - name: Test İstanbul
   location: online
@@ -277,7 +277,7 @@
   dates: "October 14-16, 2024"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1385427">CFP is Open until April 1, 2024</a>. Super Early Bird Pricing is Open until July 1, 2024. 
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1385427">CFP is Open until April 15, 2024</a>. Super Early Bird Pricing is Open until July 1, 2024. 
 
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
@@ -305,6 +305,12 @@
   twitter: testingstage
   status: Registration is Open and Free
 
+- name: TestWarez 2024
+  location: Sopot, Poland
+  dates: "November 6-8, 2024"
+  url: https://2024.testwarez.pl/?utm_source=testingconferences
+  status: <a href="https://2024.testwarez.pl/wspolpraca-z-prelegentami/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 29, 2024
+  
 - name: Testing United 2024
   location: Vienna, Austria
   dates: "November 7-8, 2024"
