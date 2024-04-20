@@ -46,6 +46,12 @@
   status: Registration is Open and Free
   video_url: https://www.lambdatest.com/spartans-summit-2024
 
+- name: SoCraTes Conference Switzerland 2024
+  location: Ilanz, Switzerland
+  dates: "February 1-4, 2024"
+  url: http://www.socrates-ch.org/?utm_source=testingconferences
+  twitter: SoCraTes_CH
+
 - name: "ICSTA 2024: Software Testing and Applications Conference"
   location: Rio de Janeiro, Brazil
   dates: "February 1-2, 2024"
