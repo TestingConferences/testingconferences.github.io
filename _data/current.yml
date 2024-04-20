@@ -1,10 +1,3 @@
-- name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
-  location: Bengaluru, India
-  dates: "April 18, 2024"
-  url: https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2024/?utm_source=testingconferences
-  twitter: UNICOMLearning
-  status: Registration is Open
-
 - name: QonfX
   location: Online
   dates: "April 20, 2024"
@@ -260,24 +253,19 @@
   url: https://testistanbul.org/
   status: Early Bird Pricing is Open Until May 31, 2024
 
-- name: Quality Sense Conf 2024
-  location: Medellín, Colombia & Online
-  dates: "October 14-15, 2023"
-  url: https://qualitysenseconf.com/&utm_source=testingconferences
-  twitter: abstractaus
-
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2024
   location: Portland, Oregon and Online
   dates: "October 14-16, 2024"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1385427">CFP is Open until April 15, 2024</a>. Super Early Bird Pricing is Open until July 1, 2024. 
+  status: Super Early Bird Pricing is Open until July 1, 2024. 
 
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
-  dates: "October 16-18, 2024"
+  dates: "October 23-25, 2024"
   url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
   twitter: WOPR_Workshop
+  status: <a href="https://docs.google.com/forms/d/1PpAWCTf9BXGUtpw466UkeH8a-Sb5J9w6RxPpxez6K14/viewform?edit_requested=true" target="_blank">CFP is Open</a> until May 19, 2024
 
 - name: TestFlix
   location: Online
@@ -285,6 +273,13 @@
   url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   twitter: the_test_tribe
   status: Registration is Open and Free
+
+- name: Quality Sense Conf 2024
+  location: Medellín, Colombia & Online
+  dates: "October 21-22, 2024"
+  url: https://qualitysenseconf.com/&utm_source=testingconferences
+  twitter: abstractaus
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQH4MAwXlMKLrK2CIwe-s-Ukbab7CACYPZv_hr5bn4Sgs19A/viewform" target="_blank">CFP is Open</a> until June 2, 2024
 
 - name: TestCon Europe 2024
   location: Vilnius, Lithuania and Online
