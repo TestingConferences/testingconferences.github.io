@@ -3,32 +3,6 @@
   dates: "April 25, 2024"
   url: https://testscouts.se/testcoast?utm_source=testingconferences
   twitter: testscouts
-
-- name: Qualicon 2024
-  location: Online
-  dates: "May 15-16, 2024"
-  url: https://gamequality.org/qualicon/?utm_source=testingconferences
-  twitter: QualiconGlobal
-
-- name: Mobile Testing & Experience Summit (MTES 24)
-  location: Online
-  dates: "May 16, 2024"
-  url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
-  twitter: kobitonmobile
-  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024. Registration is Open and Free
-
-- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
-  location: London, UK
-  dates: "May 23, 2024"
-  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Registration is Open
-
-- name: Test Coast 2024
-  location: Gothenburg, Sweden
-  dates: "April 25, 2024"
-  url: https://testscouts.se/testcoast/?utm_source=testingconferences
-  twitter: testscouts
   status: Registration is Open and Free
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
@@ -52,18 +26,31 @@
   twitter: getpostman
   status: Registration is Closed / Sold Out
 
+- name: Qualicon 2024
+  location: Online
+  dates: "May 15-16, 2024"
+  url: https://gamequality.org/qualicon/?utm_source=testingconferences
+  twitter: QualiconGlobal
+
 - name: Mobile Testing & Experience Summit (MTES 24)
   location: Online
   dates: "May 16, 2024"
   url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
   twitter: kobitonmobile
-  status: <a href="https://info.kobiton.com/2024-mtes-call-for-speakers" target="_blank">CFP is Open</a> until April 19, 2024
-    
+  status: Registration is Open and Free
+
 - name: The Premier Online Conference For Software Testing
   location: Online
   dates: "May 21-22, 2024"
   url: https://live2test.com/?utm_source=testingconferences
   twitter: TesterYouHQ
+  status: Registration is Open
+
+- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
+  location: London, UK
+  dates: "May 23, 2024"
+  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
+  twitter: UNICOMSeminars
   status: Registration is Open
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
