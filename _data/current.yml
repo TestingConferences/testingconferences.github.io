@@ -3,7 +3,7 @@
   dates: "April 25, 2024"
   url: https://testscouts.se/testcoast?utm_source=testingconferences
   twitter: testscouts
-  status: Registration is Open and Free
+  status: Registration is Closed / Sold Out
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
   location: Rotterdam, the Netherlands
@@ -17,7 +17,7 @@
   dates: "April 28 - May 3, 2024"
   url: https://stareast.techwell.com/pricing-packages?utm_source=testingconferences
   twitter: TechWell
-  status: Early Bird Registration is Open until March 29, 2024
+  status: Registration is Open
 
 - name: "POST/CON 24"
   location: San Francisco, CA, USA
@@ -44,13 +44,6 @@
   dates: "May 21-22, 2024"
   url: https://live2test.com/?utm_source=testingconferences
   twitter: TesterYouHQ
-  status: Registration is Open
-
-- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
-  location: London, UK
-  dates: "May 23, 2024"
-  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
-  twitter: UNICOMSeminars
   status: Registration is Open
 
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
@@ -98,7 +91,7 @@
   dates: "June 11-14, 2024"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open until April 21, 2024
+  status: Registration is Open
 
 - name: Romanian Testing Conference
   location: Romania
@@ -125,7 +118,7 @@
   dates: "June 21, 2024"
   url: https://2024.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Registration is Open
+  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Smart Registration is Open
 
 - name: TribeQonf
   location: Bangalore, India
