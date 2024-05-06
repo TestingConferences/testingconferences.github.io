@@ -1,3 +1,27 @@
+- name: "POST/CON 24"
+  location: San Francisco, CA, USA
+  dates: "April 30 - May 1, 2024"
+  url: https://www.postman.com/postcon?utm_source=testingconferences
+  twitter: getpostman
+
+- name: STAREAST 2024
+  location: Orlando, FL, USA and Online
+  dates: "April 28 - May 3, 2024"
+  url: https://stareast.techwell.com/pricing-packages?utm_source=testingconferences
+  twitter: TechWell
+
+- name: "Testing, Agile, DevOps & Low Code Showcase: Exploring Good Practices"
+  location: Rotterdam, the Netherlands
+  dates: "April 25, 2024"
+  url: https://conference.unicom.co.uk/2024/march/agile-devops-software-testing-conference/rotterdam/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+
+- name: Test Coast 2024
+  location: Gothenburg, Sweden
+  dates: "April 25, 2024"
+  url: https://testscouts.se/testcoast?utm_source=testingconferences
+  twitter: testscouts
+
 - name: QonfX
   location: Online
   dates: "April 20, 2024"
