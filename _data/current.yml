@@ -1,16 +1,3 @@
-- name: Qualicon 2024
-  location: Online
-  dates: "May 15-16, 2024"
-  url: https://gamequality.org/qualicon/?utm_source=testingconferences
-  twitter: QualiconGlobal
-
-- name: Mobile Testing & Experience Summit (MTES 24)
-  location: Online
-  dates: "May 16, 2024"
-  url: https://kobiton.registration.goldcast.io/events/70443ba0-d6ae-4035-9efa-924a4ffa60eb?utm_source=testingconferences
-  twitter: kobitonmobile
-  status: Registration is Open and Free
-
 - name: The Premier Online Conference For Software Testing
   location: Online
   dates: "May 21-22, 2024"
