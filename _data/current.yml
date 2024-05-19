@@ -251,6 +251,12 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Super Early Bird Pricing is Open until April 26, 2024
 
+- name: TestDag (Dutch Testing Day) 2024
+  location: Amsterdam, The Netherlands
+  dates: "November 29, 2024"
+  url: https://testdag.nl/?utm_source=testingconferences
+  status: Registration is Open and Free, <a href="https://docs.google.com/forms/d/1QUlHnA97vCEnJ5qnu2Syg9CXCuJAQT1K6_Xu_Nl7Bz8/?utm_source=testingconferences" target="_blank">CFP is Open</a> until July 26, 2024
+
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
   dates: "March 13, 2025"
