@@ -225,6 +225,12 @@
   url: https://testcon.lt/?utm_source=testingconferences
   status: CFP is Open
 
+- name: Wrobocon 2024 - Polish Robot Framework Conference
+  location: Online
+  dates: "October 24, 2024"
+  url: https://wrobocon.eu/
+  status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a> until June 30, 2024
+
 - name: Testing Stage LATAM
   location: Online
   dates: "October 25, 2024"
@@ -256,6 +262,12 @@
   dates: "November 29, 2024"
   url: https://testdag.nl/?utm_source=testingconferences
   status: Registration is Open and Free, <a href="https://docs.google.com/forms/d/1QUlHnA97vCEnJ5qnu2Syg9CXCuJAQT1K6_Xu_Nl7Bz8/?utm_source=testingconferences" target="_blank">CFP is Open</a> until July 26, 2024
+
+- name: RoboCon 2025 - Robot Framework Conference
+  location: Helsinki, Finland
+  dates: "Febraury 13-14, 2025"
+  url: https://robocon.io/
+  status: Announced
 
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
