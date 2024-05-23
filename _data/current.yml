@@ -264,6 +264,13 @@
   twitter: testing_united
   status: Early Bird Pricing is Open until June 30, 2024
 
+- name: OnlineTestConf
+  location: Online
+  dates: "November 12-13, 2024"
+  url: https://www.onlinetestconf.com/
+  twitter: OnlineTestConf
+  status: <a href="https://www.onlinetestconf.com/call-for-speakers/" target="_blank">Call for Speakers</a> is open until August 10, 2024
+
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
   dates: "November 19-22, 2024"
