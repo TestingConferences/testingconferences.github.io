@@ -1,23 +1,3 @@
-- name: The Premier Online Conference For Software Testing
-  location: Online
-  dates: "May 21-22, 2024"
-  url: https://live2test.com/?utm_source=testingconferences
-  twitter: TesterYouHQ
-  status: Registration is Open
-
-- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
-  location: London, UK
-  dates: "May 23, 2024"
-  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
-  twitter: UNICOMSeminars
-  status: Registration is Open
-  
-- name: İstanbul Software Testing Conference
-  location: Istanbul, Turkey
-  dates: "May 23-24, 2024"
-  url: https://iststc.com/?utm_source=testingconferences
-  status: Registration is Open
-  
 - name: "expo:QA 24"
   location: Madrid, Spain
   dates: "May 28-30, 2024"
