@@ -37,7 +37,7 @@
   dates: "June 12-14, 2024"
   url: https://romaniatesting.ro?utm_source=testingconferences
   twitter: romaniatesting
-  status: Early Bird Registration is Open until April 30, 2024
+  status: Registration is Open
 
 - name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
   location: Online and London, UK
@@ -50,14 +50,14 @@
   dates: "June 21, 2024"
   url: https://www.qaorthehwy.com?utm_source=testingconferences
   twitter: QAortheHighway
-  status: Early Bird Registration is Open
+  status: Registration is Open
 
 - name: Selenium Conf 2024
   location: Online
   dates: "June 21, 2024"
   url: https://2024.seleniumconf.in/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Smart Registration is Open
+  status: Registration is Open
 
 - name: TribeQonf
   location: Bangalore, India
@@ -95,7 +95,7 @@
   dates: "August 21-24, 2024"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
-  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is Open until April 30, 2024</a>
+  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is Closed</a>
 
 - name: Innovate QA
   location: Seattle, WA, USA
@@ -121,48 +121,48 @@
 - name: TACON 2024
   location: Leipzig, Germany
   dates: "September 18-19, 2024"
-  url: http://tacon-konferenz.de
-  status: Cheapest Early Bird Registration is open until July 11, 2024
+  url: http://tacon-konferenz.de?utm_source=testingconferences
+  status: Early Bird Registration is Open until July 11, 2024
 
 - name: SANAE BEER.EX 2024
   location: Bratislava, Slovakia
   dates: "September 18-19, 2024"
   url: https://sanae.beer?utm_source=testingconferences
   twitter: sanae_beer
-  status: Early Bird Registration is Open until April 30, 2024
+  status: Registration is Open
 
 - name: STARWEST 2024
   location: Anaheim, CA, USA and Online
   dates: "September 22-27, 2024"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Registration will Open Soon
+  status: Super Early Bird Registration is Open until July 26, 2024
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
   dates: "September 26, 2024"
   url: https://event.dataforeningen.no/odin2024/?utm_source=testingconferences
-  status: <a href="https://event.dataforeningen.no/odin2024/apply-to-be-a-speaker-at-odin-2024/" target="_blank">CFP is Open</a> until April 22, 2024
+  status: Registration is Open
 
 - name: SEETEST 2024
   location: Zagreb, Croatia and Online
   dates: "September 25-27, 2024"
   url: https://seetest.org/?utm_source=testingconferences
   twitter: SEETESTConf
-  status: <a href="https://pc.seetest.org/openconf.php" target="_blank">CFP is Open</a> until April 30, 2024
+  status: Early Bird Registration is Open
 
 - name: "QA: Challenge Accepted 2024 - The Anniversary"
   location: Sofia, Bulgaria and Online
   dates: "September 28, 2024"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4h2aYitFCMlVFCWLjM551Mp2a22RLczlMCqF8w3uYz-8UDw/viewform" target="_blank">CFP is Open</a> until 1 May 2024, <a href="https://www.cognitoforms.com/WebbicusLtd/buyticketsforchallengeacceptedconferences2024" target="_blank">Super Early Bird Registration is Open</a>
+  status: <a href="https://www.cognitoforms.com/WebbicusLtd/buyticketsforchallengeacceptedconferences2024" target="_blank">Super Early Bird Registration is Open</a>
 
 - name: Targeting Quality 2024
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 28, 2024.
+  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Early Bird Registration</a> is Open until July 14, 2024.
 
 - name: HUSTEF Software Testing Conference 2024
   location: Budapest, Hungary
