@@ -103,6 +103,12 @@
   dates: "August 5-6, 2024"
   url: https://waset.org/software-testing-strategies-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
 
+- name: Testing Talks 2024
+  location: Sydney, Australia
+  dates: "August 15, 2024"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney
+  status: Registration is Open
+
 - name: Testμ 2024
   location: Online
   dates: "August 21-23, 2024"
@@ -211,6 +217,12 @@
   twitter: PNSQC
   status: Super Early Bird Pricing is Open until July 1, 2024. 
 
+- name: Testing Talks 2024
+  location: Melbourne, Australia
+  dates: "October 17, 2024"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne
+  status: Registration is Open
+  
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
   dates: "October 23-25, 2024"
