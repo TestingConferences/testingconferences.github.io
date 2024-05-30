@@ -214,7 +214,7 @@
   dates: "October 23-25, 2024"
   url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
   twitter: WOPR_Workshop
-  status: <a href="https://docs.google.com/forms/d/1PpAWCTf9BXGUtpw466UkeH8a-Sb5J9w6RxPpxez6K14/viewform?edit_requested=true" target="_blank">CFP is Open</a> until May 19, 2024
+  status: <a href="https://docs.google.com/forms/d/1PpAWCTf9BXGUtpw466UkeH8a-Sb5J9w6RxPpxez6K14/viewform?edit_requested=true" target="_blank">CFP is Open</a> until June 2, 2024
 
 - name: TestFlix
   location: Online
@@ -239,7 +239,7 @@
 - name: Wrobocon 2024 - Polish Robot Framework Conference
   location: Online
   dates: "October 24, 2024"
-  url: https://wrobocon.eu/
+  url: https://wrobocon.eu/?utm_source=testingconferences
   status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a> until June 30, 2024
 
 - name: Testing Stage LATAM
@@ -253,7 +253,7 @@
   location: Sopot, Poland
   dates: "November 6-8, 2024"
   url: https://2024.testwarez.pl/?utm_source=testingconferences
-  status: <a href="https://2024.testwarez.pl/wspolpraca-z-prelegentami/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 29, 2024
+  status: CFP is Closed
   
 - name: Testing United 2024
   location: Vienna, Austria
@@ -265,7 +265,7 @@
 - name: OnlineTestConf
   location: Online
   dates: "November 12-13, 2024"
-  url: https://www.onlinetestconf.com/
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: <a href="https://www.onlinetestconf.com/call-for-speakers/" target="_blank">Call for Speakers</a> is open until August 10, 2024
 
@@ -284,7 +284,7 @@
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
   dates: "Febraury 13-14, 2025"
-  url: https://robocon.io/
+  url: https://robocon.io/?utm_source=testingconferences
   status: Announced
 
 - name: Testing Peers Conference 2025
