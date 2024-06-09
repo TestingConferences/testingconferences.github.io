@@ -269,6 +269,13 @@
   twitter: OnlineTestConf
   status: <a href="https://www.onlinetestconf.com/call-for-speakers/" target="_blank">Call for Speakers</a> is open until August 10, 2024
 
+- name: Tokyo Test Fest
+  location: Tokyo, Japan
+  dates: "November 15, 2024"
+  url: https://www.tokyotestfest.com/?utm_source=testingconferences
+  twitter: tokyotestfest
+  status: <a href="https://tokyotestfest.com/tickets_2024/" target="_blank">Super Early Bird Registration</a> is Open until June 15, 2024.
+  
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
   dates: "November 19-22, 2024"
