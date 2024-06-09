@@ -273,3 +273,10 @@
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: Announced
+
+- name: Nordic Testing Days (NTD) 2025
+  location: Tallinn, Estonia
+  dates: "June 4-6, 2025"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+  status: Announced
