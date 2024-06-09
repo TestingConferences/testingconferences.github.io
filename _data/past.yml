@@ -1,3 +1,26 @@
+- name: WeTest.Athens 2024
+  location: Athens, Greece
+  dates: "June 7, 2024"
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+
+- name: GreaTest Quality Convention 2024
+  location: Zürich, Switzerland
+  dates: "June 7, 2024"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  twitter: gtq_con
+
+- name: Test Automation Days 2024
+  location: Rotterdam, the Netherlands
+  dates: "May 29-30, 2024"
+  url: https://www.testautomationdays.com?utm_source=testingconferences
+  twitter: testautomationd
+
+- name: "expo:QA 24"
+  location: Madrid, Spain
+  dates: "May 28-30, 2024"
+  url: https://expoqa.eu/?utm_source=testingconferences
+  twitter: expoqa
+
 - name: İstanbul Software Testing Conference
   location: Istanbul, Turkey
   dates: "May 23-24, 2024"
