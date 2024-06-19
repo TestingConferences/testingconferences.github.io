@@ -280,3 +280,9 @@
   url: http://nordictestingdays.eu/?utm_source=testingconferences
   twitter: nordictestdays
   status: Announced
+
+- name: WeTest.Athens 2025
+  location: Athens, Greece
+  dates: "May 20, 2025"
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+  status: Announced
