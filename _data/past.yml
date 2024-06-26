@@ -1,3 +1,33 @@
+- name: Selenium Conf 2024
+  location: Online
+  dates: "June 21, 2024"
+  url: https://2024.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+
+- name: QA or the Highway
+  location: Columbus, Ohio, USA
+  dates: "June 21, 2024"
+  url: https://www.qaorthehwy.com?utm_source=testingconferences
+  twitter: QAortheHighway
+
+- name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
+  location: Online and London, UK
+  dates: "June 19, 2024"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2024/?utm_source=testingconferences
+  twitter: SIGiST
+
+- name: Romanian Testing Conference
+  location: Romania
+  dates: "June 12-14, 2024"
+  url: https://romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+
+- name: EuroSTAR Software Testing Conference 2024
+  location: Stockholm, Sweden
+  dates: "June 11-14, 2024"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
 - name: WeTest.Athens 2024
   location: Athens, Greece
   dates: "June 7, 2024"
