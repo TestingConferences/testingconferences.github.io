@@ -8,7 +8,7 @@
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: Pune, India
   dates: "July 25, 2024"
-  url: https://conference.unicom.co.uk/2024/july/agile-devops-software-testing-conference/pune/
+  url: https://conference.unicom.co.uk/2024/july/agile-devops-software-testing-conference/pune/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
 
@@ -25,13 +25,13 @@
 - name: Testing Talks 2024
   location: Sydney, Australia
   dates: "August 15, 2024"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney?utm_source=testingconferences
   status: Registration is Open
 
 - name: Abstracta Amplify
   location: Tulsa, Oklahoma
   dates: "August 20, 2024"
-  url: https://amplify.abstracta.us
+  url: https://amplify.abstracta.us?utm_source=testingconferences
   status: Registration and <a href="https://forms.gle/CzJnAWkToPwBkt5Y9">CFP are Open</a>
 
 - name: Testμ 2024
@@ -46,14 +46,14 @@
   dates: "August 21-24, 2024"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
-  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is Closed</a>
+  status: <a href="https://handsontesting.com/?utm_source=testingconferences">Early Bird Registration is Open</a>
 
 - name: Innovate QA
   location: Seattle, WA, USA
   dates: "August 22, 2024"
   url: https://innovateqaevents.com/?utm_source=testingconferences
   twitter: innovateqaevent
-  status: Registration is Open. CFP is Open until June 22, 2024
+  status: Early Bird Registration is Open until July 15, 2024
 
 - name: TestBash Brighton 2024
   location: Brighton, UK
@@ -245,6 +245,13 @@
   dates: "May 20, 2025"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://forms.gle/BKUkHw4TA96rExMU8" target="_blank">Call for Speakers</a> is open until December 10, 2024
+
+- name: GreaTest Quality Convention 2025
+  location: Zürich, Switzerland
+  dates: "May 23, 2025"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  twitter: gtq_con
+  status: Blind Bird Pricing is Open
 
 - name: Nordic Testing Days (NTD) 2025
   location: Tallinn, Estonia
