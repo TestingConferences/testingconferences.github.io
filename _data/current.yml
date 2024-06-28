@@ -62,10 +62,17 @@
   twitter: ministryoftest
   status: Early Bird Registration is Open until August 31, 2024
 
+- name: Appium Conference 2024
+  location: Online
+  dates: "September 13, 2024"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+  status: Early Bird Registration is Open
+
 - name: Testit 2024
-  location: Onsite
+  location: Malmö, Sweden
   dates: "September 17, 2024"
-  url: https://www.knowit.eu/services/solutions/system-development-and-management/test-and-quality-assurance/conference-testit/?utm_source=testingconferences
+  url: https://www.knowit.eu/events/conference-testit?utm_source=testingconferences
   twitter: testit
   status: Registration is Open
 
@@ -133,7 +140,7 @@
   location: Online
   dates: "October 10-11, 2024"
   url: https://testistanbul.org/?utm_source=testingconferences
-  status: Early Bird Pricing is Open Until May 31, 2024
+  status: Registration is Open
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2024
   location: Portland, Oregon and Online
@@ -153,7 +160,7 @@
   dates: "October 23-25, 2024"
   url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
   twitter: WOPR_Workshop
-  status: <a href="https://docs.google.com/forms/d/1PpAWCTf9BXGUtpw466UkeH8a-Sb5J9w6RxPpxez6K14/viewform?edit_requested=true" target="_blank">CFP is Open</a> until June 2, 2024
+  status: CFP is Closed
 
 - name: TestFlix
   location: Online
@@ -167,7 +174,7 @@
   dates: "October 21-22, 2024"
   url: https://qualitysenseconf.com/&utm_source=testingconferences
   twitter: abstractaus
-  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQH4MAwXlMKLrK2CIwe-s-Ukbab7CACYPZv_hr5bn4Sgs19A/viewform" target="_blank">CFP is Open</a> until June 2, 2024
+  status: Call for Sponsors is Open
 
 - name: TestCon Europe 2024
   location: Vilnius, Lithuania and Online
@@ -192,7 +199,7 @@
   location: Sopot, Poland
   dates: "November 6-8, 2024"
   url: https://2024.testwarez.pl/?utm_source=testingconferences
-  status: CFP is Closed
+  status: Registration is Open
   
 - name: Testing United 2024
   location: Vienna, Austria
@@ -213,7 +220,7 @@
   dates: "November 15, 2024"
   url: https://www.tokyotestfest.com/?utm_source=testingconferences
   twitter: tokyotestfest
-  status: <a href="https://tokyotestfest.com/tickets_2024/" target="_blank">Super Early Bird Registration</a> is Open until June 15, 2024.
+  status: <a href="https://tokyotestfest.com/tickets_2024/" target="_blank">Super Early Bird Registration</a> is Open until July 1, 2024.
   
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
