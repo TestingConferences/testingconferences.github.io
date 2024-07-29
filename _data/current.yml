@@ -1,17 +1,3 @@
-- name: TribeQonf
-  location: Bangalore, India
-  dates: "July 12-13, 2024"
-  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
-  twitter: the_test_tribe
-  status: Registration is Open
-  
-- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
-  location: Pune, India
-  dates: "July 25, 2024"
-  url: https://conference.unicom.co.uk/2024/july/agile-devops-software-testing-conference/pune/?utm_source=testingconferences
-  twitter: UNICOMLearning
-  status: Registration is Open
-
 - name: "ICSTP 2024: Software Testing Process Conference"
   location: Amsterdam, Netherlands
   dates: "August 5-6, 2024"
@@ -32,7 +18,7 @@
   location: Tulsa, Oklahoma
   dates: "August 20, 2024"
   url: https://amplify.abstracta.us?utm_source=testingconferences
-  status: Registration and <a href="https://forms.gle/CzJnAWkToPwBkt5Y9">CFP are Open</a>
+  status: Registration is Open
 
 - name: Testμ 2024
   location: Online
@@ -53,7 +39,7 @@
   dates: "August 22, 2024"
   url: https://innovateqaevents.com/?utm_source=testingconferences
   twitter: innovateqaevent
-  status: Early Bird Registration is Open until July 15, 2024
+  status: Registration is Open
 
 - name: TestBash Brighton 2024
   location: Brighton, UK
@@ -94,7 +80,7 @@
   dates: "September 22-27, 2024"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Super Early Bird Registration is Open until July 26, 2024
+  status: Early Bird Registration is Open until August 23, 2024
 
 - name: Odin Testkonferansen Norway 2024
   location: Oslo, Norway
@@ -120,7 +106,7 @@
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Early Bird Registration</a> is Open until July 14, 2024.
+  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Registration is Open</a>
 
 - name: HUSTEF Software Testing Conference 2024
   location: Budapest, Hungary
@@ -153,7 +139,7 @@
   dates: "October 14-16, 2024"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: Super Early Bird Pricing is Open until July 1, 2024. 
+  status: <a href="https://mms.pnsqc.org/members/evr/reg_event.php?orgcode=PNSQ&evid=43143611?utm_source=testingconferences" target="_blank">Early Bird Pricing is Open until September 15, 2024<a>. 
 
 - name: Testing Talks 2024
   location: Melbourne, Australia
@@ -186,13 +172,13 @@
   location: Vilnius, Lithuania and Online
   dates: "October 22-25, 2024"
   url: https://testcon.lt/?utm_source=testingconferences
-  status: CFP is Open
+  status: Registration is Open
 
 - name: Wrobocon 2024 - Polish Robot Framework Conference
   location: Online
   dates: "October 24, 2024"
   url: https://wrobocon.eu/?utm_source=testingconferences
-  status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a> until June 30, 2024
+  status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a>. Registration is Open and Free
 
 - name: Testing Stage LATAM
   location: Online
@@ -212,21 +198,21 @@
   dates: "November 7-8, 2024"
   url: https://www.testingunited.com/?utm_source=testingconferences
   twitter: testing_united
-  status: Early Bird Pricing is Open until June 30, 2024
+  status: Registration is Open
 
 - name: OnlineTestConf
   location: Online
   dates: "November 12-13, 2024"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: <a href="https://www.onlinetestconf.com/call-for-speakers/" target="_blank">Call for Speakers</a> is open until August 10, 2024
+  status: <a href="https://www.onlinetestconf.com/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP</a> is open until August 10, 2024
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
   dates: "November 15, 2024"
   url: https://www.tokyotestfest.com/?utm_source=testingconferences
   twitter: tokyotestfest
-  status: <a href="https://tokyotestfest.com/tickets_2024/" target="_blank">Super Early Bird Registration</a> is Open until July 1, 2024.
+  status: <a href="https://tokyotestfest.com/tickets_2024/" target="_blank">Early Bird Registration</a> is Open until September 15, 2024
   
 - name: Agile Testing Days 2024
   location: Potsdam, Germany
@@ -238,11 +224,11 @@
   location: Amsterdam, The Netherlands
   dates: "November 29, 2024"
   url: https://testdag.nl/?utm_source=testingconferences
-  status: Registration is Open and Free, <a href="https://docs.google.com/forms/d/1QUlHnA97vCEnJ5qnu2Syg9CXCuJAQT1K6_Xu_Nl7Bz8/?utm_source=testingconferences" target="_blank">CFP is Open</a> until July 26, 2024
+  status: Registration is Open and Free
 
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
-  dates: "Febraury 13-14, 2025"
+  dates: "February 13-14, 2025"
   url: https://robocon.io/?utm_source=testingconferences
   status: Announced
 
@@ -251,20 +237,27 @@
   dates: "March 5-6, 2025"
   url: https://www.testautomationdays.com?utm_source=testingconferences
   twitter: testautomationd
-  status: Announced
+  status: Early Bird Registration is Open until November 1, 2024
 
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
   dates: "March 13, 2025"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
-  status: Announced
+  status: Early Bird Registration is Open until December 1, 2024
 
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
   dates: "April 1-3, 2025"
   url: https://www.etsi.org/events/upcoming-events/2420-2025-04-11th-ucaat-user-conference-on-advanced-automated-testing#pane-7/?utm_source=testingconferences
   status: <a href="https://www.etsi.org/events/upcoming-events/2420-2025-04-11th-ucaat-user-conference-on-advanced-automated-testing#pane-6/" target="_blank">Call for Speakers</a> is open until 15 October 2024
+
+- name: Nordic Testing Days (NTD) 2025
+  location: Tallinn, Estonia
+  dates: "May 14-16, 2025"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+  status: Registration is Open and CFP is coming up
 
 - name: WeTest.Athens 2025
   location: Athens, Greece
@@ -278,10 +271,3 @@
   url: https://www.greatestquality.ch/?utm_source=testingconferences
   twitter: gtq_con
   status: Blind Bird Pricing is Open
-
-- name: Nordic Testing Days (NTD) 2025
-  location: Tallinn, Estonia
-  dates: "June 4-6, 2025"
-  url: http://nordictestingdays.eu/?utm_source=testingconferences
-  twitter: nordictestdays
-  status: Announced
