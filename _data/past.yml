@@ -1,3 +1,23 @@
+- name: Abstracta Amplify
+  location: Tulsa, Oklahoma
+  dates: "August 20, 2024"
+  url: https://amplify.abstracta.us?utm_source=testingconferences
+
+- name: Testing Talks 2024
+  location: Sydney, Australia
+  dates: "August 15, 2024"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney?utm_source=testingconferences
+
+- name: "ICSTS 2024: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTP 2024: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-process-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
 - name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
   location: Pune, India
   dates: "July 25, 2024"
