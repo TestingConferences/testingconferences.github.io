@@ -1,3 +1,22 @@
+- name: Testμ 2024
+  location: Online
+  dates: "August 21-23, 2024"
+  url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
+  twitter: lambdatesting
+  video_url: https://www.lambdatest.com/testmuconf-2024?utm_source=stc&utm_medium=header_stc&utm_campaign=aug&utm_term=kn&utm_content=testmu_conf
+
+- name: Innovate QA
+  location: Seattle, WA, USA
+  dates: "August 22, 2024"
+  url: https://innovateqaevents.com/?utm_source=testingconferences
+  twitter: innovateqaevent
+
+- name: Hands on Testing 2024
+  location: Mexico City, Mexico and Online
+  dates: "August 21-24, 2024"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+
 - name: Abstracta Amplify
   location: Tulsa, Oklahoma
   dates: "August 20, 2024"

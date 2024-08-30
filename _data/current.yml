@@ -1,24 +1,3 @@
-- name: Testμ 2024
-  location: Online
-  dates: "August 21-23, 2024"
-  url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
-  twitter: lambdatesting
-  status: <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
-  
-- name: Hands on Testing 2024
-  location: Mexico City, Mexico and Online
-  dates: "August 21-24, 2024"
-  url: https://handsontesting.com/?utm_source=testingconferences
-  twitter: handsontesting
-  status: <a href="https://handsontesting.com/?utm_source=testingconferences">Early Bird Registration is Open</a>
-
-- name: Innovate QA
-  location: Seattle, WA, USA
-  dates: "August 22, 2024"
-  url: https://innovateqaevents.com/?utm_source=testingconferences
-  twitter: innovateqaevent
-  status: Registration is Open
-
 - name: TestBash Brighton 2024
   location: Brighton, UK
   dates: "September 12-13, 2024"
