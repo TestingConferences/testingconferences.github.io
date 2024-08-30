@@ -109,7 +109,6 @@
   dates: "October 23-25, 2024"
   url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
   twitter: WOPR_Workshop
-  status: CFP is Closed
 
 - name: TestFlix
   location: Online
@@ -123,7 +122,6 @@
   dates: "October 21-22, 2024"
   url: https://qualitysenseconf.com/&utm_source=testingconferences
   twitter: abstractaus
-  status: Call for Sponsors is Open
 
 - name: TestCon Europe 2024
   location: Vilnius, Lithuania and Online
@@ -135,7 +133,7 @@
   location: Online
   dates: "October 24, 2024"
   url: https://wrobocon.eu/?utm_source=testingconferences
-  status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a>. Registration is Open and Free
+  status: Registration is Open and Free
 
 - name: Testing Stage LATAM
   location: Online
@@ -162,7 +160,7 @@
   dates: "November 12-13, 2024"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: <a href="https://www.onlinetestconf.com/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP</a> is open until August 10, 2024
+  status: Registration is Open and Free
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
@@ -187,7 +185,7 @@
   location: Helsinki, Finland
   dates: "February 13-14, 2025"
   url: https://robocon.io/?utm_source=testingconferences
-  status: Announced
+  status: <a href="https://pretalx.com/robocon-2025/cfp" target="_blank">CFP is Open</a> until October 20, 2024
 
 - name: Test Automation Days 2025
   location: Rotterdam, the Netherlands
@@ -220,7 +218,7 @@
   location: Athens, Greece
   dates: "May 20, 2025"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: <a href="https://forms.gle/BKUkHw4TA96rExMU8" target="_blank">Call for Speakers</a> is open until December 10, 2024
+  status: <a href="https://forms.gle/BKUkHw4TA96rExMU8" target="_blank">CFP is Open</a> until December 10, 2024
 
 - name: GreaTest Quality Convention 2025
   location: Zürich, Switzerland
