@@ -53,6 +53,22 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>June 2025</td>
     <td>AutomationSTAR</td>
   </tr>
+  <tr>
+    <td>July 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>August 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>September 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>October 2025</td>
+    <td>Open</td>
+  </tr>
 </table>
 
 **Getting Started**
