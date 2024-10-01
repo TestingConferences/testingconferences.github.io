@@ -1,30 +1,3 @@
-- name: STARWEST 2024
-  location: Anaheim, CA, USA and Online
-  dates: "September 22-27, 2024"
-  url: https://starwest.techwell.com/?utm_source=testingconferences
-  twitter: TechWell
-  status: Registration is Open
-
-- name: Odin Testkonferansen Norway 2024
-  location: Oslo, Norway
-  dates: "September 26, 2024"
-  url: https://event.dataforeningen.no/odin2024/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: SEETEST 2024
-  location: Zagreb, Croatia and Online
-  dates: "September 25-27, 2024"
-  url: https://seetest.org/?utm_source=testingconferences
-  twitter: SEETESTConf
-  status: Registration is Open
-
-- name: "QA: Challenge Accepted 2024 - The Anniversary"
-  location: Sofia, Bulgaria and Online
-  dates: "September 28, 2024"
-  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
-  twitter: qachallenge
-  status: Registration is Open
-
 - name: Targeting Quality 2024
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
@@ -69,12 +42,6 @@
   dates: "October 17, 2024"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne
   status: Registration is Open
-  
-- name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
-  location: Medellín, Colombia
-  dates: "October 23-25, 2024"
-  url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
-  twitter: WOPR_Workshop
 
 - name: TestFlix
   location: Online
@@ -94,6 +61,12 @@
   dates: "October 22-25, 2024"
   url: https://testcon.lt/?utm_source=testingconferences
   status: Registration is Open
+
+- name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
+  location: Medellín, Colombia
+  dates: "October 23-25, 2024"
+  url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
+  twitter: WOPR_Workshop
 
 - name: Wrobocon 2024 - Polish Robot Framework Conference
   location: Online

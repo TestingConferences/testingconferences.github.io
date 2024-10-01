@@ -1,3 +1,26 @@
+- name: "QA: Challenge Accepted 2024 - The Anniversary"
+  location: Sofia, Bulgaria and Online
+  dates: "September 28, 2024"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+
+- name: SEETEST 2024
+  location: Zagreb, Croatia and Online
+  dates: "September 25-27, 2024"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+
+- name: Odin Testkonferansen Norway 2024
+  location: Oslo, Norway
+  dates: "September 26, 2024"
+  url: https://event.dataforeningen.no/odin2024/?utm_source=testingconferences
+
+- name: STARWEST 2024
+  location: Anaheim, CA, USA and Online
+  dates: "September 22-27, 2024"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+
 - name: SANAE BEER.EX 2024
   location: Bratislava, Slovakia
   dates: "September 18-19, 2024"
