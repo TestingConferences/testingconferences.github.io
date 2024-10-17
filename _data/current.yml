@@ -141,6 +141,13 @@
   twitter: testingpeers
   status: Early Bird Registration is Open until December 1, 2024
 
+- name: SeleniumConf & AppiumConf 2025
+  location: Valencia, ES
+  dates: "March 26-28, 2025"
+  url: https://seleniumconf.com/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: <a href="https://seleniumconf.com/submit-a-talk/" target="_blank">CFP is Open until December 1, 2024.</a> | <a href="https://seleniumconf.com/register/">Early Bird registration is Open</a>
+
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
   dates: "April 1-3, 2025"
