@@ -1,3 +1,9 @@
+- name: TestFlix
+  location: Online
+  dates: "October 19-20, 2024"
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
+  twitter: the_test_tribe
+
 - name: Testing Talks 2024
   location: Melbourne, Australia
   dates: "October 17, 2024"
