@@ -1,3 +1,36 @@
+- name: Testing Talks 2024
+  location: Melbourne, Australia
+  dates: "October 17, 2024"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2024
+  location: Portland, Oregon and Online
+  dates: "October 14-16, 2024"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: TestSociety
+  location: Porto, Portugal
+  dates: "October 11, 2024"
+  url: https://www.testsociety.pt/?utm_source=testingconferences
+
+- name: Test İstanbul
+  location: Online
+  dates: "October 10-11, 2024"
+  url: https://testistanbul.org/?utm_source=testingconferences
+
+- name: AutomationSTAR Test Automation Conference 2024
+  location: Vienna, Austria
+  dates: "October 9-10, 2024"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: HUSTEF Software Testing Conference 2024
+  location: Budapest, Hungary
+  dates: "October 8-10, 2024"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: hustef
+
 - name: Targeting Quality 2024
   location:  Cambridge, Ontario, Canada
   dates: "September 30-October 1, 2024"
