@@ -116,6 +116,13 @@
   twitter: gtq_con
   status: Blind Bird Pricing is Open
 
+- name: EuroSTAR 2025 Software Testing Conference
+  location: Edinburgh, Scotland
+  dates: "June 3-6, 2025"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Year End Sale is Open until December 31, 2024
+
 - name: Testμ Conference 2025
   location: Online
   dates: "August 19-21, 2025"
@@ -129,3 +136,10 @@
   url: https://latamtesting.com/?utm_source=testingconferences
   twitter: testingstage
   status: Rescheduled for 2025
+
+- name: AutomationSTAR 2025
+  location: Amsterdam, The Netherlands
+  dates: "November 10-11, 2025"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is Opening Soon
