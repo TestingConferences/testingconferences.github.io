@@ -1,3 +1,29 @@
+- name: Wrobocon 2024 - Polish Robot Framework Conference
+  location: Online
+  dates: "October 24, 2024"
+  url: https://wrobocon.eu/?utm_source=testingconferences
+
+- name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
+  location: Medellín, Colombia
+  dates: "October 23-25, 2024"
+  url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
+
+- name: TestCon Europe 2024
+  location: Vilnius, Lithuania and Online
+  dates: "October 22-25, 2024"
+  url: https://testcon.lt/?utm_source=testingconferences
+
+- name: CypressConf 2024
+  location: Online
+  dates: "October 22-23, 2024"
+  url: https://cypress.registration.goldcast.io/events/d976c513-3bf1-4f6d-b83d-856c63b98f83#Agenda
+
+- name: Quality Sense Conf 2024
+  location: Medellín, Colombia & Online
+  dates: "October 21-22, 2024"
+  url: https://qualitysenseconf.com/&utm_source=testingconferences
+  twitter: abstractaus
+
 - name: TestFlix
   location: Online
   dates: "October 19-20, 2024"
