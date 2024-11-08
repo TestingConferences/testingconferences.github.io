@@ -130,6 +130,12 @@
   twitter: lambdatesting
   status: <a href="https://forms.gle/bNzveV3Z8Nvodtee7" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
 
+- name: TestBash Brighton 2025
+  location: Brighton, UK
+  dates: "October 1-2, 2025"
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2025
+  status: <a href="https://www.ministryoftesting.com/contribute">CFP Open until 22nd December 2024</a>, <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025">Tickets are availble for purchase</a>
+
 - name: Testing Stage LATAM
   location: Online
   dates: "TBD 2025"
