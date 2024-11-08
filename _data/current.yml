@@ -38,6 +38,40 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: Registration is Open
 
+- name: Workshop - Hands on with Selenium 4 in Java
+  location: Lisbon, Portugal
+  dates: "November 25, 2024"
+  url: https://testingportugal.pstqb.pt/en/workshop-hands-on-with-selenium-4-in-java
+  twitter: PSTQB
+  status: Registration is Open
+
+- name: Workshop - The truth about risk-based testing
+  location: Lisbon, Portugal
+  dates: "November 25, 2024"
+  url: https://testingportugal.pstqb.pt/en/workshop-the-truth-about-risk-based-testing/
+  twitter: PSTQB
+  status: Registration is Open
+
+- name: Workshop - AI-Augmented Testing
+  location: Lisbon, Portugal
+  dates: "November 25, 2024"
+  url: https://testingportugal.pstqb.pt/en/workshop-ai-augmented-testing/
+  twitter: PSTQB
+
+- name: Workshop - A Beginner's Guide to AI in Testing
+  location: Lisbon, Portugal
+  dates: "November 25, 2024"
+  url: https://testingportugal.pstqb.pt/en/workshop-a-beginners-guide-to-ai-in-testing/
+  twitter: PSTQB
+  status: Registration is Open
+
+- name: Testing Portugal Conference
+  location: Lisbon, Portugal
+  dates: "November 26, 2024"
+  url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
+  twitter: PSTQB
+  status: Registration is Open
+
 - name: TestDag (Dutch Testing Day) 2024
   location: Amsterdam, The Netherlands
   dates: "November 29, 2024"
