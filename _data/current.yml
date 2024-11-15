@@ -96,6 +96,12 @@
   twitter: nordictestdays
   status: <a href="https://cfp.sched.com/speaker/TTRDQcyX22/event" target="_blank">CFP is Open</a> until January 31, 2025
 
+- name: Test Coast 2025
+  location: Göteborg, Sweden
+  dates: "May 15, 2025"
+  url: https://testscouts.se/testcoast/
+  status: CfP is Open until January 7, 2025
+
 - name: WeTest.Athens 2025
   location: Athens, Greece
   dates: "May 20, 2025"
