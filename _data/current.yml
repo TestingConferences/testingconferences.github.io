@@ -83,12 +83,12 @@
   url: https://paristestconf.com/?utm_source=testingconferences
   status: CFP is open
 
-- name: "SeleniumConf & AppiumConf 2025"
-  location: Valencia, Spain
-  dates: "March 27-28, 2025"
-  url: https://seleniumconf.com?utm_source=testingconferences
+- name: SeleniumConf & AppiumConf 2025
+  location: Valencia, ES
+  dates: "March 26-28, 2025"
+  url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://seleniumconf.com/submit-a-talk/?utm_source=testingconferences" target="_blank">CFP is Open</a> until December 1, 2024. Early Bird Tickets are on sale
+  status: <a href="https://seleniumconf.com/submit-a-talk/" target="_blank">CFP is Open until December 1, 2024.</a> | <a href="https://seleniumconf.com/register/">Early Bird registration is Open</a>
 
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
