@@ -1,3 +1,32 @@
+- name: Agile Testing Alliance Global Testing Retreat 2024
+  location: Online
+  dates: "November 16-17, 2024"
+  url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
+  twitter: TestingRetreat
+
+- name: Tokyo Test Fest
+  location: Tokyo, Japan
+  dates: "November 15, 2024"
+  url: https://www.tokyotestfest.com/?utm_source=testingconferences
+  twitter: tokyotestfest
+
+- name: OnlineTestConf
+  location: Online
+  dates: "November 12-13, 2024"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
+- name: Testing United 2024
+  location: Vienna, Austria
+  dates: "November 7-8, 2024"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+
+- name: TestWarez 2024
+  location: Sopot, Poland
+  dates: "November 6-8, 2024"
+  url: https://2024.testwarez.pl/?utm_source=testingconferences
+
 - name: Wrobocon 2024 - Polish Robot Framework Conference
   location: Online
   dates: "October 24, 2024"
