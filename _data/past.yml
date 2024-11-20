@@ -366,6 +366,12 @@
   dates: "January 11-12, 2024"
   url: https://waset.org/software-testing-and-methods-conference-in-january-2024-in-bali?utm_source=testingconferences
 
+- name: Testing Portugal Conference
+  location: Lisbon, Portugal
+  dates: "November 28, 2023"
+  url: https://testingportugal.pstqb.pt/?utm_source=testingconferences
+  twitter: PSTQB
+
 - name: Test Automation & Digital QA Summit 2023
   location: Manila, Philippines
   dates: "November 24, 2023"
