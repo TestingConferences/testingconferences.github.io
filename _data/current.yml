@@ -71,6 +71,12 @@
   twitter: testingpeers
   status: Early Bird Registration is Open until December 1, 2024
 
+- name: ParisTestConf 2025
+  location: Paris, FR
+  dates: "March 25, 2025"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  status: CFP is open
+
 - name: "SeleniumConf & AppiumConf 2025"
   location: Valencia, Spain
   dates: "March 27-28, 2025"
