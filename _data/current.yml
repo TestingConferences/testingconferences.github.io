@@ -16,7 +16,14 @@
   dates: "February 13-14, 2025"
   url: https://robocon.io/?utm_source=testingconferences
   status: CFP is Closed
-
+  
+- name: Continuous Innovation: Mastering DevOps & Testing
+  location: Chennai, India
+  dates: "February 20, 2025"
+  url: https://www.navigoseminars.com/adt-chennai
+  twitter: NAVIGOSeminars
+  status: Registration is Open
+  
 - name: Test Automation Days 2025
   location: Rotterdam, the Netherlands
   dates: "March 5-6, 2025"
