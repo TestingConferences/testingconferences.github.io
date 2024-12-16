@@ -4,11 +4,16 @@ This is a simple list of software testing conferences and workshops published co
 
 ## Quick Start
 1. Clone or download the project and cd project dir
-> git clone git@github.com:TestingConferences/testingconferences.github.io.git
-> cd testingconferences.github.io
+
+```shell
+git clone git@github.com:TestingConferences/testingconferences.github.io.git
+cd testingconferences.github.io
+```
 
 2. Make sure you've got Docker (or Orbstack) installed and Run the setup process 
-> /devops/setup.sh
+```shell
+/devops/setup.sh
+```
 
 ## Contributing Guidelines
 The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.
