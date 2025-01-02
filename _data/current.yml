@@ -1,16 +1,3 @@
-- name: TestDag (Dutch Testing Day) 2024
-  location: Amsterdam, The Netherlands
-  dates: "November 29, 2024"
-  url: https://testdag.nl/?utm_source=testingconferences
-  status: Registration is Open and Free
-
-- name: Agile Testing Alliance Global Testing Retreat 2024
-  location: Pune, India
-  dates: "December 8, 2024"
-  url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
-  twitter: TestingRetreat
-  status: Registration is Open
-
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
   dates: "February 13-14, 2025"
@@ -101,6 +88,19 @@
   url: https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025
   twitter: lambdatesting
   status: <a href="https://forms.gle/bNzveV3Z8Nvodtee7" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
+
+- name: SEETEST 2025
+  location: Sofia, Bulgaria and Online
+  dates: "September 25-26, 2025"
+  url: https://www.seetest.org/
+  status: Event announced
+
+- name: "QA: Challenge Accepted 2025 - The Elevation"
+  location: Sofia, Bulgaria and Online
+  dates: "September 27, 2025"
+  url: https://www.qachallengeaccepted.com/
+  twitter: qachallenge
+  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> | <a href="https://www.qachallengeaccepted.com/" target="_blank">Super Early Bug Registration is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
