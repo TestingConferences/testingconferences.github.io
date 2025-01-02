@@ -1,16 +1,3 @@
-- name: TestDag (Dutch Testing Day) 2024
-  location: Amsterdam, The Netherlands
-  dates: "November 29, 2024"
-  url: https://testdag.nl/?utm_source=testingconferences
-  status: Registration is Open and Free
-
-- name: Agile Testing Alliance Global Testing Retreat 2024
-  location: Pune, India
-  dates: "December 8, 2024"
-  url: https://gtr.agiletestingalliance.org?utm_source=testingconferences
-  twitter: TestingRetreat
-  status: Registration is Open
-
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
   dates: "February 13-14, 2025"
