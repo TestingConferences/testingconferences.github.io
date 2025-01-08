@@ -59,7 +59,7 @@
   location: Athens, Greece
   dates: "May 20, 2025"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: <a href="https://forms.gle/BKUkHw4TA96rExMU8" target="_blank">CFP is Open</a> until December 10, 2024
+  status: <a href="https://www.wetest-athens.gr/" target="_blank">Early Bird Registration is Open</a>
 
 - name: "expo:QA 25"
   location: Madrid, Spain
@@ -90,11 +90,24 @@
   status: <a href="https://forms.gle/bNzveV3Z8Nvodtee7" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
 
 - name: CAST 2025
-  location: TBA, USA
+  location: Silicon Slopes, UT, USA
   dates: "August 25-27, 2025"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
   status: Announced
+
+- name: SEETEST 2025
+  location: Sofia, Bulgaria and Online
+  dates: "September 25-26, 2025"
+  url: https://www.seetest.org/
+  status: Event announced
+
+- name: "QA: Challenge Accepted 2025 - The Elevation"
+  location: Sofia, Bulgaria and Online
+  dates: "September 27, 2025"
+  url: https://www.qachallengeaccepted.com/
+  twitter: qachallenge
+  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> | <a href="https://www.qachallengeaccepted.com/" target="_blank">Super Early Bug Registration is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
@@ -115,3 +128,16 @@
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
   status: CFP is Opening Soon
+
+- name: Software-QS-Tag 2025
+  location: Frankfurt / M, Germany
+  dates: "November 12-13, 2025"
+  url: https://www.qs-tag.de/
+  status: CFP is Opening Soon
+
+- name: Agile Testing Days
+  location: Potsdam, Germany
+  dates: "November 24-27, 2025"
+  url: https://agiletestingdays.com/
+  twitter: AgileTD
+  status: CFP is Opening in February
