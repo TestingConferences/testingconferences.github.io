@@ -7,7 +7,7 @@
 - name: "Continuous Innovation: Mastering DevOps & Testing"
   location: Chennai, India
   dates: "February 20, 2025"
-  url: https://www.navigoseminars.com/adt-chennai
+  url: https://www.navigoseminars.com/adt-chennai?utm_source=testingconferences
   twitter: NAVIGOSeminars
   status: Registration is Open
   
@@ -46,7 +46,7 @@
 - name: QonfX 2025
   location: San Francisco, CA, US and Online
   dates: "April 7-13, 2025"
-  url: https://www.thetesttribe.com/qonfx/
+  url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
   
 - name: STAREAST 2025
   location: Orlando, FL, USA and Online
@@ -64,14 +64,14 @@
 - name: Test Coast 2025
   location: Göteborg, Sweden
   dates: "May 15, 2025"
-  url: https://testscouts.se/testcoast/
+  url: https://testscouts.se/testcoast/?utm_source=testingconferences
   status: CfP is Open until January 7, 2025
 
 - name: WeTest.Athens 2025
   location: Athens, Greece
   dates: "May 20, 2025"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: <a href="https://www.wetest-athens.gr/" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.wetest-athens.gr/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: "expo:QA 25"
   location: Madrid, Spain
@@ -97,9 +97,9 @@
 - name: QA or the  Highway
   location: Columbus, OH
   dates: "June 27, 2025"
-  url: https://www.qaorthehwy.com
+  url: https://www.qaorthehwy.com?utm_source=testingconferences
   twitter: qaorthehighway
-  status: <a href="https://forms.gle/TBBEWPzc9crpvKqY7" target="_blank">CFP is open until February 28th</a> | <a href="https://www.qaorthehwy.com/tickets">Early bird registration is now open</a>
+  status: <a href="https://forms.gle/TBBEWPzc9crpvKqY7" target="_blank">CFP is open until February 28th</a> | <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Early bird registration is now open</a>
 
 - name: Testμ Conference 2025
   location: Online
@@ -113,26 +113,26 @@
   dates: "August 25-27, 2025"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
-  status: Announced
+  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 31, 2025
 
 - name: SEETEST 2025
   location: Sofia, Bulgaria and Online
   dates: "September 25-26, 2025"
-  url: https://www.seetest.org/
+  url: https://www.seetest.org/?utm_source=testingconferences
   status: Event announced
 
 - name: "QA: Challenge Accepted 2025 - The Elevation"
   location: Sofia, Bulgaria and Online
   dates: "September 27, 2025"
-  url: https://www.qachallengeaccepted.com/
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> | <a href="https://www.qachallengeaccepted.com/" target="_blank">Super Early Bug Registration is Open</a>
+  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> | <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Super Early Bug Registration is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
   dates: "October 1-2, 2025"
-  url: https://www.ministryoftesting.com/events/testbash-brighton-2025
-  status: <a href="https://www.ministryoftesting.com/contribute">CFP Open until 22nd December 2024</a>, <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025">Tickets are availble for purchase</a>
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
+  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Registration is Open</a>
 
 - name: Testing Stage LATAM
   location: Online
@@ -151,12 +151,12 @@
 - name: Software-QS-Tag 2025
   location: Frankfurt / M, Germany
   dates: "November 12-13, 2025"
-  url: https://www.qs-tag.de/
+  url: https://www.qs-tag.de/?utm_source=testingconferences
   status: CFP is Opening Soon
 
 - name: Agile Testing Days
   location: Potsdam, Germany
   dates: "November 24-27, 2025"
-  url: https://agiletestingdays.com/
+  url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: CFP is Opening in February
