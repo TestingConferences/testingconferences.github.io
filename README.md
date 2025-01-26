@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://testingconferences.org" target="_blank" >
-  <img src="img/conf.gif" height="500px" width="750px" alt="Gif showing testing conferences dot org web">
+  <img src="assets/conf.gif" height="300px" width="1250px" alt="Gif showing testing conferences dot org web">
 </p>
 
 
