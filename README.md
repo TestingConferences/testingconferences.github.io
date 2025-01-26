@@ -1,6 +1,15 @@
 # Testing Conferences [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 
-This is a simple list of software testing conferences and workshops published collaboratively with the testing community.
+# https://testingconferences.org
+
+
+<p align="center">
+  <a href="https://testingconferences.org" target="_blank" >
+  <img src="img/conf.gif" height="500px" width="750px" alt="Gif showing testing conferences dot org web">
+</p>
+
+
+This is a simple list of **software testing conferences** and **workshops** published collaboratively with the testing community.
 
 ## Quick Start
 1. Clone or download the project and cd project dir
