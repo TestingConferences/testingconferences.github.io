@@ -3,6 +3,7 @@
   dates: "February 10-14, 2025"
   url: https://www.testguild.com/ag-2025/?utm_source=testingconferences&utm_medium=organic&utm_content=ag_2025
   twitter: testguilds
+  status: Registration is Open
 
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
@@ -42,7 +43,7 @@
   dates: "March 26-28, 2025"
   url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://seleniumconf.com/submit-a-talk/" target="_blank">CFP is Open until December 1, 2024.</a> | <a href="https://seleniumconf.com/register/">Early Bird registration is Open</a>
+  status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences">Registration is Open</a>
 
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
@@ -59,6 +60,7 @@
   dates: "April 27 - May 2, 2025"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
+  status: <a href="https://stareast.techwell.com/pricing-packages?utm_source=marketo&utm_medium=email&utm_campaign=mk-se25-announcement-121724&mkt_tok=MzM1LUZFTC0yMTUAAAGXdFMX7KyAwkdthWZTpAdZzEu_b3vymIRulfY5MJ1b-dkVXf4FZHfHvyWvFk9ArXgYd2pctYQkD5_KatFcw4lJd8cNBSi4ensP64q3osXAfbU" target="_blank">Super Early Bird Registration is Open</a> until February 28th
 
 - name: Nordic Testing Days (NTD) 2025
   location: Tallinn, Estonia
@@ -84,7 +86,7 @@
   dates: "May 20-22, 2025"
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
-  status: CFP is Open until November 8, 2024
+  status: <a href=https://expoqa.eu/ticket-pricing/?utm_source=testingconferences" target="_blank">Pre-launch Registration is Open</a>
 
 - name: GreaTest Quality Convention 2025
   location: Zürich, Switzerland
@@ -131,6 +133,18 @@
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 31, 2025
+
+- name: Targeting Quality 2025
+  location:  Cambridge, Ontario, Canada
+  dates: TBA
+  url: https://targetingquality.ca/?utm_source=testingconferences
+
+- name: STARWEST 2025
+  location: Anaheim, CA, USA and Online
+  dates: "September 21-26, 2025"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=marketo&utm_medium=email&utm_campaign=mk-sw25-cfs4-012625&mkt_tok=MzM1LUZFTC0yMTUAAAGYQlCzbad2aq8qu1d14APvwkAFbctF2IH5M9bOt5albF9aa7LhyocU_q9nLeJiMJ8k4UzUXwtlR0nYG3uPwL_ldySXoVnt_vFDaBW-7o_QAvU" target="_blank>CFP is Open</a> until February 2, 2025
 
 - name: SEETEST 2025
   location: Sofia, Bulgaria and Online
