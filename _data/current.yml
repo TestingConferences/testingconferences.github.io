@@ -190,6 +190,13 @@
   url: https://www.qs-tag.de/?utm_source=testingconferences
   status: CFP is Opening Soon
 
+- name: Testing United 2025
+  location: Milan, Italy
+  dates: "November 13-15, 2025"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+  status: <a href="https://www.testingunited.com/become-a-speaker-2025/?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 28, 2025
+
 - name: Agile Testing Days
   location: Potsdam, Germany
   dates: "November 24-27, 2025"

@@ -33,6 +33,10 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>January 2025</td>
     <td>EuroSTAR</td>
   </tr>
+    <tr>
+    <td>February 2025</td>
+    <td>EuroSTAR</td>
+  </tr>
   <tr>
     <td>March 2025</td>
     <td>AutomationSTAR</td>
@@ -59,6 +63,14 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>October 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>November 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>December 2025</td>
     <td>Open</td>
   </tr>
 </table>
