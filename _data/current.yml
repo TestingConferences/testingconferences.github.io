@@ -114,6 +114,11 @@
   twitter: qaorthehighway
   status: <a href="https://forms.gle/TBBEWPzc9crpvKqY7" target="_blank">CFP is open until February 28th</a> | <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Early bird registration is now open</a>
 
+- name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
+  location: Radisson Blu, Bengaluru
+  dates: "July 11-12, 2025"
+  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
+
 - name: Testing Talks 2025
   location: Sydney, Australia
   dates: "July 31, 2025"
@@ -175,6 +180,11 @@
   location: Melbourne, Australia
   dates: "October 9, 2025"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne
+
+- name: TestFlix 2025 - World’s Leading Virtual Software Testing Conference
+  location: Online
+  dates: "October 11-12, 2025"
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
 
 - name: AutomationSTAR 2025
   location: Amsterdam, The Netherlands
