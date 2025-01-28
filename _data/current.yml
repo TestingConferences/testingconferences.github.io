@@ -73,7 +73,6 @@
   location: Göteborg, Sweden
   dates: "May 15, 2025"
   url: https://testscouts.se/testcoast/?utm_source=testingconferences
-  status: CfP is Open until January 7, 2025
 
 - name: WeTest.Athens 2025
   location: Athens, Greece
@@ -86,7 +85,7 @@
   dates: "May 20-22, 2025"
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href=https://expoqa.eu/ticket-pricing/?utm_source=testingconferences" target="_blank">Pre-launch Registration is Open</a>
+  status: <a href="https://expoqa.eu/ticket-pricing/?utm_source=testingconferences" target="_blank">Pre-launch Registration is Open</a>
 
 - name: GreaTest Quality Convention 2025
   location: Zürich, Switzerland
