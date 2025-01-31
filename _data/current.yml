@@ -92,7 +92,7 @@
   dates: "May 23, 2025"
   url: https://www.greatestquality.ch/?utm_source=testingconferences
   twitter: gtq_con
-  status: Blind Bird Pricing is Open
+  status: Registration is Open
 
 - name: EuroSTAR 2025 Software Testing Conference
   location: Edinburgh, Scotland
@@ -104,10 +104,10 @@
 - name: Innovate QA Conference 2025
   location: Seattle, WA, USA 🇺🇸
   dates: "June 05, 2025"
-  url: https://innovateqaevents.com
+  url: https://innovateqaevents.com?utm_source=testingconferences
   status: <a href="https://forms.gle/8EDWErZ299GC86Md6" target="_blank">CFP is Open until April 1, 2025.</a> | <a href="https://www.eventbrite.com/e/innovateqa-seattle-2025-tickets-1143506060409">Early Bird registration is Open</a>
 
-- name: QA or the  Highway
+- name: QA or the Highway
   location: Columbus, OH
   dates: "June 27, 2025"
   url: https://www.qaorthehwy.com?utm_source=testingconferences
@@ -129,7 +129,7 @@
   dates: "August 19-21, 2025"
   url: https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025
   twitter: lambdatesting
-  status: <a href="https://forms.gle/bNzveV3Z8Nvodtee7" target="_blank">CFP is Open</a> | <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
+  status: <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
 
 - name: CAST 2025
   location: Silicon Slopes, UT, USA
