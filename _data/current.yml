@@ -139,7 +139,7 @@
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 31, 2025
 
 - name: Targeting Quality 2025
-  location:  Cambridge, Ontario, Canada
+  location: Cambridge, Ontario, Canada
   dates: TBA
   url: https://targetingquality.ca/?utm_source=testingconferences
 
@@ -161,37 +161,39 @@
   dates: "September 27, 2025"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> | <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Super Early Bug Registration is Open</a>
+  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> until May 15, 2025 | <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Super Early Bug Registration is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
   dates: "October 1-2, 2025"
   url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
-  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Registration is Open</a>
+  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Super Early Bird Registration is Open</a> until May 31, 2025
 
 - name: Testing Stage LATAM
   location: Online
-  dates: "TBD 2025"
+  dates: "October 24, 2025"
   url: https://latamtesting.com/?utm_source=testingconferences
   twitter: testingstage
-  status: Rescheduled for 2025
+  status: Registration is Open and Free
 
 - name: Testing Talks 2025
   location: Melbourne, Australia
   dates: "October 9, 2025"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne
+  status: CFP is Open
 
 - name: "TestFlix 2025 - World’s Leading Virtual Software Testing Conference"
   location: Online
   dates: "October 11-12, 2025"
   url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
+  status: Registration is Open and Free
 
 - name: AutomationSTAR 2025
   location: Amsterdam, The Netherlands
   dates: "November 10-11, 2025"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: CFP is Opening Soon
+  status: <a href="https://auth.oxfordabstracts.com/?redirect=/stages/77081/submitter" target="_blank">CFP is Open</a> until February 14, 2025
 
 - name: Software-QS-Tag 2025
   location: Frankfurt / M, Germany
@@ -218,4 +220,5 @@
   dates: "November 24-27, 2025"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: CFP is Opening in February
+  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 30, 2025
+
