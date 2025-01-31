@@ -55,6 +55,12 @@
   dates: "April 7-13, 2025"
   url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
   
+- name: TestMass
+  location: Odijk, Netherlands
+  dates: "April 22, 2025"
+  url: https://www.testmass.org
+  status: Registration is Open
+  
 - name: STAREAST 2025
   location: Orlando, FL, USA and Online
   dates: "April 27 - May 2, 2025"
@@ -62,6 +68,12 @@
   twitter: TechWell
   status: <a href="https://stareast.techwell.com/pricing-packages?utm_source=marketo&utm_medium=email&utm_campaign=mk-se25-announcement-121724&mkt_tok=MzM1LUZFTC0yMTUAAAGXdFMX7KyAwkdthWZTpAdZzEu_b3vymIRulfY5MJ1b-dkVXf4FZHfHvyWvFk9ArXgYd2pctYQkD5_KatFcw4lJd8cNBSi4ensP64q3osXAfbU" target="_blank">Super Early Bird Registration is Open</a> until February 28th
 
+- name: Testnet Spring Evenet
+  location: Nieuwegein, Netherlands
+  dates: "May 14, 2025"
+  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025
+  status: Information to follow
+  
 - name: Nordic Testing Days (NTD) 2025
   location: Tallinn, Estonia
   dates: "May 14-16, 2025"
