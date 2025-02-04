@@ -169,6 +169,13 @@
   url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Super Early Bird Registration is Open</a> until May 31, 2025
 
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2025
+  location: Portland, Oregon, USA
+  dates: "October 13-15, 2025"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1686039" target="_blank">CFP is Open</a> until April 20, 2025
+
 - name: Testing Stage LATAM
   location: Online
   dates: "October 24, 2025"
