@@ -7,7 +7,7 @@
 - name: TestDag (Dutch Testing Day) 2024
   location: Amsterdam, The Netherlands
   dates: "November 29, 2024"
-  url: https://testdag.nl/?utm_source=testingconferences
+  url: https://testdag.nl
 
 - name: Testing Portugal Conference
   location: Lisbon, Portugal
@@ -83,6 +83,11 @@
   dates: "October 24, 2024"
   url: https://wrobocon.eu/?utm_source=testingconferences
 
+- name: Testnet Fall Event 2024
+  location: Utrecht, Netherlands
+  dates: "October 9, 2024"
+  url: https://www.testnet.org/evenement/entry/17596/?evenement=najaarsevenement
+  
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
   dates: "October 23-25, 2024"
@@ -171,6 +176,11 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
 
+- name: QX Day 2024 - Navigating the GenAI Era
+  location: Utrecht, Netherlands
+  dates: "November 9, 2024"
+  url: https://www.sogeti.nl/events/qx-day-2024-navigating-the-genai-era/
+  
 - name: SANAE BEER.EX 2024
   location: Bratislava, Slovakia
   dates: "September 18-19, 2024"
@@ -342,6 +352,11 @@
   url: https://gamequality.org/qualicon/?utm_source=testingconferences
   twitter: QualiconGlobal
 
+- name: Testnet Spring Event 2024
+  location: Utrecht, Netherlands
+  dates: "May 15, 2024"
+  url: https://www.testnet.org/evenement/entry/17593/?evenement=voorjaarsevenement
+  
 - name: "POST/CON 24"
   location: San Francisco, CA, USA
   dates: "April 30 - May 1, 2024"
