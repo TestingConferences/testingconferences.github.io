@@ -58,7 +58,7 @@
 - name: TestMass
   location: Odijk, Netherlands
   dates: "April 22, 2025"
-  url: https://www.testmass.org
+  url: https://www.testmass.org?utm_source=testingconferences
   status: Registration is Open
   
 - name: STAREAST 2025
@@ -71,7 +71,7 @@
 - name: Testnet Spring Evenet
   location: Nieuwegein, Netherlands
   dates: "May 14, 2025"
-  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025
+  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025?utm_source=testingconferences
   status: Information to follow
   
 - name: Nordic Testing Days (NTD) 2025
@@ -140,7 +140,7 @@
 - name: Testing Talks 2025
   location: Sydney, Australia
   dates: "July 31, 2025"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-sydney
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-sydney?utm_source=testingconferences
 
 - name: Testμ Conference 2025
   location: Online
@@ -166,7 +166,7 @@
   dates: "September 21-26, 2025"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=marketo&utm_medium=email&utm_campaign=mk-sw25-cfs4-012625&mkt_tok=MzM1LUZFTC0yMTUAAAGYQlCzbad2aq8qu1d14APvwkAFbctF2IH5M9bOt5albF9aa7LhyocU_q9nLeJiMJ8k4UzUXwtlR0nYG3uPwL_ldySXoVnt_vFDaBW-7o_QAvU" target="_blank">CFP is Open</a> until February 2, 2025
+  status: <a href="https://starwest.techwell.com/speak-starwest?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 2, 2025
 
 - name: SEETEST 2025
   location: Sofia, Bulgaria and Online
