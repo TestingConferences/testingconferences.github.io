@@ -119,6 +119,12 @@
   url: https://innovateqaevents.com?utm_source=testingconferences
   status: <a href="https://forms.gle/8EDWErZ299GC86Md6" target="_blank">CFP is Open until April 1, 2025.</a> | <a href="https://www.eventbrite.com/e/innovateqa-seattle-2025-tickets-1143506060409">Early Bird registration is Open</a>
 
+- name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
+  location: London, UK
+  dates: "June 19, 2025"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/?utm_source=testingconferences
+  status: CFP Open until 21st February 2025
+  
 - name: QA or the Highway
   location: Columbus, OH
   dates: "June 27, 2025"
@@ -247,4 +253,3 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 30, 2025
-
