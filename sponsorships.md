@@ -59,11 +59,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>September 2025</td>
-    <td>Open</td>
+    <td>TestingUnited 2025</td>
   </tr>
   <tr>
     <td>October 2025</td>
-    <td>Open</td>
+    <td>TestingUnited 2025</td>
   </tr>
   <tr>
     <td>November 2025</td>
