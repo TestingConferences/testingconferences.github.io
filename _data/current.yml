@@ -137,6 +137,13 @@
   dates: "July 11-12, 2025"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
 
+- name: "Sparks: A conference for people who take Testing seriously by Synapse QA"
+  location: Kuala Lumpur, Malaysia
+  dates: "July 31, 2025"
+  url: https://synapse-qa.com/sparks/?utm_source=testingconferences
+  twitter: synapse_qa
+  status: <a href="https://tally.so/r/3X1XzL?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 11, 2025 | <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Super Early Bird Registration is Open</a>
+
 - name: Testing Talks 2025
   location: Sydney, Australia
   dates: "July 31, 2025"
