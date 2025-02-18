@@ -143,6 +143,13 @@
   twitter: AST_News
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 31, 2025
 
+- name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
+  location: Limassol, Cyprus
+  dates: "September 17-19, 2025"
+  url: https://conf.researchr.org/home/ictss-2025?utm_source=testingconferences
+  twitter: ICTSSConf
+   status: <a href="https://conf.researchr.org/track/ictss-2025/ictss-2025-general-track#Call-For-Papers" target="_blank">CFP is Open</a> until May 19, 2025
+
 - name: Targeting Quality 2025
   location: Cambridge, Ontario, Canada
   dates: September 22-23, 2025
