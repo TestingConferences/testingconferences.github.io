@@ -25,6 +25,12 @@
   twitter: seleniumconf
   status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences">Registration is Open</a>
 
+- name: WOPR Latam 03
+  location: Lima, PE
+  dates: "March 31 - April 2, 2025"
+  url: https://performance-workshop.org/
+  status: <a href="https://federico-toledo.com/se-abre-la-convocatoria-del-wopr-latam-03-en-lima-peru/">Registration is Closed</a>
+
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
   dates: "April 1-3, 2025"
@@ -34,6 +40,12 @@
   location: San Francisco, CA, US and Online
   dates: "April 7-13, 2025"
   url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
+
+- name: "Agile DevOps: Testing the Future of Software Delivery"
+  location: Bangalore, India
+  dates: "April 11, 2025"
+  url: https://www.navigoseminars.com/agile-devops-bangalore
+  status: Registration is Open
   
 - name: TestMass
   location: Odijk, Netherlands
@@ -117,6 +129,13 @@
   dates: "July 11-12, 2025"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
 
+- name: "Sparks: A conference for people who take Testing seriously by Synapse QA"
+  location: Kuala Lumpur, Malaysia
+  dates: "July 31, 2025"
+  url: https://synapse-qa.com/sparks/?utm_source=testingconferences
+  twitter: synapse_qa
+  status: <a href="https://tally.so/r/3X1XzL?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 11, 2025 | <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Super Early Bird Registration is Open</a>
+
 - name: Testing Talks 2025
   location: Sydney, Australia
   dates: "July 31, 2025"
@@ -135,6 +154,13 @@
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 31, 2025
+
+- name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
+  location: Limassol, Cyprus
+  dates: "September 17-19, 2025"
+  url: https://conf.researchr.org/home/ictss-2025?utm_source=testingconferences
+  twitter: ICTSSConf
+  status: <a href="https://conf.researchr.org/track/ictss-2025/ictss-2025-general-track#Call-For-Papers" target="_blank">CFP is Open</a> until May 19, 2025
 
 - name: STARWEST 2025
   location: Anaheim, CA, USA and Online
@@ -206,6 +232,18 @@
   dates: "October 11-12, 2025"
   url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   status: Registration is Open and Free
+
+- name: "Quality Beacon - Lighting the Path for NExt-Gen Testing"
+  location: Copenhagen, Denmark
+  dates: "October 20-21, 2025"
+  url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
+  status: <a href="https://www.dstb.dk/call-for-proposals-2025/?utm_source=testingconferences" target="_blank">CFP is Open</a> until March 31, 2025
+
+- name: WOPR Latam 04
+  location: Montevideo, UY
+  dates: "November 5-7, 2025"
+  url: https://performance-workshop.org/
+  status: CFP is Opening Soon
 
 - name: AutomationSTAR 2025
   location: Amsterdam, The Netherlands
