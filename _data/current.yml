@@ -25,6 +25,12 @@
   twitter: seleniumconf
   status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences">Registration is Open</a>
 
+- name: WOPR Latam 03
+  location: Lima, PE
+  dates: "March 31 - April 2, 2025"
+  url: https://performance-workshop.org/
+  status: <a href="https://federico-toledo.com/se-abre-la-convocatoria-del-wopr-latam-03-en-lima-peru/">Registration is Closed</a>
+
 - name: 11th UCAAT - User Conference on Advanced Automated Testing 2025
   location: Thessaloniki, Greece
   dates: "April 1-3, 2025"
@@ -200,6 +206,12 @@
   dates: "October 11-12, 2025"
   url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
   status: Registration is Open and Free
+
+- name: WOPR Latam 04
+  location: Montevideo, UY
+  dates: "November 5-7, 2025"
+  url: https://performance-workshop.org/
+  status: CFP is Opening Soon
 
 - name: AutomationSTAR 2025
   location: Amsterdam, The Netherlands
