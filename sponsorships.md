@@ -22,14 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>November 2024</td>
-    <td>EuroSTAR</td>
-  </tr>
-  <tr>
-    <td>December 2024</td>
-    <td>Open</td>
-  </tr>
-  <tr>
     <td>January 2025</td>
     <td>EuroSTAR</td>
   </tr>
@@ -51,11 +43,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>July 2025</td>
-    <td>Open</td>
+    <td>PNSQC 2025</td>
   </tr>
   <tr>
     <td>August 2025</td>
-    <td>Open</td>
+    <td>PNSQC 2025</td>
   </tr>
   <tr>
     <td>September 2025</td>
