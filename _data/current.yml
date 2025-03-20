@@ -148,18 +148,24 @@
   twitter: ICTSSConf
   status: <a href="https://conf.researchr.org/track/ictss-2025/ictss-2025-general-track#Call-For-Papers" target="_blank">CFP is Open</a> until May 19, 2025
 
-- name: Targeting Quality 2025
-  location: Cambridge, Ontario, Canada
-  dates: September 22-23, 2025
-  url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2025/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 15, 2025. <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration</a> is Open
-
 - name: STARWEST 2025
   location: Anaheim, CA, USA and Online
   dates: "September 21-26, 2025"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
   status: Registration is not open yet
+
+- name: Targeting Quality 2025
+  location: Cambridge, Ontario, Canada
+  dates: September 22-23, 2025
+  url: https://targetingquality.ca/?utm_source=testingconferences
+  status: <a href="https://kwsqa.org/tq2025/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 15, 2025. <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration</a> is Open
+
+- name: Tesena Fest 2025
+  location: Prague, Czech Republic
+  dates: "September 24-25, 2025"
+  url: https://www.tesena.com/tesena-fest-2025/a-189/
+  status: <a href="https://forms.zohopublic.com/zohopeople1145/form/TesenaFest20231/formperma/BuuS8R3ZDIAGuX7VX3Ik3zKqsmuOpoMH7TCwCilxJLw?_ga=2.216405590.1918112636.1721639240-1168346794.1721639240">Registration is Open</a>
 
 - name: SEETEST 2025
   location: Sofia, Bulgaria and Online
