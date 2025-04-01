@@ -1,3 +1,14 @@
+- name: SeleniumConf & AppiumConf 2025
+  location: Valencia, ES
+  dates: "March 26-28, 2025"
+  url: https://seleniumconf.com/?utm_source=testingconferences
+  twitter: seleniumconf
+
+- name: ParisTestConf 2025
+  location: Paris, FR
+  dates: "March 25, 2025"
+  url: https://paristestconf.com/?utm_source=testingconferences
+
 - name: Testing Peers Conference 2025
   location: Nottingham, UK
   dates: "March 13, 2025"
