@@ -1,6 +1,6 @@
 require 'yaml'
 
-yaml_data = File.read('../_data/current.yml')
+yaml_data = File.read('_data/current.yml')
 conferences = YAML.safe_load(yaml_data)
 
 print 'Enter the month: '
