@@ -216,8 +216,8 @@
 - name: VLCTESTING 2025
   location: Valencia, Spain (October 1) and Online (October 2 - free)
   dates: "October 1-2, 2025"
-  url: https://vlctesting.es/
-  status: <a href="https://vlctesting.es/call-for-speakers/">CFP is open</a>
+  url: https://vlctesting.es/?utm_source=testingconferences
+  status: <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences">CFP is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
