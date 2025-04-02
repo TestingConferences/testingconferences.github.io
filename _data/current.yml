@@ -46,6 +46,13 @@
   url: https://www.testmass.org?utm_source=testingconferences
   status: Registration is Open
 
+- name: Test Automation Summit San Diego Online 2025
+  location: San Diego, CA, USA
+  dates: "May 13, 2025"
+  url:https://www.testingmind.com/event/test-automation-summit-san-diego/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Registration is Open
+
 - name: Testnet Spring Evenet
   location: Nieuwegein, Netherlands
   dates: "May 14, 2025"
@@ -70,6 +77,13 @@
   dates: "May 15, 2025"
   url: https://testscouts.se/testcoast/?utm_source=testingconferences
   status: Sold Out
+
+- name: Test Automation Summit Salt Lake 2025
+  location: Salt Lake City, UT, USA
+  dates: "May 15, 2025"
+  url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
+  twitter: testingmindcon
+  status: Registration is Open
 
 - name: WeTest.Athens 2025
   location: Athens, Greece
