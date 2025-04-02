@@ -16,10 +16,16 @@
   status: Registration is Open
 
 - name: QonfX 2025
-  location: Toronto, Berlin, San Francisco, and Berlin
+  location: Toronto, Berlin, and San Francisco
   dates: "April 9-11, 2025"
   url: https://www.thetesttribe.com/qonfx/?utm_source=testingconferences
   status: Invite Only
+
+- name: "Agile DevOps: Testing the Future of Software Delivery"
+  location: Bangalore, India
+  dates: "April 11, 2025"
+  url: https://www.navigoseminars.com/agile-devops-bangalore?utm_source=testingconferences
+  status: Registration is Open
 
 - name: QonfX 2025 Virtual Conference
   location: Online
@@ -27,12 +33,12 @@
   url: https://www.thetesttribe.com/qonfx/virtual/?utm_source=testingconferences
   status: Invite Only
 
-- name: "Agile DevOps: Testing the Future of Software Delivery"
-  location: Bangalore, India
-  dates: "April 11, 2025"
-  url: https://www.navigoseminars.com/agile-devops-bangalore
+- name: TestMass
+  location: Odijk, Netherlands
+  dates: "April 22, 2025"
+  url: https://www.testmass.org?utm_source=testingconferences
   status: Registration is Open
-  
+
 - name: STAREAST 2025
   location: Orlando, FL, USA and Online
   dates: "April 27 - May 2, 2025"
@@ -40,16 +46,10 @@
   twitter: TechWell
   status: <a href="https://stareast.techwell.com/pricing-packages?utm_source=marketo&utm_medium=email&utm_campaign=mk-se25-announcement-121724&mkt_tok=MzM1LUZFTC0yMTUAAAGXdFMX7KyAwkdthWZTpAdZzEu_b3vymIRulfY5MJ1b-dkVXf4FZHfHvyWvFk9ArXgYd2pctYQkD5_KatFcw4lJd8cNBSi4ensP64q3osXAfbU" target="_blank">Registration is Open</a>
 
-- name: TestMass
-  location: Odijk, Netherlands
-  dates: "April 22, 2025"
-  url: https://www.testmass.org?utm_source=testingconferences
-  status: Registration is Open
-
 - name: Test Automation Summit San Diego Online 2025
   location: San Diego, CA, USA
   dates: "May 13, 2025"
-  url:https://www.testingmind.com/event/test-automation-summit-san-diego/?utm_source=testingconferences
+  url: https://www.testingmind.com/event/test-automation-summit-san-diego/?utm_source=testingconferences
   twitter: testingmindcon
   status: Registration is Open
 
@@ -96,7 +96,7 @@
   dates: "May 20-22, 2025"
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.eu/ticket-pricing/?utm_source=testingconferences" target="_blank">Pre-launch Registration is Open</a>
+  status: <a href="https://expoqa.eu/ticket-pricing/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Software Quality Days
   location: Munich, Germany and Online
