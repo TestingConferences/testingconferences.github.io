@@ -1,4 +1,10 @@
-- name: WOPR Latam 03
+  - name: Verification, Validation, and Testing track @ QUATIC'2025
+  location: Lisbon, Portugal
+  dates: "September 3-5, 2025"
+  url: https://2025.quatic.org/thematic-tracks/verification-validation-and-testing
+  status: <a href="https://2025.quatic.org/">Submissions are Open</a>
+
+  - name: WOPR Latam 03
   location: Lima, PE
   dates: "March 31 - April 2, 2025"
   url: https://performance-workshop.org/
