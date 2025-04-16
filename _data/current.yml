@@ -255,3 +255,9 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
+
+- name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
+  location: Online
+  dates: "June 25, 2025"
+  url: https://tmscl.me/ts-2025-06-tc
+  status: Registration is open
