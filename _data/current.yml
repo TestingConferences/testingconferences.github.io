@@ -68,7 +68,7 @@
   dates: "June 3-6, 2025"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences">Early Bird Tickets are Open</a>
+  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences">Save Up to 30% on Team Tickets</a>
 
 - name: Innovate QA Conference 2025
   location: Seattle, WA, USA 🇺🇸
@@ -89,17 +89,17 @@
   status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Early Bird Registration</a> is Open until May 16, 2025
 
 - name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
-  location: Radisson Blu, Bengaluru
+  location: Bengaluru, India
   dates: "July 11-12, 2025"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
-  status: Waitlist is Open
+  status: Registration is Open
 
 - name: "Sparks: A conference for people who take Testing seriously by Synapse QA"
   location: Kuala Lumpur, Malaysia
   dates: "July 31, 2025"
   url: https://synapse-qa.com/sparks/?utm_source=testingconferences
   twitter: synapse_qa
-  status: <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until April 14, 2025
+  status: <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Early Bird Registration is Open</a> until May 26, 2025
 
 - name: Testing Talks 2025
   location: Sydney, Australia
@@ -118,7 +118,7 @@
   dates: "August 25-27, 2025"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
-  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/cast-2025-cfp/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 21, 2025
+  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> until May 31, 2025
 
 - name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
   location: Limassol, Cyprus
@@ -144,7 +144,7 @@
   location: Cambridge, Ontario, Canada
   dates: September 22-23, 2025
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2025/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 15, 2025. <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration</a> is Open
+  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until July 28, 2025
 
 - name: Tesena Fest 2025
   location: Prague, Czech Republic
@@ -194,7 +194,7 @@
   dates: "October 13-15, 2025"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1686039" target="_blank">CFP is Open</a> until April 20, 2025
+  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1686039" target="_blank">CFP is Open</a> until May 5, 2025
 
 - name: HUSTEF Software Testing Conference 2025
   location: Budapest, Hungary
@@ -203,10 +203,11 @@
   twitter: hustef
   status: Early Bird Registration is Open until May 23, 2025
 
-- name: "Quality Beacon - Lighting the Path for NExt-Gen Testing"
+- name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
   dates: "October 20-21, 2025"
   url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
+  status: Early Bird Registration is Open
 
 - name: Testing Stage LATAM
   location: Online
@@ -226,27 +227,27 @@
   dates: "November 10-11, 2025"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Super Early Bird Pricing is Open
+  status: Program Launch Offer is Open
 
 - name: Software-QS-Tag 2025
   location: Frankfurt / M, Germany
   dates: "November 12-13, 2025"
   url: https://www.qs-tag.de/?utm_source=testingconferences
-  status: <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 15, 2025. Blind Bird Pricing is Open
+  status: <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 5, 2025. Blind Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
 
 - name: Testing United 2025
   location: Milan, Italy
   dates: "November 13-15, 2025"
   url: https://www.testingunited.com/?utm_source=testingconferences
   twitter: testing_united
-  status: <a href="https://www.eventora.com/en/Events/testing-united-2025-1/?utm_source=testingconferences" target="_blank">Super Early Bird Pricing is Open</a> until April 30, 2025
+  status: <a href="https://www.eventora.com/en/Events/testing-united-2025-1/?utm_source=testingconferences" target="_blank">Early Bird Pricing is Open</a> until June 30, 2025
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
   dates: "November 14, 2025"
   url: https://www.tokyotestfest.com/?utm_source=testingconferences
   twitter: tokyotestfest
-  status: <a href="https://forms.gle/3poLaowqAXM4xhNm8" target="_blank">CFP is Open</a> until April 20, 2025 and <a href="https://fienta.com/tokyotestfest2025/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://fienta.com/tokyotestfest2025/?utm_source=testingconferences" target="_blank">Ultra Early Bird Registration</a> is Open
 
 - name: Agile Testing Days
   location: Potsdam, Germany
