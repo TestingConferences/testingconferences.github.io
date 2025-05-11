@@ -80,7 +80,13 @@
   location: London, UK
   dates: "June 19, 2025"
   url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/?utm_source=testingconferences
-  
+
+- name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
+  location: Online
+  dates: "June 25, 2025"
+  url: https://tmscl.me/ts-2025-06-tc
+  status: Registration is open
+
 - name: QA or the Highway
   location: Columbus, OH
   dates: "June 27, 2025"
