@@ -1,3 +1,19 @@
+- name: The QA Financial Forum New York 2025
+  location: New York, NY, USA
+  dates: "May 14, 2025"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2025#/?affl=softwaretestingemail
+
+- name: Testnet Spring Evenet
+  location: Nieuwegein, Netherlands
+  dates: "May 14, 2025"
+  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025?utm_source=testingconferences
+
+- name: Test Automation Summit San Diego Online 2025
+  location: San Diego, CA, USA
+  dates: "May 13, 2025"
+  url: https://www.testingmind.com/event/test-automation-summit-san-diego/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: STAREAST 2025
   location: Orlando, FL, USA and Online
   dates: "April 27 - May 2, 2025"
