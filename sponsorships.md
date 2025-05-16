@@ -38,6 +38,10 @@ change month to month and year to year as traffic grows. We do offer multi-month
     <td>EuroSTAR</td>
   </tr>
   <tr>
+    <td>May 2025</td>
+    <td>Testμ Online Conference 2025</td>
+  </tr>
+  <tr>
     <td>June 2025</td>
     <td>AutomationSTAR</td>
   </tr>
