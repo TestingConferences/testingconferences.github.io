@@ -148,6 +148,12 @@
   url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
   status: Early Bird Registration is Open
 
+- name: "TestCon Europe 2025"
+  location: Vilnius, Lithuania
+  dates: "October 21-24, 2025"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: Early Bird Registration until June 5
+  
 - name: Testing Stage LATAM
   location: Online
   dates: "October 24, 2025"
