@@ -20,14 +20,14 @@
   location: Online
   dates: "June 25, 2025"
   url: https://tmscl.me/ts-2025-06-tc
-  status: Registration is open
+  status: Registration is Open
 
 - name: QA or the Highway
   location: Columbus, OH
   dates: "June 27, 2025"
   url: https://www.qaorthehwy.com?utm_source=testingconferences
   twitter: qaorthehighway
-  status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Early Bird Registration</a> is Open until May 16, 2025
+  status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Registration is Open</a>
 
 - name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
   location: Bengaluru, India
@@ -66,7 +66,6 @@
   dates: "September 17-19, 2025"
   url: https://conf.researchr.org/home/ictss-2025?utm_source=testingconferences
   twitter: ICTSSConf
-  status: <a href="https://conf.researchr.org/track/ictss-2025/ictss-2025-general-track#Call-For-Papers" target="_blank">CFP is Open</a> until May 19, 2025
 
 - name: The QA Financial Forum London 2025
   location: London, UK
@@ -104,7 +103,7 @@
   dates: "September 27, 2025"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: <a href="https://forms.gle/Kt2QMs9gkL4Gq78C7" target="_blank">CFP is Open</a> until May 15, 2025 | <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Early Bug Registration is Open</a>
+  status: <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Early Bug Registration is Open</a>
 
 - name: VLCTESTING 2025
   location: Valencia, Spain (October 1) and Online (October 2 - free)
@@ -135,14 +134,13 @@
   dates: "October 13-15, 2025"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&prid=1686039" target="_blank">CFP is Open</a> until May 5, 2025
 
 - name: HUSTEF Software Testing Conference 2025
   location: Budapest, Hungary
   dates: "October 14-16, 2025"
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: hustef
-  status: Early Bird Registration is Open until May 23, 2025
+  status: Registration is Open
 
 - name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
@@ -174,7 +172,7 @@
   location: Frankfurt / M, Germany
   dates: "November 12-13, 2025"
   url: https://www.qs-tag.de/?utm_source=testingconferences
-  status: <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a> until May 5, 2025. Blind Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
+  status: Blind Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
 
 - name: Testing United 2025
   location: Milan, Italy
