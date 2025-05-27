@@ -188,6 +188,12 @@
   twitter: tokyotestfest
   status: <a href="https://fienta.com/tokyotestfest2025/?utm_source=testingconferences" target="_blank">Ultra Early Bird Registration</a> is Open
 
+- name: Testing Assembly
+  location: Helsinki, Finland
+  dates: "November 20-21, 2025"
+  url: https://testingassembly.fistb.fi/
+  status: Call for Speakers is open until May 10, 2025. Registration opens on June 2025.
+  
 - name: Agile Testing Days
   location: Potsdam, Germany
   dates: "November 24-27, 2025"
