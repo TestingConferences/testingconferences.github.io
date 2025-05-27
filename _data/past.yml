@@ -1,3 +1,37 @@
+- name: GreaTest Quality Convention 2025
+  location: Zürich, Switzerland
+  dates: "May 23, 2025"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  twitter: gtq_con
+
+- name: Software Quality Days
+  location: Munich, Germany and Online
+  dates: "May 20-22, 2025"
+  url: https://www.software-quality-days.com/en/?utm_source=testingconferences
+
+- name: "expo:QA 25"
+  location: Madrid, Spain
+  dates: "May 20-22, 2025"
+  url: https://expoqa.eu/?utm_source=testingconferences
+  twitter: expoqa
+
+- name: Test Automation Summit Salt Lake 2025
+  location: Salt Lake City, UT, USA
+  dates: "May 15, 2025"
+  url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: Test Coast 2025
+  location: Göteborg, Sweden
+  dates: "May 15, 2025"
+  url: https://testscouts.se/testcoast/?utm_source=testingconferences
+
+- name: Nordic Testing Days (NTD) 2025
+  location: Tallinn, Estonia
+  dates: "May 14-16, 2025"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+
 - name: The QA Financial Forum New York 2025
   location: New York, NY, USA
   dates: "May 14, 2025"
