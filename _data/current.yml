@@ -139,9 +139,9 @@
   location: Budapest, Hungary
   dates: "October 14-16, 2025"
   url: https://hustef.hu/?utm_source=testingconferences
-  twitter: hustef
+  twitter: HunTestingBoard
   status: Registration is Open
-
+  
 - name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
   dates: "October 20-21, 2025"
@@ -160,6 +160,13 @@
   url: https://latamtesting.com/?utm_source=testingconferences
   twitter: testingstage
   status: Registration is Open and Free
+
+- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems  
+  location: Bilbao, Spain
+  dates: "October 22-24, 2025"
+  url: https://www.qatest.org/?lang=en
+  twitter: https://twitter.com/QATestBilbao
+  status: Early Bird Registration is Open
 
 - name: WOPR Latam 04
   location: Montevideo, UY
