@@ -1,279 +1,166 @@
-- name: Test & Quality
-  location: Copenhagen, Denmark
-  dates: "June 11-12, 2019"
-  url: https://dstb.dk/konference-2019/?utm_source=testingconferences
-  twitter: DSTB_dk
-  status: Registration is open
+- name: EuroSTAR 2025 Software Testing Conference
+  location: Edinburgh, Scotland
+  dates: "June 3-6, 2025"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences">Save Up to 30% on Team Tickets</a>
 
-- name: AI and Automation for Mobile Banking and E-commerce 2019
-  location: London, UK
-  dates: "June 12, 2019"
-  url: https://www.qa-financial.com/events/qa-automation-for-mobiles-apps-london-2019?utm_source=testingconferences
-  status: Registration is open
-
-- name: Romanian Testing Conference (RTC) 2019
-  location: Cluj-Napoca, Romania
-  dates: "June 12-14, 2019"
-  url: https://www.romaniatesting.ro?utm_source=testingconferences
-  twitter: romaniatesting
-  status: Registration is open
-
-- name: AppiumConf 19
-  location: Bengaluru, India
-  dates: "June 13-15, 2019"
-  url: https://appiumconf.com/?utm_source=testingconferences
-  twitter: appium_conf
-  status: Registration is open
-
-- name: expo:QA'19
-  location: Madrid, Spain
-  dates: "June 17-19, 2019"
-  url: http://www.expoqa.com?utm_source=testingconferences
-  twitter: expoQA
-  status: Registration is open
-
-- name: Test Automation Day 2019
-  location: Utrecht, Netherlands
-  dates: "June 19-20, 2019"
-  url: http://www.testautomationday.com?utm_source=testingconferences
-  twitter: automation_day
-  status: Registration is open
-
-- name: Agile Testing Days USA 2019
-  location: Chicago, IL, USA
-  dates: "June 23-28, 2019"
-  url: http://agiletestingdays.us/?utm_source=testingconferences
-  twitter: AgileTDUSA
-  status: Registration is open
-
-- name: Leeds Testing Atelier VIII
-  location: Leeds, England
-  dates: "June 25, 2019"
-  url: https://ti.to/testing-atelier/leeds-testing-atelier-viii?utm_source=testingconferences
-  twitter: testing_atelier
+- name: Innovate QA Conference 2025
+  location: Seattle, WA, USA 🇺🇸
+  dates: "June 05, 2025"
+  url: https://innovateqaevents.com?utm_source=testingconferences
   status: Registration is Open
 
-- name: Test Leadership Congress 2019
-  location: New York, NY, USA
-  dates: "June 26-28, 2019"
-  url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
-  twitter: TestMastersAcad
-  status: Registration is open
-
-- name: London Tester Gathering Workshops 2019
+- name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
   location: London, UK
-  dates: "June 26-28, 2019"
-  url: https://ti.to/mot/london-tester-gathering-workshops-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Early Bird Registration is open
+  dates: "June 19, 2025"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/?utm_source=testingconferences
 
-- name: Agile, Testing & DevOps Showcase Brussels 2019
-  location: Brussels, Belgium
-  dates: "June 28, 2019"
-  url: https://conference.unicom.co.uk/showcases/2019/june/brussels/?utm_source=testingconferences
-  status: Registration is open
+- name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
+  location: Online
+  dates: "June 25, 2025"
+  url: https://tmscl.me/ts-2025-06-tc
+  status: Registration is Open
 
-- name: International Symposium on Software Testing and Analysis (ISSTA) 2019
-  location: Beijing, China
-  dates: "July 15-29, 2019"
-  url: http://conf.researchr.org/home/issta-2019?utm_source=testingconferences
-  twitter: issta_conf
+- name: QA or the Highway
+  location: Columbus, OH
+  dates: "June 27, 2025"
+  url: https://www.qaorthehwy.com?utm_source=testingconferences
+  twitter: qaorthehighway
+  status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Registration is Open</a>
 
-- name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2019
-  location: Prague, Czech Republic
-  dates: "July 22-26, 2019"
-  url: http://paris.utdallas.edu/cta19/?utm_source=testingconferences
+- name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
+  location: Bengaluru, India
+  dates: "July 11-12, 2025"
+  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
+  status: Registration is Open
 
-- name: Conference for the Association for Software Testing (CAST) 2019
-  location: Cocoa Beach, FL, USA
-  dates: "August 12-15, 2019"
-  url: https://www.associationforsoftwaretesting.org/conference/cast2019/?utm_source=testingconferences
+- name: "Sparks: A conference for people who take Testing seriously by Synapse QA"
+  location: Kuala Lumpur, Malaysia
+  dates: "July 31, 2025"
+  url: https://synapse-qa.com/sparks/?utm_source=testingconferences
+  twitter: synapse_qa
+  status: <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Early Bird Registration is Open</a> until May 26, 2025
+
+- name: Testing Talks 2025
+  location: Sydney, Australia
+  dates: "July 31, 2025"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-sydney?utm_source=testingconferences
+
+- name: Testμ Conference 2025
+  location: Online
+  dates: "August 19-21, 2025"
+  url: https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025
+  twitter: lambdatesting
+  status: <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
+
+- name: CAST 2025
+  location: Silicon Slopes, UT, USA
+  dates: "August 25-27, 2025"
+  url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
+  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> until May 31, 2025
+
+- name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
+  location: Limassol, Cyprus
+  dates: "September 17-19, 2025"
+  url: https://conf.researchr.org/home/ictss-2025?utm_source=testingconferences
+  twitter: ICTSSConf
+
+- name: The QA Financial Forum London 2025
+  location: London, UK
+  dates: "September 18, 2025"
+  url: https://qafinancial.zohobackstage.eu/TheQAFinancialForumLondon2025#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/TheQAFinancialForumLondon2025#/?affl=softwaretestingemail" target="_blank">Registration is Open and Free</a>
+
+- name: STARWEST 2025
+  location: Anaheim, CA, USA and Online
+  dates: "September 21-26, 2025"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: <a href="https://starwest.techwell.com/pricing-packages" target="_blank">Super Early Bird Registration is Open</a> until July 25, 2025
+
+- name: Targeting Quality 2025
+  location: Cambridge, Ontario, Canada
+  dates: September 22-23, 2025
+  url: https://targetingquality.ca/?utm_source=testingconferences
+  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until July 28, 2025
+
+- name: Tesena Fest 2025
+  location: Prague, Czech Republic
+  dates: "September 24-25, 2025"
+  url: https://www.tesena.com/tesena-fest-2025/a-189/
+  status: <a href="https://forms.zohopublic.com/zohopeople1145/form/TesenaFest20231/formperma/BuuS8R3ZDIAGuX7VX3Ik3zKqsmuOpoMH7TCwCilxJLw?_ga=2.216405590.1918112636.1721639240-1168346794.1721639240">Registration is Open</a>
+
+- name: SEETEST 2025
+  location: Sofia, Bulgaria and Online
+  dates: "September 25-26, 2025"
+  url: https://www.seetest.org/?utm_source=testingconferences
+  status: Early Bird Registration is Open until July 15, 2025
+
+- name: "QA: Challenge Accepted 2025 - The Elevation"
+  location: Sofia, Bulgaria and Online
+  dates: "September 27, 2025"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+  status: <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Early Bug Registration is Open</a>
+
+- name: VLCTESTING 2025
+  location: Valencia, Spain (October 1) and Online (October 2 - free)
+  dates: "October 1-2, 2025"
+  url: https://vlctesting.es/?utm_source=testingconferences
+  status: <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences">CFP is Open</a>
+
+- name: TestBash Brighton 2025
+  location: Brighton, UK
+  dates: "October 1-2, 2025"
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
+  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Super Early Bird Registration is Open</a> until May 31, 2025
+
+- name: Testing Talks 2025
+  location: Melbourne, Australia
+  dates: "October 9, 2025"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne
+  status: CFP is Open
+
+- name: "TestFlix 2025 - World’s Leading Virtual Software Testing Conference"
+  location: Online
+  dates: "October 11-12, 2025"
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
+  status: Registration is Open and Free
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2025
+  location: Portland, Oregon, USA
+  dates: "October 13-15, 2025"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: HUSTEF Software Testing Conference 2025
+  location: Budapest, Hungary
+  dates: "October 14-16, 2025"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: HunTestingBoard
+  status: Registration is Open
+  
+- name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
+  location: Copenhagen, Denmark
+  dates: "October 20-21, 2025"
+  url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
   status: Early Bird Registration is Open
 
-- name: STeP-IN SUMMIT Bangalore 2019
-  location: Bangalore, India
-  dates: "August 22-23, 2019"
-  url: https://stepinsummit.stepinforum.org?utm_source=testingconferences
-  twitter: stepin_forum
-  status: Registration is Open
-
-- name: Test Island 2019
-  location: Saint Paul's Bay, Malta
-  dates: "August 30, 2019"
-  url: https://www.testisland.com/?utm_source=testingconferences
-  twitter: testislandmalta
-  status: Registration is Open
-
-- name: QA ATL Open Space SQA Conference
-  location: Atlanta, GA, USA
-  dates: "September 6, 2019"
-  url: https://www.qaatl.com/?utm_source=testingconferences
-  twitter: qa_atl
-  status: Registration is Open
-
-- name: SwanseaCon 2019
-  location: Swansea, Wales
-  dates: "September 9, 2019"
-  url: https://swanseacon.co.uk/?utm_source=testingconferences
-  twitter: SwanseaCon
-  status: Registration is Open
-
-- name: SQuAD Conference (Squadcon) 2019
-  location: Denver, CO, USA
-  dates: "September 10-11, 2019"
-  url: https://squadcon.org/?utm_source=testingconferences
-  status: CFP is open until May 15, 2019
-
-- name: Assert(JS) Testing Conference
-  location: Toronto, Canada
-  dates: "September 12, 2019"
-  url: https://www.assertjs.com/?utm_source=testingconferences
-  twitter: assertjs
-  status: CFP is open until April 30, 2019
-
-- name: TestBash Germany 2019
-  location: Munich, Germany
-  dates: "September 12-13, 2019"
-  url: https://ti.to/mot/testbash-germany-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Early Bird Registration is open
-
-- name: QA Fest 2019
-  location: Kyiv, Ukraine
-  dates: "September 20-21, 2019"
-  url: https://www.qafest.com/?utm_source=testingconferences
-  status: CFP is open until August 1st, 2019
-
-- name: Targeting Quality (KWSQA) 2019
-  location: Cambridge, ON Canada
-  dates: "September 23-24, 2019"
-  url: http://kwsqa.org/tq2019/?utm_source=testingconferences
-  twitter: kwsqa
-  status: Registration is open
-
-- name: DevTEST Conference NORTH 2019
-  location: Leeds, England
-  dates: "September 24-25, 2019"
-  url: https://www.softwaretestingnews.co.uk/products/devtest-conference-north/?utm_source=testingconferences
-  twitter: testmagazine
-  status: Registration is open
-
-- name: SEETEST 2019
-  location: Bucharest, Romania
-  dates: "September 26-27, 2019"
-  url: https://seetest.org/?utm_source=testingconferences
-  twitter: SEETESTConf
-  status: Registration is open
-
-- name: STeP-IN SUMMIT Pune (PSTC) 2019
-  location: Pune, India
-  dates: "September 26-27, 2019"
-  url: https://pstc.stepinforum.org/?utm_source=testingconferences
-  twitter: stepin_forum
-
-- name: STARWEST 2019
-  location: Anaheim, CA, USA
-  dates: "September 29-October 4, 2019"
-  url: https://starwest.techwell.com/?utm_source=testingconferences
-  twitter: techwell
-  status: Super Early Bird Registration is Open
-
-- name: TestBash Manchester 2019
-  location: Manchester, UK
-  dates: "October 2-3, 2019"
-  url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Super Early Bird Registration is Open
-
-- name: Argentesting 2019
-  location: Buenos Aires, Argentina
-  dates: "October 3-4, 2019"
-  url: https://argentesting.com?utm_source=testingconferences
-  twitter: argentesting
-  status: CFP is open until June 21th, 2019
-
-- name: Test.bash(); 2019
-  location: Manchester, UK
-  dates: "October 4, 2019"
-  url: https://ti.to/mot/testbash-manchester-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Super Early Bird Registration is open
-
-- name: SeleniumConf London 2019
-  location: London, UK
-  dates: "October 7-8, 2019"
-  url: https://2019.seleniumconf.co.uk?utm_source=testingconferences
-  status: Registration is Open
-
-- name: The QA Financial Forum Paris 2019
-  location: Paris, FR
-  dates: "October 9, 2019"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Pacific Northwest Software Quality Conference (PNSQC) 2019
-  location: Portland, Oregon, USA
-  dates: "October 14-16, 2019"
-  url: http://www.pnsqc.org/?utm_source=testingconferences
-  twitter: PNSQC
-  status: Registration is not open until June
-
-- name: TestCon Europe 2019
+- name: "TestCon Europe 2025"
   location: Vilnius, Lithuania
-  dates: "October 15-17, 2019"
-  url: http://www.testcon.lt/?utm_source=testingconferences
-  twitter: TestConEurope
-  status: CFP is open
-
-- name: TestExpo 2019
-  location: London, UK
-  dates: "October 17, 2019"
-  url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
-  status: CFP is open
-
-- name: STARCANADA 2019
-  location: Toronto, Canada
-  dates: "October 20-25, 2019"
-  url: http://starcanada.techwell.com/?utm_source=testingconferences
-  twitter: techwell
-  status: Super Early Bird is Open
-
-- name: SoftTest 2019
-  location: Dublin, Ireland
-  dates: "October 24, 2019"
-  url: http://softtest.ie/softtest-2019-conference-call-for-speakers/?utm_source=testingconferences
-  twitter: SoftTestIreland
-  status: CFP is Open until June 28, 2019
-
-- name: TestBash Australia 2019
-  location: Sydney, Aus
-  dates: "October 24-25, 2019"
-  url: https://ti.to/mot/testbash-australia-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Super Early Bird Registration is Open
-
-- name: TestBash New Zealand 2019
-  location: Wellington, NZ
-  dates: "October 29, 2019"
-  url: https://ti.to/mot/testbash-new-zealand-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Super Early Bird Registration is Open
-
-- name: Software-QS-Tag 2019
-  location: Frankfurt am Main, Germany
-  dates: "October 24-25, 2019"
-  url: https://www.qs-tag.de/en/?utm_source=testingconferences
-  twitter: qstag
-  status: CFP is open until May, 20th, 2019
-
-- name: HUSTEF 2019
-  location: Budapest, Hungary
-  dates: "October 28-30, 2019"
-  url: https://www.hustef.hu/?utm_source=testingconferences
-  twitter: HunTestingBoard
-  status: CFP is open until May, 13th, 2019
+  dates: "October 21-24, 2025"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: Early Bird Registration until June 5
   
+- name: Testing Stage LATAM
+  location: Online
+  dates: "October 24, 2025"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
+  status: Registration is Open and Free
+
 - name: QA&TEST International Conference on Software QA & Testing on Embedded Systems  
   location: Bilbao, Spain
   dates: "October 22-24, 2025"
@@ -281,66 +168,48 @@
   twitter: https://twitter.com/QATestBilbao
   status: Early Bird Registration is Open
 
-- name: Agile Testing Days 2019
-  location: Potsdam, Germany
-  dates: "November 3-8, 2019"
-  url: http://www.agiletestingdays.com/?utm_source=testingconferences
-  twitter: AgileTD
-  status: Early Bird Registration is Open
+- name: WOPR Latam 04
+  location: Montevideo, UY
+  dates: "November 5-7, 2025"
+  url: https://performance-workshop.org/?utm_source=testingconferences
+  status: CFP is Opening Soon
 
-- name: TestBash San Francisco 2019
-  location: San Francisco, USA
-  dates: "November 6-7, 2019"
-  url: https://ti.to/mot/testbash-san-francisco-2019?source=testingconferences
-  twitter: ministryoftest
-  status: Super Early Bird Registration is Open
-
-- name: Testing United 2019
-  location: Vienna, Austria
-  dates: "November 7-8, 2019"
-  url: https://testingunited.com?utm_source=testingconferences
-  twitter: testing_united
-  status: CFP is Open
-
-- name: EuroSTAR 2019
-  location: Prague, Czech Republic
-  dates: "November 11-14, 2019"
-  url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
+- name: AutomationSTAR 2025
+  location: Amsterdam, The Netherlands
+  dates: "November 10-11, 2025"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Early Bird Registration is Open
+  status: Program Launch Offer is Open
 
-- name: The QA Financial Forum New York 2019
-  location: New York, NY USA
-  dates: "November 13, 2019"
-  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2019?utm_source=testingconferences
-  status: Registration is open
+- name: Software-QS-Tag 2025
+  location: Frankfurt / M, Germany
+  dates: "November 12-13, 2025"
+  url: https://www.qs-tag.de/?utm_source=testingconferences
+  status: Blind Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
 
-- name: The QA E-commerce Forum New York 2019
-  location: New York, NY USA
-  dates: "November 14, 2019"
-  url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
-  status: Registration is open
+- name: Testing United 2025
+  location: Milan, Italy
+  dates: "November 13-15, 2025"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+  status: <a href="https://www.eventora.com/en/Events/testing-united-2025-1/?utm_source=testingconferences" target="_blank">Early Bird Pricing is Open</a> until June 30, 2025
 
-- name: ConTEST NYC 2019
-  location: New York, NY, USA
-  dates: "November 20-22 2019"
-  url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
-  twitter: TestMastersAcad
+- name: Tokyo Test Fest
+  location: Tokyo, Japan
+  dates: "November 14, 2025"
+  url: https://www.tokyotestfest.com/?utm_source=testingconferences
+  twitter: tokyotestfest
+  status: <a href="https://fienta.com/tokyotestfest2025/?utm_source=testingconferences" target="_blank">Ultra Early Bird Registration</a> is Open
 
-- name: Let's Test South Africa 2019
-  location: Cape Town, South Africa
-  dates: "November 24-26 2019"
-  url: http://lets-test.com/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: Heisenbug Moscow
-  location: Moscow, Russia
-  dates: "December 4-5, 2019"
-  url: https://heisenbug-moscow.ru/?utm_source=testingconferences
-  status: CFP is Open
-
-- name: The QA E-commerce Forum London 2019
-  location: London, UK
-  dates: "December 11, 2019"
-  url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
-  status: Early Bird Registration is open
+- name: Testing Assembly
+  location: Helsinki, Finland
+  dates: "November 20-21, 2025"
+  url: https://testingassembly.fistb.fi/
+  status: Call for Speakers is open until May 10, 2025. Registration opens on June 2025.
+  
+- name: Agile Testing Days
+  location: Potsdam, Germany
+  dates: "November 24-27, 2025"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: Early Bird Registration is Open until September 21, 2025
