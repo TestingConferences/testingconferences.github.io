@@ -1,21 +1,3 @@
-- name: EuroSTAR 2025 Software Testing Conference
-  location: Edinburgh, Scotland
-  dates: "June 3-6, 2025"
-  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
-  twitter: esconfs
-  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences">Save Up to 30% on Team Tickets</a>
-
-- name: Innovate QA Conference 2025
-  location: Seattle, WA, USA 🇺🇸
-  dates: "June 05, 2025"
-  url: https://innovateqaevents.com?utm_source=testingconferences
-  status: Registration is Open
-
-- name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
-  location: London, UK
-  dates: "June 19, 2025"
-  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/?utm_source=testingconferences
-
 - name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
   location: Online
   dates: "June 25, 2025"
@@ -59,7 +41,7 @@
   dates: "August 25-27, 2025"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
-  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> until May 31, 2025
+  status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
   location: Limassol, Cyprus
@@ -78,7 +60,7 @@
   dates: "September 21-26, 2025"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starwest.techwell.com/pricing-packages" target="_blank">Super Early Bird Registration is Open</a> until July 25, 2025
+  status: <a href="https://starwest.techwell.com/pricing-packages?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until July 25, 2025
 
 - name: Targeting Quality 2025
   location: Cambridge, Ontario, Canada
@@ -89,7 +71,7 @@
 - name: Tesena Fest 2025
   location: Prague, Czech Republic
   dates: "September 24-25, 2025"
-  url: https://www.tesena.com/tesena-fest-2025/a-189/
+  url: https://www.tesena.com/tesena-fest-2025/a-189/?utm_source=testingconferences
   status: <a href="https://forms.zohopublic.com/zohopeople1145/form/TesenaFest20231/formperma/BuuS8R3ZDIAGuX7VX3Ik3zKqsmuOpoMH7TCwCilxJLw?_ga=2.216405590.1918112636.1721639240-1168346794.1721639240">Registration is Open</a>
 
 - name: SEETEST 2025
@@ -120,7 +102,7 @@
 - name: Testing Talks 2025
   location: Melbourne, Australia
   dates: "October 9, 2025"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne?utm_source=testingconferences
   status: CFP is Open
 
 - name: "TestFlix 2025 - World’s Leading Virtual Software Testing Conference"
@@ -164,7 +146,7 @@
 - name: QA&TEST International Conference on Software QA & Testing on Embedded Systems  
   location: Bilbao, Spain
   dates: "October 22-24, 2025"
-  url: https://www.qatest.org/?lang=en
+  url: https://www.qatest.org/?lang=en?utm_source=testingconferences
   twitter: https://twitter.com/QATestBilbao
   status: Early Bird Registration is Open
 
@@ -204,7 +186,7 @@
 - name: Testing Assembly
   location: Helsinki, Finland
   dates: "November 20-21, 2025"
-  url: https://testingassembly.fistb.fi/
+  url: https://testingassembly.fistb.fi/?utm_source=testingconferences
   status: Call for Speakers is open until May 10, 2025. Registration opens on June 2025.
   
 - name: Agile Testing Days

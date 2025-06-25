@@ -1,3 +1,19 @@
+- name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
+  location: London, UK
+  dates: "June 19, 2025"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/?utm_source=testingconferences
+
+- name: Innovate QA Conference 2025
+  location: Seattle, WA, USA 🇺🇸
+  dates: "June 05, 2025"
+  url: https://innovateqaevents.com?utm_source=testingconferences
+
+- name: EuroSTAR 2025 Software Testing Conference
+  location: Edinburgh, Scotland
+  dates: "June 3-6, 2025"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
 - name: GreaTest Quality Convention 2025
   location: Zürich, Switzerland
   dates: "May 23, 2025"
