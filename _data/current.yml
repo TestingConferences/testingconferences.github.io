@@ -97,7 +97,7 @@
   location: Brighton, UK
   dates: "October 1-2, 2025"
   url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
-  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Super Early Bird Registration is Open</a> until May 31, 2025
+  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Early Bird Registration is Open</a> until August 31, 2025
 
 - name: Testing Talks 2025
   location: Melbourne, Australia
@@ -112,10 +112,11 @@
   status: Registration is Open and Free
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2025
-  location: Portland, Oregon, USA
+  location: Portland, Oregon, USA and Online
   dates: "October 13-15, 2025"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
+  status: <a href="https://mms.pnsqc.org/members/evr/reg_event.php?orgcode=PNSQ&evid=52209629" target="_blank">Super Early Bird Registration is Open</a> until June 30, 2025
 
 - name: HUSTEF Software Testing Conference 2025
   location: Budapest, Hungary
@@ -195,3 +196,10 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
+
+- name: STAREAST 2026
+  location: Orlando, FL, USA and Online
+  dates: "April 26 - May 1, 2026"
+  url: https://stareast.techwell.com?utm_source=testingconferences
+  twitter: TechWell
+  status: <a href="https://stareast.techwell.com/speak-stareast?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 7, 2025
