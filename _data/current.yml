@@ -22,7 +22,7 @@
   dates: "July 31, 2025"
   url: https://synapse-qa.com/sparks/?utm_source=testingconferences
   twitter: synapse_qa
-  status: <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Early Bird Registration is Open</a> until May 26, 2025
+  status: <a href="https://ti.to/synapse-qa/sparks?source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing Talks 2025
   location: Sydney, Australia
@@ -77,8 +77,8 @@
 - name: TACON 2025
   location: Leipzig, Germany
   dates: "September 23-24, 2025"
-  url: https://tacon-konferenz.de
-  status: <a href="https://events.summit-community.de/event/cd3d638b-d143-4298-b414-a94dac89b234/tickets">Regular Tickets</a>
+  url: https://tacon-konferenz.de?utm_source=testingconferences
+  status: <a href="https://events.summit-community.de/event/cd3d638b-d143-4298-b414-a94dac89b234/tickets">Registration is Open</a>
 
 - name: Tesena Fest 2025
   location: Prague, Czech Republic
@@ -147,7 +147,7 @@
   location: Vilnius, Lithuania
   dates: "October 21-24, 2025"
   url: https://testcon.lt/?utm_source=testingconferences
-  status: Early Bird Registration until June 5
+  status: Registration is Open
   
 - name: Testing Stage LATAM
   location: Online
@@ -160,8 +160,8 @@
   location: Bilbao, Spain
   dates: "October 22-24, 2025"
   url: https://www.qatest.org/?lang=en?utm_source=testingconferences
-  twitter: https://twitter.com/QATestBilbao
-  status: Early Bird Registration is Open
+  twitter: QATestBilbao
+  status: Early Bird Registration is Open until July 31, 2025
 
 - name: WOPR Latam 04
   location: Montevideo, UY
@@ -180,7 +180,7 @@
   location: Frankfurt / M, Germany
   dates: "November 12-13, 2025"
   url: https://www.qs-tag.de/?utm_source=testingconferences
-  status: Blind Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
+  status: Early Bird Pricing is <a href="https://pretalx.com/software-qs-tag-2025/cfp?utm_source=testingconferences" target="_blank">Open</a>
 
 - name: Testing United 2025
   location: Milan, Italy
