@@ -1,16 +1,3 @@
-- name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
-  location: Online
-  dates: "June 25, 2025"
-  url: https://tmscl.me/ts-2025-06-tc
-  status: Registration is Open
-
-- name: QA or the Highway
-  location: Columbus, OH
-  dates: "June 27, 2025"
-  url: https://www.qaorthehwy.com?utm_source=testingconferences
-  twitter: qaorthehighway
-  status: <a href="https://www.qaorthehwy.com/tickets?utm_source=testingconferences">Registration is Open</a>
-
 - name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
   location: Bengaluru, India
   dates: "July 11-12, 2025"
@@ -136,12 +123,18 @@
   url: https://hustef.hu/?utm_source=testingconferences
   twitter: HunTestingBoard
   status: Registration is Open
-  
+
 - name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
   dates: "October 20-21, 2025"
   url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
   status: Early Bird Registration is Open
+
+- name: CypressConf 2025
+  location: Online
+  dates: "October 21-22, 2025"
+  url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
+  status: Registration is Open and Free
 
 - name: "TestCon Europe 2025"
   location: Vilnius, Lithuania

@@ -1,3 +1,14 @@
+- name: QA or the Highway
+  location: Columbus, OH
+  dates: "June 27, 2025"
+  url: https://www.qaorthehwy.com?utm_source=testingconferences
+  twitter: qaorthehighway
+
+- name: "Workshop: Everyone wants to shift left, but our tests are just too slow!"
+  location: Online
+  dates: "June 25, 2025"
+  url: https://tmscl.me/ts-2025-06-tc
+
 - name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
   location: London, UK
   dates: "June 19, 2025"
@@ -142,7 +153,7 @@
 - name: Automation Guild 2025
   location: Online
   dates: "February 10-14, 2025"
-  url: https://www.testguild.com/ag-2025/?utm_source=testingconferences&utm_medium=organic&utm_content=ag_2025
+  url: https://testguild.com/automation-guild-2025/?utm_source=testingconferences&utm_medium=organic&utm_content=ag_2025
   twitter: testguilds
 
 - name: Agile Testing Alliance Global Testing Retreat 2024
