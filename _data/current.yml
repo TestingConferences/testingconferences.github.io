@@ -30,6 +30,12 @@
   twitter: AST_News
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: SOFTECAsia 2025
+  location: Kuala Lumpur, Malaysia
+  dates: "September 9-10, 2025"
+  url: https://mstb.org/softecasia2025/??utm_source=testingconferences
+  status: Registration is Open
+
 - name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
   location: Limassol, Cyprus
   dates: "September 17-19, 2025"
