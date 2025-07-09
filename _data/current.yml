@@ -156,6 +156,13 @@
   twitter: QATestBilbao
   status: Early Bird Registration is Open until July 31, 2025
 
+- name: STARCANADA 2025
+  location: Toronto, Canada
+  dates: "October 27-30, 2025"
+  url: https://starcanada.techwell.com/
+  twitter: TechWell
+  status: <a href="https://starcanada.techwell.com" target="_blank">Registration Now Open</a>
+
 - name: WOPR Latam 04
   location: Montevideo, UY
   dates: "November 5-7, 2025"
