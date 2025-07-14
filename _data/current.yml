@@ -1,9 +1,3 @@
-- name: "TribeQonf 2025 - Bringing Together India's Best Testing Minds"
-  location: Bengaluru, India
-  dates: "July 11-12, 2025"
-  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
-  status: Registration is Open
-
 - name: "Sparks: A conference for people who take Testing seriously by Synapse QA"
   location: Kuala Lumpur, Malaysia
   dates: "July 31, 2025"
@@ -29,6 +23,13 @@
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
   status: <a href="https://associationforsoftwaretesting.org/conference/cast-2025/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: TestingUY 2025
+  location: Montevideo, Uruguay
+  dates: "September 4, 2025"
+  url: https://testinguy.org/edition-2025/?utm_source=testingconferences
+  twitter: testingUY
+  status: CFP is Open until July 20, 2025. Registration is Open and Free. 
 
 - name: SOFTECAsia 2025
   location: Kuala Lumpur, Malaysia
@@ -165,9 +166,9 @@
 - name: STARCANADA 2025
   location: Toronto, Canada
   dates: "October 27-30, 2025"
-  url: https://starcanada.techwell.com/
+  url: https://starcanada.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starcanada.techwell.com" target="_blank">Registration Now Open</a>
+  status: <a href="https://starcanada.techwell.com?utm_source=testingconferences" target="_blank">Super Early Bird Registration</a> is Open until August 29, 2025
 
 - name: WOPR Latam 04
   location: Montevideo, UY
@@ -206,8 +207,8 @@
   location: Helsinki, Finland
   dates: "November 20-21, 2025"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
-  status: Call for Speakers is open until May 10, 2025. Registration opens on June 2025.
-  
+  status: <a href="https://testingassembly.fistb.fi/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is open until May 10, 2025</a>. <a href="https://testingassembly.fistb.fi/register/" target="_blank">Registration is Open</a>
+
 - name: Agile Testing Days
   location: Potsdam, Germany
   dates: "November 24-27, 2025"
