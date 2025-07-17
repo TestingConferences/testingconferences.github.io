@@ -143,6 +143,13 @@
   url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
   status: Registration is Open and Free
 
+- name: Wrobocon 2025 - Robot Framework Conference
+  location: Online
+  dates: "October 23, 2025"
+  url: https://wrobocon.eu/?utm_source=testingconferences
+  status: Registration is Open and Free
+
+
 - name: "TestCon Europe 2025"
   location: Vilnius, Lithuania
   dates: "October 21-24, 2025"
@@ -215,6 +222,13 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
+
+- name: Robocon 2026
+  location: Helsinki, Finland and Online
+  dates: "12-13 February 2026 live, 4-5 March 2026 Online"
+  url: https://www.robocon.io/?utm_source=testingconferences
+  status: <a href="https://pretalx.com/robocon-2026/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
+
 
 - name: STAREAST 2026
   location: Orlando, FL, USA and Online
