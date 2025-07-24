@@ -111,6 +111,12 @@
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne?utm_source=testingconferences
   status: CFP is Open
 
+- name: TestSociety
+  location: Lisboa, Portugal
+  dates: "October 10, 2025"
+  url: https://www.testsociety.pt/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: "TestFlix 2025 - World’s Leading Virtual Software Testing Conference"
   location: Online
   dates: "October 11-12, 2025"
