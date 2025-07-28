@@ -219,7 +219,7 @@
   dates: "November 13-15, 2025"
   url: https://www.testingunited.com/?utm_source=testingconferences
   twitter: testing_united
-  status: <a href="https://www.eventora.com/en/Events/testing-united-2025-1/?utm_source=testingconferences" target="_blank">Early Bird Pricing is Open</a> until June 30, 2025
+  status: <a href="https://www.eventora.com/en/Events/testing-united-2025-1/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
@@ -232,7 +232,7 @@
   location: Helsinki, Finland
   dates: "November 20-21, 2025"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
-  status: <a href="https://testingassembly.fistb.fi/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is open until May 10, 2025</a>. <a href="https://testingassembly.fistb.fi/register/" target="_blank">Registration is Open</a>
+  status: <a href="https://testingassembly.fistb.fi/register/" target="_blank">Registration is Open</a>
 
 - name: Agile Testing Days
   location: Potsdam, Germany
