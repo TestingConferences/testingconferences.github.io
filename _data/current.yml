@@ -37,6 +37,13 @@
   url: https://mstb.org/softecasia2025/??utm_source=testingconferences
   status: Registration is Open
 
+- name: OnlineTestConf
+  location: Online
+  dates: "September 15, 2025"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: <a href="https://www.onlinetestconf.com/?utm_source=testingconferences" target="_blank">CFP is Open</a> until August 10, 2025. <a href="https://www.onlinetestconf.com/?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
 - name: IFIP-ICTSS 2025 (International Conference on Testing Software and Systems)
   location: Limassol, Cyprus
   dates: "September 17-19, 2025"
@@ -47,7 +54,7 @@
   location: London, UK
   dates: "September 18, 2025"
   url: https://qafinancial.zohobackstage.eu/TheQAFinancialForumLondon2025#/?affl=softwaretestingemail
-  status: <a href="https://qafinancial.zohobackstage.eu/TheQAFinancialForumLondon2025#/?affl=softwaretestingemail" target="_blank">Registration is Open and Free</a>
+  status: <a href="https://qafinancial.zohobackstage.eu/TheQAFinancialForumLondon2025#/?affl=softwaretestingemail" target="_blank">Registration is Open</a>
 
 - name: STeP-IN SUMMIT 2025 - Asia's Largest Software Testing Conference
   location: Bengaluru, India
@@ -229,12 +236,17 @@
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
 
+- name: The QA Healthcare & Insurance Forum 2025
+  location: London, UK
+  dates: "September 26, 2025"
+  url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
+
 - name: Robocon 2026
   location: Helsinki, Finland and Online
   dates: "12-13 February 2026 live, 4-5 March 2026 Online"
   url: https://www.robocon.io/?utm_source=testingconferences
   status: <a href="https://pretalx.com/robocon-2026/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
-
 
 - name: STAREAST 2026
   location: Orlando, FL, USA and Online
