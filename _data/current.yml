@@ -73,7 +73,7 @@
   location: Cambridge, Ontario, Canada
   dates: September 22-23, 2025
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until July 28, 2025
+  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until July 31, 2025
 
 - name: TACON 2025
   location: Leipzig, Germany
@@ -91,7 +91,13 @@
   location: Sofia, Bulgaria and Online
   dates: "September 25-26, 2025"
   url: https://www.seetest.org/?utm_source=testingconferences
-  status: Early Bird Registration is Open until July 15, 2025
+  status: Registration is Open
+
+- name: The QA Healthcare & Insurance Forum 2025
+  location: London, UK
+  dates: "September 26, 2025"
+  url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
 - name: "QA: Challenge Accepted 2025 - The Elevation"
   location: Sofia, Bulgaria and Online
@@ -104,7 +110,7 @@
   location: Valencia, Spain (October 1) and Online (October 2 - free)
   dates: "October 1-2, 2025"
   url: https://vlctesting.es/?utm_source=testingconferences
-  status: <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences">CFP is Open</a>
+  status: <a href="https://vlctesting.es/reserva-tu-entrada/" target="_blank">Registration is Open</a>. <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
@@ -161,7 +167,6 @@
   dates: "October 23, 2025"
   url: https://wrobocon.eu/?utm_source=testingconferences
   status: Registration is Open and Free
-
 
 - name: "TestCon Europe 2025"
   location: Vilnius, Lithuania
@@ -235,12 +240,6 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
-
-- name: The QA Healthcare & Insurance Forum 2025
-  location: London, UK
-  dates: "September 26, 2025"
-  url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
-  status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
 - name: Robocon 2026
   location: Helsinki, Finland and Online
