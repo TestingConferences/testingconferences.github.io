@@ -241,9 +241,15 @@
   twitter: AgileTD
   status: Early Bird Registration is Open until September 21, 2025
 
-- name: Robocon 2026
-  location: Helsinki, Finland and Online
-  dates: "12-13 February 2026 live, 4-5 March 2026 Online"
+- name: Robocon 2026 In Person
+  location: Helsinki, Finland
+  dates: "February 12-13, 2026"
+  url: https://www.robocon.io/?utm_source=testingconferences
+  status: <a href="https://pretalx.com/robocon-2026/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
+
+- name: Robocon 2026 Online
+  location: Online
+  dates: "March 4-5 March, 2026"
   url: https://www.robocon.io/?utm_source=testingconferences
   status: <a href="https://pretalx.com/robocon-2026/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
