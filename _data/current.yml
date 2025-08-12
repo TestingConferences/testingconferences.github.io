@@ -6,7 +6,7 @@
   status: <a href="https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025">Registration is Open and Free</a>
 
 - name: CAST 2025
-  location: Silicon Slopes, UT, USA
+  location: Silicon Slopes, UT, USA and Virtual
   dates: "August 25-27, 2025"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
   twitter: AST_News
@@ -195,7 +195,7 @@
   dates: "November 10-11, 2025"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: Program Launch Offer is Open
+  status: <a href="https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Quality Sense Conf 2025
   location: Montevideo, Uruguay
@@ -267,8 +267,22 @@
   twitter: TechWell
   status: <a href="https://stareast.techwell.com/speak-stareast?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 7, 2025
 
+- name: SeleniumConf & AppiumConf 2026
+  location: Valencia, ES
+  dates: "March 7-8, 2026"
+  url: https://seleniumconf.com/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: Save the Date!
+
 - name: WeTest.Athens 2026
   location: Athens, Greece
   dates: "May 12, 2026"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://cfp.sched.com/speaker/lqHvGk6XkE/event" target="_blank">CFP is Open</a> until December 31, 2025
+
+- name: EuroSTAR 2026 Software Testing Conference
+  location: Oslo, Norway
+  dates: "June 15-18, 2026"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: <a href="https://conference.eurostarsoftwaretesting.com/call-for-submissions/?utm_source=testingconferences" target="_blank">CFP is Open</a>
