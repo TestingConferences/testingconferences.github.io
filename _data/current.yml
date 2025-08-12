@@ -38,7 +38,7 @@
   url: https://conf.researchr.org/home/ictss-2025?utm_source=testingconferences
   twitter: ICTSSConf
 
-- name: Hands on Testing 2025
+- name: Hands-On Testing 2025
   location: Guadalajara, Mexico and Online
   dates: "September 17-20, 2025"
   url: https://handsontesting.com/?utm_source=testingconferences
@@ -68,7 +68,7 @@
   location: Cambridge, Ontario, Canada
   dates: September 22-23, 2025
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until September 1, 2025
+  status: <a href="https://kwsqa.org/tq2025/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> is Open until August 31, 2025
 
 - name: TACON 2025
   location: Leipzig, Germany
@@ -87,12 +87,6 @@
   dates: "September 25-26, 2025"
   url: https://www.seetest.org/?utm_source=testingconferences
   status: Registration is Open
-
-- name: The QA Healthcare & Insurance Forum 2025
-  location: London, UK
-  dates: "September 26, 2025"
-  url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
-  status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
 - name: "QA: Challenge Accepted 2025 - The Elevation"
   location: Sofia, Bulgaria and Online
@@ -240,6 +234,12 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
   status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until September 21, 2025
+
+- name: The QA Healthcare & Insurance Forum 2025
+  location: London, UK
+  dates: "November 26, 2025"
+  url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
 - name: Robocon 2026 In Person
   location: Helsinki, Finland
