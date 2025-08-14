@@ -272,7 +272,7 @@
   dates: "March 7-8, 2026"
   url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: Save the Date!
+  status: <a href="https://seleniumconf.com/submit-a-talk/?utm_source=testingconferences" target="_blank">CFP Opens August 15, 2025</a>
 
 - name: WeTest.Athens 2026
   location: Athens, Greece
