@@ -22,34 +22,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2025</td>
-    <td>EuroSTAR</td>
-  </tr>
-    <tr>
-    <td>February 2025</td>
-    <td>EuroSTAR</td>
-  </tr>
-  <tr>
-    <td>March 2025</td>
-    <td>AutomationSTAR</td>
-  </tr>
-  <tr>
-    <td>April 2025</td>
-    <td>EuroSTAR</td>
-  </tr>
-  <tr>
-    <td>May 2025</td>
-    <td>Testμ Online Conference 2025</td>
-  </tr>
-  <tr>
-    <td>June 2025</td>
-    <td>AutomationSTAR</td>
-  </tr>
-  <tr>
-    <td>July 2025</td>
-    <td>PNSQC 2025</td>
-  </tr>
-  <tr>
     <td>August 2025</td>
     <td>PNSQC 2025</td>
   </tr>
@@ -67,6 +39,10 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>December 2025</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>All of 2026</td>
     <td>Open</td>
   </tr>
 </table>
