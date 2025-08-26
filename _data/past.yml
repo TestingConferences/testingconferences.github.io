@@ -1,3 +1,301 @@
+- name: The Premier Online Conference For Software Testing
+  location: Online
+  dates: "May 21-22, 2024"
+  url: https://live2test.com/?utm_source=testingconferences
+  twitter: TesterYouHQ
+  status: Registration is Open
+
+- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
+  location: London, UK
+  dates: "May 23, 2024"
+  url: https://conference.unicom.co.uk/2024/may/agile-devops-software-testing-conference/london/?utm_source=testingconferences
+  twitter: UNICOMSeminars
+  status: Registration is Open
+  
+- name: İstanbul Software Testing Conference
+  location: Istanbul, Turkey
+  dates: "May 23-24, 2024"
+  url: https://iststc.com/?utm_source=testingconferences
+  status: Registration is Open
+  
+- name: "expo:QA 24"
+  location: Madrid, Spain
+  dates: "May 28-30, 2024"
+  url: https://expoqa.eu/?utm_source=testingconferences
+  twitter: expoqa
+  status: <a href="https://expoqa.eu/ticket-pricing/" target="_blank">Anniversary Sale</a> is Open until April 30, 2024
+
+- name: Test Automation Days 2024
+  location: Rotterdam, the Netherlands
+  dates: "May 29-30, 2024"
+  url: https://www.testautomationdays.com?utm_source=testingconferences
+  twitter: testautomationd
+  status: Registration is Open
+
+- name: GreaTest Quality Convention 2024
+  location: Zürich, Switzerland
+  dates: "June 7, 2024"
+  url: https://www.greatestquality.ch/?utm_source=testingconferences
+  twitter: gtq_con
+  status: Registration is Open
+
+- name: WeTest.Athens 2024
+  location: Athens, Greece
+  dates: "June 7, 2024"
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: EuroSTAR Software Testing Conference 2024
+  location: Stockholm, Sweden
+  dates: "June 11-14, 2024"
+  url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Registration is Open
+
+- name: Romanian Testing Conference
+  location: Romania
+  dates: "June 12-14, 2024"
+  url: https://romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+  status: Early Bird Registration is Open until April 30, 2024
+
+- name: "BCS SIGiST Summer Conference 2024 Quantum Leap: the Past, Present and Future of Testing"
+  location: Online and London, UK
+  dates: "June 19, 2024"
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2024/?utm_source=testingconferences
+  twitter: SIGiST
+
+- name: QA or the Highway
+  location: Columbus, Ohio, USA
+  dates: "June 21, 2024"
+  url: https://www.qaorthehwy.com?utm_source=testingconferences
+  twitter: QAortheHighway
+  status: Early Bird Registration is Open
+
+- name: Selenium Conf 2024
+  location: Online
+  dates: "June 21, 2024"
+  url: https://2024.seleniumconf.in/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: <a href="https://confengine.com/conferences/selenium-conf-2024/proposals" target="_blank">CFP is Open</a> until April 30, 2024 and Smart Registration is Open
+
+- name: TribeQonf
+  location: Bangalore, India
+  dates: "July 12-13, 2024"
+  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Registration is Open
+  
+- name: "Testing, Agile, DevOps & Low Code Showcase: Methods and Tools"
+  location: Pune, India
+  dates: "July 25, 2024"
+  url: https://conference.unicom.co.uk/2024/july/agile-devops-software-testing-conference/pune/
+  twitter: UNICOMLearning
+  status: Registration is Open
+
+- name: "ICSTP 2024: Software Testing Process Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-process-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
+- name: "ICSTS 2024: Software Testing Strategies Conference"
+  location: Amsterdam, Netherlands
+  dates: "August 5-6, 2024"
+  url: https://waset.org/software-testing-strategies-conference-in-august-2024-in-amsterdam?utm_source=testingconferences
+
+- name: Testμ 2024
+  location: Online
+  dates: "August 21-23, 2024"
+  url: https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024
+  twitter: lambdatesting
+  status: <a href="https://www.lambdatest.com/testmuconf-2024?utm_source=STC&utm_medium=organic&utm_content=testmu_2024">Registration is Open and Free</a>
+  
+- name: Hands on Testing 2024
+  location: Mexico City, Mexico and Online
+  dates: "August 21-24, 2024"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+  status: <a href="https://handsontesting.com/?utm_source=testingconferences">CFP is Open until April 30, 2024</a>
+
+- name: Innovate QA
+  location: Seattle, WA, USA
+  dates: "August 22, 2024"
+  url: https://innovateqaevents.com/?utm_source=testingconferences
+  twitter: innovateqaevent
+  status: CFP is Open until June 22, 2024. Registration is Open. 
+
+- name: TestBash Brighton 2024
+  location: Brighton, UK
+  dates: "September 12-13, 2024"
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2024?utm_medium=web&utm_source=testingconferences
+  twitter: ministryoftest
+  status: Super Early Bird Registration is Open until May 31, 2024
+
+- name: Testit 2024
+  location: Onsite
+  dates: "September 17, 2024"
+  url: https://www.knowit.eu/services/solutions/system-development-and-management/test-and-quality-assurance/conference-testit/?utm_source=testingconferences
+  twitter: testit
+  status: Registration is Open
+
+- name: TACON 2024
+  location: Leipzig, Germany
+  dates: "September 18-19, 2024"
+  url: http://tacon-konferenz.de
+  status: Cheapest Early Bird Registration is open until July 11, 2024
+
+- name: SANAE BEER.EX 2024
+  location: Bratislava, Slovakia
+  dates: "September 18-19, 2024"
+  url: https://sanae.beer?utm_source=testingconferences
+  twitter: sanae_beer
+  status: Early Bird Registration is Open until April 30, 2024
+
+- name: STARWEST 2024
+  location: Anaheim, CA, USA and Online
+  dates: "September 22-27, 2024"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: Registration will Open Soon
+
+- name: Odin Testkonferansen Norway 2024
+  location: Oslo, Norway
+  dates: "September 26, 2024"
+  url: https://event.dataforeningen.no/odin2024/?utm_source=testingconferences
+  status: <a href="https://event.dataforeningen.no/odin2024/apply-to-be-a-speaker-at-odin-2024/" target="_blank">CFP is Open</a> until April 22, 2024
+
+- name: SEETEST 2024
+  location: Zagreb, Croatia and Online
+  dates: "September 25-27, 2024"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: <a href="https://pc.seetest.org/openconf.php" target="_blank">CFP is Open</a> until April 30, 2024
+
+- name: "QA: Challenge Accepted 2024 - The Anniversary"
+  location: Sofia, Bulgaria and Online
+  dates: "September 28, 2024"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4h2aYitFCMlVFCWLjM551Mp2a22RLczlMCqF8w3uYz-8UDw/viewform" target="_blank">CFP is Open</a> until 1 May 2024, <a href="https://www.cognitoforms.com/WebbicusLtd/buyticketsforchallengeacceptedconferences2024" target="_blank">Super Early Bird Registration is Open</a>
+
+- name: Targeting Quality 2024
+  location:  Cambridge, Ontario, Canada
+  dates: "September 30-October 1, 2024"
+  url: https://targetingquality.ca/?utm_source=testingconferences
+  status: <a href="https://kwsqa.org/tq2024/registration/" target="_blank">Super Early Bird Registration</a> is Open until April 28, 2024.
+
+- name: HUSTEF Software Testing Conference 2024
+  location: Budapest, Hungary
+  dates: "October 8-10, 2024"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: hustef
+  status: Early Bird Pricing is Open
+
+- name: AutomationSTAR Test Automation Conference 2024
+  location: Vienna, Austria
+  dates: "October 9-10, 2024"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Launch Offer is Open Until May 16, 2024
+  
+- name: Test İstanbul
+  location: Online
+  dates: "October 10-11, 2024"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  status: Early Bird Pricing is Open Until May 31, 2024
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2024
+  location: Portland, Oregon and Online
+  dates: "October 14-16, 2024"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+  status: Super Early Bird Pricing is Open until July 1, 2024. 
+
+- name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
+  location: Medellín, Colombia
+  dates: "October 23-25, 2024"
+  url: https://performance-workshop.org/wopr-latam/?utm_source=testingconferences
+  twitter: WOPR_Workshop
+  status: <a href="https://docs.google.com/forms/d/1PpAWCTf9BXGUtpw466UkeH8a-Sb5J9w6RxPpxez6K14/viewform?edit_requested=true" target="_blank">CFP is Open</a> until May 19, 2024
+
+- name: TestFlix
+  location: Online
+  dates: "October 19-20, 2024"
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
+  twitter: the_test_tribe
+  status: Registration is Open and Free
+
+- name: Quality Sense Conf 2024
+  location: Medellín, Colombia & Online
+  dates: "October 21-22, 2024"
+  url: https://qualitysenseconf.com/&utm_source=testingconferences
+  twitter: abstractaus
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQH4MAwXlMKLrK2CIwe-s-Ukbab7CACYPZv_hr5bn4Sgs19A/viewform" target="_blank">CFP is Open</a> until June 2, 2024
+
+- name: TestCon Europe 2024
+  location: Vilnius, Lithuania and Online
+  dates: "October 22-25, 2024"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: CFP is Open
+
+- name: Wrobocon 2024 - Polish Robot Framework Conference
+  location: Online
+  dates: "October 24, 2024"
+  url: https://wrobocon.eu/
+  status: <a href="https://forms.gle/qN7HP1tKaPpt89Gu5" target="_blank">CFP is Open</a> until June 30, 2024
+
+- name: Testing Stage LATAM
+  location: Online
+  dates: "October 25, 2024"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
+  status: Registration is Open and Free
+
+- name: TestWarez 2024
+  location: Sopot, Poland
+  dates: "November 6-8, 2024"
+  url: https://2024.testwarez.pl/?utm_source=testingconferences
+  status: <a href="https://2024.testwarez.pl/wspolpraca-z-prelegentami/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 29, 2024
+  
+- name: Testing United 2024
+  location: Vienna, Austria
+  dates: "November 7-8, 2024"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+  status: Early Bird Pricing is Open until June 30, 2024
+
+- name: OnlineTestConf
+  location: Online
+  dates: "November 12-13, 2024"
+  url: https://www.onlinetestconf.com/
+  twitter: OnlineTestConf
+  status: <a href="https://www.onlinetestconf.com/call-for-speakers/" target="_blank">Call for Speakers</a> is open until August 10, 2024
+
+- name: Agile Testing Days 2024
+  location: Potsdam, Germany
+  dates: "November 19-22, 2024"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  status: Super Early Bird Pricing is Open until April 26, 2024
+
+- name: TestDag (Dutch Testing Day) 2024
+  location: Amsterdam, The Netherlands
+  dates: "November 29, 2024"
+  url: https://testdag.nl/?utm_source=testingconferences
+  status: Registration is Open and Free, <a href="https://docs.google.com/forms/d/1QUlHnA97vCEnJ5qnu2Syg9CXCuJAQT1K6_Xu_Nl7Bz8/?utm_source=testingconferences" target="_blank">CFP is Open</a> until July 26, 2024
+
+- name: RoboCon 2025 - Robot Framework Conference
+  location: Helsinki, Finland
+  dates: "Febraury 13-14, 2025"
+  url: https://robocon.io/
+  status: Announced
+
+- name: Testing Peers Conference 2025
+  location: Nottingham, UK
+  dates: "March 13, 2025"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+  status: Announced
+
 - name: Mobile Testing & Experience Summit (MTES 24)
   location: Online
   dates: "May 16, 2024"
