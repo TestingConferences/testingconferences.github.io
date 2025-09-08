@@ -274,6 +274,12 @@
   twitter: TechWell
   status: <a href="https://stareast.techwell.com/speak-stareast?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 7, 2025
 
+- name: Romania QualityConnect 2026
+  location: Cluj-Napoca, Romania
+  dates: "May 6-7, 2026"
+  url: https://qualityconnect.ro
+  status: <a href="https://www.qualityconnect.ro">CFP is Open</a> until Nov 12, 2025
+
 - name: SeleniumConf & AppiumConf 2026
   location: Valencia, ES
   dates: "May 6-8, 2026"
