@@ -35,14 +35,46 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>November 2025</td>
-    <td>Open</td>
+    <td>CypressIO</td>
   </tr>
   <tr>
     <td>December 2025</td>
+    <td>CypressIO</td>
+  </tr>
+  <tr>
+    <td>January 2026</td>
     <td>Open</td>
   </tr>
   <tr>
-    <td>All of 2026</td>
+    <td>February 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>March 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>April 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>May 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>June 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>July 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>August 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>September 2026</td>
     <td>Open</td>
   </tr>
 </table>
