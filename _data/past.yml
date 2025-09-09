@@ -148,7 +148,7 @@
 - name: WOPR Latam 03
   location: Lima, PE
   dates: "March 31 - April 2, 2025"
-  url: https://performance-workshop.org/
+  url: https://performance-workshop.org/?utm_source=testingconferences
 
 - name: SeleniumConf & AppiumConf 2025
   location: Valencia, ES
