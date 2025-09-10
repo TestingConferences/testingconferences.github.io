@@ -1,0 +1,14 @@
+name: Auto Assign PRs
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+
+jobs:
+  add_assignees:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/auto-assign-action@v2.0.0
+        with:
+          configuration-path: .github/auto_assignee.yml
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
