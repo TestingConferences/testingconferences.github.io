@@ -10,5 +10,4 @@ jobs:
     steps:
       - uses: kentaro-m/auto-assign-action@v1.2.4
         with:
-          assignees: ckenst
           repo-token: ${{ secrets.GITHUB_TOKEN }}
