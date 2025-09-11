@@ -2,9 +2,9 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/ruby:2.6.10
+      - image: cimg/ruby:3.1
         environment:
-          BUNDLER_VERSION: 2.2.15
+          BUNDLER_VERSION: 2.4.17
     steps:
       - checkout
       - run:
