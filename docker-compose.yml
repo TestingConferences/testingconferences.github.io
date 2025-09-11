@@ -1,6 +1,6 @@
 services:
   testingconferences:
-    image: jekyll/jekyll:3.8.6
+    image: jekyll/jekyll:4.2.2
     container_name: tcorg
     ports:
       - 4000:4000 # jekyll ui
