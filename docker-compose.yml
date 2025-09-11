@@ -1,4 +1,3 @@
-version: "2"
 services:
   testingconferences:
     image: jekyll/jekyll:3.8.6
