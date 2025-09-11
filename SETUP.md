@@ -6,7 +6,7 @@
     - If it doesn't you can browse to `http://localhost:4000/`
 
 
-Now you can make changes and see how they local in your local browser.
+Now you can make changes and see how they look in your local browser.
 
 
 When you are done:
