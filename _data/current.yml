@@ -280,6 +280,13 @@
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://cfp.sched.com/speaker/lqHvGk6XkE/event" target="_blank">CFP is Open</a> until December 31, 2025
 
+- name: "expo:QA 26"
+  location: Madrid, Spain
+  dates: "May 26-28, 2026"
+  url: https://expoqa.eu/?utm_source=testingconferences
+  twitter: expoqa
+  status: <a href="https://expoqa.eu/call-for-speaker/?utm_source=testingconferences" target="_blank">CFP is Open</a> until October 12, 2025
+
 - name: EuroSTAR 2026 Software Testing Conference
   location: Oslo, Norway
   dates: "June 15-18, 2026"
