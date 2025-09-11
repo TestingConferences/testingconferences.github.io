@@ -1,16 +1,3 @@
-- name: SOFTECAsia 2025
-  location: Kuala Lumpur, Malaysia
-  dates: "September 9-10, 2025"
-  url: https://mstb.org/softecasia2025/??utm_source=testingconferences
-  status: Registration is Open
-
-- name: Test Automation Summit Boston 2025
-  location: Boston, MA, USA
-  dates: "September 10, 2025"
-  url: https://www.testingmind.com/event/test-automation-summit-boston/?utm_source=testingconferences
-  twitter: testingmindcon
-  status: Registration is Open
-
 - name: Test Automation Summit New Jersey 2025
   location: Jersey City, NJ, USA
   dates: "September 12, 2025"

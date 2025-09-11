@@ -1,3 +1,14 @@
+- name: Test Automation Summit Boston 2025
+  location: Boston, MA, USA
+  dates: "September 10, 2025"
+  url: https://www.testingmind.com/event/test-automation-summit-boston/?utm_source=testingconferences
+  twitter: testingmindcon
+
+- name: SOFTECAsia 2025
+  location: Kuala Lumpur, Malaysia
+  dates: "September 9-10, 2025"
+  url: https://mstb.org/softecasia2025/??utm_source=testingconferences
+
 - name: TestingUY 2025
   location: Montevideo, Uruguay
   dates: "September 4, 2025"
