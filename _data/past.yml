@@ -1,3 +1,15 @@
+- name: OnlineTestConf
+  location: Online
+  dates: "September 15, 2025"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+
+- name: Test Automation Summit New Jersey 2025
+  location: Jersey City, NJ, USA
+  dates: "September 12, 2025"
+  url: https://www.testingmind.com/event/test-automation-summit-new-jersey/?utm_source=testingconferences
+  twitter: testingmindcon
+
 - name: Test Automation Summit Boston 2025
   location: Boston, MA, USA
   dates: "September 10, 2025"
