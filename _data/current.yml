@@ -124,12 +124,6 @@
   url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
   status: Registration is Open and Free
 
-- name: Wrobocon 2025 - Robot Framework Conference
-  location: Online
-  dates: "October 23, 2025"
-  url: https://wrobocon.eu/?utm_source=testingconferences
-  status: Registration is Open and Free
-
 - name: "TestCon Europe 2025"
   location: Vilnius, Lithuania
   dates: "October 21-24, 2025"
@@ -142,6 +136,12 @@
   url: https://www.qatest.org/?lang=en?utm_source=testingconferences
   twitter: QATestBilbao
   status: Early Bird Registration is Open until September 15, 2025
+
+- name: Wrobocon 2025 - Robot Framework Conference
+  location: Online
+  dates: "October 23, 2025"
+  url: https://wrobocon.eu/?utm_source=testingconferences
+  status: Registration is Open and Free
 
 - name: Testing Stage LATAM
   location: Online
@@ -173,7 +173,7 @@
 - name: Quality Sense Conf 2025
   location: Montevideo, Uruguay
   dates: "November 11, 2025"
-  url: https://qualitysenseconf.com/&utm_source=testingconferences
+  url: https://qualitysenseconf.com/?utm_source=testingconferences
 
 - name: Software-QS-Tag 2025
   location: Frankfurt / M, Germany
@@ -242,7 +242,7 @@
 - name: UCAAT 2026 - 12th UCAAT User Conference on Advanced Automated Testing
   location: Sophia Antipolis, FR
   dates: "April 14-16, 2026"
-  url: https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing
+  url: https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing?utm_source=testingconferences
   twitter: UCAAT
   status: <a href="https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing#pane-6/" target="_blank">CFP is Open</a> until November 15, 2025
 
@@ -256,7 +256,7 @@
 - name: Romania QualityConnect 2026
   location: Cluj-Napoca, Romania
   dates: "May 6-7, 2026"
-  url: https://qualityconnect.ro
+  url: https://qualityconnect.ro?utm_source=testingconferences
   status: <a href="https://www.qualityconnect.ro">CFP is Open</a> until Nov 12, 2025
 
 - name: SeleniumConf & AppiumConf 2026
