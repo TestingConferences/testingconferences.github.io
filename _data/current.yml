@@ -34,25 +34,25 @@
   dates: "September 27, 2025"
   url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
   twitter: qachallenge
-  status: <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Early Bug Registration is Open</a>
+  status: <a href="https://www.qachallengeaccepted.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: VLCTESTING 2025
   location: Valencia, Spain (October 1) and Online (October 2 - free)
   dates: "October 1-2, 2025"
   url: https://vlctesting.es/?utm_source=testingconferences
-  status: <a href="https://vlctesting.es/reserva-tu-entrada/" target="_blank">Registration is Open</a>. <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://vlctesting.es/reserva-tu-entrada/" target="_blank">Registration is Open</a>
 
 - name: TestBash Brighton 2025
   location: Brighton, UK
   dates: "October 1-2, 2025"
   url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
-  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Early Bird Registration is Open</a> until August 31, 2025
+  status: <a href="https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences">Registration is Open</a>
 
 - name: Testing Talks 2025
   location: Melbourne, Australia
   dates: "October 9, 2025"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne?utm_source=testingconferences
-  status: CFP is Open
+  status: Registration is Open
 
 - name: TestSociety
   location: Lisboa, Portugal
@@ -103,7 +103,7 @@
   dates: "October 22-24, 2025"
   url: https://www.qatest.org/?lang=en?utm_source=testingconferences
   twitter: QATestBilbao
-  status: Early Bird Registration is Open until September 15, 2025
+  status: Registration is Open
 
 - name: Wrobocon 2025 - Robot Framework Conference
   location: Online
@@ -129,14 +129,13 @@
   location: Montevideo, UY
   dates: "November 5-7, 2025"
   url: https://performance-workshop.org/?utm_source=testingconferences
-  status: CFP is open
 
 - name: AutomationSTAR 2025
   location: Amsterdam, The Netherlands
   dates: "November 10-11, 2025"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: <a href="https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until September 30, 2025
 
 - name: Quality Sense Conf 2025
   location: Montevideo, Uruguay
@@ -174,7 +173,7 @@
   dates: "November 24-27, 2025"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   twitter: AgileTD
-  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until September 21, 2025
+  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: The QA Healthcare & Insurance Forum 2025
   location: London, UK
@@ -186,7 +185,7 @@
   location: Online
   dates: "December 3, 2025"
   url: https://tmscl.me/4ntgbEk
-  status: <a href="https://tmscl.me/4ntgbEk" target="_blank">Registration is open</a>
+  status: <a href="https://tmscl.me/4ntgbEk" target="_blank">Registration is Open</a>
 
 - name: Robocon 2026 In Person
   location: Helsinki, Finland
