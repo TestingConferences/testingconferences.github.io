@@ -206,6 +206,12 @@
   twitter: testingpeers
   status: <a href="https://testingpeerscon.com/written-submission/?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 30, 2025 | <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
+- name: ParisTestConf 2026
+  location: Paris, FR
+  dates: "March 31, 2026"
+  url: https://paristestconf.com/?utm_source=testingconferences
+  status: <a href="https://sessionize.com/paristestconf-7/?utm_source=testingconferences" target="_blank">CFP is Open</a> until October 31, 2025 | <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+
 - name: UCAAT 2026 - 12th UCAAT User Conference on Advanced Automated Testing
   location: Sophia Antipolis, FR
   dates: "April 14-16, 2026"
