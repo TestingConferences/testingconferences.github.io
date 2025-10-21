@@ -1,3 +1,23 @@
+- name: TestSociety
+  location: Lisboa, Portugal
+  dates: "October 10, 2025"
+  url: https://www.testsociety.pt/?utm_source=testingconferences
+
+- name: Testing Talks 2025
+  location: Melbourne, Australia
+  dates: "October 9, 2025"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2025-melbourne?utm_source=testingconferences
+
+- name: TestBash Brighton 2025
+  location: Brighton, UK
+  dates: "October 1-2, 2025"
+  url: https://www.ministryoftesting.com/events/testbash-brighton-2025?utm_source=testingconferences
+
+- name: VLCTESTING 2025
+  location: Valencia, Spain (October 1) and Online (October 2 - free)
+  dates: "October 1-2, 2025"
+  url: https://vlctesting.es/?utm_source=testingconferences
+
 - name: "QA: Challenge Accepted 2025 - The Elevation"
   location: Sofia, Bulgaria and Online
   dates: "September 27, 2025"
