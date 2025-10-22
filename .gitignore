@@ -2,5 +2,6 @@ _site
 .sass-cache
 .DS_Store
 
-# IntelliJ IDE
-/.idea/
+
+# Script output
+tmp/pending_updates.yml
