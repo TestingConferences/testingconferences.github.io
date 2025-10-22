@@ -27,7 +27,8 @@ end
 
 current_events = YAML.load_file(CURRENT_FILE)
 
-MONTH_REGEX = /(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)/i
+MONTH_PATTERN = '(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)'
+MONTH_REGEX = /#{MONTH_PATTERN}/i
 
 def normalize_month(name)
   case name.downcase
@@ -48,6 +49,15 @@ def normalize_month(name)
   end
 end
 
+def build_date_from_components(month_name, day, year)
+  month_index = Date::MONTHNAMES.index(month_name)
+  return nil unless month_index
+
+  Date.new(year.to_i, month_index, day.to_i)
+rescue ArgumentError
+  nil
+end
+
 def parse_end_date(range_str)
   return nil if range_str.nil?
 
@@ -55,35 +65,35 @@ def parse_end_date(range_str)
   s = s.gsub(/[–—]/, '-')
 
   # Handle ranges like "April 26 - May 1, 2026"
-  if (m = s.match(/(\w+)\s+(\d{1,2})\s*-\s*(\w+)\s*(\d{1,2}),?\s*(\d{4})$/))
+  if (m = s.match(/(#{MONTH_PATTERN})\s+(\d{1,2})\s*-\s*(#{MONTH_PATTERN})\s*(\d{1,2}),?\s*(\d{4})$/i))
     month2 = normalize_month(m[3])
     day2 = m[4]
     year = m[5]
-    return Date.parse("#{month2} #{day2} #{year}") rescue nil
+    return build_date_from_components(month2, day2, year)
   end
 
   # Handle ranges like "September 21-26, 2025"
-  if (m = s.match(/(\w+)\s+\d{1,2}\s*-\s*(\d{1,2}),?\s*(\d{4})$/))
+  if (m = s.match(/(#{MONTH_PATTERN})\s+\d{1,2}\s*-\s*(\d{1,2}),?\s*(\d{4})$/i))
     month = normalize_month(m[1])
     day2 = m[2]
     year = m[3]
-    return Date.parse("#{month} #{day2} #{year}") rescue nil
+    return build_date_from_components(month, day2, year)
   end
 
   # Handle single day "September 27, 2025"
-  if (m = s.match(/(#{MONTH_REGEX})\s+(\d{1,2}),?\s*(\d{4})$/i))
+  if (m = s.match(/(#{MONTH_PATTERN})\s+(\d{1,2}),?\s*(\d{4})$/i))
     month = normalize_month(m[1])
     day = m[2]
     year = m[3]
-    return Date.parse("#{month} #{day} #{year}") rescue nil
+    return build_date_from_components(month, day, year)
   end
 
   # Handle formats like "March 4-5 March, 2026"
-  if (m = s.match(/(#{MONTH_REGEX})\s+\d{1,2}\s*-\s*(\d{1,2})\s+(#{MONTH_REGEX}),?\s*(\d{4})$/i))
+  if (m = s.match(/(#{MONTH_PATTERN})\s+\d{1,2}\s*-\s*(\d{1,2})\s+(#{MONTH_PATTERN}),?\s*(\d{4})$/i))
     month = normalize_month(m[3])
     day = m[2]
     year = m[4]
-    return Date.parse("#{month} #{day} #{year}") rescue nil
+    return build_date_from_components(month, day, year)
   end
 
   # Fallback: let Date.parse try entire string
@@ -95,7 +105,7 @@ def extract_status_dates(status_text)
   stripped = status_text.to_s.gsub(/<[^>]+>/, ' ')
   results = []
 
-  stripped.scan(/(#{MONTH_REGEX}\s*\d{1,2}(?:\s*-\s*(?:#{MONTH_REGEX})?\s*\d{1,2})?,?\s*\d{4})/i) do |match|
+  stripped.scan(/(#{MONTH_PATTERN}\s*\d{1,2}(?:\s*-\s*(?:#{MONTH_PATTERN})?\s*\d{1,2})?,?\s*\d{4})/i) do |match|
     segment = match.first
     end_date = parse_end_date(segment)
     results << { segment: segment.strip, date: end_date } if end_date
@@ -107,26 +117,20 @@ end
 updates = []
 
 current_events.each do |event|
-  reasons = []
+  event_needs_move = false
+  status_needs_update = false
 
   end_date = parse_end_date(event['dates'])
-  if end_date && end_date < today
-    reasons << "Event ended on #{end_date}"
-  elsif end_date.nil?
-    # Keep track if we couldn't parse but date appears to include a year
-    reasons << 'Could not parse event end date' if event['dates'].to_s =~ /\d{4}/
+  if end_date
+    event_needs_move = true if end_date < today
+  elsif event['dates'].to_s =~ /\d{4}/
+    warn "Warning: could not parse end date for '#{event['name']}': #{event['dates']}"
   end
 
   status_dates = extract_status_dates(event['status'])
-  status_dates.each do |item|
-    if item[:date] && item[:date] < today
-      reasons << "Status mentions past date #{item[:date]} (segment: '#{item[:segment]}')"
-    end
-  end
+  status_needs_update = status_dates.any? { |item| item[:date] && item[:date] < today }
 
-  unless reasons.empty?
-    updates << event.dup
-  end
+  updates << event.dup if event_needs_move || status_needs_update
 end
 
 FileUtils.mkdir_p(File.dirname(OUTPUT_FILE))
@@ -151,4 +155,3 @@ end
 
 puts "Identified #{updates.size} events needing attention."
 puts "Details written to #{OUTPUT_FILE}."
-puts 'Preview only; no source files were modified.'
