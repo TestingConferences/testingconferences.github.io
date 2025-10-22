@@ -1,3 +1,30 @@
+- name: CypressConf 2025
+  location: Online
+  dates: "October 21-22, 2025"
+  url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
+
+- name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
+  location: Copenhagen, Denmark
+  dates: "October 20-21, 2025"
+  url: https://www.dstb.dk/konferencer/2025/?utm_source=testingconferences
+
+- name: HUSTEF Software Testing Conference 2025
+  location: Budapest, Hungary
+  dates: "October 14-16, 2025"
+  url: https://hustef.hu/?utm_source=testingconferences
+  twitter: HunTestingBoard
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2025
+  location: Portland, Oregon, USA and Online
+  dates: "October 13-15, 2025"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: "TestFlix 2025 - World’s Leading Virtual Software Testing Conference"
+  location: Online
+  dates: "October 10-11, 2025"
+  url: https://www.thetesttribe.com/testflix/?utm_source=testingconferences
+
 - name: TestSociety
   location: Lisboa, Portugal
   dates: "October 10, 2025"
