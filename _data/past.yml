@@ -1,3 +1,25 @@
+- name: Testing Stage LATAM
+  location: Online
+  dates: "October 24, 2025"
+  url: https://latamtesting.com/?utm_source=testingconferences
+  twitter: testingstage
+
+- name: Wrobocon 2025 - Robot Framework Conference
+  location: Online
+  dates: "October 23, 2025"
+  url: https://wrobocon.eu/?utm_source=testingconferences
+
+- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems  
+  location: Bilbao, Spain
+  dates: "October 22-24, 2025"
+  url: https://www.qatest.org/?lang=en?utm_source=testingconferences
+  twitter: QATestBilbao
+
+- name: "TestCon Europe 2025"
+  location: Vilnius, Lithuania
+  dates: "October 21-24, 2025"
+  url: https://testcon.lt/?utm_source=testingconferences
+
 - name: CypressConf 2025
   location: Online
   dates: "October 21-22, 2025"
