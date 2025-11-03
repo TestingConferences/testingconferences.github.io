@@ -118,6 +118,12 @@
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://cfp.sched.com/speaker/lqHvGk6XkE/event" target="_blank">CFP is Open</a> until December 31, 2025
 
+- name: Test Coast 2026
+  location: Gothenburg, Sweden
+  dates: "May 21, 2026"
+  url: https://www.testcoast.se/?utm_source=testingconferences
+  status: CFP is Open until January 7th, 2026
+
 - name: "expo:QA 26"
   location: Madrid, Spain
   dates: "May 26-28, 2026"
