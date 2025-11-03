@@ -1,3 +1,9 @@
+- name: STARCANADA 2025
+  location: Toronto, Canada
+  dates: "October 27-30, 2025"
+  url: https://starcanada.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+
 - name: Testing Stage LATAM
   location: Online
   dates: "October 24, 2025"
