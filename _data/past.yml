@@ -1,3 +1,24 @@
+- name: Software-QS-Tag 2025
+  location: Möhrendorf, Germany
+  dates: "November 12-13, 2025"
+  url: https://www.qs-tag.de/?utm_source=testingconferences
+
+- name: Quality Sense Conf 2025
+  location: Montevideo, Uruguay
+  dates: "November 11, 2025"
+  url: https://qualitysenseconf.com/?utm_source=testingconferences
+
+- name: AutomationSTAR 2025
+  location: Amsterdam, The Netherlands
+  dates: "November 10-11, 2025"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: WOPR Latam 04
+  location: Montevideo, UY
+  dates: "November 5-7, 2025"
+  url: https://performance-workshop.org/?utm_source=testingconferences
+
 - name: STARCANADA 2025
   location: Toronto, Canada
   dates: "October 27-30, 2025"
