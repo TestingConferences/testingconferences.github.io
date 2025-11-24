@@ -1,3 +1,20 @@
+- name: Testing Assembly
+  location: Helsinki, Finland
+  dates: "November 20-21, 2025"
+  url: https://testingassembly.fistb.fi/?utm_source=testingconferences
+
+- name: Tokyo Test Fest
+  location: Tokyo, Japan
+  dates: "November 14, 2025"
+  url: https://www.tokyotestfest.com/?utm_source=testingconferences
+  twitter: tokyotestfest
+
+- name: Testing United 2025
+  location: Milan, Italy
+  dates: "November 13-14, 2025"
+  url: https://www.testingunited.com/?utm_source=testingconferences
+  twitter: testing_united
+
 - name: Software-QS-Tag 2025
   location: Möhrendorf, Germany
   dates: "November 12-13, 2025"
