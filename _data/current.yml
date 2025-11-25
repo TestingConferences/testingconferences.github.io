@@ -69,12 +69,40 @@
   url: https://www.robocon.io/?utm_source=testingconferences
   status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Robot Registration is Open</a>
 
+- name: Test Automation Summit Denver 2026
+  location: Denver, CO, USA
+  dates: "March 11, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-denver/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 11, 2026
+
 - name: Testing Peers Conference 2026
   location: Nottingham, UK
   dates: "March 12, 2026"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+
+- name: Test Automation Summit Detroit 2026
+  location: Detroit, MI, USA
+  dates: "March 12, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-detroit/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 12, 2026
+
+- name: Test Automation Summit Salt Lake 2026
+  location: Salt Lake City, UT, USA
+  dates: "March 13, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 13, 2026
+
+- name: Test Automation Summit Portland 2026
+  location: Portland, OR, USA
+  dates: "March 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-portland/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-portland/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 25, 2026
 
 - name: ParisTestConf 2026
   location: Paris, FR
