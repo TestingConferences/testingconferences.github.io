@@ -35,6 +35,34 @@
   url: https://www.robocon.io/?utm_source=testingconferences
   status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Robot Registration is Open</a>
 
+- name: Test Automation Summit Bangalore 2026
+  location: Bangalore, India
+  dates: "February 19, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-bangalore/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-bangalore/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 19, 2025
+
+- name: Test Automation Summit Chennai 2026
+  location: Chennai, India
+  dates: "February 19, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-chennai/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-chennai/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 19, 2025
+
+- name: Test Automation Summit Hyderabad 2026
+  location: Hyderabad Hitec City, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-hyderabad/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-hyderabad/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 26, 2025
+
+- name: Test Automation Summit Pune 2026
+  location: Pune, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-pune/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-pune/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 26, 2025
+
 - name: Robocon 2026 Online
   location: Online
   dates: "March 3-6, 2026"
@@ -61,11 +89,18 @@
   twitter: UCAAT
   status: <a href="https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing#pane-6/" target="_blank">CFP is Open</a> until November 15, 2025
 
+- name: QA Financial Forum Toronto 2026
+  location: Toronto, ON, Canada
+  dates: "April 23, 2026"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2026#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2026#/buyTickets/selectTicket?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
+
 - name: STAREAST 2026
   location: Orlando, FL, USA and Online
   dates: "April 26 - May 1, 2026"
   url: https://stareast.techwell.com?utm_source=testingconferences
   twitter: TechWell
+  status: <a href="https://stareast.techwell.com/pricing-packages?utm_source=testingconferences" target="_blank">Super Early Bird Pricing is Open</a> until February 27, 2026
 
 - name: Romania QualityConnect 2026
   location: Cluj-Napoca, Romania
@@ -85,6 +120,12 @@
   dates: "May 12, 2026"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://cfp.sched.com/speaker/lqHvGk6XkE/event" target="_blank">CFP is Open</a> until December 31, 2025
+
+- name: QA Financial Forum New York 2026
+  location: New York, NY, USA
+  dates: "May 12, 2026"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026#/?affl=softwaretestingemail
+  status: <a href="https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026#/buyTickets/selectTicket?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
 - name: Test Coast 2026
   location: Gothenburg, Sweden
