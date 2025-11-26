@@ -108,14 +108,13 @@
   location: Paris, FR
   dates: "March 31, 2026"
   url: https://paristestconf.com/?utm_source=testingconferences
-  status: <a href="https://sessionize.com/paristestconf-7/?utm_source=testingconferences" target="_blank">CFP is Open</a> until October 31, 2025 | <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: UCAAT 2026 - 12th UCAAT User Conference on Advanced Automated Testing
   location: Sophia Antipolis, FR
   dates: "April 14-16, 2026"
   url: https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing?utm_source=testingconferences
   twitter: UCAAT
-  status: <a href="https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing#pane-6/" target="_blank">CFP is Open</a> until November 15, 2025
 
 - name: QA Financial Forum Toronto 2026
   location: Toronto, ON, Canada
@@ -134,7 +133,8 @@
   location: Cluj-Napoca, Romania
   dates: "May 6-7, 2026"
   url: https://qualityconnect.ro?utm_source=testingconferences
-  status: <a href="https://www.qualityconnect.ro?utm_source=testingconferences" target="_blank">CFP is Open</a> until Nov 12, 2025
+  status: <a href="https://qualityconnect.ro/?utm_source=testingconferences#pricing" target="_blank">Early Bird Registration is Open</a> until January 10, 2026
+
 
 - name: SeleniumConf & AppiumConf 2026
   location: Valencia, ES
@@ -185,7 +185,7 @@
   dates: "September 20-25, 2026"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: Announced
+  status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 1, 2026
 
 - name: "ICSTM 2026: International Conference on Software Testing and Methods"
   location: New York, NY USA or Online
