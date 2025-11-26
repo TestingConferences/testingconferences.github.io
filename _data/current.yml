@@ -45,7 +45,7 @@
   location: Helsinki, Finland
   dates: "February 10-13, 2026"
   url: https://www.robocon.io/?utm_source=testingconferences
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Robot Registration is Open</a>
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Test Automation Summit Bangalore 2026
   location: Bangalore, India
@@ -79,7 +79,7 @@
   location: Online
   dates: "March 3-6, 2026"
   url: https://www.robocon.io/?utm_source=testingconferences
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Robot Registration is Open</a>
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Test Automation Summit Denver 2026
   location: Denver, CO, USA
@@ -93,7 +93,7 @@
   dates: "March 12, 2026"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
-  status: <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until December 1, 2025
 
 - name: Test Automation Summit Detroit 2026
   location: Detroit, MI, USA
@@ -152,7 +152,7 @@
   dates: "May 6-8, 2026"
   url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences" target="_blank">Blind Early Bird</a> Registration is Open
+  status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences" target="_blank">Early Bird</a> Registration is Open
 
 - name: WeTest.Athens 2026
   location: Athens, Greece
@@ -184,7 +184,7 @@
   dates: "June 15-18, 2026"
   url: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Super Early Bird</a> Pricing is Open
+  status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Early Bird</a> Pricing is Open
 
 - name: "ICSTP 2026: International Conference on Software Testing Process"
   location: Amsterdam, Netherlands or Online
