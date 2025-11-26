@@ -11,6 +11,12 @@
   url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
   status: <a href="https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/tickets?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
+- name: QA Global Summit 25
+  location: Online
+  dates: "November 26, 2025"
+  url: https://events.geekle.us/qa/?utm_source=testingconferences
+  status: Registration is Open and Free
+
 - name: "Workshop: Find more bugs with Test Gap Analysis"
   location: Online
   dates: "December 3, 2025"
@@ -21,6 +27,12 @@
   location: Bali, Indonesia or Online
   dates: "January 5-6, 2026"
   url: https://waset.org/software-testing-and-methods-conference-in-january-2026-in-bali?utm_source=testingconferences
+
+- name: SoCraTes Conference Switzerland 2026
+  location: Monastery Ilanz, Switzerland
+  dates: January 29 - February 1, 2026
+  url: http://www.socrates-ch.org/?utm_source=testingconferences
+  status: Registration is Waitlist Only
 
 - name: Automation Guild 2026
   location: Online
@@ -134,7 +146,6 @@
   dates: "May 6-7, 2026"
   url: https://qualityconnect.ro?utm_source=testingconferences
   status: <a href="https://qualityconnect.ro/?utm_source=testingconferences#pricing" target="_blank">Early Bird Registration is Open</a> until January 10, 2026
-
 
 - name: SeleniumConf & AppiumConf 2026
   location: Valencia, ES
