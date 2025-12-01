@@ -81,6 +81,12 @@
   url: https://www.robocon.io/?utm_source=testingconferences
   status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
+- name: Test Automation Days 2026
+  location: Gooiland, Hilversum, The Netherlands
+  dates: "March 4-5, 2026"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+
 - name: Test Automation Summit Denver 2026
   location: Denver, CO, USA
   dates: "March 11, 2026"
