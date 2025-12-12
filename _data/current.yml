@@ -190,6 +190,12 @@
   twitter: expoqa
   status: <a href="https://expoqa.eu/ticket-shop/?utm_source=testingconferences" target="_blank">Blind Bird Registration is Open</a>
 
+- name: Nordic Testing Days
+  location: Tallinn, Estonia
+  dates: "June 3-5, 2026"
+  url: https://nordictestingdays.eu/?utm_source=testingconferences
+  status: CFP is Open until December 31, 2025
+  
 - name: EuroSTAR 2026 Software Testing Conference
   location: Oslo, Norway
   dates: "June 15-18, 2026"
