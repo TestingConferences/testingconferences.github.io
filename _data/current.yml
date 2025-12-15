@@ -225,6 +225,12 @@
   dates: "October 5-6, 2026"
   url: https://waset.org/software-testing-and-methods-conference-in-october-2026-in-new-york?utm_source=testingconferences
 
+- name: "QA:Challenge Accepted 2026"
+  dates: "October 24, 2026"
+  location: Sofia, Bulgaria
+  url: https://qachallengeaccepted.com
+  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a>
+
 - name: "ICSTP 2026: International Conference on Software Testing Process"
   location: Los Angeles, CA USA or Online
   dates: "October 26-27, 2026"
