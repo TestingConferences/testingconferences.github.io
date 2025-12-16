@@ -183,6 +183,12 @@
   url: https://www.testcoast.se/?utm_source=testingconferences
   status: CFP is Open until January 7th, 2026
 
+- name: Istanbul Software Testing Conference
+  location: Istanbul, Turkey
+  dates: "May 21-22, 2026"
+  url: https://iststc.com/?utm_source=testingconferences
+  status: CFP is open until December 31, 2025
+
 - name: "expo:QA 26"
   location: Madrid, Spain
   dates: "May 26-28, 2026"
