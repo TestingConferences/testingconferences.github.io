@@ -1,6 +1,12 @@
-# Testing Conferences [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
+# [Testing Conferences](https://testingconferences.org) [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 
-# https://testingconferences.org
+> [!IMPORTANT]
+> We've switch TO `main` and away from `master` branch
+
+> [!NOTE]
+> You may need to update your remote origin target in git.
+
+# TestingConferences.org
 
 
 <p align="center">
