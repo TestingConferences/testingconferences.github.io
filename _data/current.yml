@@ -137,7 +137,7 @@
 - name: TestingUY 2026
   location: Montevideo, Uruguay
   dates: "April 15-16, 2026"
-  url: https://testinguy.org/?lang=en
+  url: https://testinguy.org/?utm_source=testingconferences&lang=en
 
 - name: QA Financial Forum Toronto 2026
   location: Toronto, ON, Canada
@@ -226,24 +226,20 @@
   twitter: TechWell
   status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 1, 2026
 
-- name: "ICSTM 2026: International Conference on Software Testing and Methods"
-  location: New York, NY USA or Online
-  dates: "October 5-6, 2026"
-  url: https://waset.org/software-testing-and-methods-conference-in-october-2026-in-new-york?utm_source=testingconferences
-
 - name: "QA:Challenge Accepted 2026"
   dates: "October 24, 2026"
   location: Sofia, Bulgaria
-  url: https://qachallengeaccepted.com
+  url: https://qachallengeaccepted.com?utm_source=testingconferences
   status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a>
 
-- name: "ICSTP 2026: International Conference on Software Testing Process"
-  location: Los Angeles, CA USA or Online
-  dates: "October 26-27, 2026"
-  url: https://waset.org/software-testing-process-conference-in-october-2026-in-los-angeles?utm_source=testingconferences
+- name: MoTaCon 2026
+  location: Brighton, UK
+  dates: "October 1, 2026"
+  url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
+  status: <a href="https://www.ministryoftesting.com/news/motacon-2026-call-for-contributions-now-open?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 28, 2026
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
   dates: "November 12-13, 2026"
-  url: https://tokyotestfest.com/en/
+  url: https://tokyotestfest.com/en/?utm_source=testingconferences
   status: CFP will be Open in February, 2026
