@@ -69,4 +69,4 @@ Conferences all over the world are being canceled or postponed as companies and 
 **Last Updated**: 5/27/2020
 
 
-Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/master/_posts/2020-03-12-cancelled-conferences.md)
+Want to help? Consider [helping to keep this list updated.](https://github.com/TestingConferences/testingconferences.github.io/blob/main/_posts/2020-03-12-cancelled-conferences.md)
