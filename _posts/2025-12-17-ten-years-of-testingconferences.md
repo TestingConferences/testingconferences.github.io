@@ -16,6 +16,8 @@ social:
 
 ## A Decade of Sharing Testing Conferences
 
+![Anniversary celebration collage featuring scrabble tiles spelling “Happy Anniversary”](assets/happy_anniversary.jpg)
+
 On October 30, 2015 I published a LinkedIn article titled **"A simple list of software testing conferences"** that officially invited the community to explore and help build this site. Ten-plus years later the idea is still alive because the testing world keeps iterating—and so do I.
 
 ### Highlights from 2015 to Today
@@ -26,8 +28,11 @@ On October 30, 2015 I published a LinkedIn article titled **"A simple list of so
 
 ### Still Going Strong
 
-I pushed the (first commit)[https://github.com/TestingConferences/testingconferences.github.io/commit/1b028cfba42af75900682818914203c2f87532a4] for this project On April 16, 2015. By October I was ready for others to use it. Since then, TestingConferences.org remains a community driven, open source list of testing conferences and workshops from around the world. Whether you submitted a single typo fix or continually add new events, thank you. Your contributions help testers everywhere find spaces to learn, teach, and connect.
+I pushed the [first commit](https://github.com/TestingConferences/testingconferences.github.io/commit/1b028cfba42af75900682818914203c2f87532a4) for this project On April 16, 2015. By October I was ready for others to use it. Since then, TestingConferences.org remains a community driven, open source list of testing conferences and workshops from around the world. Whether you submitted a single typo fix or continually add new events, thank you. Your contributions help testers everywhere find spaces to learn, teach, and connect.
 
 Here's to the next decade of software testing conferences and workshops. If you see something missing—or want to celebrate a milestone of your own—[let us know how to contribute](/how-to-contribute/).
 
 Thanks again to everyone for a decade of support!
+
+
+[https://unsplash.com/photos/a-happy-anniversary-spelled-with-scrabbles-on-a-white-background--PjKfs_mbII]: https://unsplash.com/photos/a-happy-anniversary-spelled-with-scrabbles-on-a-white-background--PjKfs_mbII
