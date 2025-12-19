@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About - Software Testing Conferences
-last_modified_at: 2021-07-02 09:38:00
+last_modified_at: 2025-12-18 16:03:00
 ---
 
 We are the only up to date list of Software Testing conferences and workshops published collaboratively with the global testing community.
@@ -36,8 +36,9 @@ We have an excellent Newsletter sent **once per month** so people don't have to 
     <img src="https://www.kenst.com/content/images/wordpress/2016/03/boba_fett_round.png" alt="Chris Fett" height="30%" width="30%">
   </div>
   <div>
-    <li>created & maintained by <a href="https://twitter.com/{{site.twitter_username}}">Chris Kenst</a></li>
-    <li>inspired by <a href="http://rubyconferences.org">Ruby Conferences</a></li>
+    Created & maintained by <a href="https://kenst.com" target="_blank">Chris Kenst</a>
+    <br>
+    Inspired by <a href="http://rubyconferences.org">Ruby Conferences</a>
   </div>
 </div>
 

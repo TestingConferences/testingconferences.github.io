@@ -16,7 +16,7 @@ social:
 
 ## A Decade of Sharing Testing Conferences
 
-![Anniversary celebration collage featuring scrabble tiles spelling “Happy Anniversary”](assets/happy_anniversary.jpg)
+![Anniversary celebration collage featuring scrabble tiles spelling “Happy Anniversary”](/assets/happy_anniversary.jpg)
 
 On October 30, 2015 I published a LinkedIn article titled **"A simple list of software testing conferences"** that officially invited the community to explore and help build this site. Ten-plus years later the idea is still alive because the testing world keeps iterating—and so do I.
 
