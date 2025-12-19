@@ -1,0 +1,4 @@
+{% assign version_file = site.static_files | where: "path", "/VERSION" | first %}
+{% if version_file %}
+  <p class="site-version">Site Version: {{ version_file.content }}</p>
+{% endif %}
