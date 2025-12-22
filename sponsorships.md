@@ -2,7 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsor Us - Software Testing Conferences
-last_modified_at: 2025-11-03 13:01:00
+last_modified_at: 2025-12-22 13:32:00
 ---
 
 **Sponsoring Us**
@@ -21,14 +21,6 @@ Pricing is based on the per thousand sessions for your given month and depends o
 change month to month and year to year as traffic grows. We do offer multi-month purchasing discounts.
 
 <table style="width:50%" align="center">
-  <tr>
-    <td>November 2025</td>
-    <td>CypressIO</td>
-  </tr>
-  <tr>
-    <td>December 2025</td>
-    <td>CypressIO</td>
-  </tr>
   <tr>
     <td>January 2026</td>
     <td>Open</td>
@@ -63,6 +55,18 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>September 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>October 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>November 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>December 2026</td>
     <td>Open</td>
   </tr>
 </table>

@@ -7,15 +7,15 @@
 - name: Automation Guild 2026
   location: Online
   dates: "February 9-13, 2026"
-  url: https://automationguild.com/?utm_source=testingconferences
+  url: https://testguild.com/ag-2026/?utm_source=testingconferences
   twitter: testguilds
-  status: <a href="https://automationguild.com/register/?utm_source=testingconferences" target="_blank">Announced</a>
+  status: <a href="https://testguild.com/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Robocon 2026 In Person
   location: Helsinki, Finland
   dates: "February 10-13, 2026"
   url: https://www.robocon.io/?utm_source=testingconferences
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Summit Bangalore 2026
   location: Bangalore, India
@@ -49,7 +49,7 @@
   location: Online
   dates: "March 3-6, 2026"
   url: https://www.robocon.io/?utm_source=testingconferences
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Days 2026
   location: Gooiland, Hilversum, The Netherlands
@@ -69,7 +69,7 @@
   dates: "March 12, 2026"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
-  status: <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until December 1, 2025
+  status: <a href="https://testingpeerscon.com/ticket/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Summit Detroit 2026
   location: Detroit, MI, USA
@@ -96,7 +96,7 @@
   location: Paris, FR
   dates: "March 31, 2026"
   url: https://paristestconf.com/?utm_source=testingconferences
-  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: UCAAT 2026 - 12th UCAAT User Conference on Advanced Automated Testing
   location: Sophia Antipolis, FR
@@ -197,10 +197,10 @@
   status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 1, 2026
 
 - name: "QA:Challenge Accepted 2026"
-  dates: "October 24, 2026"
   location: Sofia, Bulgaria
+  dates: "October 24, 2026"
   url: https://qachallengeaccepted.com?utm_source=testingconferences
-  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a>
+  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a> until May 1, 2026
 
 - name: MoTaCon 2026
   location: Brighton, UK
