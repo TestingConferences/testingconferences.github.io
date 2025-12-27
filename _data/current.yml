@@ -238,6 +238,11 @@
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/news/motacon-2026-call-for-contributions-now-open?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 28, 2026
 
+- name: Testing Assembly
+  location: Helsinki, Finland
+  dates: "November 4-5, 2026"
+  url: https://testingassembly.fistb.fi/?utm_source=testingconferences
+  
 - name: Tokyo Test Fest
   location: Tokyo, Japan
   dates: "November 12-13, 2026"
