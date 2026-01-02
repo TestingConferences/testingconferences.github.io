@@ -210,7 +210,8 @@
         margin: 0 15px;
         transition: color 0.3s ease;
         
-        &:hover {
+        &:hover,
+        &:focus {
             color: $grey-color-dark;
         }
     }
