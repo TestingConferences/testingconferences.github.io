@@ -201,6 +201,22 @@
     }
 }
 
+.footer-social-icons {
+    text-align: center;
+    padding: 20px 0;
+    
+    a {
+        color: $grey-color;
+        margin: 0 15px;
+        transition: color 0.3s ease;
+        
+        &:hover,
+        &:focus {
+            color: $grey-color-dark;
+        }
+    }
+}
+
 
 
 /**
