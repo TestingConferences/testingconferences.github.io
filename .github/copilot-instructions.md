@@ -50,8 +50,9 @@ When adding or updating conferences in `_data/current.yml` or `_data/past.yml`:
 
 **Required Fields:**
 
-- `name` - Full conference name with year (include abbreviation if applicable)
-  - Example: `Workshop on Performance and Reliability (WOPR) 2026`
+- `name` - Full conference name with year
+  - Include abbreviations in parentheses when commonly used
+  - Examples: `Automation Guild 2026`, `Workshop on Performance and Reliability (WOPR) 2026`
 - `location` - City, state/country, and whether online
 - `dates` - Event dates (use quotes if complex format)
 - `url` - Conference website with `?utm_source=testingconferences` tracking
@@ -108,11 +109,12 @@ When adding or updating conferences in `_data/current.yml` or `_data/past.yml`:
 
 ### Conference Eligibility
 
-Only include conferences/workshops specifically for software testing. Use this heuristic:
+Only include conferences/workshops specifically for software testing. Per the README:
 
-- Conference name includes "Test", "Testing", or "Quality"
+- Focus is a goal - only conferences that are specifically for software testing are listed
+- If a conference covers software testing but is not specifically for testers, it is excluded
+- Good heuristic: conference name includes "Test", "Testing", "Quality", "Automation", or is otherwise clearly focused on testing (e.g., "Robocon", "Automation Guild")
 - Conference describes itself as specifically for software testers
-- Focus is on testing, not general software development
 
 ## Common Tasks
 
@@ -141,10 +143,13 @@ Only include conferences/workshops specifically for software testing. Use this h
 
 ## Dependencies
 
-- **Ruby**: 3.1+ (see CircleCI config)
+Per the Gemfile and CircleCI config:
+
+- **Ruby**: 3.1 (cimg/ruby:3.1)
 - **Bundler**: 2.4.17
-- **Jekyll**: 3.10.0+
-- **GitHub Pages**: 232+
+- **Jekyll**: >= 3.10.0
+- **GitHub Pages**: >= 232
+- **html-proofer**: ~> 3.19.4
 - **Docker**: Required for local development
 
 ## Security and Best Practices
