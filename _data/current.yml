@@ -182,6 +182,12 @@
   dates: "June 3-5, 2026"
   url: https://nordictestingdays.eu/?utm_source=testingconferences
   status: CFP is Open until December 31, 2025
+
+- name: QA or the Highway
+  location: Columbus, Ohio, USA
+  dates: "June 12, 2026"
+  url: https://www.qaorthehwy.com/
+  status: <a href="https://sessionize.com/qa-or-the-highway-2026/" target="_blank">Call for Speakers is open until March 2, 2026</a> and <a href="https://www.qaorthehwy.com/" target="_blank">Early Bird Registration is open until May 15, 2026</a>
   
 - name: EuroSTAR 2026 Software Testing Conference
   location: Oslo, Norway
