@@ -43,9 +43,6 @@
     <div name="copyright" class="footer-col-wrapper">
       © 2015 - 2026 {{ site.title }} by <a href="https://www.kenst.com/" target="_blank">Chris Kenst</a>
     </div>
-    <div name= "site-version" class="footer-col-wrapper">
-      {% if site_version %}{% include site_version.html %}{% endif %}
-    </div>
     <div name="super-footer" class="footer-col-wrapper-scroll">
       <p>An open source, up to date, community driven list of software testing conferences and software testing
         workshops happening in 2026 and beyond. 
@@ -57,6 +54,7 @@
         quality assurance conferences 2026, quality assurance conferences 2027, quality assurance conferences 2028,
         global qa conferences, european software testing events, north american testing conferences, test engineering summits,
         software testing expos, testing professionals summits, qa practitioners forums.
+      <p>rev.{% include VERSION.txt %}.</p>
     </div>
   </div>
 </footer>
