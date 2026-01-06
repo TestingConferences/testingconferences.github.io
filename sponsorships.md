@@ -43,15 +43,15 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2026</td>
-    <td>Open</td>
+    <td>TestMu Conference 2026</td>
   </tr>
   <tr>
     <td>July 2026</td>
-    <td>Open</td>
+    <td>TestMu Conference 2026</td>
   </tr>
   <tr>
     <td>August 2026</td>
-    <td>Open</td>
+    <td>TestMu Conference 2026</td>
   </tr>
   <tr>
     <td>September 2026</td>
