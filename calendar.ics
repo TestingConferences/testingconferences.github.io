@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /calendar.ics
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://testingconferences.org/
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Testing Conferences
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Software Testing Conferences and Workshops
+{% for event in site.data.current %}{% assign parsed_dates = event.dates | parse_conference_dates %}{% if parsed_dates %}
+BEGIN:VEVENT
+UID:{{ parsed_dates.start_date }}{{ event.name | remove: ' ' | remove: ',' | remove: ':' | remove: '(' | remove: ')' }}@testingconferences.org
+SUMMARY:{{ event.name }}
+LOCATION:{{ event.location | replace: ",", "\," }}
+DESCRIPTION:{{ event.url }}{% if event.twitter %}\nTwitter: https://twitter.com/{{ event.twitter }}{% endif %}
+CLASS:PUBLIC
+URL:{{ event.url }}
+DTSTART;VALUE=DATE:{{ parsed_dates.start_date }}
+DTEND;VALUE=DATE:{{ parsed_dates.end_date }}
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+{% endif %}{% endfor %}
+END:VCALENDAR
