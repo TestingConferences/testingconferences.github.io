@@ -62,21 +62,6 @@ module Jekyll
           }
         end
         
-        # Pattern: "Month Day-Day - Month Day, Year" (e.g., "April 26 - May 1, 2026")
-        if date_string =~ /^([A-Za-z]+)\s+(\d+)\s+-\s+([A-Za-z]+)\s+(\d+),\s+(\d{4})$/
-          start_month = $1
-          start_day = $2.to_i
-          end_month = $3
-          end_day = $4.to_i
-          year = $5.to_i
-          start_date = Date.parse("#{year}-#{start_month}-#{start_day}")
-          end_date = Date.parse("#{year}-#{end_month}-#{end_day}")
-          return {
-            'start_date' => start_date.strftime('%Y%m%d'),
-            'end_date' => end_date.strftime('%Y%m%d')
-          }
-        end
-        
         # If we can't parse the date, return nil
         return nil
       rescue => e
