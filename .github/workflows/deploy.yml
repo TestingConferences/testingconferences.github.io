@@ -1,0 +1,99 @@
+name: Deploy to GitHub Pages with Version Increment
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Read and Increment Version
+        id: version
+        run: |
+          # Check if VERSION.txt exists
+          if [ ! -f _includes/VERSION.txt ]; then
+            echo "ERROR: _includes/VERSION.txt not found"
+            exit 1
+          fi
+          
+          # Read current version
+          CURRENT_VERSION=$(cat _includes/VERSION.txt)
+          echo "Current version: $CURRENT_VERSION"
+          
+          # Increment version
+          NEW_VERSION=$((CURRENT_VERSION + 1))
+          echo "New version: $NEW_VERSION"
+          
+          # Write new version (without trailing newline to match original format)
+          echo -n "$NEW_VERSION" > _includes/VERSION.txt
+          
+          # Set output for later steps
+          echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Commit Version File
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _includes/VERSION.txt
+          
+          # Only commit and push if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: bump version to ${{ steps.version.outputs.version }}"
+            git push
+          fi
+
+      - name: Create Git Tag
+        run: |
+          # Check if tag already exists (could happen with concurrent runs)
+          if git rev-parse "v${{ steps.version.outputs.version }}" >/dev/null 2>&1; then
+            echo "Tag v${{ steps.version.outputs.version }} already exists, skipping tag creation"
+          else
+            git tag -a "v${{ steps.version.outputs.version }}" -m "Release version ${{ steps.version.outputs.version }}"
+            git push origin "v${{ steps.version.outputs.version }}"
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

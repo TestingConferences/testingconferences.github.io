@@ -61,6 +61,20 @@ A good _heuristic_ for whether a conference should be included is if its name in
 
 Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
 
+## Versioning and Deployments
+
+The site uses an automated versioning system to track each deployment:
+
+- **Version Number**: Every deployment to production automatically increments the version number stored in `_includes/VERSION.txt`
+- **Git Tags**: Each deployment is tagged in Git with the format `vXXXX` (e.g., `v1501`)
+- **Footer Display**: The current version is displayed in the site footer as `rev.XXXX.`
+- **Workflow**: The `.github/workflows/deploy.yml` workflow handles version incrementing, tagging, and deployment on every push to `main`
+
+This versioning system enables:
+- Tracking which version of the site is deployed
+- Associating bug reports with specific deployments
+- Measuring quality metrics across versions (see [ROADMAP.md](ROADMAP.md))
+
 
 ## License
 

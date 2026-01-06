@@ -10,8 +10,8 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 - [x] **Implement `VERSION` file**: Create a plaintext file in the root directory to track SemVer (e.g., `1.0.0`).
 - [x] **Footer Integration**: Update the website footer to dynamically display the current string from the `VERSION` file.
-- [ ] **Automated Increments**: Create a workflow to increment the `VERSION` file on every deployment.
-- [ ] **Deployment Tagging**: Ensure every production deploy is tagged in Git to match the internal version.
+- [x] **Automated Increments**: Create a workflow to increment the `VERSION` file on every deployment.
+- [x] **Deployment Tagging**: Ensure every production deploy is tagged in Git to match the internal version.
 
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
