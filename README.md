@@ -76,13 +76,15 @@ This feature allows users to easily import all upcoming testing conferences into
 
 Conference entries in `_data/current.yml` include `start_date` and `end_date` fields in YYYY-MM-DD format, which are used to generate the calendar. When adding new conferences, please include these fields along with the human-readable `dates` field.
 
+**Important**: The `end_date` should be set to **one day after** the last day of the conference, as per the ICS specification for all-day events.
+
 Example:
 ```yaml
 - name: Example Conference 2026
   location: City, Country
   dates: "January 22-24, 2026"
   start_date: "2026-01-22"
-  end_date: "2026-01-24"
+  end_date: "2026-01-25"  # One day after the conference ends
   url: https://example.com
 ```
 
