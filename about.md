@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About - Software Testing Conferences
-last_modified_at: 2025-12-18 16:03:00
+title: About
+last_modified_at: 2026-01-04 16:03:00
 ---
 
 We are the only up to date list of Software Testing conferences and workshops published collaboratively with the global testing community.
