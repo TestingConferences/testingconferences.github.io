@@ -62,6 +62,25 @@ A good _heuristic_ for whether a conference should be included is if its name in
 Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
 
 
+## Calendar Download
+
+The site provides a downloadable calendar file (iCal/ICS format) that can be imported into calendar applications like Google Calendar, Apple Calendar, or Outlook. The calendar is automatically generated from the conference data and is available at:
+
+```
+https://testingconferences.org/calendar.ics
+```
+
+This feature allows users to easily import all upcoming testing conferences into their calendar application.
+
+## Deployment
+
+The site is built and deployed using GitHub Actions, which allows the use of custom Jekyll plugins. The workflow:
+1. Runs on every push to the `master` branch
+2. Builds the Jekyll site with all custom plugins
+3. Deploys the static site to GitHub Pages
+
+Custom plugins (like the date parser for the calendar feature) are stored in the `_plugins` directory and are fully supported through this deployment method.
+
 ## License
 
 TC.org is released under the [MIT License](MIT-LICENSE).
