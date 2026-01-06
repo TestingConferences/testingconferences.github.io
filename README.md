@@ -72,14 +72,19 @@ https://testingconferences.org/calendar.ics
 
 This feature allows users to easily import all upcoming testing conferences into their calendar application.
 
-## Deployment
+### Data Format
 
-The site is built and deployed using GitHub Actions, which allows the use of custom Jekyll plugins. The workflow:
-1. Runs on every push to the `master` branch
-2. Builds the Jekyll site with all custom plugins
-3. Deploys the static site to GitHub Pages
+Conference entries in `_data/current.yml` include `start_date` and `end_date` fields in YYYY-MM-DD format, which are used to generate the calendar. When adding new conferences, please include these fields along with the human-readable `dates` field.
 
-Custom plugins (like the date parser for the calendar feature) are stored in the `_plugins` directory and are fully supported through this deployment method.
+Example:
+```yaml
+- name: Example Conference 2026
+  location: City, Country
+  dates: "January 22-24, 2026"
+  start_date: "2026-01-22"
+  end_date: "2026-01-24"
+  url: https://example.com
+```
 
 ## License
 

@@ -13,7 +13,6 @@ plugins:
 
 # Build settings
 markdown: kramdown
-safe: false
 defaults:
   - values:
       author: "Chris Kenst"
