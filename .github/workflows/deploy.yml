@@ -39,8 +39,8 @@ jobs:
           NEW_VERSION=$((CURRENT_VERSION + 1))
           echo "New version: $NEW_VERSION"
           
-          # Write new version
-          echo "$NEW_VERSION" > _includes/VERSION.txt
+          # Write new version (without trailing newline to match original format)
+          echo -n "$NEW_VERSION" > _includes/VERSION.txt
           
           # Set output for later steps
           echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
