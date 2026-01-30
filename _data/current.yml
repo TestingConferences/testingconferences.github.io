@@ -214,6 +214,12 @@
   dates: "August 3-4, 2026"
   url: https://waset.org/software-testing-process-conference-in-august-2026-in-amsterdam?utm_source=testingconferences
 
+- name: Testing Talks Conference Sydney 2026
+  location: Sydney, Australia
+  dates: "August 6, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney
+  twitter: testingtalks
+
 - name: TACON 2026
   location: Leipzig, Germany
   dates: "September 16-17, 2026"
@@ -225,6 +231,12 @@
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
   status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 1, 2026
+
+- name: Testing Talks Conference Melbourne 2026
+  location: Melbourne, Australia
+  dates: "October 8, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne
+  twitter: testingtalks
 
 - name: "QA:Challenge Accepted 2026"
   dates: "October 24, 2026"
