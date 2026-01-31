@@ -35,11 +35,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>April 2026</td>
-    <td>Open</td>
+    <td>PNSQC</td>
   </tr>
   <tr>
     <td>May 2026</td>
-    <td>Open</td>
+    <td>PNSQC</td>
   </tr>
   <tr>
     <td>June 2026</td>
@@ -55,7 +55,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>September 2026</td>
-    <td>Open</td>
+    <td>PNSQC</td>
   </tr>
   <tr>
     <td>October 2026</td>
