@@ -149,7 +149,6 @@
   location: Athens, Greece
   dates: "May 12, 2026"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-  status: <a href="https://cfp.sched.com/speaker/lqHvGk6XkE/event" target="_blank">CFP is Open</a> until December 31, 2025
 
 - name: QA Financial Forum New York 2026
   location: New York, NY, USA
@@ -161,13 +160,11 @@
   location: Gothenburg, Sweden
   dates: "May 21, 2026"
   url: https://www.testcoast.se/?utm_source=testingconferences
-  status: CFP is Open until January 7th, 2026
 
 - name: Istanbul Software Testing Conference
   location: Istanbul, Turkey
   dates: "May 21-22, 2026"
   url: https://iststc.com/?utm_source=testingconferences
-  status: CFP is open until December 31, 2025
 
 - name: "expo:QA 26"
   location: Madrid, Spain
@@ -180,12 +177,11 @@
   location: Tallinn, Estonia
   dates: "June 3-5, 2026"
   url: https://nordictestingdays.eu/?utm_source=testingconferences
-  status: CFP is Open until December 31, 2025
 
 - name: QA or the Highway
   location: Columbus, Ohio, USA
   dates: "June 12, 2026"
-  url: https://www.qaorthehwy.com/
+  url: https://www.qaorthehwy.com/?utm_source=testingconferences
   status: <a href="https://sessionize.com/qa-or-the-highway-2026/" target="_blank">Call for Speakers is open until March 2, 2026</a> and <a href="https://www.qaorthehwy.com/" target="_blank">Early Bird Registration is open until May 15, 2026</a>
   
 - name: EuroSTAR 2026 Software Testing Conference
@@ -228,4 +224,4 @@
   location: Tokyo, Japan
   dates: "November 12-13, 2026"
   url: https://tokyotestfest.com/en/?utm_source=testingconferences
-  status: CFP will be Open in February, 2026
+  status: CFP opens February 2, 2026. Ultra Early Pricing ends April 1st, 2026
