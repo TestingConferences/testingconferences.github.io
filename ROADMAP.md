@@ -1,4 +1,4 @@
-# Roadmap: testingconferences.org
+we# Roadmap: testingconferences.org
 
 ## Project Vision
 Continue to use TCorg to experiment and learn. I want to track quality metrics automatically. Yes these are indirect quality metrics, but I'd like to see what I can track on the build side and how it works. Then improve upon them later.
@@ -40,7 +40,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 - [ ] **Calendar Download**: Make it possible to just download the current TC.org data as a ICO and import it into your calendar
 - [ ] **Reference License in Footer**: Should we reference our MIT-LICENSE file in super footer?
-
+- [ ] Create automated tests. 
 ---
 
 ## Version History & Quality Log
