@@ -27,11 +27,11 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>February 2026</td>
-    <td>Open</td>
+    <td>PNSQC</td>
   </tr>
   <tr>
     <td>March 2026</td>
-    <td>Open</td>
+    <td>PNSQC</td>
   </tr>
   <tr>
     <td>April 2026</td>
