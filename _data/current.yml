@@ -21,28 +21,28 @@
   dates: "February 19, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-bangalore/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-bangalore/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 19, 2025
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-bangalore/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Summit Chennai 2026
   location: Chennai, India
   dates: "February 19, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-chennai/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-chennai/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 19, 2025
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-chennai/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Summit Hyderabad 2026
   location: Hyderabad Hitec City, India
   dates: "February 26, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-hyderabad/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-hyderabad/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 26, 2025
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-hyderabad/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Test Automation Summit Pune 2026
   location: Pune, India
   dates: "February 26, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-pune/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-pune/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until December 26, 2025
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-pune/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Robocon 2026 Online
   location: Online
@@ -61,7 +61,7 @@
   dates: "March 11, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-denver/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 11, 2026
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 11, 2026
 
 - name: Testing Peers Conference 2026
   location: Nottingham, UK
@@ -75,14 +75,14 @@
   dates: "March 12, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-detroit/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 12, 2026
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 12, 2026
 
 - name: Test Automation Summit Salt Lake 2026
   location: Salt Lake City, UT, USA
   dates: "March 13, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 13, 2026
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 13, 2026
 
 - name: Test Automation Summit Portland 2026
   location: Portland, OR, USA
@@ -136,14 +136,14 @@
   location: Cluj-Napoca, Romania
   dates: "May 6-7, 2026"
   url: https://qualityconnect.ro?utm_source=testingconferences
-  status: <a href="https://qualityconnect.ro/?utm_source=testingconferences#pricing" target="_blank">Early Bird Registration is Open</a> until January 10, 2026
+  status: <a href="https://qualityconnect.ro/?utm_source=testingconferences#pricing" target="_blank">Registration is Open</a>
 
 - name: SeleniumConf & AppiumConf 2026
   location: Valencia, ES
   dates: "May 6-8, 2026"
   url: https://seleniumconf.com/?utm_source=testingconferences
   twitter: seleniumconf
-  status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences" target="_blank">Early Bird</a> Registration is Open
+  status: <a href="https://seleniumconf.com/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: WeTest.Athens 2026
   location: Athens, Greece
@@ -171,7 +171,7 @@
   dates: "May 26-28, 2026"
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.eu/ticket-shop/?utm_source=testingconferences" target="_blank">Blind Bird Registration is Open</a>
+  status: <a href="https://expoqa.eu/ticket-shop/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Nordic Testing Days
   location: Tallinn, Estonia
