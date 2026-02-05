@@ -191,11 +191,11 @@
   twitter: esconfs
   status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Early Bird</a> Pricing is Open
 
-  - name: Human-Centred Testing: People and Practices & the Future of the Profession
+- name: Human-Centred Testing: People and Practices & the Future of the Profession
   location: London, UK
   dates: "July 7, 2026"
-  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/.
-  status: <a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/." target="_blank">Call for Speakers</a> Call for Speakers  
+  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences
+  status: <a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences" target="_blank">Call for Speakers</a> is Open 
 
 - name: "ICSTP 2026: International Conference on Software Testing Process"
   location: Amsterdam, Netherlands or Online
