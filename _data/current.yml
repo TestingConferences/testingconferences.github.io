@@ -1,8 +1,3 @@
-- name: SoCraTes Conference Switzerland 2026
-  location: Monastery Ilanz, Switzerland
-  dates: January 29 - February 1, 2026
-  url: http://www.socrates-ch.org/?utm_source=testingconferences
-
 - name: Automation Guild 2026
   location: Online
   dates: "February 9-13, 2026"
@@ -230,6 +225,13 @@
   dates: "October 1, 2026"
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/news/motacon-2026-call-for-contributions-now-open?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 28, 2026
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2026
+  location: Portland, Oregon, USA and Online
+  dates: "October 12-14, 2026"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+  status: <a href="https://meetinghand.com/e/pnsqc-2026/welcome?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
