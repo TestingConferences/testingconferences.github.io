@@ -44,6 +44,7 @@
   url: https://www.testingmind.com/event/test-automation-summit-denver/?utm_source=testingconferences
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Testing Peers Conference 2026
   location: Nottingham, UK
   dates: "March 12, 2026"
@@ -57,12 +58,14 @@
   url: https://www.testingmind.com/event/test-automation-summit-detroit/?utm_source=testingconferences
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Test Automation Summit Salt Lake 2026
   location: Salt Lake City, UT, USA
   dates: "March 13, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open until March 13, 2026</a>
+
 - name: QonfX - SF Bay Area - Invite-only QA & Tech Leadership Conference
   location: Palo Alto, SF Bay Area
   dates: "March 20, 2026"
@@ -76,6 +79,7 @@
   url: https://www.testingmind.com/event/test-automation-summit-portland/?utm_source=testingconferences
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-portland/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: ParisTestConf 2026
   location: Paris, FR
   dates: "March 31, 2026"
@@ -121,7 +125,8 @@
 - name: TAPOST Next
   location: Riga, Latvia
   dates: "April 23, 2026"
-  url: https://www.tapost.org/
+  url: https://www.tapost.org/?utm_source=testingconferences
+  status: <a href="https://www.tapost.org/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: STAREAST 2026
   location: Orlando, FL, USA and Online
@@ -206,6 +211,12 @@
   dates: "August 3-4, 2026"
   url: https://waset.org/software-testing-process-conference-in-august-2026-in-amsterdam?utm_source=testingconferences
 
+- name: CAST 2026
+  location: Cocoa Beach, FL, USA
+  dates: "August 3-5, 2026"
+  url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
+  twitter: ASTorg
+
 - name: TACON 2026
   location: Leipzig, Germany
   dates: "September 16-17, 2026"
@@ -216,12 +227,13 @@
   dates: "September 20-25, 2026"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
+
 - name: Targeting Quality 2026
   location: Cambridge, Ontario, Canada
   dates: September 21-22, 2026
   url: https://targetingquality.ca/?utm_source=testingconferences
 
-- name: "QA:Challenge Accepted 2026"
+  status: <a href="https://kwsqa.org/tq2026/call-for-presentations/" target="_blank">CFP is Open until April 14</a> and <a href="https://kwsqa.org/tq2026/registration/" target="_blank">Super Early Bird Registration is Open until April 26</a>- name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
   dates: "October 24, 2026"
   url: https://qachallengeaccepted.com?utm_source=testingconferences
