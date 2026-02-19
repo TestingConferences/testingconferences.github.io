@@ -93,6 +93,12 @@
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-portland/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 25, 2026
 
+- name: Swiss Testing Days 2026
+  location: Zurich, Switzerland
+  dates: "April 3, 2026"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: ParisTestConf 2026
   location: Paris, FR
   dates: "March 31, 2026"
