@@ -221,7 +221,12 @@
   location: Cocoa Beach, FL, USA
   dates: "August 3-5, 2026"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
-  twitter: ASTorg
+  twitter: AAST_News
+
+- name: Testing Talks Sydney 2026
+  location: Sydney, Australia
+  dates: "August 6, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences
 
 - name: TACON 2026
   location: Leipzig, Germany
@@ -246,12 +251,24 @@
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/news/motacon-2026-call-for-contributions-now-open?utm_source=testingconferences" target="_blank">CFP is Open</a> until February 28, 2026
 
+- name: Testing Talks Melbourne 2026
+  location: Melbourne, Australia
+  dates: "October 8, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingconferences
+
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2026
   location: Portland, Oregon, USA and Online
   dates: "October 12-14, 2026"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
   status: <a href="https://meetinghand.com/e/pnsqc-2026/welcome?utm_source=testingconferences" target="_blank">CFP is Open</a>
+
+- name: OnlineTestConf 2026 
+  location: Online
+  dates: "October 14, 2026"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: Announced
 
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
