@@ -43,8 +43,7 @@
   dates: "March 11, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-denver/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 11, 2026
-
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-denver/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 - name: Testing Peers Conference 2026
   location: Nottingham, UK
   dates: "March 12, 2026"
@@ -57,15 +56,13 @@
   dates: "March 12, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-detroit/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 12, 2026
-
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-detroit/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 - name: Test Automation Summit Salt Lake 2026
   location: Salt Lake City, UT, USA
   dates: "March 13, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 13, 2026
-
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open until March 13, 2026</a>
 - name: QonfX - SF Bay Area - Invite-only QA & Tech Leadership Conference
   location: Palo Alto, SF Bay Area
   dates: "March 20, 2026"
@@ -78,8 +75,7 @@
   dates: "March 26, 2026"
   url: https://www.testingmind.com/event/test-automation-summit-portland/?utm_source=testingconferences
   twitter: TestingMindCon
-  status: <a href="https://www.testingmind.com/event/test-automation-summit-portland/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 25, 2026
-
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-portland/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 - name: ParisTestConf 2026
   location: Paris, FR
   dates: "March 31, 2026"
@@ -220,8 +216,6 @@
   dates: "September 20-25, 2026"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starwest.techwell.com/speak-starwest" target="_blank">CFP is Open</a> until February 1, 2026 and <a href="https://starwest.techwell.com/pricing-packages?utm_source=testingconferences" target="_blank">Super Early Bird Pricing is Open</a> until February 27, 2026
-
 - name: Targeting Quality 2026
   location: Cambridge, Ontario, Canada
   dates: September 21-22, 2026
