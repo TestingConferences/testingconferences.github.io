@@ -232,10 +232,8 @@
   location: Cambridge, Ontario, Canada
   dates: September 21-22, 2026
   url: https://targetingquality.ca/?utm_source=testingconferences
+  status: <a href="https://kwsqa.org/tq2026/call-for-presentations/" target="_blank">CFP is Open</a> until April 14, 2026 and <a href="https://kwsqa.org/tq2026/registration/" target="_blank">Super Early Bird Registration is Open</a> until April 26, 2026
 
-  location: Sofia, Bulgaria
-  dates: "October 24, 2026"
-  url: https://qachallengeaccepted.com?utm_source=testingconferences
 - name: MoTaCon 2026
   location: Brighton, UK
   dates: "October 1, 2026"
@@ -248,6 +246,12 @@
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
   status: <a href="https://meetinghand.com/e/pnsqc-2026/welcome?utm_source=testingconferences" target="_blank">CFP is Open</a>
+
+- name: "QA: Challenge Accepted 2026"
+  location: Sofia, Bulgaria
+  dates: "October 24, 2026"
+  url: https://qachallengeaccepted.com?utm_source=testingconferences
+  status: <a href="https://docs.google.com/forms/d/e/1FAIpQLScGEa_KUQx3cJ7Lw-XluBJylQcnpYvDMwzjDuTRQThK5AfSmw/viewform" target="_blank">CFP is Open until May 1, 2026</a>
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
