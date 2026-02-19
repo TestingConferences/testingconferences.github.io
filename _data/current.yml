@@ -221,7 +221,7 @@
   location: Cocoa Beach, FL, USA
   dates: "August 3-5, 2026"
   url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
-  twitter: AAST_News
+  twitter: AST_News
 
 - name: Testing Talks Sydney 2026
   location: Sydney, Australia
@@ -275,6 +275,13 @@
   dates: "October 24, 2026"
   url: https://qachallengeaccepted.com?utm_source=testingconferences
   status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a> until May 1, 2026
+
+- name: AutomationSTAR Test Automation Conference 2026
+  location: Antwerpen, Belgium
+  dates: "November 4-5, 2026"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+  status: Super Early Bird Registration is Open
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
