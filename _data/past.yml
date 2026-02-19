@@ -1,3 +1,14 @@
+- name: Robocon 2026 In Person
+  location: Helsinki, Finland
+  dates: "February 10-13, 2026"
+  url: https://www.robocon.io/?utm_source=testingconferences
+
+- name: Automation Guild 2026
+  location: Online
+  dates: "February 9-13, 2026"
+  url: https://testguild.com/ag-2026/?utm_source=testingconferences
+  twitter: testguilds
+
 - name: SoCraTes Conference Switzerland 2026
   location: Monastery Ilanz, Switzerland
   dates: January 29 - February 1, 2026
@@ -6119,4 +6130,3 @@
   location: Melbourne, FL, USA
   dates: "January 24-26, 2014"
   url: http://wtst.org/
-  twitter:
