@@ -37,6 +37,7 @@
   dates: "March 4-5, 2026"
   url: https://www.testautomationdays.com/?utm_source=testingconferences
   twitter: testautomationd
+  status: Registration is Open
 
 - name: Test Automation Summit Denver 2026
   location: Denver, CO, USA
@@ -269,6 +270,19 @@
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Announced
+
+- name: TestCon Europe 2026
+  location: Vilnius, Lithuania
+  dates: "October 20-23, 2026"
+  url: https://testcon.lt/?utm_source=testingconferences
+  status: <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form" target="_blank">CFP is Open</a>
+
+- name: CypressConf 2026
+  location: Online
+  dates: "October 20-22, 2026"
+  url: https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce8-858b-8a4db3a62eb1?utm_source=website_events&utm_medium=event_page&utm_campaign=cypressconf2026&utm_term=01-22-2026&utm_content=cypressconf?utm_source=testingconferences
+  twitter: cypress_io
+  status: Registration is Open and Free
 
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
