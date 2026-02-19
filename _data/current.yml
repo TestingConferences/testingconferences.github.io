@@ -79,6 +79,13 @@
   twitter: TestingMindCon
   status: <a href="https://www.testingmind.com/event/test-automation-summit-salt-lake/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until February 13, 2026
 
+- name: QonfX - SF Bay Area - Invite-only QA & Tech Leadership Conference
+  location: Palo Alto, SF Bay Area
+  dates: "March 20, 2026"
+  url: https://www.thetesttribe.com/qonfx/san-francisco/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/san-francisco/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Test Automation Summit Portland 2026
   location: Portland, OR, USA
   dates: "March 26, 2026"
@@ -91,6 +98,13 @@
   dates: "March 31, 2026"
   url: https://paristestconf.com/?utm_source=testingconferences
   status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: QonfX Bangalore - Invite-only QA & Tech Leadership Conference
+  location: Bangalore, India
+  dates: "April 10, 2026"
+  url: https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)
   location: Rio de Janeiro, Brazil
@@ -107,6 +121,13 @@
   location: Montevideo, Uruguay
   dates: "April 15-16, 2026"
   url: https://testinguy.org/?utm_source=testingconferences&lang=en
+
+- name: QonfX Berlin - Invite-only QA & Tech Leadership Conference
+  location: Berlin
+  dates: "April 23, 2026"
+  url: https://www.thetesttribe.com/qonfx/berlin/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/berlin/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: QA Financial Forum Toronto 2026
   location: Toronto, ON, Canada
