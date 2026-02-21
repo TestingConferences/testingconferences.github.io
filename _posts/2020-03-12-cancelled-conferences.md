@@ -12,7 +12,6 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-05-27 13:29:00
 ---
 
 As many of us know the World Health Organization has declared COVID-19 a global pandemic. Work, school, travel, and public life are changing every day. Uncertainty has created stress and concern about travel plans. 
