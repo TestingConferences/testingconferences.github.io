@@ -12,7 +12,6 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at: 2021-07-02 15:47:00
 ---
 
 ## Best Conferences of 2021

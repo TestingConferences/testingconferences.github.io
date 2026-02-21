@@ -5,7 +5,6 @@ date:   2019-01-12 16:40:00
 categories: news
 author: Chris Kenst
 permalink: /best-software-testing-conferences-2018/
-last_modified_at: 2021-07-02 15:47:00
 ---
 
 ## {{ page.title }}

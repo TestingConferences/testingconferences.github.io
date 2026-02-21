@@ -12,7 +12,6 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at: 2021-07-02 15:55:00
 ---
 
 ## {{ page.title }}

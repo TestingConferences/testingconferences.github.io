@@ -10,6 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-last-modified-at
 
 # Build settings
 markdown: kramdown

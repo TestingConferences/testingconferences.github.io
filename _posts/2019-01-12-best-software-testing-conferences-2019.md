@@ -5,7 +5,6 @@ date:   2019-01-22 02:00:00
 categories: news
 author: Chris Kenst
 permalink: /best-software-testing-conferences-2019/
-last_modified_at:   2020-02-20 12:31:13
 ---
 
 # The following is a list of the best software testing conferences and workshops of 2019 from around the World.

@@ -12,7 +12,6 @@ social:
   links:
     - https://twitter.com/testconferences
     - https://github.com/testingconferences
-last_modified_at:   2020-05-27 13:24:00
 ---
 
 The following is a simple list of online software technology conferences and workshops, published collaboratively with the software community. Hosted by [TestingConferences.org](/). 
