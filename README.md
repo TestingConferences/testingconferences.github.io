@@ -79,5 +79,3 @@ This versioning system enables:
 ## License
 
 TC.org is released under the [MIT License](MIT-LICENSE).
-
-[![Testing Powered By SauceLabs](https://opensource.saucelabs.com/images/opensauce/powered-by-saucelabs-badge-white.png?sanitize=true "Testing Powered By SauceLabs")](https://saucelabs.com)
