@@ -297,12 +297,18 @@
   twitter: esconfs
   status: Super Early Bird Registration is Open
 
+- name: Testing Assembly
+  location: Helsinki, Finland
+  dates: "November 4-5, 2026"
+  url: https://testingassembly.fistb.fi/?utm_source=testingconferences
+  status: <a href="https://testingassembly.fistb.fi/cfs/" target="_blank">CFP is Open until May 10th</a>
+  
 - name: Tokyo Test Fest
   location: Tokyo, Japan
   dates: "November 12-13, 2026"
   url: https://tokyotestfest.com/en/?utm_source=testingconferences
   status: <a href="https://tokyotestfest.com/en/tickets_2026/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://tokyotestfest.com/en/cfp_2026/?utm_source=testingconferences" target="_blank">CFP is Open until April 10th</a>
-
+  
 - name: Agile Testing Days 2026
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
