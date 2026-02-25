@@ -1,3 +1,15 @@
+- name: Test Automation Summit Chennai 2026
+  location: Chennai, India
+  dates: "February 19, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-chennai/?utm_source=testingconferences
+  twitter: TestingMindCon
+
+- name: Test Automation Summit Bangalore 2026
+  location: Bangalore, India
+  dates: "February 19, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-bangalore/?utm_source=testingconferences
+  twitter: TestingMindCon
+
 - name: Robocon 2026 In Person
   location: Helsinki, Finland
   dates: "February 10-13, 2026"
