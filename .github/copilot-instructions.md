@@ -145,7 +145,7 @@ Only include conferences/workshops specifically for software testing. Per the RE
 
 Per the Gemfile and CircleCI config:
 
-- **Ruby**: 3.1 (cimg/ruby:3.1)
+- **Ruby**: 3.2 (cimg/ruby:3.2)
 - **Bundler**: 2.4.17
 - **Jekyll**: >= 3.10.0
 - **GitHub Pages**: >= 232
