@@ -263,6 +263,12 @@
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
   status: Announced
+  
+- name: DSTB Quality Beacon 2026
+  location: Copenhagen, Denmark
+  dates: "October 20-21, 2026"
+  url: https://www.dstb.dk/konferencer/2026
+  status: Registration is open
 
 - name: TestCon Europe 2026
   location: Vilnius, Lithuania
