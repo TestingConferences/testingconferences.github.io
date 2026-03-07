@@ -59,12 +59,6 @@
   dates: "December 3, 2025"
   url: https://teamscale.com/events/tga-2025-12?utm_source=testingconferences
 
-- name: Agile Testing Days
-  location: Potsdam, Germany
-  dates: "November 24-27, 2025"
-  url: https://agiletestingdays.com/?utm_source=testingconferences
-  twitter: AgileTD
-
 - name: QA Global Summit 25
   location: Online
   dates: "November 26, 2025"
@@ -74,6 +68,12 @@
   location: London, UK
   dates: "November 26, 2025"
   url: https://qafinancial.zohobackstage.eu/QAHealthcareForumLondon2025#/?affl=softwaretestingemail
+
+- name: Agile Testing Days
+  location: Potsdam, Germany
+  dates: "November 24-27, 2025"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
 
 - name: Testing Assembly
   location: Helsinki, Finland
