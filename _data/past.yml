@@ -6142,3 +6142,30 @@
   location: Melbourne, FL, USA
   dates: "January 24-26, 2014"
   url: http://wtst.org/
+- name: Test Automation Summit Hyderabad 2026
+  location: Hyderabad Hitec City, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-hyderabad/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-hyderabad/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: Test Automation Summit Pune 2026
+  location: Pune, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-pune/?utm_source=testingconferences
+  twitter: TestingMindCon
+  status: <a href="https://www.testingmind.com/event/test-automation-summit-pune/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: Robocon 2026 Online
+  location: Online
+  dates: "March 3-6, 2026"
+  url: https://www.robocon.io/?utm_source=testingconferences
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: Test Automation Days 2026
+  location: Gooiland, Hilversum, The Netherlands
+  dates: "March 4-5, 2026"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+  status: Registration is Open
+
