@@ -1,3 +1,26 @@
+- name: Test Automation Days 2026
+  location: Gooiland, Hilversum, The Netherlands
+  dates: "March 4-5, 2026"
+  url: https://www.testautomationdays.com/?utm_source=testingconferences
+  twitter: testautomationd
+
+- name: Robocon 2026 Online
+  location: Online
+  dates: "March 3-6, 2026"
+  url: https://www.robocon.io/?utm_source=testingconferences
+
+- name: Test Automation Summit Pune 2026
+  location: Pune, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-pune/?utm_source=testingconferences
+  twitter: TestingMindCon
+
+- name: Test Automation Summit Hyderabad 2026
+  location: Hyderabad Hitec City, India
+  dates: "February 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-hyderabad/?utm_source=testingconferences
+  twitter: TestingMindCon
+
 - name: Test Automation Summit Chennai 2026
   location: Chennai, India
   dates: "February 19, 2026"
