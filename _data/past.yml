@@ -1,3 +1,27 @@
+- name: Test Automation Summit Salt Lake 2026
+  location: Salt Lake City, UT, USA
+  dates: "March 13, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-salt-lake/?utm_source=testingconferences
+  twitter: TestingMindCon
+
+- name: Testing Peers Conference 2026
+  location: Nottingham, UK
+  dates: "March 12, 2026"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+
+- name: Test Automation Summit Detroit 2026
+  location: Detroit, MI, USA
+  dates: "March 12, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-detroit/?utm_source=testingconferences
+  twitter: TestingMindCon
+
+- name: Test Automation Summit Denver 2026
+  location: Denver, CO, USA
+  dates: "March 11, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-denver/?utm_source=testingconferences
+  twitter: TestingMindCon
+
 - name: Test Automation Days 2026
   location: Gooiland, Hilversum, The Netherlands
   dates: "March 4-5, 2026"
