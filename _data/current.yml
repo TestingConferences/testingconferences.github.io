@@ -60,6 +60,12 @@
   location: Montevideo, Uruguay
   dates: "April 15-16, 2026"
   url: https://testinguy.org/?utm_source=testingconferences&lang=en
+  
+- name: The Agentic Testing Summit 
+  location: The W San Francisco, San Francisco, CA 
+  dates: "April 22, 2026"
+  url: https://www.mabl.com/events/agentic-testing-summit/san-francisco
+  status: <a href="https://www.mabl.com/events/agentic-testing-summit/san-francisco" target="_blank">Registration is Open</a>
 
 - name: QonfX Berlin - Invite-only QA & Tech Leadership Conference
   location: Berlin
