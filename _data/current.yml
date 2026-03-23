@@ -187,6 +187,13 @@
   dates: "August 6, 2026"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences
 
+- name: Testμ Conference 2026
+  location: Online
+  dates: "August 19-21, 2026"
+  url: https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026
+  twitter: lambdatesting
+  status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open</a> | <a href="https://forms.gle/enGiaSQiX7DrCqXJ6" target="_blank">CFP is Open until May 31, 2026</a>
+
 - name: TACON 2026
   location: Leipzig, Germany
   dates: "September 16-17, 2026"
