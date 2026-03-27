@@ -3,7 +3,7 @@ _site
 .DS_Store
 .bundle
 vendor
-
+.env
 
 # Script output
 tmp/pending_updates.yml
