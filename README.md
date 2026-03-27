@@ -61,6 +61,26 @@ A good _heuristic_ for whether a conference should be included is if its name in
 
 Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
 
+### Mailchimp Replicate Workflow
+
+Use the helper script to replicate an existing Mailchimp campaign format and inject fresh conference content from `_data/current.yml`.
+
+1. In your Mailchimp template/campaign HTML, add a placeholder where you want the event list:
+   - `{{TESTING_CONFERENCES_CONTENT}}`
+2. Create a `.env` file in the repo root:
+   - `MAILCHIMP_API_KEY=your_key-usX`
+   - `MAILCHIMP_SOURCE_CAMPAIGN_ID=your_campaign_id`
+3. Preview generated content without API calls:
+   - `ruby tools/mailchimp_replicate_newsletter.rb --dry-run --limit 5`
+4. Create the new replicated draft and inject content:
+   - `ruby tools/mailchimp_replicate_newsletter.rb --subject 'Testing Conferences: April 2026 Picks'`
+
+Useful options:
+- `--limit 12` (how many events to include)
+- `--days-ahead 60` (time window from today)
+- `--placeholder '{{TESTING_CONFERENCES_CONTENT}}'` (custom token)
+- `--title-prefix 'TestingConferences Newsletter'`
+
 ## Versioning and Deployments
 
 The site uses an automated versioning system to track each deployment:

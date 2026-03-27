@@ -3,6 +3,8 @@ _site
 .DS_Store
 .bundle
 vendor
+.env
+.env.local
 
 
 # Script output
