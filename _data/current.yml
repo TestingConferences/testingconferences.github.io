@@ -205,11 +205,29 @@
   url: https://targetingquality.ca/?utm_source=testingconferences
   status: <a href="https://kwsqa.org/tq2026/call-for-presentations/?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 14, 2026 and <a href="https://kwsqa.org/tq2026/registration/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until April 26, 2026
 
+- name: Tesena Fest 2026
+  location: Prague, Czech Republic
+  dates: "September 24-25, 2026"
+  url: https://www.tesena.com/en/tesena-fest-2026/a-189/
+  status: <a href="https://www.tesena.com/en/tesena-fest-2026/a-189/" target="_blank">Super Early Bird Pricing is Open</a> | <a href="https://forms.zohopublic.com/zohopeople1145/form/TesenaFest2024Callforpapers1/formperma/Um535ob8vZDSNT1hBETxain2UEJz7eljNWjEgxqF7Lw" target="_blank">CFP is Open</a> until March 31, 2026
+
 - name: MoTaCon 2026
   location: Brighton, UK
   dates: "October 1, 2026"
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/motacon?utm_source=testingconferences" target="_blank">Registration is Open and Free for Members</a>
+
+- name: SEETEST 2026
+  location: Ljubljana, Slovenia and Online
+  dates: "October 5-7, 2026"
+  url: https://www.seetest.org/?utm_source=testingconferences
+  status: CFP is Open until April 15, 2026
+
+- name: HUSTEF 2026
+  location: Budapest
+  dates: "October 6-8, 2026"
+  url: https://hustef.com/?utm_source=testingconferences
+  status: <a href="https://hustef.com/tickets_2026/" target="_blank">Super Early Bird is Open</a> until April 9, 2026
 
 - name: Testing Talks Melbourne 2026
   location: Melbourne, Australia
@@ -223,6 +241,12 @@
   twitter: PNSQC
   status: <a href="https://www.pnsqc.org/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
+- name: Quality Sense Conf 2026
+  location: Montevideo, Uruguay
+  dates: "October 13, 2026"
+  url: https://qualitysenseconf.com/?utm_source=testingconferences
+  status: Announced
+
 - name: OnlineTestConf 2026 
   location: Online
   dates: "October 14, 2026"
@@ -230,6 +254,12 @@
   twitter: OnlineTestConf
   status: Announced
   
+- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems 2026
+  location: Bilbao, Spain
+  dates: "October 14-16, 2026"
+  url: https://embedded.qatest.org/?lang=en&utm_source=testingconferences
+  status: <a href="https://embedded.qatest.org/call-for-papers/?lang=en" target="_blank">CFP is Open</a> until March 31, 2026 | <a href="https://embedded.qatest.org/tickets/?lang=en" target="_blank">Early Bird Pricing is Open</a> until July 31, 2026
+
 - name: DSTB Quality Beacon 2026
   location: Copenhagen, Denmark
   dates: "October 20-21, 2026"
@@ -255,6 +285,12 @@
   url: https://qachallengeaccepted.com?utm_source=testingconferences
   status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://docs.google.com/forms/d/1C27HKSyLugzz_SYqvgPZAFc652zeqrGTLL4ZXjTe21s/edit?ts=6919fca8" target="_blank">CFP is Open</a> until May 1, 2026
 
+- name: Testing Portugal Conference 2026
+  location: Lisbon, Portugal
+  dates: "October 27, 2026"
+  url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
+  status: Announced
+
 - name: AutomationSTAR Test Automation Conference 2026
   location: Antwerpen, Belgium
   dates: "November 4-5, 2026"
@@ -267,6 +303,12 @@
   dates: "November 4-5, 2026"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
   status: <a href="https://testingassembly.fistb.fi/cfs/" target="_blank">CFP is Open until May 10, 2026</a>
+
+- name: TestWarez 2026
+  location: Sopot, Poland
+  dates: "November 4-6, 2026"
+  url: https://testwarez.pl/?utm_source=testingconferences
+  status: <a href="https://cfp-konferencje.sjsi.org/testwarez26/questionnaire/cfp" target="_blank">CFP is Open</a> until May 3, 2026
   
 - name: Tokyo Test Fest
   location: Tokyo, Japan
