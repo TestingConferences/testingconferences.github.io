@@ -20,8 +20,8 @@
 - name: TestMass 2026
   location: Odijk, Netherlands
   dates: "April 7, 2026"
-  url: https://www.testmass.org/
-  status: <a href="https://www.testmass.org/event-details/testmass-2026" target="_blank">Registration is Open</a>
+  url: https://www.testmass.org/?utm_source=testingconferences
+  status: <a href="https://www.testmass.org/event-details/testmass-2026?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: TestGuild IRL San Francisco 2026
   location: San Francisco, CA, USA
@@ -153,7 +153,7 @@
 - name: TestNet 2026
   location: Nieuwegein, Netherlands
   dates: "June 5, 2026"
-  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025?utm_source=testingconferences
+  url: https://www.testnet.org/evenement/entry/25926/?evenement=voorjaarsevenement-2025&utm_source=testingconferences
   status: <a href="https://www.testnet.org/informatie/entry/29960/?shoutout=call-for-papers-voorjaarsevenement-6-mei-2026-geopend-stuur-ons-je-inzending-send-us-your-entry" target="_blank">CFP is Open until March 30, 2026</a>
 
 - name: QA or the Highway
