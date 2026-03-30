@@ -1,3 +1,15 @@
+- name: Test Automation Summit Portland 2026
+  location: Portland, OR, USA
+  dates: "March 26, 2026"
+  url: https://www.testingmind.com/event/test-automation-summit-portland/?utm_source=testingconferences
+  twitter: TestingMindCon
+
+- name: Swiss Testing Days 2026
+  location: Zurich, Switzerland
+  dates: "March 25-26, 2026"
+  url: https://swisstestingday.ch/?utm_source=testingconferences
+  status: Registration is Open
+
 - name: QonfX - SF Bay Area - Invite-only QA & Tech Leadership Conference
   location: Palo Alto, SF Bay Area
   dates: "March 20, 2026"
