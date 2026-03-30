@@ -43,9 +43,9 @@
   twitter: UCAAT
 
 - name: TestingUY 2026
-  location: Montevideo, Uruguay
+  location: Montevideo, Uruguay and Online
   dates: "April 15-16, 2026"
-  url: https://testinguy.org/?utm_source=testingconferences&lang=en
+  url: https://testinguy.org/2026-edition/?utm_source=testingconferences&lang=en
   
 - name: The Agentic Testing Summit 
   location: The W San Francisco, San Francisco, CA 
@@ -54,7 +54,7 @@
   status: <a href="https://www.mabl.com/events/agentic-testing-summit/san-francisco" target="_blank">Registration is Open</a>
 
 - name: QonfX Berlin - Invite-only QA & Tech Leadership Conference
-  location: Berlin
+  location: Berlin, Germany
   dates: "April 23, 2026"
   url: https://www.thetesttribe.com/qonfx/berlin/?utm_source=testingconferences
   twitter: The_Test_Tribe
@@ -234,7 +234,7 @@
   location: Budapest
   dates: "October 6-8, 2026"
   url: https://hustef.com/?utm_source=testingconferences
-  status: <a href="https://hustef.com/tickets_2026/" target="_blank">Super Early Bird is Open</a> until April 9, 2026
+  status: <a href="https://hustef.com/tickets_2026/" target="_blank">Super Early Bird Registration is Open</a> until April 9, 2026
 
 - name: Wrobocon 2026 - Robot Framework Conference
   location: Online
@@ -252,7 +252,7 @@
   dates: "October 12-14, 2026"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://www.pnsqc.org/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://www.pnsqc.org/cfp?utm_source=testingconferences" target="_blank">CFP is Open</a> until April 20, 2026
 
 - name: Quality Sense Conf 2026
   location: Montevideo, Uruguay
@@ -345,4 +345,4 @@
   location: Copenhagen, Denmark
   dates: "November 23-24, 2026"
   url: "https://www.testingunited.com/?utm_source=testingconferences"
-  status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Super Early Bird Tickets are now available</a>
+  status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a>
