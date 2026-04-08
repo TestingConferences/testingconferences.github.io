@@ -96,18 +96,24 @@
   location: Athens, Greece
   dates: "May 12, 2026"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
-
+  
 - name: QA Financial Forum New York 2026
   location: New York, NY, USA
   dates: "May 12, 2026"
   url: https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026?utm_source=testingconferences#/?affl=softwaretestingemail
   status: <a href="https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026#/buyTickets/selectTicket?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
+- name: Breakpoint 2026
+  location: Online
+  dates: "May 12-14, 2026"
+  url: https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences
+  status: <a href="https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences" target="_blank">Registration is Open</a>
+
 - name: International Software Quality Days
   location: Vienna, Austria
   dates: "May 19-21, 2026"
-  url: https://software-quality-days.com
-  status: <a href="https://software-quality-days.com/en/shop/tickets" target="_blank">-20% until April 10th</a>
+  url: https://software-quality-days.com?utm_source=testingconferences
+  status: <a href="https://software-quality-days.com/en/shop/tickets?utm_source=testingconferences" target="_blank">-20% until April 10th</a>
 
 - name: Test Coast 2026
   location: Gothenburg, Sweden
@@ -335,11 +341,12 @@
   url: https://tokyotestfest.com/en/?utm_source=testingconferences
   status: <a href="https://tokyotestfest.com/en/tickets_2026/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://tokyotestfest.com/en/cfp_2026/?utm_source=testingconferences" target="_blank">CFP is Open until April 10, 2026</a>
   
-- name: Agile Testing Days 2026
+- name: 
+Testing Days 2026
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
   url: https://agiletestingdays.com/?utm_source=testingconferences
-  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing United
   location: Copenhagen, Denmark
