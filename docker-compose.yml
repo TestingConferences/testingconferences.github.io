@@ -1,11 +1,12 @@
 services:
   testingconferences:
-    image: jekyll/jekyll:4.2.2
+    image: ruby:3.2
     container_name: tcorg
     ports:
-      - 4000:4000 # jekyll ui
-    command: sh -c "bundle install && jekyll serve"
+      - 4000:4000
+    command: sh -c "gem install bundler:2.4.17 && bundle install && jekyll serve --host 0.0.0.0"
     restart: unless-stopped
     platform: linux/amd64
     volumes:
       - ./:/srv/jekyll
+    working_dir: /srv/jekyll
