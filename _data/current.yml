@@ -1,9 +1,3 @@
-- name: ParisTestConf 2026
-  location: Paris, FR
-  dates: "March 31, 2026"
-  url: https://paristestconf.com/?utm_source=testingconferences
-  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-7eme-edition/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
 - name: TestMass 2026
   location: Odijk, Netherlands
   dates: "April 7, 2026"
@@ -114,6 +108,12 @@
   dates: "May 12-14, 2026"
   url: https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences
   status: <a href="https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences" target="_blank">Registration is Open</a>
+
+- name: International Software Quality Days
+  location: Vienna, Austria
+  dates: "May 19-21, 2026"
+  url: https://software-quality-days.com?utm_source=testingconferences
+  status: <a href="https://software-quality-days.com/en/shop/tickets?utm_source=testingconferences" target="_blank">-20% until April 10th</a>
 
 - name: Test Coast 2026
   location: Gothenburg, Sweden
@@ -345,7 +345,7 @@
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
   url: https://agiletestingdays.com/?utm_source=testingconferences
-  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing United
   location: Copenhagen, Denmark
