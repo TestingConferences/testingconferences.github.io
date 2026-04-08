@@ -103,6 +103,12 @@
   url: https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026?utm_source=testingconferences#/?affl=softwaretestingemail
   status: <a href="https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026#/buyTickets/selectTicket?affl=softwaretestingemail&lang=en" target="_blank">Registration is Open</a>
 
+- name: International Software Quality Days
+  location: Vienna, Austria
+  dates: "May 19-21, 2026"
+  url: https://software-quality-days.com
+  status: <a href="https://software-quality-days.com/en/shop/tickets" target="_blank">-20% until April 10th</a>
+
 - name: Test Coast 2026
   location: Gothenburg, Sweden
   dates: "May 21, 2026"
@@ -333,7 +339,7 @@
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
   url: https://agiletestingdays.com/?utm_source=testingconferences
-  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://agiletestingdays.com/call-for-papers/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing United
   location: Copenhagen, Denmark
