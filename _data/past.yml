@@ -1,3 +1,26 @@
+- name: QonfX Bangalore - Invite-only QA & Tech Leadership Conference
+  location: Bangalore, India
+  dates: "April 10, 2026"
+  url: https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+
+- name: TestGuild IRL Los Angeles 2026
+  location: Fullerton, CA, USA
+  dates: "April 9, 2026"
+  url: https://testguild.com/irl/los-angeles-2026?utm_source=testingconferences
+  twitter: testguilds
+
+- name: TestGuild IRL San Francisco 2026
+  location: San Francisco, CA, USA
+  dates: "April 8, 2026"
+  url: https://testguild.com/irl/san-francisco-2026?utm_source=testingconferences
+  twitter: testguilds
+
+- name: TestMass 2026
+  location: Odijk, Netherlands
+  dates: "April 7, 2026"
+  url: https://www.testmass.org/?utm_source=testingconferences
+
 - name: ParisTestConf 2026
   location: Paris, FR
   dates: "March 31, 2026"
