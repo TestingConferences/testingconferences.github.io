@@ -61,6 +61,8 @@ A good _heuristic_ for whether a conference should be included is if its name in
 
 Don't forget to **[sign up](http://eepurl.com/c4paYT)** for our once **monthly newsletter.**
 
+For Mailchimp API setup and the replicate workflow, follow `MAILCHIMP_NEWSLETTER_SETUP.md`.
+
 ## Versioning and Deployments
 
 The site uses an automated versioning system to track each deployment:
