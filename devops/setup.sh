@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Starting docker container in background"
-docker-compose up -d
+docker compose up -d
 
 sleep 60
 
