@@ -111,6 +111,13 @@
   url: https://live2test.com/?utm_source=testingconferences
   status: <a href="https://live2test.com/#tickets" target="_blank">Early Bird Tickets Available</a>
 
+- name: QonfX New York - Invite-only QA & Tech Leadership Conference
+  location: New York, NY, USA
+  dates: "June 3, 2026"
+  url: https://www.thetesttribe.com/qonfx/new-york/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/new-york/?utm_source=testingconferences" target="_blank">Invitations are Open</a>
+
 - name: Nordic Testing Days
   location: Tallinn, Estonia
   dates: "June 3-5, 2026"
@@ -152,6 +159,7 @@
   location: Bengaluru
   dates: "July 10-11, 2026"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
+  twitter: The_Test_Tribe
   status: Registration is Open
 
 - name: "ICSTP 2026: International Conference on Software Testing Process"
