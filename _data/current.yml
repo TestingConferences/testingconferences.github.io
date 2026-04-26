@@ -105,6 +105,12 @@
   twitter: expoqa
   status: <a href="https://expoqa.eu/ticket-shop/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
+- name: Live2Test 2026
+  location: Online
+  dates: "June 2-3, 2026"
+  url: https://live2test.com/?utm_source=testingconferences
+  status: <a href="https://live2test.com/#tickets" target="_blank">Early Bird Tickets Available</a>
+
 - name: Nordic Testing Days
   location: Tallinn, Estonia
   dates: "June 3-5, 2026"
