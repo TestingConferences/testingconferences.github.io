@@ -4,6 +4,7 @@ _site
 .bundle
 vendor
 .env
+.env.local
 
 # Script output
 tmp/pending_updates.yml
