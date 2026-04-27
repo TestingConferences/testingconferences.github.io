@@ -138,6 +138,13 @@
   dates: "August 6, 2026"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences
 
+- name: Hands-On Testing 2026
+  location: Guadalajara, Mexico and Online
+  dates: "August 12-15, 2026"
+  url: https://handsontesting.com/?utm_source=testingconferences
+  twitter: handsontesting
+  status: <a href="https://handsontesting.com/registration?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+
 - name: Testμ Conference 2026
   location: Online
   dates: "August 19-21, 2026"
