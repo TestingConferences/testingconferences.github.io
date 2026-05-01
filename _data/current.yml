@@ -35,6 +35,11 @@
   url: https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences
   status: <a href="https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences" target="_blank">Registration is Open and Free</a>
 
+- name: The Best in Test (SopraSteria)
+  location: Nieuwegein, Netherlands
+  dates: "May 13, 2026"
+  url: https://careers.soprasteria.nl/the-best-in-test?utm_source=testingconferences
+
 - name: International Software Quality Days
   location: Vienna, Austria
   dates: "May 19-21, 2026"
@@ -57,6 +62,11 @@
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
   status: <a href="https://expoqa.eu/ticket-shop/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+
+- name: Ministry of Testing NL Chapter
+  location: Veenendaal, Netherlands
+  dates: "May 28, 2026"
+  url: https://www.ministryoftesting.com/chapters/mot-netherlands/events/mot-netherlands-280526?utm_source=testingconferences
 
 - name: Live2Test 2026
   location: Online
@@ -145,6 +155,17 @@
   twitter: lambdatesting
   status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open</a> | <a href="https://forms.gle/enGiaSQiX7DrCqXJ6" target="_blank">CFP is Open until May 31, 2026</a>
 
+- name: Testnet Najaarsevenement 2026
+  location: Nieuwegein, Netherlands
+  dates: "August/September 2026"
+  url: https://www.testnet.org/?utm_source=testingconferences
+  status: Announced
+
+- name: SpaceRockIT Festival 2026
+  location: Arnhem/Nijmegen, Netherlands
+  dates: "September 4, 2026"
+  url: https://www.spacerockitfestival.nl/?utm_source=testingconferences
+
 - name: Tester's Day 2026
   location: Tbilisi, Georgia
   dates: "September 8-9, 2026"
@@ -182,6 +203,11 @@
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: <a href="https://www.ministryoftesting.com/motacon?utm_source=testingconferences" target="_blank">Registration is Open and Free for Members</a>
 
+- name: The Living Documentation Event (LDE)
+  location: TBA, Netherlands
+  dates: "October 1, 2026"
+  url: https://www.living-documentation-event.com/?utm_source=testingconferences
+
 - name: SEETEST 2026
   location: Ljubljana, Slovenia and Online
   dates: "October 5-7, 2026"
@@ -204,6 +230,11 @@
   location: Melbourne, Australia
   dates: "October 8, 2026"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingconferences
+
+- name: AI & Automation Day 2026
+  location: TBA, Netherlands
+  dates: "October 11, 2026"
+  url: https://heliview.com/ai-automation-day/?utm_source=testingconferences
 
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2026
   location: Portland, Oregon, USA and Online
@@ -250,6 +281,12 @@
   twitter: cypress_io
   status: <a href="https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce8-858b-8a4db3a62eb1?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
 
+- name: Noordertest 2026
+  location: Groningen, Netherlands
+  dates: "October 22, 2026"
+  url: https://www.noordertest.nl/?utm_source=testingconferences
+  status: <a href="https://www.noordertest.nl/#/cfp" target="_blank">CFP is Open until June 14, 2026</a>
+
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
   dates: "October 24, 2026"
@@ -261,6 +298,12 @@
   dates: "October 27, 2026"
   url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
   status: Announced
+
+- name: Nederlandse Testdag 2026 (Dutch Testing Day 2026)
+  location: Amersfoort, Netherlands
+  dates: "October 30, 2026"
+  url: https://testdag.nl/?utm_source=testingconferences
+  status: <a href="https://testdag.testar.org/call-for-presentations-nederlandse-testdag-2026/" target="_blank">CFP is Open until June 30, 2026</a>
 
 - name: AutomationSTAR Test Automation Conference 2026
   location: Antwerpen, Belgium
@@ -304,3 +347,8 @@
   dates: "November 23-24, 2026"
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
+
+- name: QX Day (Sogeti) 2026
+  location: Utrecht, Netherlands
+  dates: "TBA 2026"
+  url: https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences
