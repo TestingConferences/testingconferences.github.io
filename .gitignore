@@ -4,6 +4,7 @@ _site
 .bundle
 vendor
 .env
+.vscode
 
 # Script output
 tmp/pending_updates.yml
