@@ -1,3 +1,20 @@
+- name: SeleniumConf & AppiumConf 2026
+  location: Valencia, ES
+  dates: "May 6-8, 2026"
+  url: https://seleniumconf.com/?utm_source=testingconferences
+  twitter: seleniumconf
+
+- name: Romania QualityConnect 2026
+  location: Cluj-Napoca, Romania
+  dates: "May 6-7, 2026"
+  url: https://qualityconnect.ro?utm_source=testingconferences
+
+- name: STAREAST 2026
+  location: Orlando, FL, USA and Online
+  dates: "April 26 - May 1, 2026"
+  url: https://stareast.techwell.com?utm_source=testingconferences
+  twitter: TechWell
+
 - name: Heisenbug 2026 Spring
   location: Moscow, Russia and Online
   dates: "April 27-28, 2026"
