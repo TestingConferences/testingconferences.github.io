@@ -39,7 +39,7 @@ bundle install
 bundle exec jekyll build --verbose
 
 # Test (validates HTML and links)
-bundle exec htmlproofer ./_site --check-html --disable-external
+bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\\/\\//'
 ```
 
 ## Data Schema Guidelines
@@ -92,7 +92,7 @@ When adding or updating conferences in `_data/current.yml` or `_data/past.yml`:
 
 ## Testing Standards
 
-- Always run `bundle exec htmlproofer` after making changes to validate HTML
+- Always run `bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\\/\\//'` after making changes to validate HTML
 - Check that Jekyll builds successfully with `bundle exec jekyll build`
 - Test locally with Docker before submitting PRs
 - All external links should be valid and not broken
@@ -149,7 +149,7 @@ Per the Gemfile and CircleCI config:
 - **Bundler**: 2.4.17
 - **Jekyll**: >= 3.10.0
 - **GitHub Pages**: >= 232
-- **html-proofer**: ~> 3.19.4
+- **html-proofer**: ~> 5.2
 - **Docker**: Required for local development
 
 ## Security and Best Practices
