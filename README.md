@@ -75,6 +75,15 @@ This versioning system enables:
 - Associating bug reports with specific deployments
 - Measuring quality metrics across versions (see [ROADMAP.md](ROADMAP.md))
 
+## Calendar (.ics) Export
+
+Generate a downloadable calendar file from `_data/current.yml`:
+
+```shell
+ruby tools/generate_calendar_ics.rb
+```
+
+This writes `calendar.ics` at the repository root.
 
 ## License
 

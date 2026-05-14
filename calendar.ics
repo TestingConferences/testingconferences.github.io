@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//TestingConferences.org//Conference Calendar//EN
+X-WR-CALNAME:Testing Conferences
+X-WR-CALDESC:Software testing conferences from testingconferences.org
+BEGIN:VEVENT
+UID:b58906c48b90c6ed92c8d7f070737b43cd4706d9@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Test Automation Summit Portland 2026
+LOCATION:Portland\, OR\, USA
+URL:https://www.testingmind.com/event/test-automation-summit-portland/?utm_
+ source=testingconferences
+DESCRIPTION:Dates: March 26\, 2026\nStatus: Registration is Open\nURL: http
+ s://www.testingmind.com/event/test-automation-summit-portland/?utm_source=t
+ estingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:807f03738e16cb4ec624aa5badbb334283f57eab@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Swiss Testing Days 2026
+LOCATION:Zurich\, Switzerland
+URL:https://swisstestingday.ch/?utm_source=testingconferences
+DESCRIPTION:Dates: April 3\, 2026\nStatus: Registration is Open\nURL: https
+ ://swisstestingday.ch/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:4332b66a33105fa1ac9b7488a715e22fa23478ed@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:ParisTestConf 2026
+LOCATION:Paris\, FR
+URL:https://paristestconf.com/?utm_source=testingconferences
+DESCRIPTION:Dates: March 31\, 2026\nStatus: Registration is Open\nURL: http
+ s://paristestconf.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:bf64ecd785f4895d48ee395ed05f6353f62664b3@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:TestGuild IRL San Francisco 2026
+LOCATION:San Francisco\, CA\, USA
+URL:https://testguild.com/irl/san-francisco-2026?utm_source=testingconferen
+ ces
+DESCRIPTION:Dates: April 8\, 2026\nStatus: Registration is Open & Free (Lim
+ ited to 100 seats)\nURL: https://testguild.com/irl/san-francisco-2026?utm_s
+ ource=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:76bcc7cce57e58eaf322a19efa7a2e103b5a8611@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:TestGuild IRL Los Angeles 2026
+LOCATION:Fullerton\, CA\, USA
+URL:https://testguild.com/irl/los-angeles-2026?utm_source=testingconference
+ s
+DESCRIPTION:Dates: April 9\, 2026\nStatus: Registration is Open & Free (Lim
+ ited to 100 seats)\nURL: https://testguild.com/irl/los-angeles-2026?utm_sou
+ rce=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:ea88b1f6301c4eebe1c8f5160df6be1cf8841a2c@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:QonfX Bangalore - Invite-only QA & Tech Leadership Conference
+LOCATION:Bangalore\, India
+URL:https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconfere
+ nces
+DESCRIPTION:Dates: April 10\, 2026\nStatus: Registration is Open\nURL: http
+ s://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:1040683cbda09064ee64f01d1ff5ae884988abd2@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260419
+SUMMARY:The 7th ACM/IEEE International Conference on Automation of Software
+  Test (AST 2026)
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://conf.researchr.org/home/ast-2026#About?utm_source=testingconfer
+ ences
+DESCRIPTION:Dates: April 12-18\, 2026\nURL: https://conf.researchr.org/home
+ /ast-2026#About?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:88d3c00733be41940c879f8bc2f8b985f2078445@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+SUMMARY:UCAAT 2026 - 12th UCAAT User Conference on Advanced Automated Testi
+ ng
+LOCATION:Sophia Antipolis\, FR
+URL:https://www.etsi.org/events/2540-2026-04-12th-ucaat-user-conference-on-
+ advanced-automated-testing?utm_source=testingconferences
+DESCRIPTION:Dates: April 14-16\, 2026\nURL: https://www.etsi.org/events/254
+ 0-2026-04-12th-ucaat-user-conference-on-advanced-automated-testing?utm_sour
+ ce=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe7746ce0b8a973fed0d04e536e865630bfea69@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260417
+SUMMARY:TestingUY 2026
+LOCATION:Montevideo\, Uruguay
+URL:https://testinguy.org/?utm_source=testingconferences&lang=en
+DESCRIPTION:Dates: April 15-16\, 2026\nURL: https://testinguy.org/?utm_sour
+ ce=testingconferences&lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:17ba6b3b958dc26e91c3757367234ac9a87aa524@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:The Agentic Testing Summit
+LOCATION:The W San Francisco\, San Francisco\, CA
+URL:https://www.mabl.com/events/agentic-testing-summit/san-francisco
+DESCRIPTION:Dates: April 22\, 2026\nStatus: Registration is Open\nURL: http
+ s://www.mabl.com/events/agentic-testing-summit/san-francisco
+END:VEVENT
+BEGIN:VEVENT
+UID:c147af02e7648e823df7d56e5564846ad3310f79@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:QonfX Berlin - Invite-only QA & Tech Leadership Conference
+LOCATION:Berlin
+URL:https://www.thetesttribe.com/qonfx/berlin/?utm_source=testingconference
+ s
+DESCRIPTION:Dates: April 23\, 2026\nStatus: Invitations are Open\nURL: http
+ s://www.thetesttribe.com/qonfx/berlin/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa65cb854af24fc34f302ba9a0ce9838cc45115@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:QA Financial Forum Toronto 2026
+LOCATION:Toronto\, ON\, Canada
+URL:https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2026#/?affl
+ =softwaretestingemail
+DESCRIPTION:Dates: April 23\, 2026\nStatus: Registration is Open\nURL: http
+ s://qafinancial.zohobackstage.eu/QAFinancialForumToronto2026#/?affl=softwar
+ etestingemail
+END:VEVENT
+BEGIN:VEVENT
+UID:842f9d22c99632b5fd1909eb7c827f53afb327ba@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:TAPOST Next
+LOCATION:Riga\, Latvia
+URL:https://www.tapost.org/?utm_source=testingconferences
+DESCRIPTION:Dates: April 23\, 2026\nStatus: Registration is Open\nURL: http
+ s://www.tapost.org/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:c0ff2121d2afa9fd4376d70df21882212ec35592@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260502
+SUMMARY:STAREAST 2026
+LOCATION:Orlando\, FL\, USA and Online
+URL:https://stareast.techwell.com?utm_source=testingconferences
+DESCRIPTION:Dates: April 26 - May 1\, 2026\nStatus: Early Bird Pricing is O
+ pen until March 27\, 2026\nURL: https://stareast.techwell.com?utm_source=te
+ stingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:496b018bff726bc862e9f04880891bf0564cdcc1@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260429
+SUMMARY:Heisenbug 2026 Spring
+LOCATION:Moscow\, Russia and Online
+URL:https://heisenbug.ru/en/?utm_source=testingconferences
+DESCRIPTION:Dates: April 27-28\, 2026\nStatus: Registration is Open\nURL: h
+ ttps://heisenbug.ru/en/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:504021f1f9146c9004ff34f4a130bda9d93a5570@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:Romania QualityConnect 2026
+LOCATION:Cluj-Napoca\, Romania
+URL:https://qualityconnect.ro?utm_source=testingconferences
+DESCRIPTION:Dates: May 6-7\, 2026\nStatus: Registration is Open\nURL: https
+ ://qualityconnect.ro?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:d55f366fd6c86247e91893b674e428eae9dd8395@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260509
+SUMMARY:SeleniumConf & AppiumConf 2026
+LOCATION:Valencia\, ES
+URL:https://seleniumconf.com/?utm_source=testingconferences
+DESCRIPTION:Dates: May 6-8\, 2026\nStatus: Registration is Open\nURL: https
+ ://seleniumconf.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:d38447a9abb0ab0fe8d35da81001f98976132600@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:WeTest.Athens 2026
+LOCATION:Athens\, Greece
+URL:https://www.wetest-athens.gr/?utm_source=testingconferences
+DESCRIPTION:Dates: May 12\, 2026\nURL: https://www.wetest-athens.gr/?utm_so
+ urce=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:f7201258c5253dc2ce0d9398d1960e74e4352f59@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:QA Financial Forum New York 2026
+LOCATION:New York\, NY\, USA
+URL:https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2
+ 026#/?affl=softwaretestingemail
+DESCRIPTION:Dates: May 12\, 2026\nStatus: Registration is Open\nURL: https:
+ //qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026#/?affl
+ =softwaretestingemail
+END:VEVENT
+BEGIN:VEVENT
+UID:61b3fcaed03a551e02411ff7aac1bbae514764f9@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Test Coast 2026
+LOCATION:Gothenburg\, Sweden
+URL:https://www.testcoast.se/?utm_source=testingconferences
+DESCRIPTION:Dates: May 21\, 2026\nURL: https://www.testcoast.se/?utm_source
+ =testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:a933b173c0e037862cdf63b41493cb2ec16228af@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260523
+SUMMARY:Istanbul Software Testing Conference
+LOCATION:Istanbul\, Turkey
+URL:https://iststc.com/?utm_source=testingconferences
+DESCRIPTION:Dates: May 21-22\, 2026\nURL: https://iststc.com/?utm_source=te
+ stingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7f899836a4ef58e209daec69741cb83028838e@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260529
+SUMMARY:expo:QA 26
+LOCATION:Madrid\, Spain
+URL:https://expoqa.eu/?utm_source=testingconferences
+DESCRIPTION:Dates: May 26-28\, 2026\nStatus: Early Bird Registration is Ope
+ n\nURL: https://expoqa.eu/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf3fbbcd1a383647c0d38c53240adeb2034179d@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260606
+SUMMARY:Nordic Testing Days
+LOCATION:Tallinn\, Estonia
+URL:https://nordictestingdays.eu/?utm_source=testingconferences
+DESCRIPTION:Dates: June 3-5\, 2026\nURL: https://nordictestingdays.eu/?utm_
+ source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:31f12ff2a6c8182e8cc82e11efe7fec7c36620cd@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260606
+SUMMARY:Innovate QA 2026
+LOCATION:Bellevue\, WA
+URL:https://innovateqaevents.com/?utm_source=testingconferences
+DESCRIPTION:Dates: June 4-5\, 2026\nStatus: Registration is Open\nURL: http
+ s://innovateqaevents.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:6c75a08d65b1e8f64c12dcd3e1376696927e242b@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:QA or the Highway
+LOCATION:Columbus\, Ohio\, USA
+URL:https://www.qaorthehwy.com/?utm_source=testingconferences
+DESCRIPTION:Dates: June 12\, 2026\nStatus: Early Bird Registration is Open 
+ until May 15\, 2026\nURL: https://www.qaorthehwy.com/?utm_source=testingcon
+ ferences
+END:VEVENT
+BEGIN:VEVENT
+UID:086f0f2692fab3d16ff23a87a36a38c73ca0c698@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260619
+SUMMARY:EuroSTAR 2026 Software Testing Conference
+LOCATION:Oslo\, Norway
+URL:https://conference.eurostarsoftwaretesting.com/?utm_source=testingconfe
+ rences
+DESCRIPTION:Dates: June 15-18\, 2026\nStatus: Early Bird Pricing is Open\nU
+ RL: https://conference.eurostarsoftwaretesting.com/?utm_source=testingconfe
+ rences
+END:VEVENT
+BEGIN:VEVENT
+UID:5527eed05a0a6fabb1922dbe22123ca11b76d20b@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Human-Centred Testing: People and Practices & the Future of the Pro
+ fession
+LOCATION:London\, UK
+URL:https://www.bcs.org/membership-and-registrations/member-communities/sof
+ tware-testing-specialist-group/conferences/call-for-speakers/?utm_source=te
+ stingconferences
+DESCRIPTION:Dates: July 7\, 2026\nStatus: CFP is Open until March 31\, 2026
+ \nURL: https://www.bcs.org/membership-and-registrations/member-communities/
+ software-testing-specialist-group/conferences/call-for-speakers/?utm_source
+ =testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:cb872d79e145c194b8551b986301083ccebcf270@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260805
+SUMMARY:ICSTP 2026: International Conference on Software Testing Process
+LOCATION:Amsterdam\, Netherlands or Online
+URL:https://waset.org/software-testing-process-conference-in-august-2026-in
+ -amsterdam?utm_source=testingconferences
+DESCRIPTION:Dates: August 3-4\, 2026\nURL: https://waset.org/software-testi
+ ng-process-conference-in-august-2026-in-amsterdam?utm_source=testingconfere
+ nces
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0859beb1114d6f9329702b30f339c3ac1a9901@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260806
+SUMMARY:CAST 2026
+LOCATION:Cocoa Beach\, FL\, USA
+URL:https://associationforsoftwaretesting.org/conference/?utm_source=testin
+ gconferences
+DESCRIPTION:Dates: August 3-5\, 2026\nStatus: Announced\nURL: https://assoc
+ iationforsoftwaretesting.org/conference/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:2b780c7f59215a10531a0d49857088e4936cb651@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:Testing Talks Sydney 2026
+LOCATION:Sydney\, Australia
+URL:https://www.testingtalks.com.au/upcoming-events/testing-talks-conferenc
+ e-2026-sydney?utm_source=testingconferences
+DESCRIPTION:Dates: August 6\, 2026\nURL: https://www.testingtalks.com.au/up
+ coming-events/testing-talks-conference-2026-sydney?utm_source=testingconfer
+ ences
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae178fc7da2594a99636416f75484a5b132e8f4@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260822
+SUMMARY:Testμ Conference 2026
+LOCATION:Online
+URL:https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=orga
+ nic&utm_content=testmu_2026
+DESCRIPTION:Dates: August 19-21\, 2026\nStatus: Registration is Open | CFP 
+ is Open until May 31\, 2026\nURL: https://www.testmuai.com/testmuconf-2026?
+ utm_source=STC&utm_medium=organic&utm_content=testmu_2026
+END:VEVENT
+BEGIN:VEVENT
+UID:e649a20a21d84cd284d2ceb5ac183f89fabc580f@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260918
+SUMMARY:TACON 2026
+LOCATION:Leipzig\, Germany
+URL:https://tacon-konferenz.de?utm_source=testingconferences
+DESCRIPTION:Dates: September 16-17\, 2026\nURL: https://tacon-konferenz.de?
+ utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:79e1d465873ae9e20e3b1775c3fcadf08f9b5b56@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260926
+SUMMARY:STARWEST 2026
+LOCATION:Anaheim\, CA\, USA and Online
+URL:https://starwest.techwell.com/?utm_source=testingconferences
+DESCRIPTION:Dates: September 20-25\, 2026\nStatus: Super Early Bird Pricing
+  is Open until July 24\, 2026\nURL: https://starwest.techwell.com/?utm_sour
+ ce=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5890729080424c2c8d060847ce1551e3d250b3@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260923
+SUMMARY:Targeting Quality 2026
+LOCATION:Cambridge\, Ontario\, Canada
+URL:https://targetingquality.ca/?utm_source=testingconferences
+DESCRIPTION:Dates: September 21-22\, 2026\nStatus: CFP is Open until April 
+ 14\, 2026 and Super Early Bird Registration is Open until April 26\, 2026\n
+ URL: https://targetingquality.ca/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:6ec34707b48bbdee93aae33651fdda25a270b180@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260926
+SUMMARY:Tesena Fest 2026
+LOCATION:Prague\, Czech Republic
+URL:https://www.tesena.com/en/tesena-fest-2026/a-189/
+DESCRIPTION:Dates: September 24-25\, 2026\nStatus: Super Early Bird Pricing
+  is Open | CFP is Open until March 31\, 2026\nURL: https://www.tesena.com/e
+ n/tesena-fest-2026/a-189/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb48f0e52b627ae20e911a1dca702d3697d2bf46@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MoTaCon 2026
+LOCATION:Brighton\, UK
+URL:https://www.ministryoftesting.com/motacon?utm_source=testingconferences
+DESCRIPTION:Dates: October 1\, 2026\nStatus: Registration is Open and Free 
+ for Members\nURL: https://www.ministryoftesting.com/motacon?utm_source=test
+ ingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:9358be4b6a245e984cff0308ce4b364cb087526a@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+SUMMARY:SEETEST 2026
+LOCATION:Ljubljana\, Slovenia and Online
+URL:https://www.seetest.org/?utm_source=testingconferences
+DESCRIPTION:Dates: October 5-7\, 2026\nStatus: CFP is Open until April 15\,
+  2026\nURL: https://www.seetest.org/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:57743d186d8439da7d54ae55e94a6e2de638daa1@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:HUSTEF 2026
+LOCATION:Budapest
+URL:https://hustef.com/?utm_source=testingconferences
+DESCRIPTION:Dates: October 6-8\, 2026\nStatus: Super Early Bird is Open unt
+ il April 9\, 2026\nURL: https://hustef.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:35a0780ea716ad6e362a85fb2f9f08cf75ac4eaf@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Testing Talks Melbourne 2026
+LOCATION:Melbourne\, Australia
+URL:https://www.testingtalks.com.au/upcoming-events/testing-talks-conferenc
+ e-2026-melbourne?utm_source=testingconferences
+DESCRIPTION:Dates: October 8\, 2026\nURL: https://www.testingtalks.com.au/u
+ pcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingco
+ nferences
+END:VEVENT
+BEGIN:VEVENT
+UID:3afd9d1870077f6603f33b9426152329a03b835a@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+SUMMARY:Pacific Northwest Software Quality Conference (PNSQC) 2026
+LOCATION:Portland\, Oregon\, USA and Online
+URL:https://www.pnsqc.org/?utm_source=testingconferences
+DESCRIPTION:Dates: October 12-14\, 2026\nStatus: CFP is Open\nURL: https://
+ www.pnsqc.org/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:02f88134065d3bbe31aa829850a3054cf53e86a3@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Quality Sense Conf 2026
+LOCATION:Montevideo\, Uruguay
+URL:https://qualitysenseconf.com/?utm_source=testingconferences
+DESCRIPTION:Dates: October 13\, 2026\nStatus: Announced\nURL: https://quali
+ tysenseconf.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:3fcee6759cfc47c86ca823256f9dd92e608ea488@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:OnlineTestConf 2026
+LOCATION:Online
+URL:https://www.onlinetestconf.com/?utm_source=testingconferences
+DESCRIPTION:Dates: October 14\, 2026\nStatus: Announced\nURL: https://www.o
+ nlinetestconf.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:de2bf3e5a7f959bd34e1bf0957381f706d156c6f@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:QA&TEST International Conference on Software QA & Testing on Embedd
+ ed Systems 2026
+LOCATION:Bilbao\, Spain
+URL:https://embedded.qatest.org/?lang=en&utm_source=testingconferences
+DESCRIPTION:Dates: October 14-16\, 2026\nStatus: CFP is Open until March 31
+ \, 2026 | Early Bird Pricing is Open until July 31\, 2026\nURL: https://emb
+ edded.qatest.org/?lang=en&utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3da48f060cf25ca5ac50efe7a025d5d95835a7@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+SUMMARY:DSTB Quality Beacon 2026
+LOCATION:Copenhagen\, Denmark
+URL:https://www.dstb.dk/konferencer/2026?utm_source=testingconferences
+DESCRIPTION:Dates: October 20-21\, 2026\nStatus: Very Early Registration is
+  Open until April 30\, 2026\nURL: https://www.dstb.dk/konferencer/2026?utm_
+ source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:609a2d6a62d1fee59dceeb48ac45546b72e43d3a@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:TestCon Europe 2026
+LOCATION:Vilnius\, Lithuania
+URL:https://testcon.lt/?utm_source=testingconferences
+DESCRIPTION:Dates: October 20-23\, 2026\nStatus: CFP is Open\nURL: https://
+ testcon.lt/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:f8dad8b61fffec7ee2ffc458fd8eafe89f705fd7@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+SUMMARY:CypressConf 2026
+LOCATION:Online
+URL:https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce8-858b
+ -8a4db3a62eb1?utm_source=website_events&utm_medium=event_page&utm_campaign=
+ cypressconf2026&utm_term=01-22-2026&utm_content=cypressconf?utm_source=test
+ ingconferences
+DESCRIPTION:Dates: October 20-22\, 2026\nStatus: Registration is Open and F
+ ree\nURL: https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce
+ 8-858b-8a4db3a62eb1?utm_source=website_events&utm_medium=event_page&utm_cam
+ paign=cypressconf2026&utm_term=01-22-2026&utm_content=cypressconf?utm_sourc
+ e=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d8d162434b644f34684e7ea15d150eba5812fa@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:QA:Challenge Accepted 2026
+LOCATION:Sofia\, Bulgaria
+URL:https://qachallengeaccepted.com?utm_source=testingconferences
+DESCRIPTION:Dates: October 24\, 2026\nStatus: Super Early Bird Registration
+  is Open | CFP is Open until May 1\, 2026\nURL: https://qachallengeaccepted
+ .com?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc5a9e4900a751ee8ce9b74d21c9a11d6171db6@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Testing Portugal Conference 2026
+LOCATION:Lisbon\, Portugal
+URL:https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
+DESCRIPTION:Dates: October 27\, 2026\nStatus: Announced\nURL: https://testi
+ ngportugal.pstqb.pt/en/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:f3aad2aac5dcb40d2e0fa0c3bc02e5fadea12877@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:AutomationSTAR Test Automation Conference 2026
+LOCATION:Antwerpen\, Belgium
+URL:https://automation.eurostarsoftwaretesting.com/?utm_source=testingconfe
+ rences
+DESCRIPTION:Dates: November 4-5\, 2026\nStatus: Super Early Bird Registrati
+ on is Open\nURL: https://automation.eurostarsoftwaretesting.com/?utm_source
+ =testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:bd761d740d652933b5fe677761a79a2d45adfb9a@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:Testing Assembly
+LOCATION:Helsinki\, Finland
+URL:https://testingassembly.fistb.fi/?utm_source=testingconferences
+DESCRIPTION:Dates: November 4-5\, 2026\nStatus: CFP is Open until May 10\, 
+ 2026\nURL: https://testingassembly.fistb.fi/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:326cc99cabe49f8c51a11cb0bfe7cb6753409f4d@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261107
+SUMMARY:TestWarez 2026
+LOCATION:Sopot\, Poland
+URL:https://testwarez.pl/?utm_source=testingconferences
+DESCRIPTION:Dates: November 4-6\, 2026\nStatus: CFP is Open until May 3\, 2
+ 026\nURL: https://testwarez.pl/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec3a177a96a0288e417f336002fcad9f58d43ac@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+SUMMARY:Tokyo Test Fest
+LOCATION:Tokyo\, Japan
+URL:https://tokyotestfest.com/en/?utm_source=testingconferences
+DESCRIPTION:Dates: November 12-13\, 2026\nStatus: Registration is Open | CF
+ P is Open until April 10\, 2026\nURL: https://tokyotestfest.com/en/?utm_sou
+ rce=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:6044ab8b1e5366013327227438394b8aeb569847@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:Agile Testing Days 2026
+LOCATION:Potsdam\, Germany and Online
+URL:https://agiletestingdays.com/?utm_source=testingconferences
+DESCRIPTION:Dates: November 16-19\, 2026\nStatus: CFP is Open\nURL: https:/
+ /agiletestingdays.com/?utm_source=testingconferences
+END:VEVENT
+BEGIN:VEVENT
+UID:a339d58dcfb29768347284fbc7e70a74ed7a2ccb@testingconferences.org
+DTSTAMP:20260329T032104Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+SUMMARY:Testing United
+LOCATION:Copenhagen\, Denmark
+URL:https://www.testingunited.com/?utm_source=testingconferences
+DESCRIPTION:Dates: November 23-24\, 2026\nStatus: Super Early Bird Tickets 
+ are now available\nURL: https://www.testingunited.com/?utm_source=testingco
+ nferences
+END:VEVENT
+END:VCALENDAR
