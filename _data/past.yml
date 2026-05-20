@@ -1,3 +1,18 @@
+- name: Breakpoint 2026
+  location: Online
+  dates: "May 12-14, 2026"
+  url: https://www.browserstack.com/events/breakpoint-2026?utm_source=onlineforum&utm_medium=externalweb&utm_platform=&utm_content=digitalevent&utm_campaign=Summit%20Breakpoint-12-May-2026-Testing-Reimagined-by-Intelligent-AI&utm_campaigncode=701OW00000fkoF8YAI&utm_term=testingconferences
+
+- name: WeTest.Athens 2026
+  location: Athens, Greece
+  dates: "May 12, 2026"
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+  
+- name: QA Financial Forum New York 2026
+  location: New York, NY, USA
+  dates: "May 12, 2026"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialE-commerceForumNewYork2026?utm_source=testingconferences#/?affl=softwaretestingemail
+
 - name: SeleniumConf & AppiumConf 2026
   location: Valencia, ES
   dates: "May 6-8, 2026"
