@@ -1,19 +1,3 @@
-- name: International Software Quality Days
-  location: Vienna, Austria
-  dates: "May 19-21, 2026"
-  url: https://software-quality-days.com?utm_source=testingconferences
-  status: <a href="https://software-quality-days.com/en/shop/tickets?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: Test Coast 2026
-  location: Gothenburg, Sweden
-  dates: "May 21, 2026"
-  url: https://www.testcoast.se/?utm_source=testingconferences
-
-- name: Istanbul Software Testing Conference
-  location: Istanbul, Turkey
-  dates: "May 21-22, 2026"
-  url: https://iststc.com/?utm_source=testingconferences
-
 - name: "expo:QA 26"
   location: Madrid, Spain
   dates: "May 26-28, 2026"
