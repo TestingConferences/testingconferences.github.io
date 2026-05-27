@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: /videos/
+title: Software Testing Conference Videos
+---
+
+<p>
+  This page highlights the 10 most recent past conferences in <a href="/past/">our archive</a> that include an
+  event video link. Use it to quickly find freely shared conference recordings, and let us know if we're missing one
+  by updating <a href="https://github.com/TestingConferences/testingconferences.github.io/blob/main/_data/past.yml">past.yml</a>.
+</p>
+
+{% assign video_conferences = site.data.past | where_exp: "conference", "conference.video_url" %}
+{% assign current_year = "" %}
+
+{% for conference in video_conferences limit: 10 %}
+  {% assign conference_year = conference.dates | split: ", " | last %}
+  {% if conference_year != current_year %}
+    {% assign current_year = conference_year %}
+    <h2>{{ current_year }}</h2>
+    <ul class="post-list">
+  {% endif %}
+      <li>
+        <h3><a href="{{ conference.url }}">{{ conference.name }}</a></h3>
+        <p>
+          <i class="fa fa-calendar"></i> {{ conference.dates }}
+          <br />
+          <a href="{{ conference.video_url }}"><i class="fa fa-video-camera"></i> Watch Event Videos</a>
+        </p>
+      </li>
+  {% assign next_conference = video_conferences[forloop.index] %}
+  {% assign next_year = next_conference.dates | split: ", " | last %}
+  {% if forloop.last or next_year != current_year %}
+    </ul>
+  {% endif %}
+{% endfor %}
