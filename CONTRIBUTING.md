@@ -18,6 +18,11 @@ If you find a broken link, an incorrect date, or a bug on the site:
 ### 3. Improving the Site (DX/Quality)
 We are currently working through our [ROADMAP.md](./ROADMAP.md) to improve site quality and developer experience. If you want to help with Lighthouse scores, build scripts, or automation, please check the roadmap for "Open" tasks.
 
+### 4. Adding or Updating Site Pages
+If your PR adds a new page or updates page-level navigation:
+- **Main/Sub Navigation:** Do not automatically add new pages to `_includes/nav.html`. Confirm with a maintainer first, since not every page belongs in the main or sub navigation.
+- **Superfooter:** Add all pages to the superfooter in `_includes/footer.html` so they can always be discovered from the site footer.
+
 ---
 
 ## Pull Request Guidelines
