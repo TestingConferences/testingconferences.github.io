@@ -11,10 +11,10 @@ title: Closed Software Testing Conferences
   <li>
     <h2><a href="{{ conference.url }}">{{ conference.name }}</a></h2>
     <p>
-      <i class="fa fa-map-marker"></i> {{ conference.location }}
-      <i class="fa fa-calendar"></i> First held: {{ conference.first_date }}
-      <i class="fa fa-calendar"></i> Last held: {{ conference.last_date }}
-      {% if conference.status != nil %}<i class="fa fa-bell"></i> {{ conference.status }}{% endif %}
+      <i class="fa fa-map-marker" aria-hidden="true"></i> Location: {{ conference.location }}
+      <i class="fa fa-calendar" aria-hidden="true"></i> First held: {{ conference.first_date }}
+      <i class="fa fa-calendar" aria-hidden="true"></i> Last held: {{ conference.last_date }}
+      {% if conference.status != nil %}<i class="fa fa-bell" aria-hidden="true"></i> Status: {{ conference.status }}{% endif %}
     </p>
   </li>
   {% endfor %}

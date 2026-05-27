@@ -40,6 +40,9 @@ The list of events is driven by files in the ```_data``` folder - if you have an
   - Include the year
     - Sometimes workshops use a version instead of a year
       - Example: Workshop on Performance and Reliability (WOPR) 24
+  - Closed conferences can use ```closed.yml``` and include:
+    - ```first_date``` for the first known event date
+    - ```last_date``` for the last known event date
   - Don't include the @ symbol for the twitter handle. If there is no twitter option, leave it blank
   - Optionally include a status such as:
     - CFP is open / closed (CFP == Call for Proposal)
