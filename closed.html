@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /closed/
+title: Closed Software Testing Conferences
+---
+
+<p>Conferences and workshops that have shut down or ended their annual conference series.</p>
+
+<ul class="post-list">
+  {% for conference in site.data.closed %}
+  <li>
+    <h2><a href="{{ conference.url }}">{{ conference.name }}</a></h2>
+    <p>
+      Location: {{ conference.location }}<br>
+      First held: {{ conference.first_date }}<br>
+      Last held: {{ conference.last_date }}
+      {% if conference.status != nil %}<br>Status: {{ conference.status }}{% endif %}
+    </p>
+  </li>
+  {% endfor %}
+</ul>
