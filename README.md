@@ -31,8 +31,8 @@ cd testingconferences.github.io
 ```
 
 ## Contributing Guidelines
-The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the ```current.yml``` and ```past.yml``` files and send a PR.
-  - The _order_ of the events listed in ```current.yml``` and ```past.yml``` dictates the _order_ displayed, please make sure to properly insert events.
+The list of events is driven by files in the ```_data``` folder - if you have an update for those things, just change the relevant data file (currently ```current.yml```, ```past.yml```, or ```closed.yml```) and send a PR.
+  - The _order_ of the events listed in the data files dictates the _order_ displayed, please make sure to properly insert events.
   - If possible, spell out the conference name and add the abbreviation. Otherwise just use the abbreviation:
     - Example: Workshop on Performance and Reliability (WOPR)
   - If the conference name has a colon (:), place the entire name in quotes. Otherwise this can cause build errors. 

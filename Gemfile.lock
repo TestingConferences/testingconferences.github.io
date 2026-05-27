@@ -136,7 +136,7 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
-    io-event (1.14.3)
+    io-event (1.11.2)
     jekyll (3.10.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -338,4 +338,4 @@ RUBY VERSION
    ruby 3.2.7p253
 
 BUNDLED WITH
-   2.4.19
+   2.4.17
