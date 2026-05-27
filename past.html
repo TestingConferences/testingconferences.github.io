@@ -11,8 +11,8 @@ title: Past Software Testing Conferences
     <p>
       <i class="fa fa-calendar" role="img" aria-label="Dates" title="Dates"></i> {{ past.dates }} <i class="fa fa-map-marker" role="img" aria-label="Location" title="Location"></i> {{ past.location }}
       {% if past.twitter != nil %}<a href="https://www.twitter.com/{{past.twitter}}"><i
-          class="fa-brands fa-x-twitter" role="img" aria-label="X (Twitter)" title="X (Twitter)"></i>{{past.twitter}}</a>{% endif %}
-      {% if past.video_url != nil %}<a href="{{ past.video_url }}"><i class="fa fa-video-camera" role="img" aria-label="Event videos" title="Event videos"></i> Event
+          class="fa-brands fa-x-twitter" aria-hidden="true" title="X (Twitter)"></i>{{past.twitter}}</a>{% endif %}
+      {% if past.video_url != nil %}<a href="{{ past.video_url }}"><i class="fa fa-video-camera" aria-hidden="true" title="Event videos"></i> Event
         Videos</a>{% endif %}
   </li>
   {% endfor %}
