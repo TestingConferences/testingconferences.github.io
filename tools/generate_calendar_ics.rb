@@ -92,12 +92,18 @@ def fold_ical_line(line, limit = 75)
   bytes = line.dup
   result = +''
 
-  while bytes.bytesize > limit
-    result << bytes.byteslice(0, limit) << "\r\n "
-    bytes = bytes.byteslice(limit..)
+  return bytes if bytes.bytesize <= limit
+
+  result << bytes.byteslice(0, limit)
+  bytes = bytes.byteslice(limit..)
+
+  continuation_limit = limit - 1
+  while bytes.bytesize > continuation_limit
+    result << "\r\n " << bytes.byteslice(0, continuation_limit)
+    bytes = bytes.byteslice(continuation_limit..)
   end
 
-  result << bytes.to_s
+  result << "\r\n " << bytes.to_s
   result
 end
 
