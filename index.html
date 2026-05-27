@@ -8,9 +8,9 @@ layout: default
       <li>
         <h2><a href="{{current.url}}">{{ current.name }}</a></h2>
         <p>
-          <i class="fa fa-calendar"></i> {{ current.dates }} 
-          <i class="fa fa-map-marker"></i> {{ current.location }}
-          {% if current.status != nil %}<i class="fa fa-bell"></i> {{current.status}}{% endif %}
+          <i class="fa fa-calendar" role="img" aria-label="Dates" title="Dates"></i> {{ current.dates }} 
+          <i class="fa fa-map-marker" role="img" aria-label="Location" title="Location"></i> {{ current.location }}
+          {% if current.status != nil %}<i class="fa fa-bell" role="img" aria-label="Status" title="Status"></i> {{current.status}}{% endif %}
       </li>
     {% endfor %}
   </ul>
