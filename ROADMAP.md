@@ -13,6 +13,11 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 - [x] **Automated Increments**: Create a workflow to increment the `VERSION` file on every deployment.
 - [x] **Deployment Tagging**: Ensure every production deploy is tagged in Git to match the internal version.
 
+## Phase 1.5: Agent Readiness
+
+- [ ] **Agent Readiness**: Ensure that any AI agents (e.g., GitHub Copilot) can start working on the repo with relevant context and guidelines. This will be important for future phases where we want to automate more of the contribution process.
+- [ ] See [AI Agent Readiness Assessment](Agent_Readiness.md) for details on current state and next steps.
+
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
 
