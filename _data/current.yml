@@ -69,11 +69,6 @@
   twitter: testguilds
   status: <a href="https://testguild.com/irl/chicago-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
 
-- name: "ICSTP 2026: International Conference on Software Testing Process"
-  location: Amsterdam, Netherlands or Online
-  dates: "August 3-4, 2026"
-  url: https://waset.org/software-testing-process-conference-in-august-2026-in-amsterdam?utm_source=testingconferences
-
 - name: CAST 2026
   location: Cocoa Beach, FL, USA
   dates: "August 3-5, 2026"
@@ -159,7 +154,7 @@
   location: Budapest
   dates: "October 6-8, 2026"
   url: https://hustef.com/?utm_source=testingconferences
-  status: <a href="https://hustef.com/tickets_2026/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://hustef.com/tickets_2026/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 2, 2026
 
 - name: Wrobocon 2026 - Robot Framework Conference
   location: Online
@@ -246,7 +241,7 @@
   dates: "November 4-5, 2026"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: <a href="https://automation.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a>
+  status: <a href="https://automation.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Testing Assembly
   location: Helsinki, Finland
@@ -282,7 +277,7 @@
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
   url: https://agiletestingdays.com/?utm_source=testingconferences
-  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+  status: <a href="https://agiletestingdays.com/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until September 20, 2026
 
 - name: Testing United
   location: Copenhagen, Denmark
