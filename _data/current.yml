@@ -55,6 +55,20 @@
   twitter: The_Test_Tribe
   status: Registration is Open
 
+- name: TestGuild IRL Minneapolis 2026
+  location: Minneapolis, MN, USA
+  dates: "July 14, 2026"
+  url: https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences
+  twitter: testguilds
+  status: Early Bird Registration is Open
+
+- name: TestGuild IRL Chicago 2026
+  location: Chicago, IL, USA
+  dates: "July 16, 2026"
+  url: https://testguild.com/irl/chicago-2026?utm_source=testingconferences
+  twitter: testguilds
+  status: Early Bird Registration is Open
+
 - name: "ICSTP 2026: International Conference on Software Testing Process"
   location: Amsterdam, Netherlands or Online
   dates: "August 3-4, 2026"
@@ -92,11 +106,25 @@
   url: https://geostqb.org/call-for-speakers-testers-day-2026/?utm_source=testingconferences
   status: <a href="https://geostqb.org/call-for-speakers-testers-day-2026/?utm_source=testingconferences" target="_blank">CFP is Closed</a>
 
+- name: TestGuild IRL New York 2026
+  location: New York, NY, USA
+  dates: "September 15, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration and details coming soon
+
 - name: TACON 2026
   location: Leipzig, Germany
   dates: "September 16-17, 2026"
   url: https://tacon-konferenz.de?utm_source=testingconferences
   status: <a href="https://events.summit-community.de/event/tacon-2026/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 21, 2026
+
+- name: TestGuild IRL Boston 2026
+  location: Boston, MA, USA
+  dates: "September 17, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration and details coming soon
 
 - name: STARWEST 2026
   location: Anaheim, CA, USA and Online
@@ -209,6 +237,13 @@
   url: https://www.testnet.org/evenementen/?utm_source=testingconferences
   status: Announced
 
+- name: TestGuild IRL Austin 2026
+  location: Austin, TX, USA
+  dates: "November 3, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration and details coming soon
+
 - name: AutomationSTAR Test Automation Conference 2026
   location: Antwerpen, Belgium
   dates: "November 4-5, 2026"
@@ -227,6 +262,13 @@
   dates: "November 4-6, 2026"
   url: https://testwarez.pl/?utm_source=testingconferences
   status: CFP is Closed
+
+- name: TestGuild IRL Dallas 2026
+  location: Dallas, TX, USA
+  dates: "November 5, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+  status: Registration and details coming soon
   
 - name: Software-QS-Tag 2026
   location: Frankfurt am Main - Airport, Germany
