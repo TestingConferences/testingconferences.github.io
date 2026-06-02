@@ -21,26 +21,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>January 2026</td>
-    <td>Open</td>
-  </tr>
-  <tr>
-    <td>February 2026</td>
-    <td>PNSQC</td>
-  </tr>
-  <tr>
-    <td>March 2026</td>
-    <td>PNSQC</td>
-  </tr>
-  <tr>
-    <td>April 2026</td>
-    <td>PNSQC</td>
-  </tr>
-  <tr>
-    <td>May 2026</td>
-    <td>PNSQC</td>
-  </tr>
-  <tr>
     <td>June 2026</td>
     <td>TestMu Conference 2026</td>
   </tr>
