@@ -1,3 +1,20 @@
+- name: QonfX New York - Invite-only QA & Tech Leadership Conference
+  location: New York, NY, USA
+  dates: "June 3, 2026"
+  url: https://www.thetesttribe.com/qonfx/new-york/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+
+- name: Live2Test 2026
+  location: Online
+  dates: "June 2-3, 2026"
+  url: https://live2test.com/?utm_source=testingconferences
+
+- name: "expo:QA 26"
+  location: Madrid, Spain
+  dates: "May 26-28, 2026"
+  url: https://expoqa.eu/?utm_source=testingconferences
+  twitter: expoqa
+
 - name: Istanbul Software Testing Conference
   location: Istanbul, Turkey
   dates: "May 21-22, 2026"
