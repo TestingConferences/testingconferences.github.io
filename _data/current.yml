@@ -111,6 +111,12 @@
   url: https://targetingquality.ca/?utm_source=testingconferences
   status: <a href="https://kwsqa.org/tq2026/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until July 5, 2026
 
+- name: WeTest.SKG 2026
+  location: Thessaloniki, Greece, Europe
+  dates: "September 21-22, 2026"
+  url: https://www.wetest-athens.gr/
+  status: <a href="https://www.wetest-athens.gr/" target="_blank">Early Bird Registration is Open</a>
+
 - name: Tesena Fest 2026
   location: Prague, Czech Republic
   dates: "September 24-25, 2026"
@@ -263,3 +269,9 @@
   dates: "November 25-26, 2026"
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
+
+- name: WeTest.Athens 2027
+  location: Athens, Greece, Europe
+  dates: "May 24-25, 2027"
+  url: https://www.wetest-athens.gr/
+  status: <a href="https://www.wetest-athens.gr/" target="_blank">CFP is Open</a>
