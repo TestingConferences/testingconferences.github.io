@@ -2,27 +2,28 @@
   location: London, UK
   dates: "July 7, 2026"
   url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences
+  status: <a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Closed</a>
 
 - name: TribeQonf 2026
   location: Bengaluru, India
   dates: "July 10-11, 2026"
   url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
   twitter: The_Test_Tribe
-  status: <a href="https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until June 7, 2026
+  status: <a href="https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 20, 2026
 
 - name: TestGuild IRL Minneapolis 2026
   location: Minneapolis, MN, USA
   dates: "July 14, 2026"
   url: https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences
   twitter: testguilds
-  status: <a href="https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
+  status: <a href="https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> and Free
 
 - name: TestGuild IRL Chicago 2026
   location: Chicago, IL, USA
   dates: "July 16, 2026"
   url: https://testguild.com/irl/chicago-2026?utm_source=testingconferences
   twitter: testguilds
-  status: <a href="https://testguild.com/irl/chicago-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
+  status: <a href="https://testguild.com/irl/chicago-2026?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> and Free
 
 - name: CAST 2026
   location: Cocoa Beach, FL, USA
@@ -35,6 +36,7 @@
   location: Sydney, Australia
   dates: "August 6, 2026"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences
+  status: <a href="https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Hands-On Testing 2026
   location: Guadalajara, Mexico and Online
@@ -165,7 +167,7 @@
   location: Vilnius, Lithuania
   dates: "October 20-23, 2026"
   url: https://testcon.lt/?utm_source=testingconferences
-  status: <a href="https://testcon.lt/?utm_source=testingconferences" target="_blank">Registration is Open with 25% Savings</a> until June 11, 2026 | <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form" target="_blank">CFP is Open</a>
+  status: <a href="https://testcon.lt/?utm_source=testingconferences" target="_blank">Regular Stage Registration is Open with 20% Savings</a> until September 10, 2026 | <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form" target="_blank">CFP is Open</a>
 
 - name: CypressConf 2026
   location: Online
@@ -184,6 +186,7 @@
   location: Lisbon, Portugal
   dates: "October 27, 2026"
   url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
+  status: <a href="https://testingportugal.pstqb.pt/en/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a> until June 26, 2026
 
 - name: TestNet 2026
   location: Nieuwegein, Netherlands
@@ -214,7 +217,7 @@
   location: Sopot, Poland
   dates: "November 4-6, 2026"
   url: https://testwarez.pl/?utm_source=testingconferences
-  status: CFP is Closed
+  status: <a href="https://testwarez.pl/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
 
 - name: TestGuild IRL Dallas 2026
   location: Dallas, TX, USA
