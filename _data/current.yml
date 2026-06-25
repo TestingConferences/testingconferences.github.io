@@ -1,8 +1,8 @@
 - name: "Human-Centred Testing: People and Practices & the Future of the Profession"
   location: London, UK
   dates: "July 7, 2026"
-  url: https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences
-  status: <a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Closed</a>
+  url: https://www.bcs.org/events-calendar/2026/july/hybrid-human-centred-testing-people-and-practices-the-future-of-the-profession/?utm_source=testingconferences
+  status: <a href="https://www.bcs.org/events-calendar/2026/july/hybrid-human-centred-testing-people-and-practices-the-future-of-the-profession/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: TribeQonf 2026
   location: Bengaluru, India
@@ -16,14 +16,14 @@
   dates: "July 14, 2026"
   url: https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences
   twitter: testguilds
-  status: <a href="https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> and Free
+  status: <a href="https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
 
 - name: TestGuild IRL Chicago 2026
   location: Chicago, IL, USA
   dates: "July 16, 2026"
   url: https://testguild.com/irl/chicago-2026?utm_source=testingconferences
   twitter: testguilds
-  status: <a href="https://testguild.com/irl/chicago-2026?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> and Free
+  status: <a href="https://testguild.com/irl/chicago-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
 
 - name: CAST 2026
   location: Cocoa Beach, FL, USA
@@ -50,13 +50,12 @@
   dates: "August 19-21, 2026"
   url: https://www.testmuai.com/testmuconf-2026?utm_source=testingconferences&utm_medium=organic&utm_content=testmu_2026
   twitter: lambdatesting
-  status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open</a> | <a href="https://www.testmuai.com/testmuconf-2026/#speakers" target="_blank">CFP is Open</a>
+  status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open and Free</a>
 
 - name: Tester's Day 2026
   location: Tbilisi, Georgia
   dates: "September 9, 2026"
   url: https://geostqb.org/call-for-speakers-testers-day-2026/?utm_source=testingconferences
-  status: <a href="https://geostqb.org/call-for-speakers-testers-day-2026/?utm_source=testingconferences" target="_blank">CFP is Closed</a>
 
 - name: TestGuild IRL New York 2026
   location: New York, NY, USA
@@ -186,7 +185,6 @@
   location: Lisbon, Portugal
   dates: "October 27, 2026"
   url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
-  status: <a href="https://testingportugal.pstqb.pt/en/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Closed</a>
 
 - name: TestNet 2026
   location: Nieuwegein, Netherlands
