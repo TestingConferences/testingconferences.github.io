@@ -43,14 +43,14 @@
   dates: "August 12-15, 2026"
   url: https://handsontesting.com/?utm_source=testingconferences
   twitter: handsontesting
-  status: <a href="http://handsontesting.com/#tickets?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="http://handsontesting.com/?utm_source=testingconferences#tickets" target="_blank">Early Bird Registration is Open</a>
 
 - name: Testμ Conference 2026
   location: Online
   dates: "August 19-21, 2026"
   url: https://www.testmuai.com/testmuconf-2026?utm_source=testingconferences&utm_medium=organic&utm_content=testmu_2026
   twitter: lambdatesting
-  status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=STC&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open and Free</a>
+  status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=testingconferences&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open and Free</a>
 
 - name: Tester's Day 2026
   location: Tbilisi, Georgia
@@ -91,14 +91,14 @@
 - name: WeTest.SKG 2026
   location: Thessaloniki, Greece, Europe
   dates: "September 21-22, 2026"
-  url: https://www.wetest-athens.gr/
-  status: <a href="https://www.wetest-athens.gr/" target="_blank">Early Bird Registration is Open</a>
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+  status: <a href="https://www.wetest-athens.gr/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: Tesena Fest 2026
   location: Prague, Czech Republic
   dates: "September 24-25, 2026"
   url: https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences
-  status: <a href="https://www.tesena.com/en/tesena-fest-2026/a-189/" target="_blank">Early Bird Registration is Open</a>
+  status: <a href="https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: MoTaCon 2026
   location: Brighton, UK
@@ -110,7 +110,7 @@
   location: Ljubljana, Slovenia and Online
   dates: "October 5-7, 2026"
   url: https://www.seetest.org/?utm_source=testingconferences
-  status: <a href="https://seetest.org/index.php?page=visitors-packages" target="_blank">Early Bird Registration is Open</a> until July 15, 2026
+  status: <a href="https://seetest.org/index.php?page=visitors-packages&utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until July 15, 2026
 
 - name: HUSTEF 2026
   location: Budapest
@@ -122,7 +122,7 @@
   location: Online
   dates: "October 8, 2026"
   url: https://wrobocon.eu/?utm_source=testingconferences
-  status: <a href="https://tally.so/r/3lPJlk" target="_blank">CFP is Open</a>
+  status: <a href="https://tally.so/r/3lPJlk?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: Testing Talks Melbourne 2026
   location: Melbourne, Australia
@@ -135,7 +135,7 @@
   dates: "October 12-14, 2026"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://bit.ly/3RTFdBJ" target="_blank">Super Early Bird Registration is Open</a> until June 30, 2026
+  status: <a href="https://bit.ly/3RTFdBJ?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until June 30, 2026
 
 - name: Quality Sense Conf 2026
   location: Montevideo, Uruguay
@@ -154,7 +154,7 @@
   location: Bilbao, Spain
   dates: "October 14-16, 2026"
   url: https://embedded.qatest.org/?lang=en&utm_source=testingconferences
-  status: <a href="https://embedded.qatest.org/tickets/?lang=en" target="_blank">Early Bird Registration is Open</a> until July 31, 2026
+  status: <a href="https://embedded.qatest.org/tickets/?lang=en&utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until July 31, 2026
 
 - name: DSTB Quality Beacon 2026
   location: Copenhagen, Denmark
@@ -166,7 +166,7 @@
   location: Vilnius, Lithuania
   dates: "October 20-23, 2026"
   url: https://testcon.lt/?utm_source=testingconferences
-  status: <a href="https://testcon.lt/?utm_source=testingconferences" target="_blank">Regular Stage Registration is Open with 20% Savings</a> until September 10, 2026 | <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form" target="_blank">CFP is Open</a>
+  status: <a href="https://testcon.lt/?utm_source=testingconferences" target="_blank">Regular Stage Registration is Open with 20% Savings</a> until September 10, 2026 | <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: CypressConf 2026
   location: Online
@@ -179,7 +179,7 @@
   location: Sofia, Bulgaria
   dates: "October 24, 2026"
   url: https://qachallengeaccepted.com?utm_source=testingconferences
-  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352" target="_blank">Registration is Open</a>
+  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing Portugal Conference 2026
   location: Lisbon, Portugal
@@ -227,7 +227,7 @@
   location: Frankfurt am Main - Airport, Germany
   dates: "November 11-12, 2026"
   url: https://www.qs-tag.de/?utm_source=testingconferences
-  status: <a href="https://www.qs-tag.de/en/" target="_blank">Blind Bird Registration is Open</a>
+  status: <a href="https://www.qs-tag.de/en/?utm_source=testingconferences" target="_blank">Blind Bird Registration is Open</a>
 
 - name: Tokyo Test Fest
   location: Tokyo, Japan
@@ -247,8 +247,15 @@
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
 
+- name: STAREAST 2027
+  location: Orlando, FL, USA and Online
+  dates: "April 25-30, 2027"
+  url: https://stareast.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+  status: <a href="https://stareast.techwell.com/speaker-submission-form-stareast-2027/?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 6, 2026
+
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
   dates: "May 24-25, 2027"
-  url: https://www.wetest-athens.gr/
-  status: <a href="https://www.wetest-athens.gr/" target="_blank">CFP is Open</a>
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+  status: <a href="https://www.wetest-athens.gr/?utm_source=testingconferences" target="_blank">CFP is Open</a>
