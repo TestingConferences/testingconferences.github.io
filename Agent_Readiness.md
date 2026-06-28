@@ -1,58 +1,70 @@
 # AI Agent Readiness Assessment
 
-This repo is moderately ready for AI-assisted maintenance, especially for simple conference data edits. It is less ready for reliable autonomous agent workflows because some guidance is stale and several validation steps are documented only in prose.
+Updated: June 28, 2026
+
+This repo is in decent shape for AI-assisted maintenance, especially for simple conference data updates. It is more agent-ready than the previous assessment because the repo now has a top-level `AGENTS.md` with project context, safe edit zones, data rules, validation guidance, and maintainer-approval boundaries.
+
+The main remaining weakness is that most guardrails are still documented in prose instead of enforced by automated validation. Agents can follow the rules, but the repo does not yet reliably catch mistakes before review.
 
 ## Current Readiness
 
-**AI-assisted edits:** 6/10
+**AI-assisted edits:** 7/10
 
-**Autonomous agent workflows:** 4/10
+**Autonomous agent workflows:** 5/10
 
-The project has useful documentation and a simple Jekyll data model, but it needs fresher instructions and executable guardrails before an agent can safely make broader changes without human supervision.
+The project has a simple Jekyll structure, clear conference data files, a root agent instruction file, and useful contributor documentation. Autonomous workflows still need stronger machine-checkable validation, clearer CI/deploy documentation, and better documentation for maintenance scripts.
 
 ## What Already Helps Agents
 
+- `AGENTS.md` is now the strongest agent-facing file. It explains the project map, safe edit zones, conference data rules, source-of-truth policy, local commands, validation checklist, common tasks, and changes that need maintainer approval.
 - `README.md` explains the project, `_data` files, ordering rules, required conference fields, eligibility, and deployment versioning.
+- `README.md` now documents the current CI split: GitHub Actions is used for the site release-flow version increment, while CircleCI still handles build validation and site deployment.
 - `CONTRIBUTING.md` gives contributor workflows for adding conferences, reporting issues, and page/navigation changes.
-- `SETUP.md` provides simple Docker setup instructions.
-- `.github/copilot-instructions.md` is the strongest agent-facing file. It explains repo structure, schema, common tasks, build commands, and contribution rules.
+- `SETUP.md` provides Docker setup instructions.
+- `.github/copilot-instructions.md` now delegates repo-wide policy to `AGENTS.md` and keeps only Copilot-specific reminders.
 - `.github/pull_request_template.md` provides a checklist for conference PRs.
 - `CODEOWNERS` assigns review ownership.
 - `Gemfile`, `docker-compose.yml`, and `devops/setup.sh` make it clear this is a Ruby/Jekyll/GitHub Pages site.
-- `ROADMAP.md` gives future direction around quality, AI workflows, tests, metrics, and automation.
+- `.circleci/config.yml` documents the build and htmlproofer validation commands used by CircleCI.
+- `ROADMAP.md` now tracks the remaining agent-readiness work, quality metrics work, validation work, and developer-experience improvements.
 - `tools/` contains maintenance scripts, especially `tools/identify_updates.rb`, though these scripts are not yet documented.
 
 ## Main Gaps
 
-- There is no top-level `AGENTS.md`. Codex-style agents commonly look for this. The Copilot file is helpful, but it is tool-specific and hidden under `.github/`.
-- Agent docs are stale in places. `.github/copilot-instructions.md` references `.circleci/`, while the repo currently uses GitHub Actions. The README badge also still points at CircleCI.
-- There is no machine-checkable data schema for `_data/current.yml`, `_data/past.yml`, or `_data/closed.yml`. The schema exists in prose, but agents would be safer with a YAML/JSON schema or validator.
-- There is no PR validation workflow for builds/tests. The deploy workflow builds on push to `main`, but there is no obvious workflow that validates pull requests before merge.
+- There is still no machine-checkable data schema or validator for `_data/current.yml`, `_data/past.yml`, or `_data/closed.yml`. The schema is documented in prose, but agents would be safer with a YAML/JSON schema or validator.
+- There is no obvious pull request validation workflow owned by GitHub Actions. CircleCI performs build validation, but the repo should make the current source of truth unmistakable to agents and contributors.
+- The CI/deploy story can still confuse agents. `.github/workflows/deploy.yml` appears to build and deploy GitHub Pages, while the current documented operating model says GitHub Actions is only for release-flow version incrementing and CircleCI handles build validation and deployment.
 - There is no automated linting despite `CONTRIBUTING.md` mentioning Prettier/ESLint. There is no `package.json`, lint config, `.editorconfig`, or Ruby lint config.
 - There are no issue templates, despite the roadmap calling out bug attribution and site version tracking.
-- The maintenance scripts are undiscoverable. `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb` are not mentioned in README, CONTRIBUTING, SETUP, or Copilot instructions.
-- Local verification is fragile. `bundle exec jekyll build` can fail if the active Ruby/gem environment is not ready. Docker likely works, but the non-Docker path is underdocumented.
-- There is no explicit "do not edit generated files" guidance. `_site/` exists and is ignored, but agent instructions should explicitly say never to modify generated `_site` output.
-- There is no source-of-truth policy for conference updates: acceptable sources, how to confirm dates/status, what to do when information conflicts, and whether web research is required.
+- The maintenance scripts are still undiscoverable. `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb` are not mentioned in README, CONTRIBUTING, SETUP, or `AGENTS.md`.
+- Local verification is partly fragile. Docker is documented, but the non-Docker Ruby/gem path can fail if the local environment is not prepared.
+- Generated-file guidance now exists in `AGENTS.md`, but it is not yet repeated in contributor-facing docs.
+- The source-of-truth policy for conference updates now exists in `AGENTS.md`, but it is not yet repeated in contributor-facing docs.
 
 ## Recommended Next Additions
 
-1. Add `AGENTS.md` at the repo root with the real source of truth for agents: project map, safe-edit zones, data schema, commands, validation checklist, and common tasks.
-2. Fix stale docs: remove CircleCI references, update badges, mark the `.github/copilot-instructions.md` roadmap item complete, and document GitHub Actions.
-3. Add a simple validator script for conference YAML: required fields, URL tracking parameter, duplicate names, chronological ordering, no `@` in `twitter`, and allowed fields.
-4. Add a PR CI workflow that runs `bundle exec jekyll build` and the validator.
-5. Document the `tools/` scripts or remove/replace the ones that are no longer part of the workflow.
+1. Add a conference data validator for `_data/current.yml`, `_data/past.yml`, and `_data/closed.yml`.
+   - Required fields.
+   - Allowed fields.
+   - Duplicate conference names.
+   - Chronological ordering.
+   - Required `utm_source=testingconferences` on conference URLs.
+   - No `@` in `twitter`.
+   - `_data/closed.yml` support for `first_date` and `last_date`.
+2. Clarify CI/deploy ownership in one place and make workflow names match reality.
+   - If CircleCI is the build/deploy source of truth, document that in README, `AGENTS.md`, and Copilot instructions.
+   - Rename or revise GitHub Actions workflow language if it is only responsible for version incrementing.
+3. Add or document PR validation expectations.
+   - CircleCI build.
+   - Jekyll build.
+   - htmlproofer.
+   - Future conference data validator.
+4. Document the `tools/` scripts or remove/replace the ones that are no longer part of the workflow.
+5. Add issue templates with a site-version field.
+6. Make local verification docs clearer for both Docker and non-Docker setups.
 
-## Useful Agent Instructions To Add Later
+## Current Bottom Line
 
-An `AGENTS.md` file should answer these questions directly:
+The repo is now ready for supervised AI agents to make narrow, reviewable changes such as adding, updating, moving, or closing conference entries.
 
-- What kind of site is this?
-- Which files are source files and which are generated?
-- Which files should agents edit for conference changes?
-- What fields are required for each YAML data file?
-- What command starts the site locally?
-- What command validates a change?
-- What should an agent do when conference details conflict between sources?
-- What should an agent never change without maintainer approval?
-
+It is not yet ready for broad autonomous maintenance because the most important rules are still human-readable instructions rather than executable checks.
