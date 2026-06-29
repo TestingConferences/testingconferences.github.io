@@ -100,6 +100,11 @@
   url: https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences
   status: <a href="https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
+- name: The Living Documentation Event 2026
+  location: Veldhoven, Netherlands
+  dates: "October 1, 2026"
+  url: https://www.living-documentation-event.com/?utm_source=testingconferences
+
 - name: MoTaCon 2026
   location: Brighton, UK
   dates: "October 1, 2026"
@@ -175,6 +180,11 @@
   twitter: cypress_io
   status: <a href="https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce8-858b-8a4db3a62eb1?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
 
+- name: Noordertest 2026
+  location: Groningen, Netherlands
+  dates: "October 22, 2026"
+  url: https://www.noordertest.nl/?utm_source=testingconferences
+
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
   dates: "October 24, 2026"
@@ -191,6 +201,12 @@
   dates: "October 28, 2026"
   url: https://www.testnet.org/evenementen/?utm_source=testingconferences
   status: Announced
+
+- name: Nederlandse Testdag 2026
+  location: Amersfoort, Netherlands
+  dates: "October 30, 2026"
+  url: https://testdag.nl/?utm_source=testingconferences
+  status: <a href="https://testdag.testar.org/call-for-presentations-nederlandse-testdag-2026/?utm_source=testingconferences" target="_blank">CFP is Open</a> until June 30, 2026
 
 - name: TestGuild IRL Austin 2026
   location: Austin, TX, USA
