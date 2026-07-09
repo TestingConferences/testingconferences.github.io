@@ -1,9 +1,3 @@
-- name: "Human-Centred Testing: People and Practices & the Future of the Profession"
-  location: London, UK
-  dates: "July 7, 2026"
-  url: https://www.bcs.org/events-calendar/2026/july/hybrid-human-centred-testing-people-and-practices-the-future-of-the-profession/?utm_source=testingconferences
-  status: <a href="https://www.bcs.org/events-calendar/2026/july/hybrid-human-centred-testing-people-and-practices-the-future-of-the-profession/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
 - name: TribeQonf 2026
   location: Bengaluru, India
   dates: "July 10-11, 2026"
@@ -12,14 +6,14 @@
   status: <a href="https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: TestGuild IRL Minneapolis 2026
-  location: Minneapolis, MN, USA
+  location: Bloomington, MN, USA
   dates: "July 14, 2026"
   url: https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences
   twitter: testguilds
   status: <a href="https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences" target="_blank">Registration is Open</a> and Free
 
 - name: TestGuild IRL Chicago 2026
-  location: Chicago, IL, USA
+  location: Arlington Heights, IL, USA
   dates: "July 16, 2026"
   url: https://testguild.com/irl/chicago-2026?utm_source=testingconferences
   twitter: testguilds
@@ -86,7 +80,7 @@
   location: Cambridge, Ontario, Canada
   dates: September 21-22, 2026
   url: https://targetingquality.ca/?utm_source=testingconferences
-  status: <a href="https://kwsqa.org/tq2026/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until July 5, 2026
+  status: <a href="https://kwsqa.org/tq2026/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a> until September 15, 2026
 
 - name: WeTest.SKG 2026
   location: Thessaloniki, Greece, Europe
@@ -140,7 +134,7 @@
   dates: "October 12-14, 2026"
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
-  status: <a href="https://bit.ly/3RTFdBJ?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until June 30, 2026
+  status: <a href="https://pnsqc.org/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Quality Sense Conf 2026
   location: Montevideo, Uruguay
@@ -206,7 +200,7 @@
   location: Amersfoort, Netherlands
   dates: "October 30, 2026"
   url: https://testdag.nl/?utm_source=testingconferences
-  status: <a href="https://testdag.testar.org/call-for-presentations-nederlandse-testdag-2026/?utm_source=testingconferences" target="_blank">CFP is Open</a> until June 30, 2026
+  status: CFP is Closed
 
 - name: TestGuild IRL Austin 2026
   location: Austin, TX, USA
@@ -231,7 +225,7 @@
   location: Sopot, Poland
   dates: "November 4-6, 2026"
   url: https://testwarez.pl/?utm_source=testingconferences
-  status: <a href="https://testwarez.pl/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
+  status: CFP is Closed
 
 - name: TestGuild IRL Dallas 2026
   location: Dallas, TX, USA
@@ -261,7 +255,7 @@
   location: Copenhagen, Denmark
   dates: "November 25-26, 2026"
   url: "https://www.testingunited.com/?utm_source=testingconferences"
-  status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until June 30, 2026
+  status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: STAREAST 2027
   location: Orlando, FL, USA and Online

@@ -5,14 +5,6 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 ---
 
-## Phase 1: Versioning & Traceability (High Priority)
-*Goal: Establish a "Source of Truth" for site deployments.*
-
-- [x] **Implement `VERSION` file**: Create a plaintext file in the root directory to track SemVer (e.g., `1.0.0`).
-- [x] **Footer Integration**: Update the website footer to dynamically display the current string from the `VERSION` file.
-- [x] **Automated Increments**: Create a workflow to increment the `VERSION` file on every deployment.
-- [x] **Deployment Tagging**: Ensure every production deploy is tagged in Git to match the internal version.
-
 ## Phase 1.5: Agent Readiness
 
 - [x] **Agent Readiness Assessment**: Assess whether AI agents can start working on the repo with relevant context and guidelines. See [AI Agent Readiness Assessment](Agent_Readiness.md) for the current state and next steps.
@@ -60,7 +52,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 | Version | Release Date | Lighthouse (Perf) | Broken Links | Build Time | Bugs Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| v1.0.0 | 2025-XX-XX | TBD | TBD | TBD | TBD |
+| v1.0.0 | 2026-XX-XX | TBD | TBD | TBD | TBD |
 
 ---
-*Last Updated: December 2025*
+*Last Updated: July 2026*
