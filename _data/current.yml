@@ -190,6 +190,12 @@
   dates: "October 27, 2026"
   url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
 
+- name: VLCTESTING 2026
+  location: Valencia, Spain (October 27) and Online (October 28)
+  dates: "October 27-28, 2026"
+  url: https://vlctesting.es/?utm_source=testingconferences
+  status: <a href="https://vlctesting.es/reserva-tu-entrada/?utm_source=testingconferences" target="_blank">Registration is Open with 40% Savings</a> until July 31, 2026 | <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
+
 - name: TestNet 2026
   location: Nieuwegein, Netherlands
   dates: "October 28, 2026"
