@@ -264,6 +264,7 @@
   location: Online
   dates: "December 3, 2025"
   url: https://teamscale.com/events/tga-2025-12?utm_source=testingconferences
+  video_url: https://teamscale.com/events/tga-2025-12
 
 - name: QA Global Summit 25
   location: Online
@@ -351,6 +352,7 @@
   location: Online
   dates: "October 21-22, 2025"
   url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
+  video_url: https://www.cypress.io/events
 
 - name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
@@ -393,6 +395,7 @@
   location: Valencia, Spain (October 1) and Online (October 2 - free)
   dates: "October 1-2, 2025"
   url: https://vlctesting.es/?utm_source=testingconferences
+  video_url: https://vlctesting.es/
 
 - name: "QA: Challenge Accepted 2025 - The Elevation"
   location: Sofia, Bulgaria and Online
@@ -460,6 +463,8 @@
   dates: "September 15, 2025"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
+  video_url: https://www.youtube.com/playlist?list=PLg74w4qP0mfEbbYjmQ9ECOywV_AsK8Q3m
+  video_playlist: https://www.youtube.com/playlist?list=PLg74w4qP0mfHdCnVB7DyIBTeDewl8HFIQ
 
 - name: Test Automation Summit New Jersey 2025
   location: Jersey City, NJ, USA
@@ -500,6 +505,7 @@
   dates: "August 19-21, 2025"
   url: https://www.lambdatest.com/testmuconf-2025?utm_source=STC&utm_medium=organic&utm_content=testmu_2025
   twitter: lambdatesting
+  video_url: https://www.testmuai.com/testmuconf-2025/
 
 - name: Testing Talks 2025
   location: Sydney, Australia
@@ -527,6 +533,7 @@
   location: Online
   dates: "June 25, 2025"
   url: https://tmscl.me/ts-2025-06-tc
+  video_url: https://teamscale.com/events/ts-2025-06
 
 - name: "SIGiST Summer 2025 Conference - Finding Calm in Chaos: Applying Testing to a Changing World"
   location: London, UK
