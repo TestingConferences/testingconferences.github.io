@@ -352,7 +352,7 @@
   location: Online
   dates: "October 21-22, 2025"
   url: https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0?__hstc=204449871.f2117c4cea0098a12902ced8536e8ec7.1751241536846.1751241536846.1751241536846.1&__hssc=204449871.1.1751241536846&__hsfp=287177776?utm_source=testingconferences
-  video_url: https://youtube.com/playlist?list=PL8GlT7H3xOcLvgklDr8u_U9uLNG2TNaG7&si=P79wEJemVYOt7pmY
+  video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcLvgklDr8u_U9uLNG2TNaG7
 
 - name: "Quality Beacon - Lighting the Path for Next-Gen Testing"
   location: Copenhagen, Denmark
@@ -786,6 +786,7 @@
   location: Online
   dates: "October 22-23, 2024"
   url: https://cypress.registration.goldcast.io/events/d976c513-3bf1-4f6d-b83d-856c63b98f83#Agenda
+  video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcJd6yb9Lnhd3FgTcLjmf3iZ
 
 - name: Quality Sense Conf 2024
   location: Medellín, Colombia & Online
@@ -1286,6 +1287,13 @@
   location: New York, NY, USA
   dates: "October 19, 2023"
   url: https://www.qa-financial.com/events/qa-financial-e-commerce-and-retailing-forum-new-york-2023-97?utm_source=testingconferences
+
+- name: CypressConf 2023
+  location: Online
+  dates: "October 17, 2023"
+  url: https://www.cypress.io/events?utm_source=testingconferences
+  twitter: cypress_io
+  video_url: https://www.youtube.com/playlist?list=PL8GlT7H3xOcI_CeBSml3tRhKx4kgVYLJa
 
 - name: Test Automation & Digital QA Summit 2023
   location: Raleigh Durham, NC, USA
