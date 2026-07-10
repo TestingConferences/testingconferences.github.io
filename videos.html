@@ -5,7 +5,7 @@ title: Software Testing Conference Videos
 ---
 
 <p>
-  This page highlights the 15 most recent past conferences in <a href="/past/">our archive</a> that include an
+  This page highlights the 20 most recent past conferences in <a href="/past/">our archive</a> that include an
   event video link. Use it to quickly find freely shared conference recordings, and let us know if we're missing one
   by updating <a href="https://github.com/TestingConferences/testingconferences.github.io/blob/main/_data/past.yml">past.yml</a>.
 </p>
@@ -13,7 +13,7 @@ title: Software Testing Conference Videos
 {% assign video_conferences = site.data.past | where_exp: "conference", "conference.video_url" %}
 {% assign current_year = "" %}
 
-{% for conference in video_conferences limit: 15 %}
+{% for conference in video_conferences limit: 20 %}
   {% assign conference_year = conference.dates | split: ", " | last %}
   {% if conference_year != current_year %}
     {% assign current_year = conference_year %}
