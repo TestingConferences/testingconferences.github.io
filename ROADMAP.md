@@ -7,11 +7,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 ## Phase 1.5: Agent Readiness
 
-- [x] **Agent Readiness Assessment**: Assess whether AI agents can start working on the repo with relevant context and guidelines. See [AI Agent Readiness Assessment](Agent_Readiness.md) for the current state and next steps.
-- [x] **Agent Instructions**: Add a top-level `AGENTS.md` with the project map, safe-edit zones, data schema, commands, validation checklist, source-of-truth policy, and tasks that require maintainer approval.
 - [ ] **Documentation Freshness**: Remove stale CircleCI references, update badges, and document the current GitHub Actions workflow.
-- [ ] **Generated Files Guidance**: Explicitly document that agents and contributors should not edit generated `_site/` output.
-- [ ] **Conference Update Policy**: Document acceptable sources for conference updates, how to confirm dates/status, and what to do when sources conflict.
 
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
