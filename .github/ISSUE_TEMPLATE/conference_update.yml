@@ -1,0 +1,71 @@
+name: Conference update
+description: Suggest a new conference, update an existing listing, or mark a conference as past or closed.
+title: "[Conference]: "
+labels:
+  - conference
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please use official conference sources when possible. Do not guess dates, locations, CFP deadlines, registration status, or prices.
+  - type: dropdown
+    id: update_type
+    attributes:
+      label: Update type
+      options:
+        - Add a new conference
+        - Update an existing conference
+        - Move a conference to past
+        - Mark a conference closed
+    validations:
+      required: true
+  - type: input
+    id: site_version
+    attributes:
+      label: Site version
+      description: If this relates to the live site, find the version in the footer, shown as rev.XXXX.
+      placeholder: "rev.1501"
+    validations:
+      required: false
+  - type: input
+    id: conference_name
+    attributes:
+      label: Conference name
+      placeholder: "Example Testing Conference 2026"
+    validations:
+      required: true
+  - type: input
+    id: conference_url
+    attributes:
+      label: Official conference URL
+      placeholder: "https://example.com/"
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      placeholder: "June 1-3, 2026"
+    validations:
+      required: false
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: "City, Country or Online"
+    validations:
+      required: false
+  - type: textarea
+    id: status
+    attributes:
+      label: Status details
+      description: Registration, CFP, pricing, cancellation, closure, or other useful status details.
+    validations:
+      required: false
+  - type: textarea
+    id: source
+    attributes:
+      label: Official source links
+      description: Add links to official event, schedule, CFP, registration, or organizer pages.
+    validations:
+      required: true

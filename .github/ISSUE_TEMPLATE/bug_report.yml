@@ -1,0 +1,47 @@
+name: Bug report
+description: Report a site bug, broken link, incorrect display, or wrong conference detail.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep TestingConferences.org accurate. If the issue is visible on the live site, include the site version from the footer.
+  - type: input
+    id: site_version
+    attributes:
+      label: Site version
+      description: Find this in the site footer, shown as rev.XXXX.
+      placeholder: "rev.1501"
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Describe the bug, broken link, display issue, or incorrect conference information.
+    validations:
+      required: true
+  - type: input
+    id: page_url
+    attributes:
+      label: Page URL
+      description: Link to the page where you saw the problem.
+      placeholder: "https://testingconferences.org/"
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What should happen or what should the correct information be?
+    validations:
+      required: false
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or evidence
+      description: Add official source links when reporting incorrect conference dates, locations, registration, CFP, or status.
+    validations:
+      required: false
