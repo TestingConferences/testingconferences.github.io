@@ -17,11 +17,12 @@ TestingConferences.org is a community-maintained Jekyll site for software testin
 
 ## CI And Deployment
 
-This repository currently uses both GitHub Actions and CircleCI.
+This repository currently uses GitHub Pages, GitHub Actions, and CircleCI.
 
-- For the site release flow, GitHub Actions is currently used for appending/incrementing the site version number.
-- CircleCI is still responsible for build validation and deploying the site.
-- Do not assume GitHub Actions is the source of truth for build validation or production deployment without confirming with a maintainer.
+- GitHub Pages production is configured to deploy from the `main` branch.
+- GitHub Actions is used for the site release flow that appends/increments the site version number and creates tags.
+- CircleCI is responsible for build and htmlproofer validation.
+- `.github/workflows/deploy.yml` currently includes Pages artifact upload/deploy steps even though repository settings deploy Pages from `main`; treat changes to this workflow as deployment/versioning work that needs maintainer approval.
 
 Relevant files:
 
@@ -95,6 +96,7 @@ Non-Docker build commands:
 
 ```bash
 bundle install
+ruby tools/validate_data.rb
 bundle exec jekyll build --verbose
 bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\\/\\//'
 ```
@@ -106,6 +108,7 @@ If local Ruby or gem setup fails, report the failure clearly instead of editing 
 Before finishing a change, check:
 
 - YAML parses correctly.
+- `ruby tools/validate_data.rb` passes.
 - Jekyll builds successfully when the environment supports it.
 - Conference URLs include `utm_source=testingconferences` where appropriate.
 - `twitter` values do not include `@`.

@@ -7,7 +7,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 ## Phase 1.5: Agent Readiness
 
-- [ ] **Documentation Freshness**: Remove stale CircleCI references, update badges, and document the current GitHub Actions workflow.
+- [ ] **Workflow Simplification**: Simplify or rename `.github/workflows/deploy.yml` so it matches the confirmed model where GitHub Pages deploys from `main`.
 
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
@@ -15,8 +15,8 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 - [ ] **Lighthouse Tracking**: Automate Lighthouse audits during CI and record Performance, Accessibility, and SEO scores per version.
 - [ ] **Link Integrity**: Implement a broken link checker (e.g., `linkinator`) to log broken link counts against the current version.
 - [ ] **Build Analytics**: Track and log build times to monitor the impact of site growth on CI/CD performance.
-- [ ] **Bug Attribution**: Update Issue Templates to include a "Site Version" field to track bug counts relative to specific releases.
-- [ ] **Conference Data Validator**: Add a machine-checkable validator for `_data/current.yml`, `_data/past.yml`, and `_data/closed.yml` covering required fields, allowed fields, duplicate names, chronological ordering, URL tracking parameters, and `twitter` formatting.
+- [x] **Bug Attribution**: Update Issue Templates to include a "Site Version" field to track bug counts relative to specific releases.
+- [x] **Conference Data Validator**: Add a machine-checkable validator for `_data/current.yml`, `_data/past.yml`, and `_data/closed.yml` covering required fields, allowed fields, duplicate names, chronological ordering, URL tracking parameters, and `twitter` formatting.
 - [ ] **PR Validation**: Add a pull request workflow that runs the Jekyll build and conference data validator before merge.
 
 ## Phase 3: Developer Experience (DX) & AI Workflows

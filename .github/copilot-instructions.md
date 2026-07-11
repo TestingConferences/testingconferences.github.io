@@ -20,4 +20,4 @@ If this file conflicts with `AGENTS.md`, prefer `AGENTS.md`.
 
 When the local environment supports it, use the build and validation commands documented in `AGENTS.md`.
 
-CircleCI is currently responsible for build validation and site deployment. For the site release flow, GitHub Actions is currently used for appending/incrementing the site version number.
+GitHub Pages production is configured to deploy from `main`. CircleCI handles build/htmlproofer validation. GitHub Actions handles the version/tag release flow. Do not change CI, deployment, or versioning without maintainer approval.
