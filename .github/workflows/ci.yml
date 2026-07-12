@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Validate conference data
+        run: ruby tools/validate_data.rb
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --verbose
+
+      - name: Validate generated site
+        run: bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\/\//'
