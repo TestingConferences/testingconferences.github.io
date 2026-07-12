@@ -17,7 +17,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 - [ ] **Build Analytics**: Track and log build times to monitor the impact of site growth on CI/CD performance.
 - [x] **Bug Attribution**: Update Issue Templates to include a "Site Version" field to track bug counts relative to specific releases.
 - [x] **Conference Data Validator**: Add a machine-checkable validator for `_data/current.yml`, `_data/past.yml`, and `_data/closed.yml` covering required fields, allowed fields, duplicate names, chronological ordering, URL tracking parameters, and `twitter` formatting.
-- [ ] **PR Validation**: Add a pull request workflow that runs the Jekyll build and conference data validator before merge.
+- [x] **PR Validation**: Add a pull request workflow that runs the conference data validator, Jekyll build, and htmlproofer before merge.
 
 ## Phase 3: Developer Experience (DX) & AI Workflows
 *Goal: Streamline contributions using automation and AI context.*

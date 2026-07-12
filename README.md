@@ -1,4 +1,4 @@
-# [Testing Conferences](https://testingconferences.org) [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=svg)](https://circleci.com/gh/TestingConferences/testingconferences.github.io) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
+# [Testing Conferences](https://testingconferences.org) [![CI](https://github.com/TestingConferences/testingconferences.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/TestingConferences/testingconferences.github.io/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 > [!IMPORTANT]
 > We've switch TO `main` and away from `master` branch
@@ -81,8 +81,7 @@ The site uses an automated versioning system to track each deployment:
 - **Git Tags**: Each deployment is tagged in Git with the format `vXXXX` (e.g., `v1501`)
 - **Footer Display**: The current version is displayed in the site footer as `rev.XXXX.`
 - **GitHub Pages**: Production is configured to deploy from the `main` branch.
-- **GitHub Actions**: Used for the site release flow that appends/increments the version number and creates tags.
-- **CircleCI**: Handles build and htmlproofer validation.
+- **GitHub Actions**: Validates conference data, builds the site, runs htmlproofer, and manages the version/tag release flow.
 
 This versioning system enables:
 - Tracking which version of the site is deployed
