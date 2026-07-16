@@ -32,6 +32,13 @@
   twitter: lambdatesting
   status: <a href="https://www.testmuai.com/testmuconf-2026?utm_source=testingconferences&utm_medium=organic&utm_content=testmu_2026" target="_blank">Registration is Open and Free</a>
 
+- name: "Tricentis Transform 2026: Dallas"
+  location: Arlington, TX, USA
+  dates: "August 19-20, 2026"
+  url: https://events.tricentis.com/transform-dallas-2026/
+  twitter: Tricentis
+  status: <a href="https://www.tricentis.com/transform-dallas-2026/registration" target="_blank">Registration is Open</a>
+
 - name: Tester's Day 2026
   location: Tbilisi, Georgia
   dates: "September 9, 2026"
@@ -48,6 +55,13 @@
   dates: "September 16-17, 2026"
   url: https://tacon-konferenz.de?utm_source=testingconferences
   status: <a href="https://events.summit-community.de/event/tacon-2026/tickets/?utm_source=testingconferences" target="_blank">Conference Registration is Open</a> until August 23, 2026
+
+- name: "Tricentis Transform 2026: Singapore"
+  location: Singapore
+  dates: "September 16-17, 2026"
+  url: https://events.tricentis.com/transform-singapore-2026/
+  twitter: Tricentis
+  status: <a href="https://www.tricentis.com/transform-singapore-2026/registration" target="_blank">Registration is Open</a>
 
 - name: TestGuild IRL Boston 2026
   location: Boston, MA, USA
@@ -146,6 +160,13 @@
   dates: "October 20-21, 2026"
   url: https://www.dstb.dk/konferencer/2026?utm_source=testingconferences
   status: <a href="https://www.dstb.dk/konferencer/2026?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until August 31, 2026
+
+- name: "Tricentis Transform 2026: London"
+  location: London, UK
+  dates: "October 21-22, 2026"
+  url: https://events.tricentis.com/transform-london-2026/
+  twitter: Tricentis
+  status: <a href="https://events.tricentis.com/transform-london-2026/registration" target="_blank">Registration is Open</a>
 
 - name: TestCon Europe 2026
   location: Vilnius, Lithuania
