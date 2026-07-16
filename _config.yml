@@ -4,6 +4,7 @@ email: chris@kenst.com
 description: A simple list of software testing conferences and workshops, published collaboratively with the software testing community.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://testingconferences.org" # the base hostname & protocol for your site
+lang: en
 twitter_username: ckenst
 github_username: TestingConferences
 plugins:
@@ -14,6 +15,12 @@ plugins:
 
 # Build settings
 markdown: kramdown
+exclude:
+  - AGENTS.md
+  - Agent_Readiness.md
+  - PHASE_2_PLAN.md
+  - ROADMAP.md
+  - SETUP.md
 defaults:
   - values:
       author: "Chris Kenst"

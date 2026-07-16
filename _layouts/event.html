@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="event-page">
+  <p><a href="{{ site.baseurl }}/">← Upcoming conferences</a></p>
+  <header class="post-header">
+    <h1>{{ page.event.name }}</h1>
+    <p class="post-meta">{{ page.event.dates }} · {{ page.event.location }}</p>
+  </header>
+
+  <p>{{ page.event.description }}</p>
+
+  <dl>
+    <dt>Date</dt>
+    <dd>
+      <time datetime="{{ page.event.start_date }}">{{ page.event.dates }}</time>
+    </dd>
+    <dt>Location</dt>
+    <dd>{{ page.event.location }}</dd>
+    {% if page.event.status %}<dt>Status</dt><dd>{{ page.event.status }}</dd>{% endif %}
+  </dl>
+
+  <p><a href="{{ page.event.url }}" target="_blank" rel="noopener">Visit the official event site</a></p>
+</article>
+
+<script type="application/ld+json">
+{{ page.event.schema | jsonify }}
+</script>
