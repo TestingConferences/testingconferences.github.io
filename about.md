@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/
 title: About
+description: Learn about TestingConferences.org, its community-maintained software testing conference list, and its inclusion criteria.
 ---
 
 We are the only up to date list of Software Testing conferences and workshops published collaboratively with the global testing community.

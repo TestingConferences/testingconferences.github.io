@@ -2,6 +2,7 @@
 layout: default
 permalink: /news/
 title: Latest News
+description: News and updates from TestingConferences.org, including conference-list changes and community announcements.
 ---
 
 <div class="home">
@@ -10,7 +11,7 @@ title: Latest News
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <time class="post-meta" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%b %-d, %Y" }}</time>
 
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

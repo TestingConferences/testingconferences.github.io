@@ -2,6 +2,7 @@
 layout: page
 permalink: /sponsorships/
 title: Sponsoring Software Testing Conferences
+description: Learn how to support TestingConferences.org and its community-maintained software testing conference listings.
 ---
 
 **Sponsoring Us**

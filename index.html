@@ -11,7 +11,7 @@ layout: default
       <li>
         <h2><a href="{{ site.baseurl }}/events/{{ current.name | slugify }}/">{{ current.name }}</a></h2>
         <p>
-          <strong>Date:</strong> {{ current.dates }}
+          <strong>Date:</strong> <time datetime="{{ current.dates | date: '%Y-%m-%d' }}">{{ current.dates }}</time>
           <strong>Location:</strong> {{ current.location }}
           {% if current.status != nil %}<strong>Status:</strong> {{current.status}}{% endif %}
           <a href="{{ current.url }}" target="_blank" rel="noopener">Official event site</a>

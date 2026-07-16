@@ -2,6 +2,7 @@
 layout: default
 permalink: /past/
 title: Past Software Testing Conferences
+description: Browse the archive of past software testing conferences and workshops, including event dates, locations, and recordings where available.
 ---
 
 <ul class="post-list">
@@ -9,7 +10,7 @@ title: Past Software Testing Conferences
   <li>
     <h2><a href="{{past.url}}">{{ past.name }}</a></h2>
     <p>
-      <i class="fa fa-calendar" role="img" aria-label="Dates" title="Dates"></i> {{ past.dates }} <i class="fa fa-map-marker" role="img" aria-label="Location" title="Location"></i> {{ past.location }}
+      <strong>Date:</strong> <time datetime="{{ past.dates | date: '%Y-%m-%d' }}">{{ past.dates }}</time> <strong>Location:</strong> {{ past.location }}
       {% if past.twitter != nil %}<a href="https://www.twitter.com/{{past.twitter}}"><i
           class="fa-brands fa-x-twitter" aria-hidden="true" title="X (Twitter)"></i>{{past.twitter}}</a>{% endif %}
       {% if past.video_url != nil %}<a href="{{ past.video_url }}"><i class="fa fa-video-camera" aria-hidden="true" title="Event videos"></i> Event

@@ -2,6 +2,7 @@
 layout: default
 permalink: /videos/
 title: Software Testing Conference Videos
+description: Find recordings and video playlists from past software testing conferences and workshops.
 ---
 
 <p>
@@ -23,7 +24,7 @@ title: Software Testing Conference Videos
       <li>
         <h3><a href="{{ conference.url }}">{{ conference.name }}</a></h3>
         <p>
-          <i class="fa fa-calendar"></i> {{ conference.dates }}
+          <strong>Date:</strong> <time datetime="{{ conference.dates | date: '%Y-%m-%d' }}">{{ conference.dates }}</time>
           <br />
           <a href="{{ conference.video_url }}"><i class="fa fa-video-camera"></i> Watch Event Videos</a>
         </p>

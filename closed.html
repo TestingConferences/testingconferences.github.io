@@ -2,6 +2,7 @@
 layout: default
 permalink: /closed/
 title: Closed Software Testing Conferences
+description: A reference list of software testing conferences and workshops that have ended or been discontinued.
 ---
 
 <p>Conferences and workshops that have shut down or ended their annual conference series.</p>
@@ -12,8 +13,8 @@ title: Closed Software Testing Conferences
     <h2><a href="{{ conference.url }}">{{ conference.name }}</a></h2>
     <p>
       Location: {{ conference.location }}<br>
-      First held: {{ conference.first_date }}<br>
-      Last held: {{ conference.last_date }}
+      First held: <time datetime="{{ conference.first_date | date: '%Y-%m-%d' }}">{{ conference.first_date }}</time><br>
+      Last held: <time datetime="{{ conference.last_date | date: '%Y-%m-%d' }}">{{ conference.last_date }}</time>
       {% if conference.status != nil %}<br>Status: {{ conference.status }}{% endif %}
     </p>
   </li>
