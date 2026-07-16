@@ -1,3 +1,15 @@
+- name: TestGuild IRL Minneapolis 2026
+  location: Bloomington, MN, USA
+  dates: "July 14, 2026"
+  url: https://testguild.com/irl/minneapolis-2026?utm_source=testingconferences
+  twitter: testguilds
+
+- name: TribeQonf 2026
+  location: Bengaluru, India
+  dates: "July 10-11, 2026"
+  url: https://www.thetesttribe.com/tribeqonf/?utm_source=testingconferences
+  twitter: The_Test_Tribe
+
 - name: "Human-Centred Testing: People and Practices & the Future of the Profession"
   location: London, UK
   dates: "July 7, 2026"
