@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages with Version Increment
+name: Release Version
 
 on:
   push:
@@ -7,20 +7,15 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
-# Allow only one concurrent deployment
+# Prevent concurrent runs from calculating the same version number.
 concurrency:
-  group: "pages"
+  group: "release-version"
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  version-and-tag:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,20 +46,6 @@ jobs:
           # Set output for later steps
           echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-          bundler-cache: true
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Build with Jekyll
-        run: bundle exec jekyll build
-        env:
-          JEKYLL_ENV: production
-
       - name: Commit Version File
         run: |
           git config user.name "github-actions[bot]"
@@ -88,12 +69,3 @@ jobs:
             git tag -a "v${{ steps.version.outputs.version }}" -m "Release version ${{ steps.version.outputs.version }}"
             git push origin "v${{ steps.version.outputs.version }}"
           fi
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
