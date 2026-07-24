@@ -4,7 +4,7 @@ Updated: July 11, 2026
 
 This repo is in decent shape for AI-assisted maintenance, especially for simple conference data updates. It is more agent-ready than the previous assessment because the repo now has a top-level `AGENTS.md` with project context, safe edit zones, data rules, validation guidance, and maintainer-approval boundaries.
 
-The main remaining weakness is that most guardrails are still documented in prose instead of enforced by automated validation. Agents can follow the rules, but the repo does not yet reliably catch mistakes before review.
+The conference-data validator makes some important guardrails executable, but it is not yet part of CI on `main`. The remaining weaknesses are concentrated in validation enforcement, deployment clarity, undocumented maintenance scripts, and developer-tooling expectations that still exist only in prose.
 
 ## Current Readiness
 
@@ -12,7 +12,7 @@ The main remaining weakness is that most guardrails are still documented in pros
 
 **Autonomous agent workflows:** 6/10
 
-The project has a simple Jekyll structure, clear conference data files, a root agent instruction file, a conference data validator, documented CI/deploy ownership, and useful contributor documentation. Autonomous workflows still need CI integration for the validator and better documentation for maintenance scripts.
+The project has a simple Jekyll structure, clear conference data files, a root agent instruction file, a conference data validator, documented approval boundaries, and useful contributor documentation. Autonomous workflows are credible for narrow conference-data changes with human review, but broad maintenance still needs enforced validation, clearer tool contracts, and unambiguous deployment behavior.
 
 ## What Already Helps Agents
 
@@ -30,36 +30,42 @@ The project has a simple Jekyll structure, clear conference data files, a root a
 - `ROADMAP.md` now tracks the remaining agent-readiness work, quality metrics work, validation work, and developer-experience improvements.
 - `tools/` contains maintenance scripts, especially `tools/identify_updates.rb`, though these scripts are not yet documented.
 
-## Main Gaps
+## Main Gaps By Priority
 
-- The conference data validator exists, but it is not yet wired into CI.
-- There is no obvious pull request validation workflow owned by GitHub Actions. CircleCI performs build validation, but the validator is not yet part of that validation.
-- The CI/deploy story still has one confusing implementation detail: `.github/workflows/deploy.yml` includes Pages artifact upload/deploy steps even though repository settings deploy Pages from the `main` branch.
+### P1: Critical
+
+No critical gaps remain for supervised conference-data changes.
+
+### P2: Important
+
+- The conference data validator is not wired into CI on `main`. CircleCI runs the Jekyll build and htmlproofer, but schema, tracking-parameter, Twitter-handle, duplicate, and ordering checks depend on contributors remembering to run the validator locally.
+- The deployment model remains internally confusing. Repository settings deploy GitHub Pages from `main`, while `.github/workflows/deploy.yml` also configures, uploads, and deploys a Pages artifact. The same workflow mutates `main` by incrementing `_includes/VERSION.txt` and creating a tag. An agent can identify the approval boundary, but cannot confidently determine which deployment path is authoritative or safely change the workflow.
+- The maintenance scripts have no documented contracts. `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb` are not described in README, CONTRIBUTING, SETUP, or `AGENTS.md`; their inputs, generated files, intended review steps, and destructive/non-destructive behavior must be inferred from source.
+- The validator itself has no automated test suite or fixtures. Running it proves it accepts the current data, but does not protect expected failures, warning behavior, date parsing, or schema changes from regression.
+
+### P3: Useful
+
 - Formatting guidance is partial. The repo has `.prettierrc`, but there is no `package.json`, documented Prettier command, ESLint config, `.editorconfig`, or Ruby lint config.
-- Issue templates now exist with site-version fields, but there is not yet any automation that aggregates issues by version.
-- The maintenance scripts are still undiscoverable. `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb` are not mentioned in README, CONTRIBUTING, SETUP, or `AGENTS.md`.
-- Local verification is partly fragile. Docker is documented, but the non-Docker Ruby/gem path can fail if the local environment is not prepared.
-- Generated-file guidance exists in `AGENTS.md`, `README.md`, and `CONTRIBUTING.md`.
-- The source-of-truth policy for conference updates exists in `AGENTS.md`, `README.md`, and `CONTRIBUTING.md`.
+- Local verification is partly fragile. Docker is documented, but the non-Docker path has no `.ruby-version` or setup troubleshooting, and requires the correct Ruby and locally installed locked gems.
+- Issue templates collect site versions, but no automation aggregates issues by version for the quality ledger.
+- `CONTRIBUTING.md` refers to a Code of Conduct using placeholder text, and tells users to open a "Question" issue although there is no dedicated question issue form.
 
 ## Recommended Next Additions
 
-1. Simplify or rename `.github/workflows/deploy.yml` so the workflow implementation matches the confirmed deployment model.
+1. Consolidate pull-request validation in GitHub Actions and include `ruby tools/validate_data.rb`, the Jekyll build, and htmlproofer.
+2. Resolve the deployment/versioning workflow so its implementation matches the confirmed deployment model.
    - Keep the version increment and tag behavior if still wanted.
-   - Remove or explain the Pages artifact/deploy steps if production deploys from `main`.
-2. Add the conference data validator to PR validation.
-   - `ruby tools/validate_data.rb`.
-3. Add or document PR validation expectations.
-   - CircleCI build.
-   - Jekyll build.
-   - htmlproofer.
-4. Document the `tools/` scripts or remove/replace the ones that are no longer part of the workflow.
-5. Add documented formatting commands for Prettier, and either add ESLint intentionally or stop referring to ESLint as expected tooling.
-6. Add automation or reporting that connects issue-template site-version data to the quality ledger.
-7. Make local verification docs clearer for both Docker and non-Docker setups.
+   - Choose either branch-based Pages deployment or Actions-based Pages deployment and document the source of truth.
+3. Document each maintenance script's purpose, invocation, inputs, outputs, and human review step; remove scripts that are no longer supported.
+4. Add focused tests and fixtures for `tools/validate_data.rb`, including valid entries and representative hard failures.
+5. Require the consolidated validation check in the `main` branch protection or ruleset, then document that expectation.
+6. Add documented formatting commands for Prettier, and either add ESLint intentionally or remove it from the roadmap.
+7. Make local verification reliable for both Docker and non-Docker setups, including the expected Ruby version.
+8. Replace the Code of Conduct placeholder and align contributor support text with the available issue forms.
+9. Add automation or reporting that connects issue-template site-version data to the quality ledger.
 
 ## Current Bottom Line
 
-The repo is now ready for supervised AI agents to make narrow, reviewable changes such as adding, updating, moving, or closing conference entries.
+The repo is ready for supervised AI agents to make narrow, reviewable conference changes. The validator provides useful local safeguards, while CircleCI enforces the build and generated-site checks.
 
-It is not yet ready for broad autonomous maintenance because the most important rules are still human-readable instructions rather than executable checks.
+It is not yet ready for broad autonomous maintenance because the validator is not enforced in CI and deployment authority, maintenance-tool contracts, and validator regression behavior are not fully specified.
