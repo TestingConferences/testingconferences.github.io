@@ -17,18 +17,18 @@ TestingConferences.org is a community-maintained Jekyll site for software testin
 
 ## CI And Deployment
 
-This repository currently uses GitHub Pages, GitHub Actions, and CircleCI.
+This repository uses GitHub Pages and GitHub Actions.
 
 - GitHub Pages production is configured to deploy from the `main` branch.
-- GitHub Actions is used for the site release flow that appends/increments the site version number and creates tags.
-- CircleCI is responsible for build and htmlproofer validation.
+- GitHub Actions validates pull requests and pushes to `main` by running the conference data validator, Jekyll build, and htmlproofer.
+- GitHub Actions also runs the site release flow that appends/increments the site version number and creates tags.
 - `.github/workflows/deploy.yml` currently includes Pages artifact upload/deploy steps even though repository settings deploy Pages from `main`; treat changes to this workflow as deployment/versioning work that needs maintainer approval.
 
 Relevant files:
 
 - `.github/workflows/deploy.yml`
+- `.github/workflows/ci.yml`
 - `.github/workflows/auto-assign.yml`
-- `.circleci/config.yml`
 
 ## Safe Edit Zones
 

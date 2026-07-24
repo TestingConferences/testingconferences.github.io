@@ -20,4 +20,4 @@ If this file conflicts with `AGENTS.md`, prefer `AGENTS.md`.
 
 When the local environment supports it, use the build and validation commands documented in `AGENTS.md`.
 
-GitHub Pages production is configured to deploy from `main`. CircleCI handles build/htmlproofer validation. GitHub Actions handles the version/tag release flow. Do not change CI, deployment, or versioning without maintainer approval.
+GitHub Pages production is configured to deploy from `main`. GitHub Actions handles conference data validation, the Jekyll build, htmlproofer, and the version/tag release flow. Do not change CI, deployment, or versioning without maintainer approval.
