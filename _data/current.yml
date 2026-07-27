@@ -55,14 +55,14 @@
   dates: "September 16-17, 2026"
   url: https://events.tricentis.com/transform-singapore-2026/?utm_source=testingconferences
   twitter: Tricentis
-  status: <a href="https://events.tricentis.com/transform-singapore-2026/registration/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until July 24, 2026
+  status: <a href="https://events.tricentis.com/transform-singapore-2026/registration/?utm_source=testingconferences" target="_blank">Regular Registration is Open</a>
 
 - name: STARWEST 2026
   location: Anaheim, CA, USA and Online
   dates: "September 20-25, 2026"
   url: https://starwest.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://starwest.techwell.com/pricing-packages?utm_source=testingconferences" target="_blank">Super Early Bird Pricing is Open</a> until July 24, 2026
+  status: <a href="https://starwest.techwell.com/pricing-packages?utm_source=testingconferences" target="_blank">Early Bird Pricing is Open</a> until August 21, 2026
 
 - name: Targeting Quality 2026
   location: Cambridge, Ontario, Canada
@@ -135,7 +135,7 @@
   dates: "October 14, 2026"
   url: https://www.onlinetestconf.com/?utm_source=testingconferences
   twitter: OnlineTestConf
-  status: Cancelled
+  status: On pause for 2026; returning in 2027
   
 - name: QA&TEST International Conference on Software QA & Testing on Embedded Systems 2026
   location: Bilbao, Spain
@@ -274,7 +274,7 @@
 
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
-  dates: "May 24-25, 2027"
+  dates: "May 25, 2027"
   url: https://www.wetest-athens.gr/?utm_source=testingconferences
   status: <a href="https://www.wetest-athens.gr/?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
