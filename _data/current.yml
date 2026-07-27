@@ -129,13 +129,6 @@
   dates: "October 13, 2026"
   url: https://qualitysenseconf.com/?utm_source=testingconferences
   status: Announced
-
-- name: OnlineTestConf 2026 
-  location: Online
-  dates: "October 14, 2026"
-  url: https://www.onlinetestconf.com/?utm_source=testingconferences
-  twitter: OnlineTestConf
-  status: On pause for 2026; returning in 2027
   
 - name: QA&TEST International Conference on Software QA & Testing on Embedded Systems 2026
   location: Bilbao, Spain
@@ -291,3 +284,10 @@
   url: https://testguild.com/irl?utm_source=testingconferences
   twitter: testguilds
   status: Postponed to 2027; date and details TBA
+
+- name: OnlineTestConf 2027 
+  location: Online
+  dates: "2027 TBA"
+  url: https://www.onlinetestconf.com/?utm_source=testingconferences
+  twitter: OnlineTestConf
+  status: On pause for 2026; returning in 2027
