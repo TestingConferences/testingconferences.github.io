@@ -44,6 +44,19 @@
   dates: "September 9, 2026"
   url: https://geostqb.org/testers-day-2026/?utm_source=testingconferences
 
+- name: TestearLa 2026
+  location: Buenos Aires, Argentina and Online
+  dates: "September 9-10, 2026"
+  url: https://www.testear.la/?utm_source=testingconferences
+  status: Announced
+
+- name: TAPIA (Peer Workshop on Testing and AI)
+  location: Buenos Aires, Argentina 
+  dates: "September 7-9, 2026"
+  url: https://es.abstracta.us/blog/tapia-2026/?utm_source=testingconferences
+  status: Announced
+  
+
 - name: EuroSTAR Global Series 2026
   location: Online
   dates: "September 15, 2026"
@@ -132,7 +145,7 @@
   status: <a href="https://pnsqc.org/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Quality Sense Conf 2026
-  location: Montevideo, Uruguay
+  location: Montevideo, Uruguay and Online
   dates: "October 13, 2026"
   url: https://qualitysenseconf.com/?utm_source=testingconferences
   status: Announced
