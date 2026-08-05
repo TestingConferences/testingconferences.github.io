@@ -278,6 +278,13 @@
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: Testing Peers Conference 2027
+  location: Nottingham, UK
+  dates: "March 11, 2027"
+  url: https://testingpeerscon.com/?utm_source=testingconferences
+  twitter: testingpeers
+  status: CFP is Closed
+
 - name: STAREAST 2027
   location: Orlando, FL, USA and Online
   dates: "April 25-30, 2027"
