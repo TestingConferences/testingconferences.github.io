@@ -4,11 +4,13 @@ permalink: /guides/speaking/handle-acceptance-waitlists-and-rejection/
 title: "Part 6: Handle Acceptance, Waitlists, and Rejection"
 ---
 
-[← Part 5: Understand How Conferences Choose Talks](/guides/speaking/understand-how-conferences-choose-talks/)
+[← Part 5: Write and Submit a Proposal](/guides/speaking/write-and-submit-a-proposal/)
 
 *Part 6 of 8 in [A Guide to Speaking at Technology Conferences](/guides/speaking-at-technology-conferences/).*
 
 Every submission ends in one of a few outcomes. Responding professionally protects both you and the organizers and makes the next step easier.
+
+This article expands on CFP Land's archived [“What Comes Next? Dealing with Success or Rejection”](https://web.archive.org/web/20220701014118mp_/https://www.cfpland.com/guides/speaking/success-rejection/).
 
 ## If the proposal is accepted
 
@@ -25,6 +27,10 @@ Tell the organizers quickly if you cannot meet a condition. It is better to decl
 
 Once confirmed, block preparation and travel time. Save the organizer's contact details somewhere accessible without internet service.
 
+Acceptance can trigger doubt as well as excitement. Remember that the committee chose the proposal with more context than your anxious inner critic has. You do not need to know everything about the subject; you need to deliver the bounded session you promised. Seek a rehearsal partner or speaker mentor rather than withdrawing solely because you feel like an impostor.
+
+Keep expectations flexible. Events, formats, rooms, and schedules can change, and in rare cases the whole conference may be cancelled. Avoid tying your self-worth or unrecoverable expenses to plans that are not final.
+
 ## If the proposal is waitlisted
 
 A waitlist is a real possibility, not a promise. Ask when a final decision is likely and whether you should reserve travel. Do not make nonrefundable purchases unless the organizers clearly agree to cover them.
@@ -37,6 +43,8 @@ Rejection is common, including for experienced speakers. It does not establish t
 
 If feedback is offered, look for specific, actionable themes. Reviewers can be wrong or disagree with one another, so use judgment rather than applying every comment mechanically. If no feedback is offered, do not demand private deliberations from volunteer organizers.
 
+Some events never send a rejection and simply publish the program. That is poor communication, but it is not an invitation to harass organizers. After the stated notification date, ask once, update your tracker, and make other plans.
+
 Revisit four possibilities:
 
 1. **Fit:** Was this the right event, track, and audience?
@@ -46,6 +54,8 @@ Revisit four possibilities:
 
 Revise the idea, try a shorter version at a meetup, or submit it to a better-matched event. Also allow yourself to retire a proposal. Persistence means learning and choosing again, not sending the same text forever.
 
+When asking for feedback, make the request easy to decline. You can also compare the accepted program with your proposal: look for topic overlap, missing levels, and differences in specificity without assuming you know the committee's private reasoning. Rejection happens to experienced speakers too and often reflects program constraints rather than proposal quality.
+
 ## If circumstances change
 
 Withdraw as soon as you know you cannot speak. Give a brief, honest explanation and help the organizer recover time. You do not owe private medical or family details.
@@ -54,5 +64,4 @@ Organizers may also cancel or change an event. Keep receipts, understand refund 
 
 ---
 
-[← Part 5: Understand How Conferences Choose Talks](/guides/speaking/understand-how-conferences-choose-talks/) · [Part 7: Prepare Before the Conference →](/guides/speaking/prepare-before-the-conference/)
-
+[← Part 5: Write and Submit a Proposal](/guides/speaking/write-and-submit-a-proposal/) · [Part 7: Prepare a Conference Presentation →](/guides/speaking/prepare-a-conference-presentation/)

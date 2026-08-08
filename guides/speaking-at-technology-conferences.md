@@ -18,22 +18,22 @@ This eight-part guide follows that journey from the first thought of speaking th
 2. [Decide Why You Want to Speak](/guides/speaking/decide-why-you-want-to-speak/)
    Identify what you want to share and make the commitment realistic.
 
-3. [Find Calls for Proposals](/guides/speaking/find-calls-for-proposals/)
+3. [Understand How Conferences Choose Talks](/guides/speaking/understand-how-conferences-choose-talks/)
+   See how reviewers evaluate proposals and assemble a balanced program.
+
+4. [Find Calls for Proposals](/guides/speaking/find-calls-for-proposals/)
    Discover suitable CFPs, evaluate event fit, and track opportunities.
 
-4. [Write and Submit a Proposal](/guides/speaking/write-and-submit-a-proposal/)
+5. [Write and Submit a Proposal](/guides/speaking/write-and-submit-a-proposal/)
    Turn an idea into a clear title, abstract, outline, and biography.
-
-5. [Understand How Conferences Choose Talks](/guides/speaking/understand-how-conferences-choose-talks/)
-   See how reviewers evaluate proposals and assemble a balanced program.
 
 6. [Handle Acceptance, Waitlists, and Rejection](/guides/speaking/handle-acceptance-waitlists-and-rejection/)
    Respond professionally to every possible submission outcome.
 
-7. [Prepare Before the Conference](/guides/speaking/prepare-before-the-conference/)
-   Design, rehearse, and make the session accessible and resilient.
+7. [Prepare a Conference Presentation](/guides/speaking/prepare-a-conference-presentation/)
+   Choose a format, design the material, rehearse, and build resilient demos.
 
-8. [Give the Presentation](/guides/speaking/give-the-presentation/)
-   Set up, deliver the talk, manage questions, and learn from the experience.
+8. [Prepare for the Conference](/guides/speaking/prepare-for-the-conference/)
+   Manage travel, equipment, on-site checks, and the hours before speaking.
 
 New to conference speaking? Begin with [Part 1: Understand Technology Conferences](/guides/speaking/understand-technology-conferences/).

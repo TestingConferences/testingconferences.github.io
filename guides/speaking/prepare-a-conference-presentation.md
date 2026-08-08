@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /guides/speaking/prepare-before-the-conference/
-title: "Part 7: Prepare Before the Conference"
+permalink: /guides/speaking/prepare-a-conference-presentation/
+title: "Part 7: Prepare a Conference Presentation"
 ---
 
 [← Part 6: Handle Acceptance, Waitlists, and Rejection](/guides/speaking/handle-acceptance-waitlists-and-rejection/)
@@ -9,6 +9,19 @@ title: "Part 7: Prepare Before the Conference"
 *Part 7 of 8 in [A Guide to Speaking at Technology Conferences](/guides/speaking-at-technology-conferences/).*
 
 Preparation turns an accepted idea into an experience the audience can follow. Start with the promise in the proposal; attendees chose the session based on it.
+
+This article expands on CFP Land's archived [“Preparing a Conference Presentation”](https://web.archive.org/web/20220701014119mp_/https://www.cfpland.com/guides/speaking/presentation/).
+
+## Choose a presentation shape
+
+Different ideas need different structures. Four useful starting points are:
+
+1. **A new solution to a familiar problem:** establish the problem, compare existing approaches, then demonstrate and qualify your approach.
+2. **A change journey:** show the original situation, the disruption or failure, the difficult middle, and what you learned—not just a polished victory.
+3. **A technical deep dive:** take the audience beneath a tool's normal interface and explain mechanisms, evidence, and consequences they rarely see.
+4. **A live demonstration:** build or investigate something in real time while narrating the decisions. Rehearse heavily and prepare a recording, screenshots, or completed state for every fragile step.
+
+These are scaffolds, not rules. A testing experience report might combine a change story with a technical demonstration and finish with a decision framework.
 
 ## Design the story before the slides
 
@@ -48,6 +61,14 @@ Use large text, strong contrast, descriptive link text, and meaningful labels on
 
 Ask the conference about microphones, ramps, seating, captioning, interpreters, quiet spaces, and other support you need. Accessibility includes the speaker as well as the audience.
 
+## Choose familiar tools
+
+Slides are common, but they are not mandatory. Use a tool you can operate without spending attention on it. If you include video or audio, embed local copies, add captions, and test venue playback. Practice with the same laptop, slide remote, microphone style, and adapters you expect to use.
+
+Keep slides focused on illustration, evidence, and orientation. Dense paragraphs force people to choose between reading and listening. The opening slide should identify the session for people entering the room or watching a recording; the closing slide can hold accessible resources and contact details.
+
+Use humor only when it supports the audience's comfort and the lesson. Avoid making a person or community the target, and test uncertain material with someone who can challenge it honestly.
+
 ## Prepare the logistics
 
 Confirm the slide aspect ratio, connection types, operating system constraints, internet availability, and whether you must provide materials in advance. Bring local copies of slides, fonts, videos, and demo dependencies. Carry the adapters you need and a backup on a separate device or drive.
@@ -56,5 +77,4 @@ Know when and where to meet the session chair. Plan travel with enough margin fo
 
 ---
 
-[← Part 6: Handle Acceptance, Waitlists, and Rejection](/guides/speaking/handle-acceptance-waitlists-and-rejection/) · [Part 8: Give the Presentation →](/guides/speaking/give-the-presentation/)
-
+[← Part 6: Handle Acceptance, Waitlists, and Rejection](/guides/speaking/handle-acceptance-waitlists-and-rejection/) · [Part 8: Prepare for the Conference →](/guides/speaking/prepare-for-the-conference/)

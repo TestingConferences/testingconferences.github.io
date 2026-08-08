@@ -110,4 +110,4 @@ Write down a modest first goal, such as giving one ten-minute talk, submitting t
 
 ---
 
-[← Part 1: Understand Technology Conferences](/guides/speaking/understand-technology-conferences/) · [Part 3: Find Calls for Proposals →](/guides/speaking/find-calls-for-proposals/)
+[← Part 1: Understand Technology Conferences](/guides/speaking/understand-technology-conferences/) · [Part 3: Understand How Conferences Choose Talks →](/guides/speaking/understand-how-conferences-choose-talks/)
