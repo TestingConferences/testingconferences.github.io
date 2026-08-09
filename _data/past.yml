@@ -1,3 +1,14 @@
+- name: Testing Talks Sydney 2026
+  location: Sydney, Australia
+  dates: "August 6, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-sydney?utm_source=testingconferences
+
+- name: CAST 2026
+  location: Cocoa Beach, FL, USA
+  dates: "August 3-5, 2026"
+  url: https://associationforsoftwaretesting.org/conference/?utm_source=testingconferences
+  twitter: AST_News
+
 - name: TestGuild IRL Chicago 2026
   location: Arlington Heights, IL, USA
   dates: "July 16, 2026"
