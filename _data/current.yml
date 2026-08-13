@@ -110,13 +110,11 @@
   location: Budapest
   dates: "October 6-8, 2026"
   url: https://hustef.com/?utm_source=testingconferences
-  status: <a href="https://hustef.com/tickets_2026/?utm_source=testingconferences" target="_blank">Regular Registration is Open</a>
 
 - name: Wrobocon 2026 - Robot Framework Conference
   location: Online
   dates: "October 8, 2026"
   url: https://wrobocon.eu/?utm_source=testingconferences
-  status: <a href="https://tally.so/r/3lPJlk?utm_source=testingconferences" target="_blank">CFP is Open</a> until August 10, 2026
 
 - name: Testing Talks Melbourne 2026
   location: Melbourne, Australia
