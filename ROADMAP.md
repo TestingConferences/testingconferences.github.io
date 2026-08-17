@@ -7,7 +7,7 @@ Continue to use TCorg to experiment and learn. I want to track quality metrics a
 
 ## Phase 1.5: Agent Readiness
 
-- [ ] **Workflow Simplification**: Simplify or rename `.github/workflows/deploy.yml` so it matches the confirmed model where GitHub Pages deploys from `main`.
+- [x] **Workflow Simplification**: Simplify or rename `.github/workflows/deploy.yml` so it matches the confirmed model where GitHub Pages deploys from `main`.
 
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
