@@ -203,6 +203,13 @@
   url: https://testdag.nl/?utm_source=testingconferences
   status: CFP is Closed
 
+- name: "QX Day (Sogeti) 2026"
+  location: Utrecht, Netherlands
+  dates: "October 2026 (TBA)"
+  url: https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences
+  status: Announced
+
+
 - name: TestGuild IRL Austin 2026
   location: Austin, TX, USA
   dates: "November 3, 2026"

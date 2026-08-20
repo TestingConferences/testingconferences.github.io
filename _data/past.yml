@@ -73,11 +73,27 @@
   dates: "June 2-3, 2026"
   url: https://live2test.com/?utm_source=testingconferences
 
+- name: Ministry of Testing NL Chapter Meetup
+  location: Veenendaal, Netherlands
+  dates: "May 28, 2026"
+  url: https://www.ministryoftesting.com/chapters/mot-netherlands/events/mot-netherlands-280526
+
 - name: "expo:QA 26"
   location: Madrid, Spain
   dates: "May 26-28, 2026"
   url: https://expoqa.eu/?utm_source=testingconferences
   twitter: expoqa
+
+- name: "The Best in Test 2026 (Sopra Steria)"
+  location: Nieuwegein, Netherlands
+  dates: "May 13, 2026"
+  url: https://careers.soprasteria.nl/the-best-in-test
+
+- name: Testnet Voorjaarsevenement 2026
+  location: Nieuwegein, Netherlands
+  dates: "May 6, 2026"
+  url: https://www.testnet.org/evenement/entry/29924/?evenement=voorjaarsevenement-2026
+
 
 - name: Istanbul Software Testing Conference
   location: Istanbul, Turkey
