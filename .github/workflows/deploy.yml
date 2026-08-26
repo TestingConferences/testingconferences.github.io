@@ -60,6 +60,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Generate calendar.ics
+        run: ruby tools/generate_calendar_ics.rb
+
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
@@ -70,6 +73,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _includes/VERSION.txt
+          git add calendar.ics
           
           # Only commit and push if there are changes
           if git diff --staged --quiet; then
