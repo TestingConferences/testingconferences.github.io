@@ -1,11 +1,5 @@
 # [Testing Conferences](https://testingconferences.org) [![CI](https://github.com/TestingConferences/testingconferences.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/TestingConferences/testingconferences.github.io/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-> [!IMPORTANT]
-> We've switch TO `main` and away from `master` branch
-
-> [!NOTE]
-> You may need to update your remote origin target in git.
-
 # TestingConferences.org
 
 
