@@ -17,7 +17,7 @@ The July 2026 readiness assessment found the repository ready for supervised con
 - [x] **Workflow Simplification**: Simplify or rename `.github/workflows/deploy.yml` so it matches the confirmed model where GitHub Pages deploys from `main`.
 - [ ] **Validator Regression Tests**: Add focused fixtures and automated tests for valid data, representative failures, warnings, date parsing, and schema changes.
 - [ ] **Branch Protection**: Require the consolidated validation check for `main` and document the expectation.
-- [ ] **Contributor Support Cleanup**: Replace the Code of Conduct placeholder and align contributor support text with the issue forms that actually exist.
+- [x] **Contributor Support Cleanup**: Replace the Code of Conduct placeholder and align contributor support text with the issue forms that actually exist.
 
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
