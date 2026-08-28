@@ -5,7 +5,7 @@ require 'set'
 require 'uri'
 require 'yaml'
 
-ROOT = File.expand_path('..', __dir__)
+ROOT = ENV['VALIDATE_DATA_ROOT'] || File.expand_path('..', __dir__)
 
 DATA_FILES = {
   '_data/current.yml' => {

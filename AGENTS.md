@@ -97,6 +97,7 @@ Non-Docker build commands:
 ```bash
 bundle install
 ruby tools/validate_data.rb
+ruby test/validate_data_test.rb
 bundle exec jekyll build --verbose
 bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\\/\\//'
 ```
@@ -109,6 +110,7 @@ Before finishing a change, check:
 
 - YAML parses correctly.
 - `ruby tools/validate_data.rb` passes.
+- `ruby test/validate_data_test.rb` passes when the validator itself is changed.
 - Jekyll builds successfully when the environment supports it.
 - Conference URLs include `utm_source=testingconferences` where appropriate.
 - `twitter` values do not include `@`.

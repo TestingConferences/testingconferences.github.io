@@ -1,0 +1,5 @@
+- name: Reversed Dates Workshop
+  location: Nowhere, USA
+  first_date: "January 1, 2020"
+  last_date: "January 1, 2015"
+  url: https://example.com/reversed?utm_source=testingconferences

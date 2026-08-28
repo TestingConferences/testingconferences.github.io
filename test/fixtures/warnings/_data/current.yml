@@ -1,0 +1,29 @@
+- name: No Tracking Conference
+  location: Nowhere, USA
+  dates: "January 1, 2026"
+  url: https://example.com/no-tracking
+
+- name: Out Of Order Conference
+  location: Nowhere, USA
+  dates: "January 1, 2026"
+  url: https://example.com/first?utm_source=testingconferences
+
+- name: Earlier Conference
+  location: Nowhere, USA
+  dates: "January 1, 2025"
+  url: https://example.com/second?utm_source=testingconferences
+
+- name: Duplicate Name Conference
+  location: Nowhere, USA
+  dates: "February 1, 2026"
+  url: https://example.com/dup-1?utm_source=testingconferences
+
+- name: Duplicate Name Conference
+  location: Nowhere, USA
+  dates: "February 2, 2026"
+  url: https://example.com/dup-2?utm_source=testingconferences
+
+- name: Unparsable Date Conference
+  location: Nowhere, USA
+  dates: "Sometime next spring"
+  url: https://example.com/unparsable?utm_source=testingconferences

@@ -1,0 +1,24 @@
+- name: Single Day Conference
+  location: Nowhere, USA
+  dates: "March 5, 2026"
+  url: https://example.com/single-day?utm_source=testingconferences
+
+- name: Same Month Range Conference
+  location: Nowhere, USA
+  dates: "April 6-8, 2026"
+  url: https://example.com/same-month?utm_source=testingconferences
+
+- name: Cross Month Range Conference
+  location: Nowhere, USA
+  dates: "April 30 - May 2, 2026"
+  url: https://example.com/cross-month?utm_source=testingconferences
+
+- name: Reversed Day Month Range Conference
+  location: Nowhere, USA
+  dates: "April 29-1 May, 2026"
+  url: https://example.com/reversed-day-month?utm_source=testingconferences
+
+- name: Abbreviated Month Conference
+  location: Nowhere, USA
+  dates: "Sept 10, 2026"
+  url: https://example.com/abbreviated-month?utm_source=testingconferences

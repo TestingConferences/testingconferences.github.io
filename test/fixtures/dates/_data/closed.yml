@@ -1,0 +1,5 @@
+- name: Closed Date Range Conference
+  location: Nowhere, USA
+  first_date: "January 1, 2015"
+  last_date: "January 3, 2018"
+  url: https://example.com/closed-dates?utm_source=testingconferences

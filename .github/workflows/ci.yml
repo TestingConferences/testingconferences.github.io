@@ -25,6 +25,9 @@ jobs:
       - name: Validate conference data
         run: ruby tools/validate_data.rb
 
+      - name: Run validator regression tests
+        run: ruby test/validate_data_test.rb
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --verbose
 
