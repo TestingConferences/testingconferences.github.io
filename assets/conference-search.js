@@ -11,6 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var items = Array.from(list.querySelectorAll('li'));
     var searchContainer = input.closest('.conference-search');
+    if (!searchContainer) {
+      return;
+    }
     var results = searchContainer.querySelector('[data-conference-search-results]');
     var emptyState = searchContainer.querySelector('[data-conference-search-empty]');
 
