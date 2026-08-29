@@ -30,7 +30,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function filterItems() {
-      var query = input.value.replace(/\s+/g, ' ').trim().toLowerCase();
+      var displayQuery = input.value.replace(/\s+/g, ' ').trim();
+      var query = displayQuery.toLowerCase();
       var visibleCount = 0;
 
       items.forEach(function (item) {
@@ -43,8 +44,8 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       });
 
-      results.textContent = resultText(visibleCount, input.value.trim());
-      emptyState.hidden = visibleCount !== 0;
+      results.textContent = resultText(visibleCount, displayQuery);
+      emptyState.hidden = visibleCount !== 0 || !query;
     }
 
     input.addEventListener('input', filterItems);
