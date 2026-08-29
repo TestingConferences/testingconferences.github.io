@@ -1,0 +1,20 @@
+- location: Nowhere, USA
+  dates: "May 1, 2026"
+  url: https://example.com/missing-name?utm_source=testingconferences
+
+- name: Bad URL Conference
+  location: Nowhere, USA
+  dates: "May 2, 2026"
+  url: not-a-valid-url
+
+- name: At Symbol Conference
+  location: Nowhere, USA
+  dates: "May 3, 2026"
+  url: https://example.com/at-symbol?utm_source=testingconferences
+  twitter: "@atsymbol"
+
+- name: Unknown Field Conference
+  location: Nowhere, USA
+  dates: "May 4, 2026"
+  url: https://example.com/unknown-field?utm_source=testingconferences
+  organizer: Someone

@@ -1,0 +1,5 @@
+- name: Closed Placeholder For Warnings
+  location: Nowhere, USA
+  first_date: "January 1, 2015"
+  last_date: "January 1, 2016"
+  url: https://example.com/closed-warnings?utm_source=testingconferences
