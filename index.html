@@ -15,7 +15,7 @@ layout: default
     <p class="conference-search__empty" data-conference-search-empty hidden>No upcoming conferences matched your search.</p>
   </div>
 
-  <ul class="post-list conference-list" id="current-conference-list" data-conference-search-list data-search-label="upcoming conferences">
+  <ul class="post-list conference-list" id="current-conference-list" data-conference-search-list>
     {% for current in site.data.current %}
       <li>
         <h2><a href="{{current.url}}">{{ current.name }}</a></h2>

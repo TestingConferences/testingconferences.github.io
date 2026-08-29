@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function () {
     var searchContainer = input.closest('.conference-search');
     var results = searchContainer.querySelector('[data-conference-search-results]');
     var emptyState = searchContainer.querySelector('[data-conference-search-empty]');
-    var label = list.dataset.searchLabel || 'conferences';
 
     items.forEach(function (item) {
       item.dataset.searchText = item.textContent.replace(/\s+/g, ' ').trim().toLowerCase();
