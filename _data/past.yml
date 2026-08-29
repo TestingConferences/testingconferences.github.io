@@ -1,3 +1,21 @@
+- name: QonfX Singapore
+  location: Fort Canning Road, Singapore
+  dates: "August 27, 2026"
+  url: https://www.thetesttribe.com/qonfx/singapore/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+
+- name: Testμ Conference 2026
+  location: Online
+  dates: "August 19-21, 2026"
+  url: https://www.testmuai.com/testmuconf-2026?utm_source=testingconferences&utm_medium=organic&utm_content=testmu_2026
+  twitter: lambdatesting
+
+- name: "Tricentis Transform 2026: Dallas"
+  location: Arlington, TX, USA
+  dates: "August 19-20, 2026"
+  url: https://events.tricentis.com/transform-dallas-2026/?utm_source=testingconferences
+  twitter: Tricentis
+
 - name: Hands-On Testing 2026
   location: Guadalajara, Mexico and Online
   dates: "August 12-15, 2026"
