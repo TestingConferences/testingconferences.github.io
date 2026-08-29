@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return visibleCount + ' ' + noun + ' for "' + query + '"';
       }
 
-      return 'Showing all ' + visibleCount + ' ' + label;
+      return '';
     }
 
     function filterItems() {
