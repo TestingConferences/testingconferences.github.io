@@ -21,18 +21,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>June 2026</td>
-    <td>TestMu Conference 2026</td>
-  </tr>
-  <tr>
-    <td>July 2026</td>
-    <td>TestMu Conference 2026</td>
-  </tr>
-  <tr>
-    <td>August 2026</td>
-    <td>TestMu Conference 2026</td>
-  </tr>
-  <tr>
     <td>September 2026</td>
     <td>PNSQC</td>
   </tr>
@@ -46,6 +34,54 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>December 2026</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>January 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>February 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>March 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>April 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>May 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>June 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>July 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>August 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>September 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>October 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>November 2027</td>
+    <td>Open</td>
+  </tr>
+  <tr>
+    <td>December 2027</td>
     <td>Open</td>
   </tr>
 </table>
