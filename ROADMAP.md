@@ -55,10 +55,10 @@ The July 2026 readiness assessment found the repository ready for supervised con
 6. `deploy.yml` detects the flag and skips version increment, preventing CI/CD loop.
 
 **Design decisions:**
-- Local server instead of production: Ensures repeatable, controlled audits without external dependencies.
+- Local server instead of production: Ensures repeatable, controlled audits without external dependencies. Python's built-in `http.server` module is used to serve the Jekyll-built site because it's lightweight, included in all standard CI runners, and requires no additional dependencies beyond what's already available.
+- Ruby script for audit coordination: The audit script is written in Ruby (matching the repository's existing tooling in `tools/`) to handle Lighthouse CLI execution, JSON parsing, and quality log updates. It receives the site URL from the workflow and focuses on metric collection.
 - Append-only format: Preserves historical data for trend analysis (Phase 4).
 - `[skip-version]` commit flag: Prevents metrics collection from disrupting versioning workflow.
-- Python's built-in http.server module: Lightweight implementation using `python3 -m http.server`, included in standard CI runners, no additional dependencies required.
 - YAML format: Consistent with existing site configuration, human-readable for inspection.
 
 Changes to `.github/workflows/deploy.yml`, release tags, Pages deployment, or versioning require maintainer approval before implementation.

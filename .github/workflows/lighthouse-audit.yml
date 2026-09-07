@@ -69,6 +69,11 @@ jobs:
       - name: Determine version
         id: version
         run: |
+          # Version resolution strategy (in order of precedence):
+          # 1. Manual dispatch input (--version parameter) if provided
+          # 2. Git tag name (v*) if triggered by tag push
+          # 3. VERSION.txt file as fallback for manual dispatch without explicit version
+          # The resolved version is passed to tools/lighthouse_audit.rb via --version flag.
           VERSION=""
 
           # If manual dispatch input provided, use it

@@ -125,7 +125,9 @@ entries = []
 
 if File.exist?(quality_log_path)
   begin
-    # YAML.safe_load handles comments correctly
+    # Use YAML.safe_load for security (prevents arbitrary code execution).
+    # YAML.safe_load parses files with comments but discards them during parsing.
+    # The re-serialized YAML (written below) includes fresh header comments.
     content = File.read(quality_log_path)
     parsed = YAML.safe_load(content) || []
     entries = parsed.is_a?(Array) ? parsed : []
