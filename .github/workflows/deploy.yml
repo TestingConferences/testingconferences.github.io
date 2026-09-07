@@ -23,8 +23,21 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
+      - name: Check for Skip Version Flag
+        id: check_skip
+        run: |
+          # Check if the latest commit message contains [skip-version]
+          LATEST_COMMIT=$(git log -1 --format=%B)
+          if echo "$LATEST_COMMIT" | grep -q "\[skip-version\]"; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "Metrics-only commit detected. Skipping version bump."
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Read and Increment Version
         id: version
+        if: steps.check_skip.outputs.skip != 'true'
         run: |
           # Check if VERSION.txt exists
           if [ ! -f _includes/VERSION.txt ]; then
@@ -47,6 +60,7 @@ jobs:
           echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
 
       - name: Commit Version File
+        if: steps.check_skip.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,6 +75,7 @@ jobs:
           fi
 
       - name: Create Git Tag
+        if: steps.check_skip.outputs.skip != 'true'
         run: |
           # Check if tag already exists (could happen with concurrent runs)
           if git rev-parse "v${{ steps.version.outputs.version }}" >/dev/null 2>&1; then
