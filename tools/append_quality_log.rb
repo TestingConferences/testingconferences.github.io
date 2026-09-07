@@ -47,5 +47,5 @@ log_entries << {
   'workflow_run_url' => options[:workflow_run_url]
 }
 
-File.write(options[:output], "#{log_entries.to_yaml.sub(/\A---\n/, '')}")
+File.write(options[:output], log_entries.to_yaml)
 puts "Appended quality log entry for #{options[:version]} with #{options[:broken_links]} broken link(s)."

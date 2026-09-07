@@ -22,22 +22,25 @@ jobs:
     steps:
       - name: Determine scan ref and version
         id: meta
+        env:
+          REF_INPUT: ${{ github.event.inputs.ref || '' }}
+          VERSION_INPUT: ${{ github.event.inputs.version || '' }}
+          EVENT_NAME: ${{ github.event_name }}
+          GITHUB_REF_VALUE: ${{ github.ref }}
+          GITHUB_REF_NAME_VALUE: ${{ github.ref_name }}
         run: |
-          REF_INPUT="${{ github.event.inputs.ref }}"
-          VERSION_INPUT="${{ github.event.inputs.version }}"
-
           if [ -n "$REF_INPUT" ]; then
             SCAN_REF="$REF_INPUT"
-          elif [ "${{ github.event_name }}" = "push" ]; then
-            SCAN_REF="${{ github.ref }}"
+          elif [ "$EVENT_NAME" = "push" ]; then
+            SCAN_REF="$GITHUB_REF_VALUE"
           else
             SCAN_REF="main"
           fi
 
           if [ -n "$VERSION_INPUT" ]; then
             VERSION="$VERSION_INPUT"
-          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
-            VERSION="${{ github.ref_name }}"
+          elif [[ "$GITHUB_REF_VALUE" == refs/tags/v* ]]; then
+            VERSION="$GITHUB_REF_NAME_VALUE"
           else
             VERSION=""
           fi
@@ -73,8 +76,12 @@ jobs:
       - name: Run linkinator (internal links only)
         id: linkinator
         run: |
+          python3 -m http.server 4001 --bind 127.0.0.1 --directory _site >/tmp/quality-links-server.log 2>&1 &
+          SERVER_PID=$!
+          trap "kill $SERVER_PID" EXIT
+
           set +e
-          npx --yes linkinator ./_site --recurse --format json --verbosity error --skip '^https?://' > /tmp/linkinator-results.json
+          npx --yes linkinator http://127.0.0.1:4001 --recurse --format json --verbosity error --skip '^https?://(?!127\.0\.0\.1:4001)' --skip '^//' > /tmp/linkinator-results.json
           set -e
 
           BROKEN_COUNT=$(node -e "const fs=require('fs'); const p='/tmp/linkinator-results.json'; const raw=fs.readFileSync(p,'utf8'); const data=JSON.parse(raw); const links=Array.isArray(data.links)?data.links:[]; process.stdout.write(String(links.filter((l)=>l.state==='BROKEN').length));")
@@ -88,15 +95,29 @@ jobs:
           git switch main
 
       - name: Append quality log entry
+        env:
+          VERSION: ${{ steps.resolved_version.outputs.version }}
+          BROKEN_COUNT: ${{ steps.linkinator.outputs.broken_count }}
+          COMMIT_SHA: ${{ github.sha }}
+          WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           ruby tools/append_quality_log.rb \
-            --version "${{ steps.resolved_version.outputs.version }}" \
-            --broken-links "${{ steps.linkinator.outputs.broken_count }}" \
-            --commit-sha "${{ github.sha }}" \
-            --workflow-run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            --version "$VERSION" \
+            --broken-links "$BROKEN_COUNT" \
+            --commit-sha "$COMMIT_SHA" \
+            --workflow-run-url "$WORKFLOW_RUN_URL" \
             --output _data/quality_log.yml
 
+      - name: Fail when broken links are present
+        if: steps.linkinator.outputs.broken_count != '0'
+        run: |
+          echo "::error::Broken link scan found ${{ steps.linkinator.outputs.broken_count }} broken link(s)."
+          exit 1
+
       - name: Commit quality log update
+        if: always()
+        env:
+          VERSION: ${{ steps.resolved_version.outputs.version }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -104,12 +125,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No quality log changes to commit"
           else
-            git commit -m "chore: log link integrity for ${{ steps.resolved_version.outputs.version }}"
+            git commit -m "chore: log link integrity for ${VERSION}"
             git push origin main
           fi
-
-      - name: Fail when broken links are present
-        if: steps.linkinator.outputs.broken_count != '0'
-        run: |
-          echo "::error::Broken link scan found ${{ steps.linkinator.outputs.broken_count }} broken link(s)."
-          exit 1
