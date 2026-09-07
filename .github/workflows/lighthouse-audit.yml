@@ -70,7 +70,7 @@ jobs:
         id: version
         run: |
           VERSION=""
-           
+
           # If manual dispatch input provided, use it
           if [ -n "${{ inputs.version }}" ]; then
             VERSION="${{ inputs.version }}"
@@ -88,7 +88,7 @@ jobs:
               fi
             fi
           fi
-           
+
           # Validate version is not empty
           if [ -z "$VERSION" ]; then
             echo "ERROR: Could not determine version from:"
@@ -98,7 +98,7 @@ jobs:
             echo "Please ensure at least one of these sources is available."
             exit 1
           fi
-           
+
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Run Lighthouse audit

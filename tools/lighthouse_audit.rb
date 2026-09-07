@@ -69,6 +69,12 @@ puts "Running Lighthouse audit against #{site_url}..."
 output_file = "lighthouse-report-#{Time.now.to_i}.json"
 
 # Run lighthouse with JSON output
+# Flags explained:
+# --format=json: Output results as JSON for programmatic parsing
+# --output-path=#{output_file}: Save report to specified file
+# --chrome-flags='--no-sandbox': Required for running Chrome in containerized CI environments
+# --throttling-method=simulate: Use simulated throttling for consistent audit environments
+# --quiet: Suppress CLI progress output to keep logs clean
 cmd = "lighthouse #{site_url} --format=json --output-path=#{output_file} --chrome-flags='--no-sandbox' --throttling-method=simulate --quiet"
 puts "Executing: #{cmd}"
 
@@ -85,7 +91,12 @@ unless File.exist?(output_file)
 end
 
 # Parse the Lighthouse report
-report = JSON.parse(File.read(output_file))
+begin
+  report = JSON.parse(File.read(output_file))
+rescue JSON::ParserError => e
+  puts "ERROR: Invalid JSON in Lighthouse report: #{e.message}"
+  exit 1
+end
 
 # Extract scores (Lighthouse v6+ format)
 categories = report.dig('categories') || {}
