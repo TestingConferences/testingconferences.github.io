@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'Version to audit (leave empty to use latest)'
+        description: 'Version to audit (optional; uses git tag then VERSION.txt if empty)'
         required: false
         type: string
 
@@ -46,8 +46,8 @@ jobs:
           cd _site
           python3 -m http.server 4000 > /tmp/server.log 2>&1 &
           echo $! > /tmp/server.pid
-          sleep 3
-          echo "Server started with PID $(cat /tmp/server.pid)"
+          echo "Server starting with PID $(cat /tmp/server.pid)"
+          # Readiness polling handled by 'Wait for server to be ready' step
 
       - name: Wait for server to be ready
         run: |
@@ -82,11 +82,19 @@ jobs:
             echo "Using provided version: $VERSION"
           else
             # Try to extract version from git tag (e.g., v1631 -> 1631)
-            VERSION=$(git describe --tags --exact-match 2>/dev/null | sed 's/^v//')
-            if [ -n "$VERSION" ]; then
-              echo "Extracted version from git tag: $VERSION"
-            else
-              # Fallback to VERSION.txt if it exists and has content
+            TAG=$(git describe --tags --exact-match 2>/dev/null)
+            if [ -n "$TAG" ]; then
+              # Validate tag matches pattern: starts with 'v' followed by digits
+              if echo "$TAG" | grep -qE '^v[0-9]+$'; then
+                VERSION=$(echo "$TAG" | sed 's/^v//')
+                echo "Extracted version from git tag: $VERSION"
+              else
+                echo "Warning: Tag '$TAG' does not match expected pattern (v*), trying fallback"
+              fi
+            fi
+             
+            # Fallback to VERSION.txt if version not yet determined
+            if [ -z "$VERSION" ]; then
               if [ -f _includes/VERSION.txt ] && [ -s _includes/VERSION.txt ]; then
                 VERSION=$(cat _includes/VERSION.txt)
                 echo "Using version from VERSION.txt: $VERSION"

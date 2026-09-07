@@ -125,9 +125,10 @@ entries = []
 
 if File.exist?(quality_log_path)
   begin
-    # Use YAML.safe_load for security (prevents arbitrary code execution).
-    # YAML.safe_load parses files with comments but discards them during parsing.
-    # The re-serialized YAML (written below) includes fresh header comments.
+    # Use YAML.safe_load for security (prevents arbitrary Ruby code execution).
+    # YAML.safe_load parses the file but ignores comments during parsing.
+    # This is acceptable because the script regenerates fresh header comments
+    # on each write to maintain documentation without relying on comment preservation.
     content = File.read(quality_log_path)
     parsed = YAML.safe_load(content) || []
     entries = parsed.is_a?(Array) ? parsed : []
