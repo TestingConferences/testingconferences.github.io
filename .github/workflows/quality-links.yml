@@ -1,0 +1,115 @@
+name: Quality Ledger - Link Integrity
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to record (defaults to tag name or VERSION.txt)'
+        required: false
+      ref:
+        description: 'Git ref to scan (defaults to tag ref or main)'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  broken-link-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Determine scan ref and version
+        id: meta
+        run: |
+          REF_INPUT="${{ github.event.inputs.ref }}"
+          VERSION_INPUT="${{ github.event.inputs.version }}"
+
+          if [ -n "$REF_INPUT" ]; then
+            SCAN_REF="$REF_INPUT"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            SCAN_REF="${{ github.ref }}"
+          else
+            SCAN_REF="main"
+          fi
+
+          if [ -n "$VERSION_INPUT" ]; then
+            VERSION="$VERSION_INPUT"
+          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            VERSION="${{ github.ref_name }}"
+          else
+            VERSION=""
+          fi
+
+          echo "scan_ref=$SCAN_REF" >> "$GITHUB_OUTPUT"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout scan ref
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          ref: ${{ steps.meta.outputs.scan_ref }}
+
+      - name: Resolve version from VERSION.txt when needed
+        id: resolved_version
+        run: |
+          VERSION="${{ steps.meta.outputs.version }}"
+          if [ -z "$VERSION" ]; then
+            VERSION="v$(cat _includes/VERSION.txt)"
+          fi
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build --verbose
+
+      - name: Run linkinator (internal links only)
+        id: linkinator
+        run: |
+          set +e
+          npx --yes linkinator ./_site --recurse --format json --verbosity error --skip '^https?://' > /tmp/linkinator-results.json
+          set -e
+
+          BROKEN_COUNT=$(node -e "const fs=require('fs'); const p='/tmp/linkinator-results.json'; const raw=fs.readFileSync(p,'utf8'); const data=JSON.parse(raw); const links=Array.isArray(data.links)?data.links:[]; process.stdout.write(String(links.filter((l)=>l.state==='BROKEN').length));")
+          echo "broken_count=$BROKEN_COUNT" >> "$GITHUB_OUTPUT"
+          echo "Broken links found: $BROKEN_COUNT"
+          cat /tmp/linkinator-results.json
+
+      - name: Checkout main for quality log persistence
+        run: |
+          git fetch origin main
+          git switch main
+
+      - name: Append quality log entry
+        run: |
+          ruby tools/append_quality_log.rb \
+            --version "${{ steps.resolved_version.outputs.version }}" \
+            --broken-links "${{ steps.linkinator.outputs.broken_count }}" \
+            --commit-sha "${{ github.sha }}" \
+            --workflow-run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            --output _data/quality_log.yml
+
+      - name: Commit quality log update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/quality_log.yml
+          if git diff --staged --quiet; then
+            echo "No quality log changes to commit"
+          else
+            git commit -m "chore: log link integrity for ${{ steps.resolved_version.outputs.version }}"
+            git push origin main
+          fi
+
+      - name: Fail when broken links are present
+        if: steps.linkinator.outputs.broken_count != '0'
+        run: |
+          echo "::error::Broken link scan found ${{ steps.linkinator.outputs.broken_count }} broken link(s)."
+          exit 1
