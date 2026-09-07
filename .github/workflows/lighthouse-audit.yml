@@ -51,6 +51,8 @@ jobs:
 
       - name: Wait for server to be ready
         run: |
+          # Wait up to 30 seconds for the local HTTP server to become ready
+          # This ensures Lighthouse can connect before attempting audit
           for i in {1..30}; do
             if curl -s http://localhost:4000/ > /dev/null 2>&1; then
               echo "Server is ready"
@@ -59,33 +61,45 @@ jobs:
             echo "Waiting for server... ($i/30)"
             sleep 1
           done
-          echo "Server failed to start"
-          cat /tmp/server.log
+          echo "Server failed to start within 30 seconds"
+          echo "=== Server Log ==="
+          cat /tmp/server.log || echo "(no log available)"
           exit 1
 
       - name: Determine version
         id: version
         run: |
+          VERSION=""
+           
           # If manual dispatch input provided, use it
           if [ -n "${{ inputs.version }}" ]; then
             VERSION="${{ inputs.version }}"
+            echo "Using provided version: $VERSION"
           else
-            # Extract version from git tag (e.g., v1631 -> 1631)
+            # Try to extract version from git tag (e.g., v1631 -> 1631)
             VERSION=$(git describe --tags --exact-match 2>/dev/null | sed 's/^v//')
-            if [ -z "$VERSION" ]; then
-              # Fallback to VERSION.txt
-              VERSION=$(cat _includes/VERSION.txt)
+            if [ -n "$VERSION" ]; then
+              echo "Extracted version from git tag: $VERSION"
+            else
+              # Fallback to VERSION.txt if it exists and has content
+              if [ -f _includes/VERSION.txt ] && [ -s _includes/VERSION.txt ]; then
+                VERSION=$(cat _includes/VERSION.txt)
+                echo "Using version from VERSION.txt: $VERSION"
+              fi
             fi
           fi
            
           # Validate version is not empty
           if [ -z "$VERSION" ]; then
-            echo "ERROR: Could not determine version from tag, manual input, or VERSION.txt"
+            echo "ERROR: Could not determine version from:"
+            echo "  1. Manual workflow input (--version flag)"
+            echo "  2. Git tag (v* pattern)"
+            echo "  3. _includes/VERSION.txt file"
+            echo "Please ensure at least one of these sources is available."
             exit 1
           fi
            
           echo "version=$VERSION" >> $GITHUB_OUTPUT
-          echo "Version to audit: $VERSION"
 
       - name: Run Lighthouse audit
         run: |

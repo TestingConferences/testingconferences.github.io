@@ -75,7 +75,7 @@ puts "Executing: #{cmd}"
 success = system(cmd)
 
 unless success
-  puts "ERROR: Lighthouse execution failed with exit status $?"
+  puts "ERROR: Lighthouse execution failed"
   exit 1
 end
 
@@ -113,12 +113,15 @@ quality_log_path = File.join(__dir__, '..', '_data', 'quality_log.yml')
 entries = []
 
 if File.exist?(quality_log_path)
-  content = File.read(quality_log_path)
-  # Parse YAML content, skipping comments at the top
-  yaml_content = content.split("\n").reject { |line| line.start_with?('#') }.join("\n").strip
-  if yaml_content.length > 0
-    parsed = YAML.safe_load(yaml_content) || []
+  begin
+    # YAML.safe_load handles comments correctly
+    content = File.read(quality_log_path)
+    parsed = YAML.safe_load(content) || []
     entries = parsed.is_a?(Array) ? parsed : []
+  rescue YAML::ParseError => e
+    puts "WARNING: Could not parse existing quality log: #{e.message}"
+    puts "Starting with empty entries list"
+    entries = []
   end
 end
 

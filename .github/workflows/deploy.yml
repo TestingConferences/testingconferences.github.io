@@ -26,7 +26,8 @@ jobs:
       - name: Check for Skip Version Flag
         id: check_skip
         run: |
-          # Check if the latest commit message contains [skip-version]
+          # Check if the latest commit message contains [skip-version] flag
+          # This is used to prevent metrics-only commits from triggering version bumps
           LATEST_COMMIT=$(git log -1 --format=%B)
           if echo "$LATEST_COMMIT" | grep -q "\[skip-version\]"; then
             echo "skip=true" >> $GITHUB_OUTPUT
