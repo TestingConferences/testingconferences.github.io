@@ -34,6 +34,12 @@ version = options[:version] || ENV['VERSION']
 commit_sha = ENV['GITHUB_SHA'] || `git rev-parse HEAD`.strip
 workflow_run_url = nil
 
+# Validate required parameters
+if version.nil? || version.empty?
+  puts "ERROR: Version is required. Provide with --version or set VERSION environment variable"
+  exit 1
+end
+
 # Build workflow run URL if in GitHub Actions
 if ENV['GITHUB_ACTIONS'] && ENV['GITHUB_SERVER_URL'] && ENV['GITHUB_REPOSITORY'] && ENV['GITHUB_RUN_ID']
   workflow_run_url = "#{ENV['GITHUB_SERVER_URL']}/#{ENV['GITHUB_REPOSITORY']}/actions/runs/#{ENV['GITHUB_RUN_ID']}"
@@ -66,7 +72,12 @@ output_file = "lighthouse-report-#{Time.now.to_i}.json"
 cmd = "lighthouse #{site_url} --format=json --output-path=#{output_file} --chrome-flags='--no-sandbox' --throttling-method=simulate --quiet"
 puts "Executing: #{cmd}"
 
-system(cmd)
+success = system(cmd)
+
+unless success
+  puts "ERROR: Lighthouse execution failed with exit status $?"
+  exit 1
+end
 
 unless File.exist?(output_file)
   puts "ERROR: Lighthouse report not generated"

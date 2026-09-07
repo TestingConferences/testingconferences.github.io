@@ -58,7 +58,7 @@ The July 2026 readiness assessment found the repository ready for supervised con
 - Local server instead of production: Ensures repeatable, controlled audits without external dependencies.
 - Append-only format: Preserves historical data for trend analysis (Phase 4).
 - `[skip-version]` commit flag: Prevents metrics collection from disrupting versioning workflow.
-- Python HTTP server: Lightweight, included in standard CI runners, no additional dependencies.
+- Python's built-in http.server module: Lightweight implementation using `python3 -m http.server`, included in standard CI runners, no additional dependencies required.
 - YAML format: Consistent with existing site configuration, human-readable for inspection.
 
 Changes to `.github/workflows/deploy.yml`, release tags, Pages deployment, or versioning require maintainer approval before implementation.

@@ -77,6 +77,13 @@ jobs:
               VERSION=$(cat _includes/VERSION.txt)
             fi
           fi
+           
+          # Validate version is not empty
+          if [ -z "$VERSION" ]; then
+            echo "ERROR: Could not determine version from tag, manual input, or VERSION.txt"
+            exit 1
+          fi
+           
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "Version to audit: $VERSION"
 
