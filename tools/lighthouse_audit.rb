@@ -50,7 +50,7 @@ puts ""
 # Check if Lighthouse is installed
 lighthouse_path = `which lighthouse`.strip
 if lighthouse_path.empty?
-  puts "ERROR: Lighthouse CLI not found. Install with: npm install -g @lhci/cli@*"
+  puts "ERROR: Lighthouse CLI not found. Install with: npm install -g lighthouse"
   exit 1
 end
 
