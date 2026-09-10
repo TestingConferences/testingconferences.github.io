@@ -230,6 +230,36 @@
     font-size: 20px;
 }
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
+}
+
+.conference-search {
+    margin-bottom: 15px;
+}
+
+.conference-search__input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid $grey-color-light;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.conference-search__results,
+.conference-search__empty {
+    margin: 10px 0 0;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;

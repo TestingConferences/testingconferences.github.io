@@ -2,8 +2,20 @@
 layout: default
 ---
 <div class="home">
+  <div class="conference-search">
+    <label class="visually-hidden" for="current-conference-search">Search upcoming conferences</label>
+    <input
+      id="current-conference-search"
+      class="conference-search__input"
+      type="search"
+      placeholder="Search upcoming conferences"
+      aria-controls="current-conference-list"
+      data-conference-search-input>
+    <p class="conference-search__results" data-conference-search-results aria-live="polite"></p>
+    <p class="conference-search__empty" data-conference-search-empty hidden>No upcoming conferences matched your search.</p>
+  </div>
 
-  <ul class="post-list">
+  <ul class="post-list conference-list" id="current-conference-list" data-conference-search-list>
     {% for current in site.data.current %}
       <li>
         <h2><a href="{{current.url}}">{{ current.name }}</a></h2>
@@ -15,3 +27,4 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+<script src="{{ "/assets/conference-search.js" | prepend: site.baseurl }}"></script>
