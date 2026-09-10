@@ -27,8 +27,14 @@ abort('--broken-links must be >= 0') if options[:broken_links].negative?
 
 log_entries =
   if File.exist?(options[:output])
-    data = YAML.safe_load_file(options[:output], permitted_classes: [Time], aliases: false)
-    data.is_a?(Array) ? data : []
+    begin
+      data = YAML.safe_load_file(options[:output], permitted_classes: [Time], aliases: false)
+    rescue Psych::SyntaxError => e
+      abort("Invalid YAML in #{options[:output]}: #{e.message}")
+    end
+
+    abort("Expected #{options[:output]} to contain a YAML array (or be empty)") unless data.nil? || data.is_a?(Array)
+    data || []
   else
     []
   end

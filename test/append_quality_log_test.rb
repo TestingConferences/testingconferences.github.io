@@ -50,4 +50,56 @@ class AppendQualityLogTest < Minitest::Test
     refute status.success?
     assert_match(/--broken-links must be >= 0/, stderr)
   end
+
+  def test_rejects_non_array_yaml_log
+    Dir.mktmpdir do |dir|
+      output = File.join(dir, 'quality_log.yml')
+      File.write(output, { 'version' => 'v1' }.to_yaml)
+
+      _stdout, stderr, status = Open3.capture3(
+        'ruby', APPENDER,
+        '--version', 'v2',
+        '--broken-links', '1',
+        '--output', output
+      )
+
+      refute status.success?
+      assert_match(/Expected .* to contain a YAML array/, stderr)
+    end
+  end
+
+  def test_rejects_malformed_yaml_log
+    Dir.mktmpdir do |dir|
+      output = File.join(dir, 'quality_log.yml')
+      File.write(output, "---\n- version: v1\n  broken_links: [\n")
+
+      _stdout, stderr, status = Open3.capture3(
+        'ruby', APPENDER,
+        '--version', 'v2',
+        '--broken-links', '1',
+        '--output', output
+      )
+
+      refute status.success?
+      assert_match(/Invalid YAML in .*quality_log\.yml/, stderr)
+    end
+  end
+
+  def test_allows_duplicate_versions_by_appending_new_entry
+    Dir.mktmpdir do |dir|
+      output = File.join(dir, 'quality_log.yml')
+      File.write(output, [{ 'version' => 'v2', 'broken_links' => 0 }].to_yaml)
+
+      _stdout, stderr, status = Open3.capture3(
+        'ruby', APPENDER,
+        '--version', 'v2',
+        '--broken-links', '4',
+        '--output', output
+      )
+
+      assert status.success?, "expected success, got stderr:\n#{stderr}"
+      versions = YAML.safe_load_file(output).map { |entry| entry['version'] }
+      assert_equal ['v2', 'v2'], versions
+    end
+  end
 end

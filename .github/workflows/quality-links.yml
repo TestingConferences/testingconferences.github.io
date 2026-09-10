@@ -1,9 +1,16 @@
 name: Quality Ledger - Link Integrity
 
 on:
-  push:
-    tags:
-      - 'v*'
+  workflow_call:
+    inputs:
+      ref:
+        required: false
+        type: string
+        default: ''
+      version:
+        required: false
+        type: string
+        default: ''
   workflow_dispatch:
     inputs:
       version:
@@ -16,6 +23,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: quality-ledger
+  cancel-in-progress: false
+
 jobs:
   broken-link-metrics:
     runs-on: ubuntu-latest
@@ -23,8 +34,8 @@ jobs:
       - name: Determine scan ref and version
         id: meta
         env:
-          REF_INPUT: ${{ github.event.inputs.ref || '' }}
-          VERSION_INPUT: ${{ github.event.inputs.version || '' }}
+          REF_INPUT: ${{ inputs.ref || github.event.inputs.ref || '' }}
+          VERSION_INPUT: ${{ inputs.version || github.event.inputs.version || '' }}
           EVENT_NAME: ${{ github.event_name }}
           GITHUB_REF_VALUE: ${{ github.ref }}
           GITHUB_REF_NAME_VALUE: ${{ github.ref_name }}
@@ -45,7 +56,7 @@ jobs:
             VERSION=""
           fi
 
-          echo "scan_ref=$SCAN_REF" >> "$GITHUB_OUTPUT"
+          echo "ref=$SCAN_REF" >> "$GITHUB_OUTPUT"
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
       - name: Checkout scan ref
@@ -53,7 +64,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          ref: ${{ steps.meta.outputs.scan_ref }}
+          ref: ${{ steps.meta.outputs.ref }}
 
       - name: Resolve version from VERSION.txt when needed
         id: resolved_version
@@ -63,6 +74,11 @@ jobs:
             VERSION="v$(cat _includes/VERSION.txt)"
           fi
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Capture scanned commit SHA
+        id: scanned_sha
+        run: |
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -98,7 +114,7 @@ jobs:
         env:
           VERSION: ${{ steps.resolved_version.outputs.version }}
           BROKEN_COUNT: ${{ steps.linkinator.outputs.broken_count }}
-          COMMIT_SHA: ${{ github.sha }}
+          COMMIT_SHA: ${{ steps.scanned_sha.outputs.sha }}
           WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           ruby tools/append_quality_log.rb \
