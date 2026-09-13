@@ -15,6 +15,8 @@ concurrency:
 
 jobs:
   version-and-tag:
+    outputs:
+      version: ${{ steps.version.outputs.version }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -69,3 +71,12 @@ jobs:
             git tag -a "v${{ steps.version.outputs.version }}" -m "Release version ${{ steps.version.outputs.version }}"
             git push origin "v${{ steps.version.outputs.version }}"
           fi
+
+  link-integrity-quality-ledger:
+    needs: version-and-tag
+    if: needs.version-and-tag.result == 'success' && needs.version-and-tag.outputs.version != ''
+    uses: ./.github/workflows/quality-links.yml
+    with:
+      ref: refs/tags/v${{ needs.version-and-tag.outputs.version }}
+      version: v${{ needs.version-and-tag.outputs.version }}
+    secrets: inherit
