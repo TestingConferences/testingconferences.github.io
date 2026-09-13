@@ -105,23 +105,21 @@ jobs:
           echo "Broken links found: $BROKEN_COUNT"
           cat /tmp/linkinator-results.json
 
-      - name: Checkout main for quality log persistence
-        run: |
-          git fetch origin main
-          git switch main
-
-      - name: Append quality log entry
+      - name: Persist quality log entry
+        if: always() && steps.linkinator.conclusion != 'skipped' && steps.linkinator.outputs.broken_count != ''
         env:
           VERSION: ${{ steps.resolved_version.outputs.version }}
           BROKEN_COUNT: ${{ steps.linkinator.outputs.broken_count }}
           COMMIT_SHA: ${{ steps.scanned_sha.outputs.sha }}
           WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          ruby tools/append_quality_log.rb \
+          ruby tools/persist_quality_log.rb \
             --version "$VERSION" \
             --broken-links "$BROKEN_COUNT" \
             --commit-sha "$COMMIT_SHA" \
             --workflow-run-url "$WORKFLOW_RUN_URL" \
+            --base-branch main \
+            --max-attempts 3 \
             --output _data/quality_log.yml
 
       - name: Fail when broken links are present
@@ -129,18 +127,3 @@ jobs:
         run: |
           echo "::error::Broken link scan found ${{ steps.linkinator.outputs.broken_count }} broken link(s)."
           exit 1
-
-      - name: Commit quality log update
-        if: always()
-        env:
-          VERSION: ${{ steps.resolved_version.outputs.version }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/quality_log.yml
-          if git diff --staged --quiet; then
-            echo "No quality log changes to commit"
-          else
-            git commit -m "chore: log link integrity for ${VERSION}"
-            git push origin main
-          fi
