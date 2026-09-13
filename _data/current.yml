@@ -82,6 +82,12 @@
   url: https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences
   status: <a href="https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: "QX Day (Sogeti) 2026"
+  location: Utrecht, Netherlands
+  dates: "September 30, 2026"
+  url: https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences
+  status: <a href="https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: The Living Documentation Event 2026
   location: Veldhoven, Netherlands
   dates: "October 1, 2026"
@@ -202,13 +208,6 @@
   dates: "October 30, 2026"
   url: https://testdag.nl/?utm_source=testingconferences
   status: CFP is Closed
-
-- name: "QX Day (Sogeti) 2026"
-  location: Utrecht, Netherlands
-  dates: "October 2026 (TBA)"
-  url: https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences
-  status: Announced
-
 
 - name: TestGuild IRL Austin 2026
   location: Austin, TX, USA
