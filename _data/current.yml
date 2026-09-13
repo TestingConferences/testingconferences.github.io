@@ -232,6 +232,12 @@
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: RoboCon 2027 Helsinki
+  location: Helsinki, Finland
+  dates: "March 8-12, 2027"
+  url: "https://www.robocon.io/"
+  status: <a href="https://pretalx.com/robocon-2027/cfp">CFP is open</a> | <a href="https://www.robocon.io/tickets">Blind Tickets on Sale</a>
+
 - name: Testing Peers Conference 2027
   location: Nottingham, UK
   dates: "March 11, 2027"
