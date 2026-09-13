@@ -1,0 +1,142 @@
+name: Lighthouse Audit
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to audit (optional; uses git tag then VERSION.txt if empty)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  lighthouse-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Lighthouse CLI
+        run: npm install -g lighthouse
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Start local server
+        run: |
+          cd _site
+          python3 -m http.server 4000 > /tmp/server.log 2>&1 &
+          echo $! > /tmp/server.pid
+          echo "Server starting with PID $(cat /tmp/server.pid)"
+          # Readiness polling handled by 'Wait for server to be ready' step
+
+      - name: Wait for server to be ready
+        run: |
+          # Wait up to 30 seconds for the local HTTP server to become ready
+          # This ensures Lighthouse can connect before attempting audit
+          for i in {1..30}; do
+            if curl -s http://localhost:4000/ > /dev/null 2>&1; then
+              echo "Server is ready"
+              exit 0
+            fi
+            echo "Waiting for server... ($i/30)"
+            sleep 1
+          done
+          echo "Server failed to start within 30 seconds"
+          echo "=== Server Log ==="
+          cat /tmp/server.log || echo "(no log available)"
+          exit 1
+
+      - name: Determine version
+        id: version
+        run: |
+          # Version resolution strategy (in order of precedence):
+          # 1. Manual dispatch input (--version parameter) if provided
+          # 2. Git tag name (v*) if triggered by tag push
+          # 3. VERSION.txt file as fallback for manual dispatch without explicit version
+          # The resolved version is passed to tools/lighthouse_audit.rb via --version flag.
+          VERSION=""
+
+          # If manual dispatch input provided, use it
+          if [ -n "${{ inputs.version }}" ]; then
+            VERSION="${{ inputs.version }}"
+            echo "Using provided version: $VERSION"
+          else
+            # Try to extract version from git tag (e.g., v1631 -> 1631)
+            TAG=$(git describe --tags --exact-match 2>/dev/null)
+            if [ -n "$TAG" ]; then
+              # Validate tag matches pattern: starts with 'v' followed by digits
+              if echo "$TAG" | grep -qE '^v[0-9]+$'; then
+                VERSION=$(echo "$TAG" | sed 's/^v//')
+                echo "Extracted version from git tag: $VERSION"
+              else
+                echo "Warning: Tag '$TAG' does not match expected pattern (v*), trying fallback"
+              fi
+            fi
+             
+            # Fallback to VERSION.txt if version not yet determined
+            if [ -z "$VERSION" ]; then
+              if [ -f _includes/VERSION.txt ] && [ -s _includes/VERSION.txt ]; then
+                VERSION=$(cat _includes/VERSION.txt)
+                echo "Using version from VERSION.txt: $VERSION"
+              fi
+            fi
+          fi
+
+          # Validate version is not empty
+          if [ -z "$VERSION" ]; then
+            echo "ERROR: Could not determine version from:"
+            echo "  1. Manual workflow input (--version flag)"
+            echo "  2. Git tag (v* pattern)"
+            echo "  3. _includes/VERSION.txt file"
+            echo "Please ensure at least one of these sources is available."
+            exit 1
+          fi
+
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Run Lighthouse audit
+        run: |
+          ruby tools/lighthouse_audit.rb \
+            --version "${{ steps.version.outputs.version }}" \
+            --site-url http://localhost:4000
+
+      - name: Stop local server
+        if: always()
+        run: |
+          if [ -f /tmp/server.pid ]; then
+            kill $(cat /tmp/server.pid) || true
+          fi
+
+      - name: Commit quality metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/quality_log.yml
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: record Lighthouse metrics for v${{ steps.version.outputs.version }} [skip-version]"
+            git push
+          fi
