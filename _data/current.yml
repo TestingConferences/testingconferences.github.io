@@ -251,6 +251,12 @@
   twitter: testingpeers
   status: <a href="https://testingpeerscon.com/attend/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> | CFP is Closed
 
+- name: ParisTestConf 2027
+  location: Paris, France
+  dates: "March 23, 2027"
+  url: "https://paristestconf.com/?utm_source=testingconferences"
+  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-2027" target="_blank">Registration opens on October 1, 2026</a> | <a href="https://sessionize.com/paristestconf-2027/" target="_blank">CFP is Open</a> until October 31, 2026
+
 - name: UCAAT 2027 - User Conference on Advanced Automated Testing
   location: Belgrade, Serbia
   dates: "April 20-22, 2027"
