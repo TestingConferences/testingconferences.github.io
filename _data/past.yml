@@ -1,3 +1,14 @@
+- name: EuroSTAR Global Series 2026
+  location: Online
+  dates: "September 15, 2026"
+  url: https://conference.eurostarsoftwaretesting.com/global-series/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: TestearLa 2026
+  location: Buenos Aires, Argentina and Online
+  dates: "September 9-10, 2026"
+  url: https://www.testear.la/?utm_source=testingconferences
+
 - name: TAPIA (Peer Workshop on Testing and AI)
   location: Buenos Aires, Argentina
   dates: "September 7-9, 2026"
