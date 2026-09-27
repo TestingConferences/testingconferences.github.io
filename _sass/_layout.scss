@@ -313,6 +313,57 @@
     }
 }
 
+.partner-assets {
+    display: grid;
+    gap: $spacing-unit;
+    margin: $spacing-unit 0;
+}
+
+.partner-asset-card {
+    border: 1px solid $grey-color-light;
+    border-radius: 4px;
+    padding: $spacing-unit;
+
+    h3 {
+        margin-top: $spacing-unit / 2;
+    }
+}
+
+.partner-asset-preview {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 180px;
+
+    img {
+        max-height: 180px;
+        max-width: 100%;
+        object-fit: contain;
+        width: auto;
+    }
+}
+
+.partner-asset-preview-wide img {
+    width: 100%;
+}
+
+.partner-asset-preview-icon img {
+    height: 180px;
+}
+
+.partner-download {
+    background-color: #225c80;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    padding: 8px 14px;
+
+    &:hover,
+    &:focus {
+        color: white;
+    }
+}
+
 .lower-page {
     list-style: none;
     border: 1px;
