@@ -1,3 +1,41 @@
+- name: Tesena Fest 2026
+  location: Prague, Czech Republic
+  dates: "September 24-25, 2026"
+  url: https://www.tesena.com/en/tesena-fest-2026/a-189/?utm_source=testingconferences
+
+- name: QA Leadership Summit - Autumn 2026 Edition
+  location: Online
+  dates: "September 23, 2026"
+  url: https://www.browserstack.com/events/qals-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: WeTest.SKG 2026
+  location: Thessaloniki, Greece, Europe
+  dates: "September 21-22, 2026"
+  url: https://www.wetest-athens.gr/?utm_source=testingconferences
+
+- name: Targeting Quality 2026
+  location: Cambridge, Ontario, Canada
+  dates: September 21-22, 2026
+  url: https://targetingquality.ca/?utm_source=testingconferences
+
+- name: STARWEST 2026
+  location: Anaheim, CA, USA and Online
+  dates: "September 20-25, 2026"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: TechWell
+
+- name: TACON 2026
+  location: Leipzig, Germany
+  dates: "September 16-17, 2026"
+  url: https://tacon-konferenz.de?utm_source=testingconferences
+
+- name: "Tricentis Transform 2026: Singapore"
+  location: Singapore
+  dates: "September 16-17, 2026"
+  url: https://events.tricentis.com/transform-singapore-2026/?utm_source=testingconferences
+  twitter: Tricentis
+
 - name: EuroSTAR Global Series 2026
   location: Online
   dates: "September 15, 2026"
