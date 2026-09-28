@@ -224,6 +224,12 @@
   twitter: esconfs
   status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> | <a href="https://conference.eurostarsoftwaretesting.com/call-for-submissions/?utm_source=testingconferences" target="_blank">CFP is Open</a> until September 30, 2026
 
+- name: Test Coast 2027 - Where software testing meets the horizon
+  location: Gothenburg, Sweden
+  dates: "May 19-20, 2027"
+  url: https://testcoast.se/?utm_source=testingconferences
+  status: CFP and registration opens soon
+
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
   dates: "May 25, 2027"
