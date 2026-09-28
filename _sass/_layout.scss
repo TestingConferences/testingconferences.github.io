@@ -150,6 +150,10 @@
     padding: 5px;
 }
 
+.footer-links {
+    margin-left: 0;
+}
+
 .footer-col-wrapper-scroll {
     font-size: 15px;
     max-height: 50px;
@@ -164,19 +168,11 @@
     padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width: calc(30% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width: calc(30% - (#{$spacing-unit} / 2));
-}
-
+.footer-col-1,
+.footer-col-2,
 .footer-col-3 {
-    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width: calc(40% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33.333% - (#{$spacing-unit} / 2));
+    width: calc(33.333% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
