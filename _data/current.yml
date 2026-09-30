@@ -134,26 +134,27 @@
   dates: "November 4-5, 2026"
   url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
   twitter: esconfs
-  status: <a href="https://automation.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open with 10% Savings</a>
+  status: <a href="https://automation.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing Assembly
   location: Helsinki, Finland
   dates: "November 4-5, 2026"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
-  status: Seminar is Sold Out | <a href="https://testingassembly.fistb.fi/register/?utm_source=testingconferences" target="_blank">Combo Tickets are Available</a>
+  status: <a href="https://testingassembly.fistb.fi/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: TestWarez 2026
   location: Sopot, Poland
   dates: "November 4-6, 2026"
   url: https://testwarez.pl/?utm_source=testingconferences
-  status: <a href="https://2026.testwarez.pl/?utm_source=testingconferences" target="_blank">Registration is Open</a> until October 20, 2026 | CFP is Closed
+  status: <a href="https://2026.testwarez.pl/?utm_source=testingconferences" target="_blank">Registration is Open</a> until October 20, 2026
 
 - name: TestGuild IRL Dallas 2026
   location: Dallas, TX, USA
   dates: "November 5, 2026"
   url: https://testguild.com/irl?utm_source=testingconferences
   twitter: testguilds
-  
+  status: <a href="https://testguild.com/irl?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
 - name: Software-QS-Tag 2026
   location: Frankfurt am Main - Airport, Germany
   dates: "November 11-12, 2026"
@@ -164,7 +165,7 @@
   location: Tokyo, Japan
   dates: "November 12-13, 2026"
   url: https://tokyotestfest.com/en/?utm_source=testingconferences
-  status: <a href="https://tokyotestfest.com/en/tickets_2026/?utm_source=testingconferences" target="_blank">Regular-Price Registration is Open</a>
+  status: <a href="https://tokyotestfest.com/en/tickets_2026/?utm_source=testingconferences" target="_blank">Registration is Open</a>
   
 - name: Agile Testing Days 2026
   location: Potsdam, Germany and Online
