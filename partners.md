@@ -4,6 +4,8 @@ permalink: /partners/
 title: Partner Resources
 ---
 
+TestingConferences.org is an up-to-date, community-maintained list of software testing conferences and workshops, published collaboratively with the global testing community. We help people find opportunities to connect, learn about the many facets of software testing, and help move the industry forward.
+
 Organizations that work with TestingConferences.org may use the official logo below to show our relationship and
 support for the software testing community.
 
