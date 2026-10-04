@@ -1,3 +1,13 @@
+- name: MoTaCon 2026
+  location: Brighton, UK
+  dates: "October 1, 2026"
+  url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
+
+- name: "QX Day (Sogeti) 2026"
+  location: Utrecht, Netherlands
+  dates: "September 30, 2026"
+  url: https://www.sogeti.nl/events/qx-day-2026/?utm_source=testingconferences
+
 - name: Tesena Fest 2026
   location: Prague, Czech Republic
   dates: "September 24-25, 2026"
