@@ -10,6 +10,24 @@
   url: https://hustef.com/?utm_source=testingconferences
   status: <a href="https://hustef.com/tickets_2026/?utm_source=testingconferences" target="_blank">2-Day Registration is Open</a> | 3-Day Tickets are Sold Out
 
+- name: "StackConnect World Tour: Zurich"
+  location: Zurich, Switzerland
+  dates: "October 6, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: "StackConnect World Tour: Krakow"
+  location: Krakow, Poland
+  dates: "October 7, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-krakow-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: "StackConnect World Tour: Bucharest"
+  location: Bucharest, Romania
+  dates: "October 8, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-bucharest-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
 - name: Wrobocon 2026 - Robot Framework Conference
   location: Online
   dates: "October 8, 2026"
@@ -98,6 +116,12 @@
   url: https://vlctesting.es/?utm_source=testingconferences
   status: <a href="https://vlctesting.es/reserva-tu-entrada/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
+- name: "StackConnect World Tour: Chennai"
+  location: Chennai, India
+  dates: "October 28, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-chennai-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
 - name: TestNet 2026
   location: Nieuwegein, Netherlands
   dates: "October 28, 2026"
@@ -160,11 +184,23 @@
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: <a href="https://agiletestingdays.com/pricing/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: "StackConnect World Tour: Hyderabad"
+  location: Hyderabad, India
+  dates: "November 19, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-hyderabad-november-2026?utm_source=testingconferences
+  twitter: browserstack
+
 - name: Testing United 2026
   location: Copenhagen, Denmark
   dates: "November 25-26, 2026"
   url: "https://www.testingunited.com/?utm_source=testingconferences"
   status: <a href="https://www.eventora.com/en/Events/testing-united?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: "StackConnect World Tour: Mumbai"
+  location: Mumbai, India
+  dates: "December 2, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-mumbai-december-2026?utm_source=testingconferences
+  twitter: browserstack
 
 - name: The Living Documentation Event 2027
   location: Hilversum, Netherlands
