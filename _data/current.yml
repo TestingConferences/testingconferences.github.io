@@ -22,6 +22,12 @@
   url: https://www.browserstack.com/events/stackconnect-world-tour-krakow-october-2026?utm_source=testingconferences
   twitter: browserstack
 
+- name: Software Quality Summit Boston 2026
+  location: Boston, MA, USA
+  dates: "October 7, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-boston/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-boston/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: "StackConnect World Tour: Bucharest"
   location: Bucharest, Romania
   dates: "October 8, 2026"
@@ -85,6 +91,12 @@
   twitter: Tricentis
   status: <a href="https://events.tricentis.com/transform-london-2026/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: Software Quality Summit Chicago 2026
+  location: Chicago, IL, USA
+  dates: "October 21, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-Chicago/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-Chicago/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: QonfX London
   location: London, UK
   dates: "October 22, 2026"
@@ -97,6 +109,18 @@
   dates: "October 22, 2026"
   url: https://www.noordertest.nl/?utm_source=testingconferences
   status: Registration is Closed
+
+- name: Software Quality Summit Vancouver 2026
+  location: Vancouver, BC, Canada
+  dates: "October 23, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-vancouver/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-vancouver/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: Software Quality Summit Austin 2026
+  location: Austin, TX, USA
+  dates: "October 23, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
@@ -126,6 +150,12 @@
   location: Nieuwegein, Netherlands
   dates: "October 28, 2026"
   url: https://www.testnet.org/evenementen/?utm_source=testingconferences
+
+- name: Software Quality Summit Phoenix 2026
+  location: Phoenix, AZ, USA
+  dates: "October 28, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-phoenix/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-phoenix/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Nederlandse Testdag 2026
   location: Amersfoort, Netherlands
@@ -166,6 +196,12 @@
   twitter: testguilds
   status: <a href="https://testguild.com/irl?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
 
+- name: Software Quality Summit Atlanta 2026
+  location: Atlanta, GA, USA
+  dates: "November 5, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-atlanta/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-atlanta/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Software-QS-Tag 2026
   location: Frankfurt am Main - Airport, Germany
   dates: "November 11-12, 2026"
@@ -178,6 +214,12 @@
   url: https://tokyotestfest.com/en/?utm_source=testingconferences
   status: <a href="https://tokyotestfest.com/en/tickets_2026/?utm_source=testingconferences" target="_blank">Registration is Open</a>
   
+- name: Software Quality Summit Arlington 2026
+  location: Arlington, VA, USA
+  dates: "November 13, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-virginia/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-virginia/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Agile Testing Days 2026
   location: Potsdam, Germany and Online
   dates: "November 16-19, 2026"
@@ -189,6 +231,12 @@
   dates: "November 19, 2026"
   url: https://www.browserstack.com/events/stackconnect-world-tour-hyderabad-november-2026?utm_source=testingconferences
   twitter: browserstack
+
+- name: Software Quality Summit Manila 2026
+  location: Manila, Philippines
+  dates: "November 20, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-manila/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-manila/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Testing United 2026
   location: Copenhagen, Denmark
