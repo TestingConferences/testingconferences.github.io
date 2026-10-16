@@ -333,6 +333,12 @@
   url: https://www.testmuai.com/testmuconf-2027/?utm_source=testingconferences
   status: <a href="https://www.testmuai.com/testmuconf-2027/?utm_source=testingconferences#register" target="_blank">Registration is Open and Free</a>
 
+- name: MoTaCon 2027
+  location: Brighton, UK
+  dates: "September 30, 2027"
+  url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
+  status: Registration is Open for Professional Members of the MoTaverse
+
 - name: TestGuild IRL New York 2027
   location: New York, NY, USA
   dates: "2027 TBA"
