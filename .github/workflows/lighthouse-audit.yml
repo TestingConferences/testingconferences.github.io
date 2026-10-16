@@ -44,9 +44,9 @@ jobs:
       - name: Start local server
         run: |
           cd _site
-          python3 -m http.server 4000 > /tmp/server.log 2>&1 &
-          echo $! > /tmp/server.pid
-          echo "Server starting with PID $(cat /tmp/server.pid)"
+          python3 -m http.server 4000 > "${{ runner.temp }}/server.log" 2>&1 &
+          echo $! > "${{ runner.temp }}/server.pid"
+          echo "Server starting with PID $(cat "${{ runner.temp }}/server.pid")"
           # Readiness polling handled by 'Wait for server to be ready' step
 
       - name: Wait for server to be ready
@@ -63,7 +63,7 @@ jobs:
           done
           echo "Server failed to start within 30 seconds"
           echo "=== Server Log ==="
-          cat /tmp/server.log || echo "(no log available)"
+          cat "${{ runner.temp }}/server.log" || echo "(no log available)"
           exit 1
 
       - name: Determine version
@@ -123,8 +123,8 @@ jobs:
       - name: Stop local server
         if: always()
         run: |
-          if [ -f /tmp/server.pid ]; then
-            kill $(cat /tmp/server.pid) || true
+          if [ -f "${{ runner.temp }}/server.pid" ]; then
+            kill $(cat "${{ runner.temp }}/server.pid") || true
           fi
 
       - name: Commit quality metrics
