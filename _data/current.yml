@@ -276,6 +276,12 @@
   twitter: testingpeers
   status: <a href="https://testingpeerscon.com/attend/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> | CFP is Closed
 
+- name: QA Financial Forum Toronto 2027
+  location: Toronto, Canada
+  dates: "March 17, 2027"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2027?utm_source=testingconferences
+  twitter: QA_financial
+
 - name: ParisTestConf 2027
   location: Paris, France
   dates: "March 23, 2027"
