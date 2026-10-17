@@ -1,3 +1,62 @@
+- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems 2026
+  location: Bilbao, Spain
+  dates: "October 14-16, 2026"
+  url: https://embedded.qatest.org/?lang=en&utm_source=testingconferences
+
+- name: Quality Sense Conf 2026
+  location: Montevideo, Uruguay
+  dates: "October 13, 2026"
+  url: https://qualitysenseconf.com/2026/?utm_source=testingconferences
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2026
+  location: Portland, Oregon, USA and Online
+  dates: "October 12-14, 2026"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+
+- name: Testing Talks Melbourne 2026
+  location: Melbourne, Australia
+  dates: "October 8, 2026"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingconferences
+
+- name: Wrobocon 2026 - Robot Framework Conference
+  location: Online
+  dates: "October 8, 2026"
+  url: https://wrobocon.eu/?utm_source=testingconferences
+
+- name: "StackConnect World Tour: Bucharest"
+  location: Bucharest, Romania
+  dates: "October 8, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-bucharest-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: Software Quality Summit Boston 2026
+  location: Boston, MA, USA
+  dates: "October 7, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-boston/?utm_source=testingconferences
+
+- name: "StackConnect World Tour: Krakow"
+  location: Krakow, Poland
+  dates: "October 7, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-krakow-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: "StackConnect World Tour: Zurich"
+  location: Zurich, Switzerland
+  dates: "October 6, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: HUSTEF 2026
+  location: Budapest
+  dates: "October 6-8, 2026"
+  url: https://hustef.com/?utm_source=testingconferences
+
+- name: SEETEST 2026
+  location: Ljubljana, Slovenia and Online
+  dates: "October 5-7, 2026"
+  url: https://www.seetest.org/?utm_source=testingconferences
+
 - name: MoTaCon 2026
   location: Brighton, UK
   dates: "October 1, 2026"

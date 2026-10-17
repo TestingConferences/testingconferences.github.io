@@ -1,70 +1,3 @@
-- name: SEETEST 2026
-  location: Ljubljana, Slovenia and Online
-  dates: "October 5-7, 2026"
-  url: https://www.seetest.org/?utm_source=testingconferences
-  status: <a href="https://seetest.org/index.php?page=visitors-packages&utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: HUSTEF 2026
-  location: Budapest
-  dates: "October 6-8, 2026"
-  url: https://hustef.com/?utm_source=testingconferences
-  status: <a href="https://hustef.com/tickets_2026/?utm_source=testingconferences" target="_blank">2-Day Registration is Open</a> | 3-Day Tickets are Sold Out
-
-- name: "StackConnect World Tour: Zurich"
-  location: Zurich, Switzerland
-  dates: "October 6, 2026"
-  url: https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026?utm_source=testingconferences
-  twitter: browserstack
-
-- name: "StackConnect World Tour: Krakow"
-  location: Krakow, Poland
-  dates: "October 7, 2026"
-  url: https://www.browserstack.com/events/stackconnect-world-tour-krakow-october-2026?utm_source=testingconferences
-  twitter: browserstack
-
-- name: Software Quality Summit Boston 2026
-  location: Boston, MA, USA
-  dates: "October 7, 2026"
-  url: https://www.testingmind.com/event/software-quality-summit-boston/?utm_source=testingconferences
-  status: <a href="https://www.testingmind.com/event/software-quality-summit-boston/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: "StackConnect World Tour: Bucharest"
-  location: Bucharest, Romania
-  dates: "October 8, 2026"
-  url: https://www.browserstack.com/events/stackconnect-world-tour-bucharest-october-2026?utm_source=testingconferences
-  twitter: browserstack
-
-- name: Wrobocon 2026 - Robot Framework Conference
-  location: Online
-  dates: "October 8, 2026"
-  url: https://wrobocon.eu/?utm_source=testingconferences
-  status: <a href="https://wrobocon.eu/?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
-
-- name: Testing Talks Melbourne 2026
-  location: Melbourne, Australia
-  dates: "October 8, 2026"
-  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingconferences
-  status: <a href="https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2026-melbourne?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: Pacific Northwest Software Quality Conference (PNSQC) 2026
-  location: Portland, Oregon, USA and Online
-  dates: "October 12-14, 2026"
-  url: https://www.pnsqc.org/?utm_source=testingconferences
-  twitter: PNSQC
-  status: <a href="https://pnsqc.org/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: Quality Sense Conf 2026
-  location: Montevideo, Uruguay
-  dates: "October 13, 2026"
-  url: https://qualitysenseconf.com/2026/?utm_source=testingconferences
-  status: <a href="https://qualitysenseconf.com/2026/?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
-  
-- name: QA&TEST International Conference on Software QA & Testing on Embedded Systems 2026
-  location: Bilbao, Spain
-  dates: "October 14-16, 2026"
-  url: https://embedded.qatest.org/?lang=en&utm_source=testingconferences
-  status: <a href="https://embedded.qatest.org/tickets/?lang=en&utm_source=testingconferences" target="_blank">Registration is Open</a>
-
 - name: DSTB Quality Beacon 2026
   location: Copenhagen, Denmark
   dates: "October 20-21, 2026"
@@ -238,6 +171,13 @@
   url: https://www.testingmind.com/event/software-quality-summit-manila/?utm_source=testingconferences
   status: <a href="https://www.testingmind.com/event/software-quality-summit-manila/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
+- name: QA Insurance Forum 2026
+  location: London, UK
+  dates: "November 25, 2026"
+  url: https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026?utm_source=testingconferences
+  twitter: QA_financial
+  status: <a href="https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
 - name: Testing United 2026
   location: Copenhagen, Denmark
   dates: "November 25-26, 2026"
@@ -268,6 +208,12 @@
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
   status: <a href="https://testingpeerscon.com/attend/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> | CFP is Closed
+
+- name: QA Financial Forum Toronto 2027
+  location: Toronto, Canada
+  dates: "March 17, 2027"
+  url: https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2027?utm_source=testingconferences
+  twitter: QA_financial
 
 - name: ParisTestConf 2027
   location: Paris, France
