@@ -285,6 +285,13 @@
   url: https://www.ministryoftesting.com/motacon?utm_source=testingconferences
   status: Registration is Open for Professional Members of the MoTaverse
 
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2027
+  location: Portland, Oregon, USA and Online
+  dates: "October 11-13, 2027"
+  url: https://www.pnsqc.org/?utm_source=testingconferences
+  twitter: PNSQC
+  status: Announced
+
 - name: TestGuild IRL New York 2027
   location: New York, NY, USA
   dates: "2027 TBA"
