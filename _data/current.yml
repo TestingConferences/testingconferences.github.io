@@ -8,7 +8,7 @@
   location: Vilnius, Lithuania and Online
   dates: "October 20-23, 2026"
   url: https://testcon.lt/?utm_source=testingconferences
-  status: <a href="https://testcon.lt/tickets-payment/?utm_source=testingconferences" target="_blank">Registration is Open</a> until October 8, 2026 | <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: Registration is Open
 
 - name: CypressConf 2026
   location: Online
@@ -65,7 +65,7 @@
   location: Lisbon, Portugal
   dates: "October 27, 2026"
   url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
-  status: <a href="https://testingportugal.pstqb.pt/en/bilhetes/?utm_source=testingconferences" target="_blank">Registration is Open</a> until October 16, 2026
+  status: Registration is Closed
 
 - name: VLCTESTING 2026
   location: Valencia, Spain (October 27) and Online (October 28)
@@ -94,7 +94,7 @@
   location: Amersfoort, Netherlands
   dates: "October 30, 2026"
   url: https://testdag.testar.org/?utm_source=testingconferences
-  status: <a href="https://testdag.testar.org/?utm_source=testingconferences" target="_blank">Registration is Open and Free</a> until October 18, 2026
+  status: Registration is Closed
 
 - name: TestGuild IRL Austin 2026
   location: Austin, TX, USA
@@ -120,7 +120,7 @@
   location: Sopot, Poland
   dates: "November 4-6, 2026"
   url: https://testwarez.pl/?utm_source=testingconferences
-  status: <a href="https://2026.testwarez.pl/?utm_source=testingconferences" target="_blank">Registration is Open</a> until October 20, 2026
+  status: Registration is Closed
 
 - name: TestGuild IRL Dallas 2026
   location: Dallas, TX, USA
@@ -265,7 +265,6 @@
   dates: "May 25-27, 2027"
   url: https://expoqa.com/?utm_source=testingconferences
   twitter: expoqa
-  status: <a href="https://expoqa.com/call-for-speaker/?utm_source=testingconferences" target="_blank">CFP is Open</a> until October 18, 2026
 
 - name: Live2Test 2027
   location: Online
