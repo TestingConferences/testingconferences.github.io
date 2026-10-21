@@ -190,6 +190,13 @@
   url: https://www.browserstack.com/events/stackconnect-world-tour-mumbai-december-2026?utm_source=testingconferences
   twitter: browserstack
 
+- name: TestGuild IRL Santa Clara County 2026
+  location: Santa Clara County, CA, USA
+  dates: "December 10, 2026"
+  url: https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences
+  twitter: testguilds
+  status: <a href="https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
 - name: The Living Documentation Event 2027
   location: Hilversum, Netherlands
   dates: "March 5, 2027"
