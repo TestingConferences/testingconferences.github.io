@@ -5,6 +5,9 @@ _site
 vendor
 .env
 .vscode
+node_modules
+playwright-report
+test-results
 
 # Script output
 tmp/pending_updates.yml
