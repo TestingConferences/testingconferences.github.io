@@ -1,0 +1,17 @@
+# Quality Log - Lighthouse Audit Metrics
+# Stores performance, accessibility, and SEO scores for each released version.
+# Format: stable YAML with append-only entries, one per released version.
+# Version field format: integer (e.g., 1631).
+# Scores: 0-100 integer scale (100 is best).
+#
+# Structure:
+# - version: <integer>
+#   release_date: <YYYY-MM-DD>
+#   commit_sha: <git commit hash>
+#   performance: <0-100>
+#   accessibility: <0-100>
+#   seo: <0-100>
+#   workflow_run_url: <GitHub Actions run URL>
+
+# This file is updated automatically by the lighthouse-audit workflow.
+# Do not edit manually; append entries only via the automated workflow.

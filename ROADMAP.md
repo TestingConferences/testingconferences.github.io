@@ -22,7 +22,7 @@ The July 2026 readiness assessment found the repository ready for supervised con
 ## Phase 2: Quality Ledger & Metrics
 *Goal: Associate every site version with a specific quality snapshot.*
 
-- [ ] **Lighthouse Tracking**: Automate Lighthouse audits during CI and record Performance, Accessibility, and SEO scores per version.
+- [x] **Lighthouse Tracking**: Automate Lighthouse audits during CI and record Performance, Accessibility, and SEO scores per version.
 - [ ] **Link Integrity**: Implement a broken link checker (e.g., `linkinator`) to log broken link counts against the current version.
 - [ ] **Build Analytics**: Track and log build times to monitor the impact of site growth on CI/CD performance.
 - [x] **Bug Attribution**: Update Issue Templates to include a "Site Version" field to track bug counts relative to specific releases.
@@ -37,6 +37,29 @@ The July 2026 readiness assessment found the repository ready for supervised con
 - Append rather than overwrite records, and prevent a metrics-only commit from causing a deployment or versioning loop.
 - Treat the issue form's Site Version field as the collection mechanism for bug attribution; aggregate reporting belongs in Phase 4.
 - Update the README when the ledger exists and validate the workflow manually before relying on tag-triggered collection.
+
+### Implementation: Lighthouse Tracking (Completed)
+
+**Files added/modified:**
+- `.github/workflows/lighthouse-audit.yml`: Workflow triggered on release tags (`v*`) or manual dispatch. Builds Jekyll site, serves locally, runs Lighthouse CLI, and commits results to `_data/quality_log.yml` with `[skip-version]` flag.
+- `tools/lighthouse_audit.rb`: Ruby script that runs Lighthouse, parses JSON output, extracts Performance/Accessibility/SEO scores, and appends to quality log in YAML format.
+- `_data/quality_log.yml`: Append-only quality metrics log with stable YAML format.
+- `.github/workflows/deploy.yml`: Updated to check for `[skip-version]` commit flag and skip version bump when metrics-only commit is detected.
+
+**How it works:**
+1. Lighthouse audit workflow is triggered by release tag creation (via `deploy.yml`) or manual workflow dispatch.
+2. Workflow checks out code, builds Jekyll site, and starts a local HTTP server.
+3. `tools/lighthouse_audit.rb` runs Lighthouse CLI against localhost and parses results.
+4. Scores are appended to `_data/quality_log.yml` with version, release date, commit SHA, and workflow run URL.
+5. Changes are committed with `[skip-version]` flag to prevent cascading version bumps.
+6. `deploy.yml` detects the flag and skips version increment, preventing CI/CD loop.
+
+**Design decisions:**
+- Local server instead of production: Ensures repeatable, controlled audits without external dependencies. Python's built-in `http.server` module is used to serve the Jekyll-built site because it's lightweight, included in all standard CI runners, and requires no additional dependencies beyond what's already available.
+- Ruby script for audit coordination: The audit script is written in Ruby (matching the repository's existing tooling in `tools/`) to handle Lighthouse CLI execution, JSON parsing, and quality log updates. It receives the site URL from the workflow and focuses on metric collection.
+- Append-only format: Preserves historical data for trend analysis (Phase 4).
+- `[skip-version]` commit flag: Prevents metrics collection from disrupting versioning workflow.
+- YAML format: Consistent with existing site configuration, human-readable for inspection.
 
 Changes to `.github/workflows/deploy.yml`, release tags, Pages deployment, or versioning require maintainer approval before implementation.
 
