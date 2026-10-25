@@ -234,6 +234,12 @@
   url: "https://www.robocon.io/2027#online?utm_source=testingconferences"
   status: <a href="https://www.robocon.io/tickets?utm_source=testingconferencesw">Blind Tickets on Sale</a>
 
+- name: TAPOST NEXT 2027
+  location: Riga, Latvia
+  dates: "April 8, 2027"
+  url: https://tapost.org/?utm_source=testingconferences
+  status: <a href="https://tapost.org/?utm_source=testingconferences#register" target="_blank">Registration is Open</a>
+
 - name: UCAAT 2027 - User Conference on Advanced Automated Testing
   location: Belgrade, Serbia
   dates: "April 20-22, 2027"
