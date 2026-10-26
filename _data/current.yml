@@ -190,12 +190,26 @@
   url: https://www.browserstack.com/events/stackconnect-world-tour-mumbai-december-2026?utm_source=testingconferences
   twitter: browserstack
 
+- name: QonfX Hyderabad 2026
+  location: Hyderabad, India
+  dates: "December 3, 2026"
+  url: https://www.thetesttribe.com/qonfx/hyderabad/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/hyderabad/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
+
 - name: TestGuild IRL Santa Clara County 2026
   location: Santa Clara County, CA, USA
   dates: "December 10, 2026"
   url: https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences
   twitter: testguilds
   status: <a href="https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
+- name: QonfX San Francisco 2027
+  location: San Francisco, CA, USA
+  dates: "March 4, 2027"
+  url: https://www.thetesttribe.com/qonfx/san-francisco/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/san-francisco/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
 
 - name: The Living Documentation Event 2027
   location: Hilversum, Netherlands
@@ -227,6 +241,13 @@
   dates: "March 23, 2027"
   url: "https://paristestconf.com/?utm_source=testingconferences"
   status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-2027" target="_blank">Registration is Open</a> | <a href="https://sessionize.com/paristestconf-2027/" target="_blank">CFP is Open</a> until October 31, 2026
+
+- name: QonfX Bangalore 2027
+  location: Bangalore, India
+  dates: "April 1, 2027"
+  url: https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/bangalore/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
 
 - name: RoboCon 2027 Online
   location: Online
@@ -285,11 +306,25 @@
   url: https://live2test.com/?utm_source=testingconferences
   status: <a href="https://live2test.com/?utm_source=testingconferences#tickets" target="_blank">Registration is Open</a>
 
+- name: QonfX New York 2027
+  location: New York, NY, USA
+  dates: "June 3, 2027"
+  url: https://www.thetesttribe.com/qonfx/new-york/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/new-york/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
+
 - name: Testμ Conference 2027
   location: Online
   dates: "August 24-26, 2027"
   url: https://www.testmuai.com/testmuconf-2027/?utm_source=testingconferences
   status: <a href="https://www.testmuai.com/testmuconf-2027/?utm_source=testingconferences#register" target="_blank">Registration is Open and Free</a>
+
+- name: QonfX Singapore 2027
+  location: Singapore
+  dates: "August 26, 2027"
+  url: https://www.thetesttribe.com/qonfx/singapore/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/singapore/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
 
 - name: MoTaCon 2027
   location: Brighton, UK
@@ -303,6 +338,27 @@
   url: https://www.pnsqc.org/?utm_source=testingconferences
   twitter: PNSQC
   status: Announced
+
+- name: QonfX London 2027
+  location: London, UK
+  dates: "October 14, 2027"
+  url: https://www.thetesttribe.com/qonfx/london/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/london/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
+
+- name: QonfX Dallas 2027
+  location: Dallas, TX, USA
+  dates: "November 10, 2027"
+  url: https://www.thetesttribe.com/qonfx/dallas/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/dallas/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
+
+- name: QonfX Hyderabad 2027
+  location: Hyderabad, India
+  dates: "December 2, 2027"
+  url: https://www.thetesttribe.com/qonfx/hyderabad/?utm_source=testingconferences&utm_medium=organic
+  twitter: The_Test_Tribe
+  status: <a href="https://www.thetesttribe.com/qonfx/hyderabad/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
 
 - name: TestGuild IRL New York 2027
   location: New York, NY, USA
