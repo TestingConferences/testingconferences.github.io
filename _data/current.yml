@@ -172,7 +172,7 @@
   dates: "March 11, 2027"
   url: https://testingpeerscon.com/?utm_source=testingconferences
   twitter: testingpeers
-  status: <a href="https://testingpeerscon.com/attend/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> | CFP is Closed
+  status: <a href="https://testingpeerscon.com/attend/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a>
 
 - name: QA Financial Forum Toronto 2027
   location: Toronto, Canada
@@ -226,11 +226,11 @@
   twitter: esconfs
   status: <a href="https://conference.eurostarsoftwaretesting.com/tickets/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a>
 
-- name: Test Coast 2027 - Where software testing meets the horizon
+- name: Test Coast 2027
   location: Gothenburg, Sweden
   dates: "May 19-20, 2027"
   url: https://testcoast.se/?utm_source=testingconferences
-  status: <a href="https://tickets.testcoast.se/c/test-coast-2027/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://testcoast.se/call-for-papers?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://tickets.testcoast.se/c/test-coast-2027/?utm_source=testingconferences" target="_blank">Early Bird Registration is Open</a> until December 31, 2026
 
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
