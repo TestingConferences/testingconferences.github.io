@@ -1,66 +1,3 @@
-- name: DSTB Quality Beacon 2026
-  location: Copenhagen, Denmark
-  dates: "October 20-21, 2026"
-  url: https://www.dstb.dk/konferencer/2026?utm_source=testingconferences
-  status: <a href="https://www.dstb.dk/konferencer/2026?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: TestCon Europe 2026
-  location: Vilnius, Lithuania and Online
-  dates: "October 20-23, 2026"
-  url: https://testcon.lt/?utm_source=testingconferences
-  status: Registration is Open
-
-- name: CypressConf 2026
-  location: Online
-  dates: "October 20-22, 2026"
-  url: https://www.cypress.io/events?utm_source=testingconferences
-  twitter: cypress_io
-  status: <a href="https://cypress.registration.goldcast.io/events/670deb6c-06ee-4ce8-858b-8a4db3a62eb1?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
-
-- name: "Tricentis Transform 2026: London"
-  location: London, UK
-  dates: "October 21-22, 2026"
-  url: https://events.tricentis.com/transform-london-2026/?utm_source=testingconferences
-  twitter: Tricentis
-  status: <a href="https://events.tricentis.com/transform-london-2026/registration/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: Software Quality Summit Chicago 2026
-  location: Chicago, IL, USA
-  dates: "October 21, 2026"
-  url: https://www.testingmind.com/event/software-quality-summit-Chicago/?utm_source=testingconferences
-  status: <a href="https://www.testingmind.com/event/software-quality-summit-Chicago/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: QonfX London
-  location: London, UK
-  dates: "October 22, 2026"
-  url: https://www.thetesttribe.com/qonfx/london/?utm_source=testingconferences&utm_medium=organic
-  twitter: The_Test_Tribe
-  status: <a href="https://www.thetesttribe.com/qonfx/london/?utm_source=testingconferences&utm_medium=organic" target="_blank">Request Your Free Invite</a>
-
-- name: Noordertest 2026
-  location: Groningen, Netherlands
-  dates: "October 22, 2026"
-  url: https://www.noordertest.nl/?utm_source=testingconferences
-  status: Registration is Closed
-
-- name: Software Quality Summit Vancouver 2026
-  location: Vancouver, BC, Canada
-  dates: "October 23, 2026"
-  url: https://www.testingmind.com/event/software-quality-summit-vancouver/?utm_source=testingconferences
-  status: <a href="https://www.testingmind.com/event/software-quality-summit-vancouver/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: Software Quality Summit Austin 2026
-  location: Austin, TX, USA
-  dates: "October 23, 2026"
-  url: https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences
-  status: <a href="https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
-- name: "QA:Challenge Accepted 2026"
-  location: Sofia, Bulgaria
-  dates: "October 24, 2026"
-  url: https://qachallengeaccepted.com?utm_source=testingconferences
-  status: <a href="https://bilet.bg/en/cart/challenge-accepted-events-2026-the-connection-7352?utm_source=testingconferences" target="_blank">Registration is Open</a>
-
 - name: Testing Portugal Conference 2026
   location: Lisbon, Portugal
   dates: "October 27, 2026"
@@ -71,7 +8,7 @@
   location: Valencia, Spain (October 27) and Online (October 28)
   dates: "October 27-28, 2026"
   url: https://vlctesting.es/?utm_source=testingconferences
-  status: <a href="https://vlctesting.es/reserva-tu-entrada/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
+  status: <a href="https://vlctesting.es/reserva-tu-entrada/?utm_source=testingconferences" target="_blank">Registration is Closed</a> | <a href="https://vlctesting.es/call-for-speakers/?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: "StackConnect World Tour: Chennai"
   location: Chennai, India
@@ -114,7 +51,7 @@
   location: Helsinki, Finland
   dates: "November 4-5, 2026"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
-  status: <a href="https://testingassembly.fistb.fi/register/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+  status: <a href="https://testingassembly.fistb.fi/register/?utm_source=testingconferences" target="_blank">Tutorial Registration is Open</a>
 
 - name: TestWarez 2026
   location: Sopot, Poland
@@ -158,6 +95,13 @@
   dates: "November 16-19, 2026"
   url: https://agiletestingdays.com/?utm_source=testingconferences
   status: <a href="https://agiletestingdays.com/pricing/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
+- name: QA Leadership Summit - Winter 2026 Edition
+  location: Online
+  dates: "November 18, 2026"
+  url: https://www.browserstack.com/events/qa-leadership-summit-winter-2026?utm_source=livewebinar&utm_medium=QALS-others&utm_platform=&utm_content=digitalevent&utm_campaign=Summit-18-Nov-2026-AI-QALS-Winter-2026-Edition&utm_campaigncode=701OW000012Iuq5YAC&utm_term=testing_conferences_promotion_november
+  twitter: browserstack
+  status: Registration is Open
 
 - name: "StackConnect World Tour: Hyderabad"
   location: Hyderabad, India
@@ -286,7 +230,7 @@
   location: Gothenburg, Sweden
   dates: "May 19-20, 2027"
   url: https://testcoast.se/?utm_source=testingconferences
-  status: CFP and registration opens soon
+  status: <a href="https://tickets.testcoast.se/c/test-coast-2027/?utm_source=testingconferences" target="_blank">Registration is Open</a> | <a href="https://testcoast.se/call-for-papers?utm_source=testingconferences" target="_blank">CFP is Open</a>
 
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
