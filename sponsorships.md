@@ -26,7 +26,7 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>October 2026</td>
-    <td>Open</td>
+    <td>TestingUnited</td>
   </tr>
   <tr>
     <td>November 2026</td>
@@ -58,15 +58,15 @@ change month to month and year to year as traffic grows. We do offer multi-month
   </tr>
   <tr>
     <td>June 2027</td>
-    <td>Open</td>
+    <td>TestMu Conference 2027</td>
   </tr>
   <tr>
     <td>July 2027</td>
-    <td>Open</td>
+    <td>TestMu Conference 2027</td>
   </tr>
   <tr>
     <td>August 2027</td>
-    <td>Open</td>
+    <td>TestMu Conference 2027</td>
   </tr>
   <tr>
     <td>September 2027</td>
