@@ -1,3 +1,67 @@
+- name: TestGuild IRL Dallas 2026
+  location: Dallas, TX, USA
+  dates: "November 5, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+
+- name: Software Quality Summit Atlanta 2026
+  location: Atlanta, GA, USA
+  dates: "November 5, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-atlanta/?utm_source=testingconferences
+
+- name: TestWarez 2026
+  location: Sopot, Poland
+  dates: "November 4-6, 2026"
+  url: https://testwarez.pl/?utm_source=testingconferences
+
+- name: AutomationSTAR Test Automation Conference 2026
+  location: Antwerpen, Belgium
+  dates: "November 4-5, 2026"
+  url: https://automation.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: esconfs
+
+- name: Testing Assembly 2026
+  location: Helsinki, Finland
+  dates: "November 4-5, 2026"
+  url: https://testingassembly.fistb.fi/?utm_source=testingconferences
+
+- name: TestGuild IRL Austin 2026
+  location: Austin, TX, USA
+  dates: "November 3, 2026"
+  url: https://testguild.com/irl?utm_source=testingconferences
+  twitter: testguilds
+
+- name: Nederlandse Testdag 2026
+  location: Amersfoort, Netherlands
+  dates: "October 30, 2026"
+  url: https://testdag.testar.org/?utm_source=testingconferences
+
+- name: "StackConnect World Tour: Chennai"
+  location: Chennai, India
+  dates: "October 28, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-chennai-october-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: TestNet 2026
+  location: Nieuwegein, Netherlands
+  dates: "October 28, 2026"
+  url: https://www.testnet.org/evenementen/?utm_source=testingconferences
+
+- name: Software Quality Summit Phoenix 2026
+  location: Phoenix, AZ, USA
+  dates: "October 28, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-phoenix/?utm_source=testingconferences
+
+- name: VLCTESTING 2026
+  location: Valencia, Spain (October 27) and Online (October 28)
+  dates: "October 27-28, 2026"
+  url: https://vlctesting.es/?utm_source=testingconferences
+
+- name: Testing Portugal Conference 2026
+  location: Lisbon, Portugal
+  dates: "October 27, 2026"
+  url: https://testingportugal.pstqb.pt/en/?utm_source=testingconferences
+
 - name: "QA:Challenge Accepted 2026"
   location: Sofia, Bulgaria
   dates: "October 24, 2026"
