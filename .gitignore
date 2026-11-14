@@ -8,3 +8,6 @@ vendor
 
 # Script output
 tmp/pending_updates.yml
+node_modules
+playwright-report
+test-results
