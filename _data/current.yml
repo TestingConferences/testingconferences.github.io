@@ -7,7 +7,7 @@
 - name: QA Leadership Summit - Winter 2026 Edition
   location: Online
   dates: "November 18, 2026"
-  url: https://www.browserstack.com/events/qa-leadership-summit-winter-2026?utm_source=testingconferences
+  url: https://www.browserstack.com/events/qa-leadership-summit-winter-2026?utm_source=livewebinar&utm_medium=QALS-others&utm_platform=&utm_content=digitalevent&utm_campaign=Summit-18-Nov-2026-AI-QALS-Winter-2026-Edition&utm_campaigncode=701OW000012Iuq5YAC&utm_term=testing_conferences_promotion_november
   twitter: browserstack
   status: Registration is Open
 
@@ -26,9 +26,9 @@
 - name: QA Insurance Forum 2026
   location: London, UK
   dates: "November 25, 2026"
-  url: https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026?affl=softwaretesting&utm_source=testingconferences#/
+  url: https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026#/?affl=softwaretesting
   twitter: QA_financial
-  status: <a href="https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026?affl=softwaretesting&utm_source=testingconferences#/" target="_blank">Registration is Open</a>; free for employees of insurance firms
+  status: <a href="https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026#/?affl=softwaretesting" target="_blank">Registration is Open</a>; free for employees of insurance firms
 
 - name: Testing United 2026
   location: Copenhagen, Denmark
@@ -91,14 +91,14 @@
 - name: The Agentic Risk Forum - Toronto 2027
   location: Toronto, Canada
   dates: "March 17, 2027"
-  url: https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2027?affl=softwaretesting&lang=en&utm_source=testingconferences#/
+  url: https://qafinancial.zohobackstage.eu/QAFinancialForumToronto2027#/?affl=softwaretesting&lang=en
   twitter: QA_financial
 
 - name: ParisTestConf 2027
   location: Paris, France
   dates: "March 23, 2027"
   url: "https://paristestconf.com/?utm_source=testingconferences"
-  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-2027" target="_blank">Registration is Open</a> | CFP is Closed
+  status: <a href="https://www.helloasso.com/associations/association-francaise-de-la-qualite-et-du-test/evenements/paristestconf-2027" target="_blank">Registration is Open</a>
 
 - name: QonfX Bangalore 2027
   location: Bangalore, India
@@ -124,14 +124,14 @@
   dates: "April 20-22, 2027"
   url: https://www.etsi.org/events/13th-ucaat-user-conference-on-advanced-automated-testing/?utm_source=testingconferences
   twitter: UCCAT
-  status: CFP is Closed | Registration Opens December 14, 2026
+  status: Registration Opens December 14, 2026
 
 - name: STAREAST 2027
   location: Orlando, FL, USA and Online
   dates: "April 25-30, 2027"
   url: https://stareast.techwell.com/?utm_source=testingconferences
   twitter: TechWell
-  status: <a href="https://stareast.techwell.com/?utm_source=testingconferences" target="_blank">Registration is Open</a> | CFP is Closed
+  status: <a href="https://stareast.techwell.com/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: EuroSTAR 2027 Software Testing Conference
   location: Copenhagen, Denmark

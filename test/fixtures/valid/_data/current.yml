@@ -9,3 +9,13 @@
   location: Online
   dates: "June 10-11, 2026"
   url: https://example.com/beta-2026?utm_source=testingconferences
+
+- name: Organizer Tracked Conference 2026
+  location: Online
+  dates: "July 1, 2026"
+  url: https://example.com/organizer-tracked?utm_source=organizer&utm_campaign=conference
+
+- name: Affiliate Tracked Conference 2026
+  location: Online
+  dates: "August 1, 2026"
+  url: https://example.com/affiliate-tracked#/?affl=partner&lang=en

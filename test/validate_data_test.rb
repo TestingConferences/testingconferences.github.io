@@ -63,11 +63,11 @@ class ValidateDataTest < Minitest::Test
     assert_match(/first_date is after last_date/, stderr)
   end
 
-  def test_missing_tracking_source_is_a_warning_not_an_error
+  def test_missing_tracking_parameter_is_a_warning_not_an_error
     _stdout, stderr, status = run_validator('warnings')
 
-    assert_match(/WARNING:.*missing utm_source=testingconferences/, stderr)
-    refute_match(/ERROR:.*missing utm_source=testingconferences/, stderr)
+    assert_match(/WARNING:.*missing utm_source=testingconferences or an organizer tracking parameter/, stderr)
+    refute_match(/ERROR:.*missing utm_source=testingconferences or an organizer tracking parameter/, stderr)
   end
 
   def test_out_of_order_dates_is_a_warning
