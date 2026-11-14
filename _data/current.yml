@@ -17,6 +17,12 @@
   url: https://www.browserstack.com/events/stackconnect-world-tour-hyderabad-november-2026?utm_source=testingconferences
   twitter: browserstack
 
+- name: Software Quality Summit Columbus 2026
+  location: Columbus, OH, USA
+  dates: "November 19, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-Columbus/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-Columbus/?utm_source=testingconferences" target="_blank">Registration is Open</a>
+
 - name: Software Quality Summit Manila 2026
   location: Manila, Philippines
   dates: "November 20, 2026"
@@ -55,6 +61,12 @@
   url: https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences
   twitter: testguilds
   status: <a href="https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
+- name: Software Quality Summit Austin 2027
+  location: Austin, TX, USA
+  dates: "March 3, 2027"
+  url: https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 3, 2027
 
 - name: Test Automation Days 2027
   location: Hilversum, the Netherlands
