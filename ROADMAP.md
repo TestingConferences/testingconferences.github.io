@@ -49,6 +49,32 @@ Changes to `.github/workflows/deploy.yml`, release tags, Pages deployment, or ve
 - [ ] **Maintenance Script Documentation**: Document the scripts in `tools/`, especially `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb`, or remove/replace scripts that are no longer part of the workflow.
 - [ ] **Local Verification Docs**: Make the local build and validation paths reliable and clear for both Docker and non-Docker setups.
 
+### WebMCP experiment
+
+*Goal: Test whether a small, read-only WebMCP tool makes the conference list more reliable and useful for browser-based agents without creating a new write path or backend service.*
+
+WebMCP is an evolving, tab-bound browser API rather than a persistent MCP server. Treat this work as progressive enhancement: the site must continue to behave normally when `document.modelContext` is unavailable, and the integration should remain isolated so it is inexpensive to update or remove as the proposal changes.
+
+- [ ] **Define the Pilot Contract**: Expose one homepage-only `search-testing-conferences` tool. Keep it read-only; do not include conference submission, issue creation, registration, or other state-changing actions.
+- [ ] **Publish Conference JSON**: Generate `/conferences.json` from `_data/current.yml` so the WebMCP tool and other consumers share a machine-readable source. Return conference name, location, dates, plain-text status, and URL in display order.
+- [ ] **Register the Tool Progressively**: Feature-detect `document.modelContext`, use the imperative `registerTool()` API, and unregister with an `AbortSignal`. Keep the implementation dependency-free and separate from the page templates where practical.
+- [ ] **Bound Search Behavior**: Support a case-insensitive text query across name, location, dates, and status. Return 10 results by default and no more than 25 so tool output remains predictable and reasonably small.
+- [ ] **Mark and Sanitize Content**: Strip HTML from status values, validate inputs in code, set `readOnlyHint: true`, set `untrustedContentHint: true` for community-maintained conference content, and set `consequentialHint: false`.
+- [ ] **Add Focused Tests**: Cover filtering, display order, default and maximum result limits, HTML removal, malformed input, and behavior when WebMCP is unsupported. Run the existing data validator and Jekyll build as part of verification.
+- [ ] **Evaluate With Agent Prompts**: Test representative requests such as finding online conferences, conferences in a named location, or entries mentioning an open CFP. Confirm that an agent selects the tool appropriately and interprets its results without relying on model-specific prompt patches.
+- [ ] **Choose a Trial Path**: Decide whether local browser flags are sufficient or whether to join a time-limited browser origin trial for public testing. Document any browser-version, enrollment, or expiry requirements in effect when implementation begins.
+- [ ] **Review the Proposal Before Implementation**: Verify the current WebMCP specification and browser documentation before coding. Use the imperative API unless the declarative API has entered the specification and provides a clear benefit for this site.
+- [ ] **Defer Structured Filtering**: Continue treating dates, locations, and statuses as human-readable text during the pilot. If reliable date-range, geography, CFP, or registration filtering proves valuable, plan a separate data-schema and validator change with normalized fields.
+
+The basic pilot is expected to be a small change, approximately one to two development days plus browser-agent evaluation. Structured date and status filtering is intentionally outside that estimate because it requires a data migration.
+
+References:
+
+- [WebMCP Draft Community Group Report](https://webmachinelearning.github.io/webmcp/)
+- [WebMCP explainer and imperative API](https://github.com/webmachinelearning/webmcp)
+- [Chrome WebMCP documentation](https://developer.chrome.com/docs/ai/webmcp)
+- [WebMCP evaluation guidance](https://developer.chrome.com/docs/ai/webmcp/evals)
+
 ## Phase 3.5: Newsletter Generation & Platform Migration
 *Goal: Reduce the work required to publish the monthly newsletter while preserving editorial review and subscriber consent.*
 
@@ -111,4 +137,4 @@ References:
 - [ ] **Broader Test Coverage**: Add automated tests beyond the conference-data validator where they protect meaningful behavior.
 
 ---
-*Last Updated: August 2026*
+*Last Updated: November 2026*

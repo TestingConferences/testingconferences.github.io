@@ -104,10 +104,18 @@ rescue URI::InvalidURIError
   false
 end
 
-def has_tracking_source?(value)
+def has_tracking_parameter?(value)
   uri = URI.parse(value.to_s)
-  URI.decode_www_form(uri.query.to_s).any? do |key, val|
-    key == 'utm_source' && val == 'testingconferences'
+  components = [uri.query]
+  components << uri.fragment.split('?', 2).last if uri.fragment&.include?('?')
+
+  components.compact.any? do |component|
+    URI.decode_www_form(component).any? do |key, val|
+      normalized_key = key.downcase
+      organizer_tracking = normalized_key.start_with?('utm_') ||
+                           %w[affl affiliate affiliate_id].include?(normalized_key)
+      !val.empty? && organizer_tracking
+    end
   end
 rescue URI::InvalidURIError
   false
@@ -167,8 +175,8 @@ DATA_FILES.each do |relative_path, rules|
     if event.key?('url')
       url = event['url']
       errors << "#{display}: url is not a valid HTTP(S) URL" unless valid_url?(url)
-      if rules[:check_tracking] && !has_tracking_source?(url)
-        warnings << "#{display}: url is missing utm_source=testingconferences"
+      if rules[:check_tracking] && !has_tracking_parameter?(url)
+        warnings << "#{display}: url is missing utm_source=testingconferences or an organizer tracking parameter"
       end
     end
 

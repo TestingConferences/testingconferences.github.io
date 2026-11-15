@@ -17,7 +17,9 @@ Use official sources for conference updates whenever possible:
 - Prefer the conference website or the organizer's official registration, CFP, or schedule page.
 - Use official social accounts only when the website is stale or incomplete.
 - When sources conflict, prefer the most specific current-year event page over a generic homepage or archived page.
+- Preserve tracking or affiliate parameters supplied by the organizer. Add `utm_source=testingconferences` only when the official URL has no tracking parameter.
 - Do not guess dates, locations, prices, CFP deadlines, or registration status.
+- Prefer the most useful current status. If registration or ticket sales have a status, omit `CFP is Closed`; use the closed-CFP status only when no more useful status is available.
 - If useful for visitors, preserve uncertainty in the `status` field rather than presenting unclear information as confirmed.
 
 ### 2. Reporting an Issue
