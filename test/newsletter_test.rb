@@ -54,6 +54,18 @@ class NewsletterTest < Minitest::Test
     assert_nil Newsletter.parse_date_range(nil)
   end
 
+  def test_rejects_reversed_ranges_and_only_rolls_over_at_a_clear_year_boundary
+    assert_nil Newsletter.parse_date_range('November 19-16, 2026')
+    assert_nil Newsletter.parse_date_range('November 30 - October 2, 2026')
+    assert_nil Newsletter.parse_date_range('December 30 - February 2, 2027')
+
+    range = Newsletter.parse_date_range('December 30 - January 2, 2027')
+
+    refute_nil range
+    assert_equal Date.new(2026, 12, 30), range.start_date
+    assert_equal Date.new(2027, 1, 2), range.end_date
+  end
+
   def test_catalog_keeps_unparseable_events_for_editorial_review
     catalog = Newsletter.load_catalog(FIXTURE)
 
@@ -95,10 +107,24 @@ class NewsletterTest < Minitest::Test
     converted = Newsletter.status_markdown(source)
 
     assert_equal(
-      '[Early Bird \*\*Registration\*\* &amp; Pricing](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026 | Save 20%',
+      '[Early Bird \*\*Registration\*\* &amp; Pricing](<https://example.com/tickets?utm_source=testingconferences&plan=early>) until December 1, 2026 | Save 20%',
       converted
     )
     assert_equal 'Review details', Newsletter.status_markdown('<a href="javascript:alert(1)">Review details</a>')
+  end
+
+  def test_markdown_links_preserve_parentheses_in_destinations
+    status = Newsletter.status_markdown(
+      '<a href="https://example.com/tickets)preview">Registration is Open</a>'
+    )
+    event = event_with(
+      name: 'Parenthesized URL Conference',
+      url: 'https://example.com/event)preview'
+    )
+    draft = Newsletter.render(Newsletter::Catalog.new(events: [event], unparseable: []), Date.new(2026, 11, 1))
+
+    assert_equal '[Registration is Open](<https://example.com/tickets)preview>)', status
+    assert_includes draft, '### [Parenthesized URL Conference](<https://example.com/event)preview>)'
   end
 
   def test_escapes_markdown_significant_source_text
@@ -120,6 +146,31 @@ class NewsletterTest < Minitest::Test
     ], discounts.map(&:name)
   end
 
+  def test_discount_state_is_evaluated_in_the_discount_clause
+    events = [
+      event_with(
+        name: 'Closed Early Bird',
+        status: 'Early Bird Registration is Closed | Regular Registration is Open'
+      ),
+      event_with(
+        name: 'Closed Inline Early Bird',
+        status: 'Early Bird Registration is Closed, regular registration is open'
+      ),
+      event_with(
+        name: 'Open Early Bird',
+        status: 'Early Bird Registration is Open | CFP is Closed'
+      ),
+      event_with(
+        name: 'Dated Early Bird',
+        status: 'Early Bird Registration until December 1, 2026'
+      )
+    ]
+
+    discounts = Newsletter.upcoming_discounts(events, Date.new(2026, 11, 1))
+
+    assert_equal ['Dated Early Bird', 'Open Early Bird'], discounts.map(&:name)
+  end
+
   def test_selects_all_upcoming_open_cfps_outside_event_window
     catalog = Newsletter.load_catalog(FIXTURE)
 
@@ -129,6 +180,19 @@ class NewsletterTest < Minitest::Test
       'Open CFP Conference',
       'Open Call for Papers Conference'
     ], cfps.map(&:name)
+  end
+
+  def test_open_cfp_requires_an_affirmative_state_in_the_cfp_clause
+    events = [
+      event_with(name: 'Closed CFP', status: 'CFP is Closed | Registration is Open'),
+      event_with(name: 'Future CFP', status: 'CFP is not open yet'),
+      event_with(name: 'Open CFP', status: 'CFP is Open | Registration is Closed'),
+      event_with(name: 'Open Papers', status: 'Registration is Open | Call for Papers is Open')
+    ]
+
+    cfps = Newsletter.open_cfps(events, Date.new(2026, 11, 1))
+
+    assert_equal ['Open CFP', 'Open Papers'], cfps.map(&:name)
   end
 
   def test_ordinary_registration_does_not_enter_global_status_lists
@@ -163,8 +227,8 @@ class NewsletterTest < Minitest::Test
     refute_includes positions, nil
     assert_equal positions.sort, positions
     assert_includes draft, '**Status:** Registration is Open and Free'
-    assert_includes draft, '[Early Bird Registration is Open](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026'
-    assert_includes draft, '### [Open CFP Conference](https://example.com/open-cfp?utm_source=testingconferences)'
+    assert_includes draft, '[Early Bird Registration is Open](<https://example.com/tickets?utm_source=testingconferences&plan=early>) until December 1, 2026'
+    assert_includes draft, '### [Open CFP Conference](<https://example.com/open-cfp?utm_source=testingconferences>)'
     refute_includes draft, '### [Registration Only Conference]'
   end
 
@@ -310,5 +374,21 @@ class NewsletterTest < Minitest::Test
       assert File.symlink?(output)
       assert_includes stderr.string, 'Output path must not be a symlink'
     end
+  end
+
+  private
+
+  def event_with(name:, status: '', url: 'https://example.com/event')
+    Newsletter::Event.new(
+      source: {
+        'name' => name,
+        'location' => 'Online',
+        'dates' => 'November 18, 2026',
+        'url' => url,
+        'status' => status
+      },
+      start_date: Date.new(2026, 11, 18),
+      end_date: Date.new(2026, 11, 18)
+    )
   end
 end

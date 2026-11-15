@@ -17,6 +17,12 @@ module Newsletter
 
   MONTH_PATTERN = '(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)'
 
+  DISCOUNT_PATTERN = /\b(?:early|super\s+early|blind)[ -]?bird\b|\bblind\s+(?:tickets?|registration|pricing)\b|\bdiscounts?\b|\bsavings?\b|\breduced\s+pric(?:e|ing)\b/i
+  CFP_PATTERN = /\b(?:CFP|call\s+for\s+(?:proposals|papers|speakers))\b/i
+  ACTIVE_DISCOUNT_PATTERN = /\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i
+  INACTIVE_PATTERN = /\b(?:closed|ended|expired|sold\s+out)\b/i
+  NEGATED_ACTIVE_PATTERN = /\bnot\s+(?:yet\s+|currently\s+)?(?:open|available|on\s+sale)\b|\b(?:isn['’]t|aren['’]t)\s+(?:open|available|on\s+sale)\b/i
+
   MONTH_NAMES = {
     'jan' => 'January',
     'feb' => 'February',
@@ -78,12 +84,15 @@ module Newsletter
     return unless components
 
     start_month, start_day, end_month, end_day, end_year = components
-    start_year = start_month > end_month ? end_year - 1 : end_year
+    crosses_year = start_month == 12 && end_month == 1
+    return if start_month > end_month && !crosses_year
 
-    DateRange.new(
-      start_date: Date.new(start_year, start_month, start_day),
-      end_date: Date.new(end_year, end_month, end_day)
-    )
+    start_year = crosses_year ? end_year - 1 : end_year
+    start_date = Date.new(start_year, start_month, start_day)
+    end_date = Date.new(end_year, end_month, end_day)
+    return if end_date < start_date
+
+    DateRange.new(start_date: start_date, end_date: end_date)
   rescue ArgumentError
     nil
   end
@@ -220,8 +229,7 @@ module Newsletter
 
   def open_cfps(events, target_month)
     upcoming_events(events, target_month).select do |event|
-      status = plain_text(event.status)
-      cfp_status?(status) && status.match?(/\bopen\b/i)
+      status_clauses(plain_text(event.status)).any? { |clause| open_cfp_clause?(clause) }
     end
   end
 
@@ -232,7 +240,7 @@ module Newsletter
     text = text.gsub(%r{<a\b[^>]*\bhref=(['"])(.*?)\1[^>]*>(.*?)</a>}mi) do
       href = CGI.unescapeHTML(Regexp.last_match(2).to_s)
       label = escape_markdown(plain_text(Regexp.last_match(3)))
-      replacement = http_url?(href) ? "[#{label}](#{href})" : label
+      replacement = markdown_link(label, href)
       links << replacement
       "NEWSLETTERLINKTOKEN#{links.length - 1}END"
     end
@@ -248,6 +256,14 @@ module Newsletter
     text = CGI.escapeHTML(CGI.unescapeHTML(value.to_s))
     text.gsub(/([\\\[\]*#_`])/) { |character| "\\#{character}" }
   end
+
+  def markdown_link(label, url)
+    return label unless http_url?(url)
+
+    destination = url.gsub('<', '%3C').gsub('>', '%3E')
+    "[#{label}](<#{destination}>)"
+  end
+  private_class_method :markdown_link
 
   def validate_source!(source, index)
     raise InputError, "Conference data entry #{index + 1} must be a mapping" unless source.is_a?(Hash)
@@ -340,7 +356,7 @@ module Newsletter
 
   def event_lines(event)
     name = escape_markdown(event.name)
-    heading = http_url?(event.url) ? "### [#{name}](#{event.url})" : "### #{name}"
+    heading = "### #{markdown_link(name, event.url)}"
     lines = [
       heading,
       '',
@@ -382,18 +398,34 @@ module Newsletter
   private_class_method :upcoming_events
 
   def active_discount?(status)
-    discount = status.match?(/\b(?:early|super\s+early|blind)[ -]?bird\b|\bblind\s+(?:tickets?|registration|pricing)\b|\bdiscounts?\b|\bsavings?\b|\breduced\s+pric(?:e|ing)\b/i)
-    active = status.match?(/\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i)
-    inactive = status.match?(/\bclosed\b|\bended\b|\bexpired\b|\bsold\s+out\b/i)
+    status_clauses(status).any? do |clause|
+      next false unless clause.match?(DISCOUNT_PATTERN)
+      next false if inactive_clause?(clause)
 
-    discount && (active || (!inactive && status.match?(/\bdiscounts?\b/i)))
+      clause.match?(ACTIVE_DISCOUNT_PATTERN) || clause.match?(/\bdiscounts?\b/i)
+    end
   end
   private_class_method :active_discount?
 
-  def cfp_status?(status)
-    status.match?(/\bCFP\b|\bcall\s+for\s+(?:proposals|papers|speakers)\b/i)
+  def open_cfp_clause?(clause)
+    return false unless clause.match?(CFP_PATTERN)
+    return false if inactive_clause?(clause)
+
+    subject = CFP_PATTERN.source
+    clause.match?(/(?:#{subject})(?:\s+submissions?)?\s+(?:(?:is|are|remains?|now|currently)\s+){0,3}open\b/i) ||
+      clause.match?(/\bopen\s+(?:#{subject})/i)
   end
-  private_class_method :cfp_status?
+  private_class_method :open_cfp_clause?
+
+  def inactive_clause?(clause)
+    clause.match?(INACTIVE_PATTERN) || clause.match?(NEGATED_ACTIVE_PATTERN)
+  end
+  private_class_method :inactive_clause?
+
+  def status_clauses(status)
+    status.split(/\s*(?:\||;|\.(?=\s|\z))\s*/).reject(&:empty?)
+  end
+  private_class_method :status_clauses
 
   def plain_text(value)
     CGI.unescapeHTML(remove_unsafe_elements(value.to_s).gsub(%r{<[^>]+>}m, ' '))
