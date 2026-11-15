@@ -157,8 +157,20 @@ class NewsletterTest < Minitest::Test
         status: 'Early Bird Registration is Closed, regular registration is open'
       ),
       event_with(
+        name: 'Closed Reverse Early Bird',
+        status: 'Regular Registration is Open, Early Bird Registration is Closed'
+      ),
+      event_with(
         name: 'Open Early Bird',
         status: 'Early Bird Registration is Open | CFP is Closed'
+      ),
+      event_with(
+        name: 'Open Early Bird First',
+        status: 'Early Bird Registration is Open, CFP is Closed'
+      ),
+      event_with(
+        name: 'Open Early Bird Last',
+        status: 'CFP is Closed, Early Bird Registration is Open'
       ),
       event_with(
         name: 'Dated Early Bird',
@@ -168,7 +180,12 @@ class NewsletterTest < Minitest::Test
 
     discounts = Newsletter.upcoming_discounts(events, Date.new(2026, 11, 1))
 
-    assert_equal ['Dated Early Bird', 'Open Early Bird'], discounts.map(&:name)
+    assert_equal [
+      'Dated Early Bird',
+      'Open Early Bird',
+      'Open Early Bird First',
+      'Open Early Bird Last'
+    ], discounts.map(&:name)
   end
 
   def test_selects_all_upcoming_open_cfps_outside_event_window
@@ -185,14 +202,26 @@ class NewsletterTest < Minitest::Test
   def test_open_cfp_requires_an_affirmative_state_in_the_cfp_clause
     events = [
       event_with(name: 'Closed CFP', status: 'CFP is Closed | Registration is Open'),
+      event_with(name: 'Closed Reverse CFP', status: 'Registration is Open, CFP is Closed'),
       event_with(name: 'Future CFP', status: 'CFP is not open yet'),
       event_with(name: 'Open CFP', status: 'CFP is Open | Registration is Closed'),
-      event_with(name: 'Open Papers', status: 'Registration is Open | Call for Papers is Open')
+      event_with(name: 'Open CFP First', status: 'CFP is now open, registration is closed'),
+      event_with(name: 'Open CFP Last', status: 'Registration is closed, CFP is now open'),
+      event_with(name: 'Open Papers', status: 'Registration is Open | Call for Papers is Open'),
+      event_with(name: 'Colon CFP', status: 'CFP: Open'),
+      event_with(name: 'Historic Open CFP', status: 'Call for proposals has been open since January 1')
     ]
 
     cfps = Newsletter.open_cfps(events, Date.new(2026, 11, 1))
 
-    assert_equal ['Open CFP', 'Open Papers'], cfps.map(&:name)
+    assert_equal [
+      'Colon CFP',
+      'Historic Open CFP',
+      'Open CFP',
+      'Open CFP First',
+      'Open CFP Last',
+      'Open Papers'
+    ], cfps.map(&:name)
   end
 
   def test_ordinary_registration_does_not_enter_global_status_lists

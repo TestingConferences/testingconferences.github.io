@@ -412,7 +412,7 @@ module Newsletter
     return false if inactive_clause?(clause)
 
     subject = CFP_PATTERN.source
-    clause.match?(/(?:#{subject})(?:\s+submissions?)?\s+(?:(?:is|are|remains?|now|currently)\s+){0,3}open\b/i) ||
+    clause.match?(/(?:#{subject})(?:\s+submissions?)?\s*:?\s*(?:(?:is|are|remains?|has\s+been|now|currently)\s+){0,3}open\b/i) ||
       clause.match?(/\bopen\s+(?:#{subject})/i)
   end
   private_class_method :open_cfp_clause?
@@ -423,7 +423,7 @@ module Newsletter
   private_class_method :inactive_clause?
 
   def status_clauses(status)
-    status.split(/\s*(?:\||;|\.(?=\s|\z))\s*/).reject(&:empty?)
+    status.split(/\s*(?:\||;|,|\.(?=\s|\z))\s*/).reject(&:empty?)
   end
   private_class_method :status_clauses
 
