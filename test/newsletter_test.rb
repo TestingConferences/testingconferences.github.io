@@ -173,6 +173,10 @@ class NewsletterTest < Minitest::Test
         status: 'CFP is Closed, Early Bird Registration is Open'
       ),
       event_with(
+        name: 'Open Early Bird After Closed Registration',
+        status: 'Regular Registration is Closed, Early Bird Registration is Open'
+      ),
+      event_with(
         name: 'Open Early Bird After Conjunction',
         status: 'Early bird registration is open, and the CFP is closed'
       ),
@@ -187,6 +191,7 @@ class NewsletterTest < Minitest::Test
     assert_equal [
       'Dated Early Bird',
       'Open Early Bird',
+      'Open Early Bird After Closed Registration',
       'Open Early Bird After Conjunction',
       'Open Early Bird First',
       'Open Early Bird Last'
@@ -199,6 +204,14 @@ class NewsletterTest < Minitest::Test
       event_with(
         name: 'Expired Repeated Discount',
         status: 'Early bird discount, but the discount has expired'
+      ),
+      event_with(
+        name: 'Expired Repeated Registration',
+        status: 'Early bird registration is open, but the registration has expired'
+      ),
+      event_with(
+        name: 'Expired Repeated Named Discount',
+        status: 'Early bird discount is open, but the early bird discount has expired'
       ),
       event_with(
         name: 'Available Registration',
@@ -231,6 +244,11 @@ class NewsletterTest < Minitest::Test
       event_with(name: 'Open CFP First', status: 'CFP is now open, registration is closed'),
       event_with(name: 'Open CFP Last', status: 'Registration is closed, CFP is now open'),
       event_with(name: 'Open CFP Before Conjunction', status: 'CFP is open, but registration is closed'),
+      event_with(name: 'Closed Repeated CFP', status: 'CFP is open, but the CFP has closed'),
+      event_with(
+        name: 'Closed Repeated Call',
+        status: 'Call for proposals is open, but the call for proposals has closed'
+      ),
       event_with(name: 'Open Papers', status: 'Registration is Open | Call for Papers is Open'),
       event_with(name: 'Colon CFP', status: 'CFP: Open'),
       event_with(name: 'Historic Open CFP', status: 'Call for proposals has been open since January 1')

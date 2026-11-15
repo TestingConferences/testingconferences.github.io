@@ -22,10 +22,12 @@ module Newsletter
   ACTIVE_DISCOUNT_PATTERN = /\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i
   INACTIVE_PATTERN = /\b(?:closed|ended|expired|sold\s+out)\b/i
   NEGATED_ACTIVE_PATTERN = /\bnot\s+(?:yet\s+|currently\s+)?(?:open|available|on\s+sale)\b|\b(?:isn['’]t|aren['’]t)\s+(?:open|available|on\s+sale)\b/i
-  DISCOUNT_REFERENCE_PATTERN = /\A(?:(?:and|but)\s+)?(?:the|this|that)\s+discounts?\b/i
+  STATUS_REFERENCE_PATTERN = /\A(?:(?:and|but)\s+)?(?:the|this|that)\b/i
   STATUS_SUBJECT_PATTERN = "(?:#{CFP_PATTERN.source}|#{DISCOUNT_PATTERN.source}|\\b(?:regular\\s+)?(?:registration|tickets?|pricing)\\b)"
   STATUS_SUBJECT_PREFIX_PATTERN = "(?:(?:and|but)\\s+)?(?:(?:a|an|the)\\s+)?"
   STATUS_SEPARATOR_PATTERN = /\s*(?:\||;|\.(?=\s|\z)|,(?=\s*#{STATUS_SUBJECT_PREFIX_PATTERN}#{STATUS_SUBJECT_PATTERN}))\s*/i
+  DISCOUNT_OFFER_SUBJECTS = %i[super_early_bird early_bird blind_bird discount].freeze
+  REGISTRATION_OFFER_SUBJECTS = (DISCOUNT_OFFER_SUBJECTS + %i[regular_registration registration]).freeze
 
   MONTH_NAMES = {
     'jan' => 'January',
@@ -428,7 +430,7 @@ module Newsletter
 
   def status_clauses(status)
     status.split(STATUS_SEPARATOR_PATTERN).reject(&:empty?).each_with_object([]) do |clause, clauses|
-      if clause.match?(DISCOUNT_REFERENCE_PATTERN) && clauses.last&.match?(DISCOUNT_PATTERN)
+      if clauses.last && same_status_subject?(clauses.last, clause)
         clauses[-1] = "#{clauses.last}, #{clause}"
       else
         clauses << clause
@@ -436,6 +438,40 @@ module Newsletter
     end
   end
   private_class_method :status_clauses
+
+  def same_status_subject?(previous_clause, clause)
+    previous_subject = status_subject(previous_clause)
+    subject = status_subject(clause)
+    return false unless previous_subject && subject
+    return true if previous_subject == subject
+    return false unless clause.match?(STATUS_REFERENCE_PATTERN)
+
+    return DISCOUNT_OFFER_SUBJECTS.include?(previous_subject) if subject == :discount
+    return REGISTRATION_OFFER_SUBJECTS.include?(previous_subject) if subject == :registration
+
+    false
+  end
+  private_class_method :same_status_subject?
+
+  def status_subject(clause)
+    case clause
+    when CFP_PATTERN
+      :cfp
+    when /\bsuper\s+early[ -]?bird\b/i
+      :super_early_bird
+    when /\bearly[ -]?bird\b/i
+      :early_bird
+    when /\bblind[ -]?bird\b|\bblind\s+(?:tickets?|registration|pricing)\b/i
+      :blind_bird
+    when /\bregular\s+(?:registration|tickets?|pricing)\b/i
+      :regular_registration
+    when /\b(?:registration|tickets?|pricing)\b/i
+      :registration
+    when /\bdiscounts?\b|\bsavings?\b|\breduced\s+pric(?:e|ing)\b/i
+      :discount
+    end
+  end
+  private_class_method :status_subject
 
   def plain_text(value)
     CGI.unescapeHTML(remove_unsafe_elements(value.to_s).gsub(%r{<[^>]+>}m, ' '))
