@@ -101,7 +101,7 @@ CLI options, and atomic destination replacement.
 - [x] `ruby test/newsletter_test.rb` passes with no skipped tests.
 - [x] `ruby test/validate_data_test.rb` passes.
 - [x] Manual CLI checks confirm success and safe failure behavior.
-- [ ] Tasks 1–3 are committed as reviewable save points.
+- [x] Tasks 1–3 are committed as reviewable save points.
 
 ## Task 4: Document and generate the editorial draft
 
@@ -111,19 +111,19 @@ regeneration behavior, and troubleshooting, then run the default command for Nov
 
 **Acceptance criteria:**
 
-- [ ] `docs/newsletter-workflow.md` explains generation, review, regeneration, and
+- [x] `docs/newsletter-workflow.md` explains generation, review, regeneration, and
       troubleshooting without promising upload or send behavior.
-- [ ] `_drafts/2026-11-newsletter.md` is generated solely from current repository data.
-- [ ] The draft contains November 2026, December 2026, and January 2027 sections,
+- [x] `_drafts/2026-11-newsletter.md` is generated solely from current repository data.
+- [x] The draft contains November 2026, December 2026, and January 2027 sections,
       followed by all upcoming discounts and all open CFPs.
-- [ ] The draft visibly retains placeholders for introduction, sponsor copy,
+- [x] The draft visibly retains placeholders for introduction, sponsor copy,
       announcements, and final notes.
 
 **Verification:**
 
-- [ ] Run `ruby tools/newsletter.rb --month 2026-11`.
-- [ ] Re-run it and confirm no diff in the generated draft.
-- [ ] Review the generated section order and checklist manually.
+- [x] Run `ruby tools/newsletter.rb --month 2026-11`.
+- [x] Re-run it and confirm no diff in the generated draft.
+- [x] Review the generated section order and checklist manually.
 
 **Dependencies:** Task 3
 
