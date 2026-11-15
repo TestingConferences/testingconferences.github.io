@@ -197,6 +197,10 @@ class NewsletterTest < Minitest::Test
     events = [
       event_with(name: 'Sold Out Discount', status: 'Early bird discount, sold out'),
       event_with(
+        name: 'Expired Repeated Discount',
+        status: 'Early bird discount, but the discount has expired'
+      ),
+      event_with(
         name: 'Available Registration',
         status: 'Early bird registration, available through January 1'
       )

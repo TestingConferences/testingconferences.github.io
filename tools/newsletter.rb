@@ -22,6 +22,7 @@ module Newsletter
   ACTIVE_DISCOUNT_PATTERN = /\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i
   INACTIVE_PATTERN = /\b(?:closed|ended|expired|sold\s+out)\b/i
   NEGATED_ACTIVE_PATTERN = /\bnot\s+(?:yet\s+|currently\s+)?(?:open|available|on\s+sale)\b|\b(?:isn['’]t|aren['’]t)\s+(?:open|available|on\s+sale)\b/i
+  DISCOUNT_REFERENCE_PATTERN = /\A(?:(?:and|but)\s+)?(?:the|this|that)\s+discounts?\b/i
   STATUS_SUBJECT_PATTERN = "(?:#{CFP_PATTERN.source}|#{DISCOUNT_PATTERN.source}|\\b(?:regular\\s+)?(?:registration|tickets?|pricing)\\b)"
   STATUS_SUBJECT_PREFIX_PATTERN = "(?:(?:and|but)\\s+)?(?:(?:a|an|the)\\s+)?"
   STATUS_SEPARATOR_PATTERN = /\s*(?:\||;|\.(?=\s|\z)|,(?=\s*#{STATUS_SUBJECT_PREFIX_PATTERN}#{STATUS_SUBJECT_PATTERN}))\s*/i
@@ -426,7 +427,13 @@ module Newsletter
   private_class_method :inactive_clause?
 
   def status_clauses(status)
-    status.split(STATUS_SEPARATOR_PATTERN).reject(&:empty?)
+    status.split(STATUS_SEPARATOR_PATTERN).reject(&:empty?).each_with_object([]) do |clause, clauses|
+      if clause.match?(DISCOUNT_REFERENCE_PATTERN) && clauses.last&.match?(DISCOUNT_PATTERN)
+        clauses[-1] = "#{clauses.last}, #{clause}"
+      else
+        clauses << clause
+      end
+    end
   end
   private_class_method :status_clauses
 
