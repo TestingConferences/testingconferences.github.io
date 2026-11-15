@@ -82,3 +82,7 @@
   dates: "September 9, 2027"
   url: https://example.com/closed-cfp?utm_source=testingconferences
   status: CFP is Closed
+
+- name: Missing Date Conference
+  location: Online
+  url: https://example.com/missing-date?utm_source=testingconferences

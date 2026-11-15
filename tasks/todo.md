@@ -73,19 +73,19 @@ CLI options, and atomic destination replacement.
 
 **Acceptance criteria:**
 
-- [ ] Output follows the approved section order and contains all four editorial areas.
-- [ ] Three monthly sections always appear, including explicit empty-month messages.
-- [ ] Suggested subject/preheader and all generated copy are deterministic.
-- [ ] Unparseable event names appear in the review checklist.
-- [ ] Default output is `_drafts/YYYY-MM-newsletter.md`; `--output` is supported.
-- [ ] Repeated generation from unchanged data is byte-identical.
-- [ ] Invalid input/data exits nonzero without partially overwriting an existing file.
+- [x] Output follows the approved section order and contains all four editorial areas.
+- [x] Three monthly sections always appear, including explicit empty-month messages.
+- [x] Suggested subject/preheader and all generated copy are deterministic.
+- [x] Unparseable event names appear in the review checklist.
+- [x] Default output is `_drafts/YYYY-MM-newsletter.md`; `--output` is supported.
+- [x] Repeated generation from unchanged data is byte-identical.
+- [x] Invalid input/data exits nonzero without partially overwriting an existing file.
 
 **Verification:**
 
-- [ ] RED: rendering/CLI tests fail before implementation.
-- [ ] GREEN: `ruby test/newsletter_test.rb` passes.
-- [ ] Two explicit-output runs have identical checksums.
+- [x] RED: rendering/CLI tests fail before implementation.
+- [x] GREEN: `ruby test/newsletter_test.rb` passes.
+- [x] Two explicit-output runs have identical checksums.
 
 **Dependencies:** Tasks 1–2
 
@@ -98,9 +98,9 @@ CLI options, and atomic destination replacement.
 
 ## Checkpoint: Complete generator
 
-- [ ] `ruby test/newsletter_test.rb` passes with no skipped tests.
-- [ ] `ruby test/validate_data_test.rb` passes.
-- [ ] Manual CLI checks confirm success and safe failure behavior.
+- [x] `ruby test/newsletter_test.rb` passes with no skipped tests.
+- [x] `ruby test/validate_data_test.rb` passes.
+- [x] Manual CLI checks confirm success and safe failure behavior.
 - [ ] Tasks 1–3 are committed as reviewable save points.
 
 ## Task 4: Document and generate the editorial draft

@@ -3,6 +3,8 @@
 
 require 'date'
 require 'minitest/autorun'
+require 'stringio'
+require 'tmpdir'
 require_relative '../tools/newsletter'
 
 class NewsletterTest < Minitest::Test
@@ -56,7 +58,10 @@ class NewsletterTest < Minitest::Test
     catalog = Newsletter.load_catalog(FIXTURE)
 
     assert_equal 14, catalog.events.length
-    assert_equal ['Date To Be Announced Conference'], catalog.unparseable.map(&:name)
+    assert_equal [
+      'Date To Be Announced Conference',
+      'Missing Date Conference'
+    ], catalog.unparseable.map(&:name)
   end
 
   def test_three_month_window_crosses_year_and_orders_events
@@ -135,5 +140,139 @@ class NewsletterTest < Minitest::Test
 
     refute_includes discount_names, 'Registration Only Conference'
     refute_includes cfp_names, 'Registration Only Conference'
+  end
+
+  def test_rendered_draft_follows_the_editorial_section_order
+    catalog = Newsletter.load_catalog(FIXTURE)
+    draft = Newsletter.render(catalog, Date.new(2026, 11, 1))
+
+    headings = [
+      '## Introduction',
+      '## Sponsor',
+      '## November 2026',
+      '## December 2026',
+      '## January 2027',
+      '## Upcoming discounts',
+      '## Open CFPs',
+      '## Announcements',
+      '## Final notes',
+      '## Review before sending'
+    ]
+
+    positions = headings.map { |heading| draft.index(heading) }
+    refute_includes positions, nil
+    assert_equal positions.sort, positions
+    assert_includes draft, '**Status:** Registration is Open and Free'
+    assert_includes draft, '[Early Bird Registration is Open](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026'
+    assert_includes draft, '### [Open CFP Conference](https://example.com/open-cfp?utm_source=testingconferences)'
+    refute_includes draft, '### [Registration Only Conference]'
+  end
+
+  def test_rendered_draft_contains_visible_editorial_placeholders
+    draft = Newsletter.render(Newsletter.load_catalog(FIXTURE), Date.new(2026, 11, 1))
+
+    assert_includes draft, '[Write the introduction before sending.]'
+    assert_includes draft, '[Add sponsor copy or remove this section before sending.]'
+    assert_includes draft, '[Add announcements or remove this section before sending.]'
+    assert_includes draft, '[Add final notes before sending.]'
+    assert_equal 4, draft.scan('<!-- EDITOR:').length
+  end
+
+  def test_rendered_draft_surfaces_unparseable_dates_for_review
+    draft = Newsletter.render(Newsletter.load_catalog(FIXTURE), Date.new(2026, 11, 1))
+
+    assert_includes draft, 'Date To Be Announced Conference — `2027 TBA`'
+    assert_includes draft, 'Missing Date Conference — missing date'
+  end
+
+  def test_rendered_event_omits_missing_optional_status
+    draft = Newsletter.render(Newsletter.load_catalog(FIXTURE), Date.new(2026, 11, 1))
+    january_section = draft[/## January 2027\n(.*?)## Upcoming discounts/m, 1]
+
+    assert_includes january_section, 'January Conference'
+    refute_includes january_section, '**Status:**'
+  end
+
+  def test_empty_window_still_renders_three_months_and_placeholders
+    draft = Newsletter.render(Newsletter.load_catalog(FIXTURE), Date.new(2028, 1, 1))
+
+    assert_includes draft, '## January 2028'
+    assert_includes draft, '## February 2028'
+    assert_includes draft, '## March 2028'
+    assert_equal 3, draft.scan('No conferences or workshops are currently listed for').length
+    assert_includes draft, 'No upcoming discounts are currently listed.'
+    assert_includes draft, 'No open CFPs are currently listed.'
+  end
+
+  def test_rendering_is_byte_deterministic
+    catalog = Newsletter.load_catalog(FIXTURE)
+    target_month = Date.new(2026, 11, 1)
+
+    assert_equal Newsletter.render(catalog, target_month), Newsletter.render(catalog, target_month)
+  end
+
+  def test_default_output_path_uses_the_target_month
+    assert_equal(
+      File.expand_path('../_drafts/2026-11-newsletter.md', __dir__),
+      Newsletter.default_output_path(Date.new(2026, 11, 1))
+    )
+  end
+
+  def test_cli_writes_an_explicit_output_and_regenerates_identically
+    Dir.mktmpdir do |directory|
+      output = File.join(directory, 'newsletter.md')
+      stdout = StringIO.new
+      stderr = StringIO.new
+
+      first_status = Newsletter.run(
+        ['--month', '2026-11', '--output', output],
+        data_file: FIXTURE,
+        stdout: stdout,
+        stderr: stderr
+      )
+      first_content = File.binread(output)
+      second_status = Newsletter.run(
+        ['--month', '2026-11', '--output', output],
+        data_file: FIXTURE,
+        stdout: StringIO.new,
+        stderr: StringIO.new
+      )
+
+      assert_equal 0, first_status
+      assert_equal 0, second_status
+      assert_equal first_content, File.binread(output)
+      assert_equal "Newsletter draft written to #{output}\n", stdout.string
+      assert_empty stderr.string
+    end
+  end
+
+  def test_cli_rejects_missing_month_with_a_useful_error
+    stderr = StringIO.new
+
+    status = Newsletter.run([], data_file: FIXTURE, stdout: StringIO.new, stderr: stderr)
+
+    assert_equal 1, status
+    assert_equal "Missing required option: --month YYYY-MM\n", stderr.string
+  end
+
+  def test_invalid_data_does_not_overwrite_an_existing_draft
+    Dir.mktmpdir do |directory|
+      output = File.join(directory, 'newsletter.md')
+      invalid_data = File.join(directory, 'invalid.yml')
+      File.write(output, 'editorial changes')
+      File.write(invalid_data, "not: an array\n")
+      stderr = StringIO.new
+
+      status = Newsletter.run(
+        ['--month', '2026-11', '--output', output],
+        data_file: invalid_data,
+        stdout: StringIO.new,
+        stderr: stderr
+      )
+
+      assert_equal 1, status
+      assert_equal 'editorial changes', File.read(output)
+      assert_includes stderr.string, 'Expected an array'
+    end
   end
 end

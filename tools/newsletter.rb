@@ -3,11 +3,17 @@
 
 require 'date'
 require 'cgi'
+require 'fileutils'
+require 'optparse'
+require 'tempfile'
 require 'uri'
 require 'yaml'
 
 module Newsletter
   class InputError < StandardError; end
+
+  ROOT = File.expand_path('..', __dir__)
+  DEFAULT_DATA_FILE = File.join(ROOT, '_data', 'current.yml')
 
   MONTH_PATTERN = '(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)'
 
@@ -36,6 +42,18 @@ module Newsletter
 
     def status
       source['status'].to_s
+    end
+
+    def location
+      source['location'].to_s
+    end
+
+    def dates
+      source['dates'].to_s
+    end
+
+    def url
+      source['url'].to_s
     end
   end
 
@@ -77,8 +95,9 @@ module Newsletter
     events = []
     unparseable = []
 
-    raw_events.each do |source|
-      range = parse_date_range(source['dates']) if source.is_a?(Hash)
+    raw_events.each_with_index do |source, index|
+      validate_source!(source, index)
+      range = parse_date_range(source['dates'])
       event = Event.new(source: source, start_date: range&.start_date, end_date: range&.end_date)
       range ? events << event : unparseable << event
     end
@@ -103,6 +122,98 @@ module Newsletter
       end
       [month, month_events.sort_by { |event| [event.start_date, event.name.downcase, event.name] }]
     end
+  end
+
+  def render(catalog, target_month)
+    groups = group_for_window(catalog.events, target_month)
+    discounts = upcoming_discounts(catalog.events, target_month)
+    cfps = open_cfps(catalog.events, target_month)
+    final_month = target_month >> 2
+    event_count = groups.values.sum(&:length)
+
+    lines = [
+      "# Software Testing Conferences Newsletter — #{month_label(target_month)}–#{month_label(final_month)}",
+      '',
+      "**Suggested subject:** #{event_count} #{pluralize(event_count, 'software testing conference')} from #{month_label(target_month)} through #{month_label(final_month)}",
+      "**Suggested preheader:** #{discounts.length} #{pluralize(discounts.length, 'upcoming discount')} and #{cfps.length} #{pluralize(cfps.length, 'open CFP')}, plus a three-month conference calendar.",
+      '',
+      '<!-- EDITOR: Replace the introduction placeholder before sending. -->',
+      '## Introduction',
+      '',
+      '[Write the introduction before sending.]',
+      '',
+      '<!-- EDITOR: Add approved sponsor copy or remove this section before sending. -->',
+      '## Sponsor',
+      '',
+      '[Add sponsor copy or remove this section before sending.]',
+      ''
+    ]
+
+    groups.each do |month, events|
+      lines << "## #{month_label(month)}"
+      lines << ''
+      if events.empty?
+        lines << "No conferences or workshops are currently listed for #{month_label(month)}."
+        lines << ''
+      else
+        events.each { |event| lines.concat(event_lines(event)) }
+      end
+    end
+
+    lines.concat(collection_lines('Upcoming discounts', discounts, 'No upcoming discounts are currently listed.'))
+    lines.concat(collection_lines('Open CFPs', cfps, 'No open CFPs are currently listed.'))
+    lines.concat([
+      '<!-- EDITOR: Add announcements or remove this section before sending. -->',
+      '## Announcements',
+      '',
+      '[Add announcements or remove this section before sending.]',
+      '',
+      '<!-- EDITOR: Replace the final-notes placeholder before sending. -->',
+      '## Final notes',
+      '',
+      '[Add final notes before sending.]',
+      '',
+      'View the latest conference information at [TestingConferences.org](https://testingconferences.org/).',
+      '',
+      'Know of an event we missed? [Contribute to the community-maintained list](https://github.com/TestingConferences/testingconferences.github.io).',
+      '',
+      '## Review before sending',
+      '',
+      '- [ ] Replace or remove every editorial placeholder.',
+      '- [ ] Verify conference details, discount availability, CFP status, and deadlines against official sources.',
+      '- [ ] Check every link and review the final email on desktop, mobile, and plain text.'
+    ])
+
+    if catalog.unparseable.empty?
+      lines << '- [ ] Confirm there are no newly ambiguous or unparseable conference dates.'
+    else
+      lines << '- [ ] Resolve or intentionally omit these ambiguous or unparseable conference dates:'
+      catalog.unparseable.sort_by { |event| event.name.downcase }.each do |event|
+        date_description = event.dates.empty? ? 'missing date' : "`#{escape_markdown(event.dates)}`"
+        lines << "  - #{escape_markdown(event.name)} — #{date_description}"
+      end
+    end
+
+    "#{lines.join("\n")}\n"
+  end
+
+  def default_output_path(target_month)
+    File.join(ROOT, '_drafts', "#{target_month.strftime('%Y-%m')}-newsletter.md")
+  end
+
+  def run(argv, data_file: DEFAULT_DATA_FILE, stdout: $stdout, stderr: $stderr)
+    options = parse_options(argv)
+    raise InputError, 'Missing required option: --month YYYY-MM' if options[:month].to_s.empty?
+
+    target_month = parse_target_month(options[:month])
+    catalog = load_catalog(data_file)
+    output = options[:output] || default_output_path(target_month)
+    write_draft(output, render(catalog, target_month))
+    stdout.puts "Newsletter draft written to #{output}"
+    0
+  rescue InputError, OptionParser::ParseError => e
+    stderr.puts e.message
+    1
   end
 
   def upcoming_discounts(events, target_month)
@@ -140,6 +251,89 @@ module Newsletter
   def escape_markdown(value)
     value.to_s.gsub(/([\\\[\]*#_`])/) { |character| "\\#{character}" }
   end
+
+  def validate_source!(source, index)
+    raise InputError, "Conference data entry #{index + 1} must be a mapping" unless source.is_a?(Hash)
+
+    %w[name location url].each do |field|
+      next unless source[field].to_s.strip.empty?
+
+      raise InputError, "Conference data entry #{index + 1} is missing #{field}"
+    end
+    return if http_url?(source['url'].to_s)
+
+    raise InputError, "Conference data entry #{index + 1} has an invalid URL"
+  end
+  private_class_method :validate_source!
+
+  def parse_options(argv)
+    options = {}
+    arguments = argv.dup
+    parser = OptionParser.new do |opts|
+      opts.banner = 'Usage: ruby tools/newsletter.rb --month YYYY-MM [--output PATH]'
+      opts.on('--month YYYY-MM', 'First month in the three-month conference window') { |value| options[:month] = value }
+      opts.on('--output PATH', 'Write the Markdown draft to PATH') { |value| options[:output] = value }
+    end
+    parser.parse!(arguments)
+    raise OptionParser::InvalidArgument, "Unexpected arguments: #{arguments.join(' ')}" unless arguments.empty?
+
+    options
+  end
+  private_class_method :parse_options
+
+  def write_draft(path, content)
+    directory = File.dirname(File.expand_path(path))
+    FileUtils.mkdir_p(directory)
+    temporary = Tempfile.new(['newsletter', '.tmp'], directory)
+    temporary.binmode
+    temporary.write(content)
+    temporary.flush
+    temporary.fsync
+    temporary.close
+    File.rename(temporary.path, path)
+  rescue SystemCallError => e
+    raise InputError, "Could not write newsletter draft: #{e.message}"
+  ensure
+    temporary&.close!
+  end
+  private_class_method :write_draft
+
+  def event_lines(event)
+    name = escape_markdown(event.name)
+    heading = http_url?(event.url) ? "### [#{name}](#{event.url})" : "### #{name}"
+    lines = [
+      heading,
+      '',
+      "**Location:** #{escape_markdown(event.location)}",
+      "**Dates:** #{escape_markdown(event.dates)}"
+    ]
+    status = status_markdown(event.status)
+    lines << "**Status:** #{status}" unless status.empty?
+    lines << ''
+    lines
+  end
+  private_class_method :event_lines
+
+  def collection_lines(heading, events, empty_message)
+    lines = ["## #{heading}", '']
+    if events.empty?
+      lines.concat([empty_message, ''])
+    else
+      events.each { |event| lines.concat(event_lines(event)) }
+    end
+    lines
+  end
+  private_class_method :collection_lines
+
+  def month_label(month)
+    month.strftime('%B %Y')
+  end
+  private_class_method :month_label
+
+  def pluralize(count, singular)
+    count == 1 ? singular : "#{singular}s"
+  end
+  private_class_method :pluralize
 
   def upcoming_events(events, target_month)
     events.select { |event| event.end_date >= target_month }
@@ -209,3 +403,5 @@ module Newsletter
   end
   private_class_method :month_number
 end
+
+exit Newsletter.run(ARGV) if $PROGRAM_NAME == __FILE__
