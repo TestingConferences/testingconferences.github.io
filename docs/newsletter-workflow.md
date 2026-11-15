@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Newsletter draft workflow
 
 The newsletter generator turns `_data/current.yml` into a reviewable Markdown draft.

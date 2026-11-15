@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Implementation Plan: Newsletter Draft Generator
 
 Source spec: `SPEC-newsletter-generator.md`

@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Newsletter Draft Generator Tasks
 
 Source spec: `SPEC-newsletter-generator.md`

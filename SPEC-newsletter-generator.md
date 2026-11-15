@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Spec: Newsletter Draft Generator — V1
 
 Status: approved 2026-11-14
