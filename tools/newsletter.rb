@@ -2,6 +2,8 @@
 # frozen_string_literal: true
 
 require 'date'
+require 'cgi'
+require 'uri'
 require 'yaml'
 
 module Newsletter
@@ -30,6 +32,10 @@ module Newsletter
   Event = Struct.new(:source, :start_date, :end_date, keyword_init: true) do
     def name
       source['name'].to_s
+    end
+
+    def status
+      source['status'].to_s
     end
   end
 
@@ -98,6 +104,82 @@ module Newsletter
       [month, month_events.sort_by { |event| [event.start_date, event.name.downcase, event.name] }]
     end
   end
+
+  def upcoming_discounts(events, target_month)
+    upcoming_events(events, target_month).select do |event|
+      active_discount?(plain_text(event.status))
+    end
+  end
+
+  def open_cfps(events, target_month)
+    upcoming_events(events, target_month).select do |event|
+      status = plain_text(event.status)
+      cfp_status?(status) && status.match?(/\bopen\b/i)
+    end
+  end
+
+  def status_markdown(value)
+    text = remove_unsafe_elements(value.to_s)
+    links = []
+
+    text = text.gsub(%r{<a\b[^>]*\bhref=(['"])(.*?)\1[^>]*>(.*?)</a>}mi) do
+      href = CGI.unescapeHTML(Regexp.last_match(2).to_s)
+      label = escape_markdown(plain_text(Regexp.last_match(3)))
+      replacement = http_url?(href) ? "[#{label}](#{href})" : label
+      links << replacement
+      "NEWSLETTERLINKTOKEN#{links.length - 1}END"
+    end
+
+    converted = escape_markdown(plain_text(text))
+    links.each_with_index do |link, index|
+      converted = converted.sub("NEWSLETTERLINKTOKEN#{index}END", link)
+    end
+    converted
+  end
+
+  def escape_markdown(value)
+    value.to_s.gsub(/([\\\[\]*#_`])/) { |character| "\\#{character}" }
+  end
+
+  def upcoming_events(events, target_month)
+    events.select { |event| event.end_date >= target_month }
+          .sort_by { |event| [event.start_date, event.name.downcase, event.name] }
+  end
+  private_class_method :upcoming_events
+
+  def active_discount?(status)
+    discount = status.match?(/\b(?:early|super\s+early|blind)[ -]?bird\b|\bblind\s+(?:tickets?|registration|pricing)\b|\bdiscounts?\b|\bsavings?\b|\breduced\s+pric(?:e|ing)\b/i)
+    active = status.match?(/\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i)
+    inactive = status.match?(/\bclosed\b|\bended\b|\bexpired\b|\bsold\s+out\b/i)
+
+    discount && (active || (!inactive && status.match?(/\bdiscounts?\b/i)))
+  end
+  private_class_method :active_discount?
+
+  def cfp_status?(status)
+    status.match?(/\bCFP\b|\bcall\s+for\s+(?:proposals|papers|speakers)\b/i)
+  end
+  private_class_method :cfp_status?
+
+  def plain_text(value)
+    CGI.unescapeHTML(remove_unsafe_elements(value.to_s).gsub(%r{<[^>]+>}m, ' '))
+       .gsub(/\s+/, ' ')
+       .strip
+  end
+  private_class_method :plain_text
+
+  def remove_unsafe_elements(value)
+    value.gsub(%r{<(script|style)\b[^>]*>.*?</\1>}mi, '')
+  end
+  private_class_method :remove_unsafe_elements
+
+  def http_url?(value)
+    uri = URI.parse(value)
+    uri.is_a?(URI::HTTP) && !uri.host.to_s.empty?
+  rescue URI::InvalidURIError
+    false
+  end
+  private_class_method :http_url?
 
   def date_components(text)
     case text

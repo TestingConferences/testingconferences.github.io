@@ -55,7 +55,7 @@ class NewsletterTest < Minitest::Test
   def test_catalog_keeps_unparseable_events_for_editorial_review
     catalog = Newsletter.load_catalog(FIXTURE)
 
-    assert_equal 6, catalog.events.length
+    assert_equal 14, catalog.events.length
     assert_equal ['Date To Be Announced Conference'], catalog.unparseable.map(&:name)
   end
 
@@ -80,5 +80,60 @@ class NewsletterTest < Minitest::Test
     groups = Newsletter.group_for_window(catalog.events, Date.new(2026, 12, 1))
 
     refute_includes groups.fetch(Date.new(2026, 12, 1)).map(&:name), 'Cross-Month Conference'
+  end
+
+  def test_converts_supported_status_html_to_safe_markdown
+    source = <<~HTML.strip
+      <a href="https://example.com/tickets?utm_source=testingconferences&amp;plan=early">Early Bird **Registration** &amp; Pricing</a> until December 1, 2026 | <strong>Save 20%</strong><script>alert(1)</script>
+    HTML
+
+    converted = Newsletter.status_markdown(source)
+
+    assert_equal(
+      '[Early Bird \*\*Registration\*\* & Pricing](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026 | Save 20%',
+      converted
+    )
+    assert_equal 'Review details', Newsletter.status_markdown('<a href="javascript:alert(1)">Review details</a>')
+  end
+
+  def test_escapes_markdown_significant_source_text
+    assert_equal(
+      'QA \\[Lab\\] \\*Conference\\* \\#1',
+      Newsletter.escape_markdown('QA [Lab] *Conference* #1')
+    )
+  end
+
+  def test_selects_all_upcoming_active_discounts_outside_event_window
+    catalog = Newsletter.load_catalog(FIXTURE)
+
+    discounts = Newsletter.upcoming_discounts(catalog.events, Date.new(2026, 11, 1))
+
+    assert_equal [
+      'Early Bird Conference',
+      'Blind Ticket Conference',
+      'Blind Registration Conference'
+    ], discounts.map(&:name)
+  end
+
+  def test_selects_all_upcoming_open_cfps_outside_event_window
+    catalog = Newsletter.load_catalog(FIXTURE)
+
+    cfps = Newsletter.open_cfps(catalog.events, Date.new(2026, 11, 1))
+
+    assert_equal [
+      'Open CFP Conference',
+      'Open Call for Papers Conference'
+    ], cfps.map(&:name)
+  end
+
+  def test_ordinary_registration_does_not_enter_global_status_lists
+    catalog = Newsletter.load_catalog(FIXTURE)
+    target_month = Date.new(2026, 11, 1)
+
+    discount_names = Newsletter.upcoming_discounts(catalog.events, target_month).map(&:name)
+    cfp_names = Newsletter.open_cfps(catalog.events, target_month).map(&:name)
+
+    refute_includes discount_names, 'Registration Only Conference'
+    refute_includes cfp_names, 'Registration Only Conference'
   end
 end

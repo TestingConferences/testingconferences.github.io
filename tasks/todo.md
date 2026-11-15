@@ -43,17 +43,17 @@ event window while retaining ordinary registration status only on event entries.
 
 **Acceptance criteria:**
 
-- [ ] Anchor tags become Markdown links; unsupported HTML becomes readable plain text.
-- [ ] Markdown-significant source text is escaped without changing URLs.
-- [ ] Every parseable upcoming event with an active discount status is selected.
-- [ ] Every parseable upcoming event with an explicitly open CFP is selected.
-- [ ] Closed, ended, expired, or sold-out discounts and closed CFPs are excluded.
-- [ ] Ordinary registration alone does not place an event in either global list.
+- [x] Anchor tags become Markdown links; unsupported HTML becomes readable plain text.
+- [x] Markdown-significant source text is escaped without changing URLs.
+- [x] Every parseable upcoming event with an active discount status is selected.
+- [x] Every parseable upcoming event with an explicitly open CFP is selected.
+- [x] Closed, ended, expired, or sold-out discounts and closed CFPs are excluded.
+- [x] Ordinary registration alone does not place an event in either global list.
 
 **Verification:**
 
-- [ ] RED: focused status tests fail before implementation.
-- [ ] GREEN: `ruby test/newsletter_test.rb` passes after implementation.
+- [x] RED: focused status tests fail before implementation.
+- [x] GREEN: `ruby test/newsletter_test.rb` passes after implementation.
 
 **Dependencies:** Task 1
 
