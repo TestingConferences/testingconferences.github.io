@@ -12,18 +12,18 @@ month grouping without reading the system clock.
 
 **Acceptance criteria:**
 
-- [ ] `YYYY-MM` input is required and invalid values fail with useful messages.
-- [ ] Single-day, same-month, cross-month, abbreviated-month, and reversed day/month
+- [x] `YYYY-MM` input is required and invalid values fail with useful messages.
+- [x] Single-day, same-month, cross-month, abbreviated-month, and reversed day/month
       source formats produce correct start and end dates.
-- [ ] Events whose start dates fall within the rolling three-month window are grouped
+- [x] Events whose start dates fall within the rolling three-month window are grouped
       by start month and ordered by start date then name.
-- [ ] Ambiguous or unparseable dates are never guessed and remain available for review.
+- [x] Ambiguous or unparseable dates are never guessed and remain available for review.
 
 **Verification:**
 
-- [ ] RED: `ruby test/newsletter_test.rb` fails for the missing selection behavior.
-- [ ] GREEN: `ruby test/newsletter_test.rb` passes for selection tests.
-- [ ] `ruby test/validate_data_test.rb` still passes.
+- [x] RED: `ruby test/newsletter_test.rb` fails for the missing selection behavior.
+- [x] GREEN: `ruby test/newsletter_test.rb` passes for selection tests.
+- [x] `ruby test/validate_data_test.rb` still passes.
 
 **Dependencies:** None
 

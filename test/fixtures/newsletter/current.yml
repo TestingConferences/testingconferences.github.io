@@ -1,0 +1,36 @@
+- name: December Conference
+  location: Berlin, Germany
+  dates: "December 3, 2026"
+  url: https://example.com/december?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Beta November Conference
+  location: Online
+  dates: "November 18, 2026"
+  url: https://example.com/beta?utm_source=testingconferences
+  status: Registration is Open and Free
+
+- name: January Conference
+  location: Paris, France
+  dates: "January 8-9, 2027"
+  url: https://example.com/january?utm_source=testingconferences
+
+- name: Alpha November Conference
+  location: London, UK
+  dates: "November 18, 2026"
+  url: https://example.com/alpha?utm_source=testingconferences
+
+- name: Cross-Month Conference
+  location: New York, USA
+  dates: "November 30 - December 2, 2026"
+  url: https://example.com/cross-month?utm_source=testingconferences
+
+- name: February Conference
+  location: Rome, Italy
+  dates: "February 1, 2027"
+  url: https://example.com/february?utm_source=testingconferences
+
+- name: Date To Be Announced Conference
+  location: Online
+  dates: "2027 TBA"
+  url: https://example.com/tba?utm_source=testingconferences
