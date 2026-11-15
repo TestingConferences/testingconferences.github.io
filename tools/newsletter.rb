@@ -22,6 +22,8 @@ module Newsletter
   ACTIVE_DISCOUNT_PATTERN = /\bopen\b|\bon\s+sale\b|\bavailable\b|\buntil\b|\bsave\b|\bsavings?\b|\d+%\s+off\b/i
   INACTIVE_PATTERN = /\b(?:closed|ended|expired|sold\s+out)\b/i
   NEGATED_ACTIVE_PATTERN = /\bnot\s+(?:yet\s+|currently\s+)?(?:open|available|on\s+sale)\b|\b(?:isn['’]t|aren['’]t)\s+(?:open|available|on\s+sale)\b/i
+  STATUS_SUBJECT_PATTERN = "(?:#{CFP_PATTERN.source}|#{DISCOUNT_PATTERN.source}|\\b(?:regular\\s+)?(?:registration|tickets?|pricing)\\b)"
+  STATUS_SEPARATOR_PATTERN = /\s*(?:\||;|\.(?=\s|\z)|,(?=\s*#{STATUS_SUBJECT_PATTERN}))\s*/i
 
   MONTH_NAMES = {
     'jan' => 'January',
@@ -423,7 +425,7 @@ module Newsletter
   private_class_method :inactive_clause?
 
   def status_clauses(status)
-    status.split(/\s*(?:\||;|,|\.(?=\s|\z))\s*/).reject(&:empty?)
+    status.split(STATUS_SEPARATOR_PATTERN).reject(&:empty?)
   end
   private_class_method :status_clauses
 

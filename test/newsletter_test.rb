@@ -188,6 +188,20 @@ class NewsletterTest < Minitest::Test
     ], discounts.map(&:name)
   end
 
+  def test_comma_only_splits_when_it_introduces_another_status_subject
+    events = [
+      event_with(name: 'Sold Out Discount', status: 'Early bird discount, sold out'),
+      event_with(
+        name: 'Available Registration',
+        status: 'Early bird registration, available through January 1'
+      )
+    ]
+
+    discounts = Newsletter.upcoming_discounts(events, Date.new(2026, 11, 1))
+
+    assert_equal ['Available Registration'], discounts.map(&:name)
+  end
+
   def test_selects_all_upcoming_open_cfps_outside_event_window
     catalog = Newsletter.load_catalog(FIXTURE)
 
