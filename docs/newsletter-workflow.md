@@ -21,6 +21,11 @@ To inspect output without replacing the default draft, provide another path:
 ruby tools/newsletter.rb --month 2026-11 --output /tmp/2026-11-newsletter.md
 ```
 
+Explicit output paths are limited to the repository's `_drafts` directory and the
+operating system's temporary directories. The destination directory must already
+exist. The command rejects an existing symbolic link or a file owned by another user
+before replacing anything.
+
 Generation is deterministic: unchanged conference data and the same target month
 produce byte-identical Markdown. Re-running the command replaces the exact output
 file, including any manual edits in that file. Make conference-data corrections before

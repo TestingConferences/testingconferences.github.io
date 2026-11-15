@@ -3,9 +3,9 @@
 
 require 'date'
 require 'cgi'
-require 'fileutils'
 require 'optparse'
 require 'tempfile'
+require 'tmpdir'
 require 'uri'
 require 'yaml'
 
@@ -111,13 +111,9 @@ module Newsletter
 
   def group_for_window(events, target_month)
     months = 3.times.map { |offset| target_month >> offset }
-    window_end = target_month >> 3
-    selected = events.select do |event|
-      event.start_date >= target_month && event.start_date < window_end
-    end
 
     months.to_h do |month|
-      month_events = selected.select do |event|
+      month_events = events.select do |event|
         event.start_date.year == month.year && event.start_date.month == month.month
       end
       [month, month_events.sort_by { |event| [event.start_date, event.name.downcase, event.name] }]
@@ -249,7 +245,8 @@ module Newsletter
   end
 
   def escape_markdown(value)
-    value.to_s.gsub(/([\\\[\]*#_`])/) { |character| "\\#{character}" }
+    text = CGI.escapeHTML(CGI.unescapeHTML(value.to_s))
+    text.gsub(/([\\\[\]*#_`])/) { |character| "\\#{character}" }
   end
 
   def validate_source!(source, index)
@@ -282,21 +279,64 @@ module Newsletter
   private_class_method :parse_options
 
   def write_draft(path, content)
-    directory = File.dirname(File.expand_path(path))
-    FileUtils.mkdir_p(directory)
+    destination = resolve_output_path(path)
+    directory = File.dirname(destination)
     temporary = Tempfile.new(['newsletter', '.tmp'], directory)
     temporary.binmode
     temporary.write(content)
     temporary.flush
     temporary.fsync
     temporary.close
-    File.rename(temporary.path, path)
+    File.rename(temporary.path, destination)
   rescue SystemCallError => e
     raise InputError, "Could not write newsletter draft: #{e.message}"
   ensure
     temporary&.close!
   end
   private_class_method :write_draft
+
+  def resolve_output_path(path)
+    expanded = File.expand_path(path)
+    directory = File.realpath(File.dirname(expanded))
+    destination = File.join(directory, File.basename(expanded))
+    roots = allowed_output_roots
+
+    unless roots.any? { |root| destination.start_with?("#{root}#{File::SEPARATOR}") }
+      raise InputError, "Output path must be inside #{roots.join(' or ')}"
+    end
+
+    validate_output_owner!(destination, directory)
+    destination
+  rescue Errno::ENOENT
+    raise InputError, "Output directory does not exist: #{File.dirname(expanded)}"
+  end
+  private_class_method :resolve_output_path
+
+  def allowed_output_roots
+    [
+      File.realpath(File.join(ROOT, '_drafts')),
+      File.realpath(Dir.tmpdir),
+      File.realpath('/tmp')
+    ].uniq
+  end
+  private_class_method :allowed_output_roots
+
+  def validate_output_owner!(destination, directory)
+    if File.exist?(destination) || File.symlink?(destination)
+      file_stat = File.lstat(destination)
+      raise InputError, "Output path must not be a symlink: #{destination}" if file_stat.symlink?
+      raise InputError, "Output path must be a regular file: #{destination}" unless file_stat.file?
+      raise InputError, "Output file is not owned by the current user: #{destination}" unless file_stat.uid == Process.uid
+    end
+
+    directory_stat = File.stat(directory)
+    return if directory_stat.uid == Process.uid
+    temporary_roots = [File.realpath(Dir.tmpdir), File.realpath('/tmp')].uniq
+    return if temporary_roots.include?(directory) && directory_stat.world_writable? && directory_stat.sticky?
+
+    raise InputError, "Output directory is not owned by the current user: #{directory}"
+  end
+  private_class_method :validate_output_owner!
 
   def event_lines(event)
     name = escape_markdown(event.name)

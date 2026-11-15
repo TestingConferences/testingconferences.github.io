@@ -95,7 +95,7 @@ class NewsletterTest < Minitest::Test
     converted = Newsletter.status_markdown(source)
 
     assert_equal(
-      '[Early Bird \*\*Registration\*\* & Pricing](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026 | Save 20%',
+      '[Early Bird \*\*Registration\*\* &amp; Pricing](https://example.com/tickets?utm_source=testingconferences&plan=early) until December 1, 2026 | Save 20%',
       converted
     )
     assert_equal 'Review details', Newsletter.status_markdown('<a href="javascript:alert(1)">Review details</a>')
@@ -103,8 +103,8 @@ class NewsletterTest < Minitest::Test
 
   def test_escapes_markdown_significant_source_text
     assert_equal(
-      'QA \\[Lab\\] \\*Conference\\* \\#1',
-      Newsletter.escape_markdown('QA [Lab] *Conference* #1')
+      'QA &lt;script&gt;alert(1)&lt;/script&gt; &amp; \\[Lab\\] \\*Conference\\* \\#1',
+      Newsletter.escape_markdown('QA <script>alert(1)</script> & [Lab] *Conference* #1')
     )
   end
 
@@ -273,6 +273,42 @@ class NewsletterTest < Minitest::Test
       assert_equal 1, status
       assert_equal 'editorial changes', File.read(output)
       assert_includes stderr.string, 'Expected an array'
+    end
+  end
+
+  def test_cli_rejects_output_outside_allowed_roots
+    stderr = StringIO.new
+
+    status = Newsletter.run(
+      ['--month', '2026-11', '--output', '/etc/newsletter.md'],
+      data_file: FIXTURE,
+      stdout: StringIO.new,
+      stderr: stderr
+    )
+
+    assert_equal 1, status
+    assert_includes stderr.string, 'Output path must be inside'
+  end
+
+  def test_cli_rejects_an_existing_output_symlink
+    Dir.mktmpdir do |directory|
+      protected_file = File.join(directory, 'protected.md')
+      output = File.join(directory, 'newsletter.md')
+      File.write(protected_file, 'keep this content')
+      File.symlink(protected_file, output)
+      stderr = StringIO.new
+
+      status = Newsletter.run(
+        ['--month', '2026-11', '--output', output],
+        data_file: FIXTURE,
+        stdout: StringIO.new,
+        stderr: stderr
+      )
+
+      assert_equal 1, status
+      assert_equal 'keep this content', File.read(protected_file)
+      assert File.symlink?(output)
+      assert_includes stderr.string, 'Output path must not be a symlink'
     end
   end
 end
