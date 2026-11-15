@@ -173,6 +173,10 @@ class NewsletterTest < Minitest::Test
         status: 'CFP is Closed, Early Bird Registration is Open'
       ),
       event_with(
+        name: 'Open Early Bird After Conjunction',
+        status: 'Early bird registration is open, and the CFP is closed'
+      ),
+      event_with(
         name: 'Dated Early Bird',
         status: 'Early Bird Registration until December 1, 2026'
       )
@@ -183,6 +187,7 @@ class NewsletterTest < Minitest::Test
     assert_equal [
       'Dated Early Bird',
       'Open Early Bird',
+      'Open Early Bird After Conjunction',
       'Open Early Bird First',
       'Open Early Bird Last'
     ], discounts.map(&:name)
@@ -221,6 +226,7 @@ class NewsletterTest < Minitest::Test
       event_with(name: 'Open CFP', status: 'CFP is Open | Registration is Closed'),
       event_with(name: 'Open CFP First', status: 'CFP is now open, registration is closed'),
       event_with(name: 'Open CFP Last', status: 'Registration is closed, CFP is now open'),
+      event_with(name: 'Open CFP Before Conjunction', status: 'CFP is open, but registration is closed'),
       event_with(name: 'Open Papers', status: 'Registration is Open | Call for Papers is Open'),
       event_with(name: 'Colon CFP', status: 'CFP: Open'),
       event_with(name: 'Historic Open CFP', status: 'Call for proposals has been open since January 1')
@@ -232,6 +238,7 @@ class NewsletterTest < Minitest::Test
       'Colon CFP',
       'Historic Open CFP',
       'Open CFP',
+      'Open CFP Before Conjunction',
       'Open CFP First',
       'Open CFP Last',
       'Open Papers'

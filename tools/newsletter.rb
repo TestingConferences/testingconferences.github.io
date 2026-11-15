@@ -23,7 +23,8 @@ module Newsletter
   INACTIVE_PATTERN = /\b(?:closed|ended|expired|sold\s+out)\b/i
   NEGATED_ACTIVE_PATTERN = /\bnot\s+(?:yet\s+|currently\s+)?(?:open|available|on\s+sale)\b|\b(?:isn['’]t|aren['’]t)\s+(?:open|available|on\s+sale)\b/i
   STATUS_SUBJECT_PATTERN = "(?:#{CFP_PATTERN.source}|#{DISCOUNT_PATTERN.source}|\\b(?:regular\\s+)?(?:registration|tickets?|pricing)\\b)"
-  STATUS_SEPARATOR_PATTERN = /\s*(?:\||;|\.(?=\s|\z)|,(?=\s*#{STATUS_SUBJECT_PATTERN}))\s*/i
+  STATUS_SUBJECT_PREFIX_PATTERN = "(?:(?:and|but)\\s+)?(?:(?:a|an|the)\\s+)?"
+  STATUS_SEPARATOR_PATTERN = /\s*(?:\||;|\.(?=\s|\z)|,(?=\s*#{STATUS_SUBJECT_PREFIX_PATTERN}#{STATUS_SUBJECT_PATTERN}))\s*/i
 
   MONTH_NAMES = {
     'jan' => 'January',
