@@ -145,22 +145,22 @@ against the approved spec and repository safety rules.
 
 **Acceptance criteria:**
 
-- [ ] Focused tests and existing validator regression tests pass.
-- [ ] Production conference data validation passes.
-- [ ] Jekyll and htmlproofer pass when the local environment supports them.
-- [ ] No `_site`, conference data, credential, provider, navigation, CI, deployment,
+- [x] Focused tests and existing validator regression tests pass.
+- [x] Production conference data validation passes.
+- [x] Jekyll and htmlproofer pass when the local environment supports them.
+- [x] No `_site`, conference data, credential, provider, navigation, CI, deployment,
       versioning, dependency, or unrelated files are included.
-- [ ] Every success criterion in `SPEC-newsletter-generator.md` has direct evidence.
+- [x] Every success criterion in `SPEC-newsletter-generator.md` has direct evidence.
 
 **Verification:**
 
-- [ ] `ruby test/newsletter_test.rb`
-- [ ] `ruby tools/validate_data.rb`
-- [ ] `ruby test/validate_data_test.rb`
-- [ ] `bundle exec jekyll build --verbose`
-- [ ] `bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\/\//'`
-- [ ] `git diff --check`
-- [ ] Final status/diff and sensitive-filename/content review
+- [x] `ruby test/newsletter_test.rb`
+- [x] `ruby tools/validate_data.rb`
+- [x] `ruby test/validate_data_test.rb`
+- [x] `bundle exec jekyll build --verbose`
+- [x] `bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\/\//'`
+- [x] `git diff --check`
+- [x] Final status/diff and sensitive-filename/content review
 
 **Dependencies:** Tasks 1–4
 
@@ -170,6 +170,6 @@ against the approved spec and repository safety rules.
 
 ## Checkpoint: Complete
 
-- [ ] All task acceptance criteria and verification items are checked.
-- [ ] All approved spec success criteria are proven.
-- [ ] Final changes are ready for maintainer review.
+- [x] All task acceptance criteria and verification items are checked.
+- [x] All approved spec success criteria are proven.
+- [x] Final changes are ready for maintainer review.
