@@ -16,6 +16,13 @@
   dates: "November 19, 2026"
   url: https://www.browserstack.com/events/stackconnect-world-tour-hyderabad-november-2026?utm_source=testingconferences
   twitter: browserstack
+  status: Registration is Open and Free
+
+- name: Software Quality Summit Columbus 2026
+  location: Columbus, OH, USA
+  dates: "November 19, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-Columbus/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-Columbus/?utm_source=testingconferences" target="_blank">Registration is Open</a>
 
 - name: Software Quality Summit Manila 2026
   location: Manila, Philippines
@@ -28,7 +35,7 @@
   dates: "November 25, 2026"
   url: https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026#/?affl=softwaretesting
   twitter: QA_financial
-  status: <a href="https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026#/?affl=softwaretesting" target="_blank">Registration is Open</a>; free for employees of insurance firms
+  status: <a href="https://qafinancial.zohobackstage.eu/QAInsuranceForumLondon2026#/?affl=softwaretesting" target="_blank">Registration is Open</a> | Free for employees of insurance firms
 
 - name: Testing United 2026
   location: Copenhagen, Denmark
@@ -41,6 +48,7 @@
   dates: "December 2, 2026"
   url: https://www.browserstack.com/events/stackconnect-world-tour-mumbai-december-2026?utm_source=testingconferences
   twitter: browserstack
+  status: Registration is Open and Free
 
 - name: QonfX Hyderabad 2026
   location: Hyderabad, India
@@ -55,6 +63,12 @@
   url: https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences
   twitter: testguilds
   status: <a href="https://testguild.com/irl/santa-clara-2026?utm_source=testingconferences" target="_blank">Registration is Open and Free</a>
+
+- name: Software Quality Summit Austin 2027
+  location: Austin, TX, USA
+  dates: "March 3, 2027"
+  url: https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences
+  status: <a href="https://www.testingmind.com/event/software-quality-summit-austin/?utm_source=testingconferences" target="_blank">Super Early Bird Registration is Open</a> until January 3, 2027
 
 - name: Test Automation Days 2027
   location: Hilversum, the Netherlands
@@ -79,7 +93,7 @@
   location: Helsinki, Finland
   dates: "March 8-12, 2027"
   url: "https://www.robocon.io/?utm_source=testingconferences"
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Tickets are On Sale</a>
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Bird Registration is Open</a>
 
 - name: Testing Peers Conference 2027
   location: Nottingham, UK
@@ -110,21 +124,19 @@
 - name: RoboCon 2027 Online
   location: Online
   dates: "April 7-9, 2027"
-  url: "https://www.robocon.io/2027?utm_source=testingconferences#online"
-  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences">Blind Tickets on Sale</a>
+  url: "https://www.robocon.io/2027?utm_source=testingconferences"
+  status: <a href="https://www.robocon.io/tickets?utm_source=testingconferences" target="_blank">Blind Bird Registration is Open</a>
 
 - name: TAPOST NEXT 2027
   location: Riga, Latvia
   dates: "April 8, 2027"
   url: https://tapost.org/?utm_source=testingconferences
-  status: Registration Opening Soon
 
 - name: UCAAT 2027 - User Conference on Advanced Automated Testing
   location: Belgrade, Serbia
   dates: "April 20-22, 2027"
   url: https://www.etsi.org/events/13th-ucaat-user-conference-on-advanced-automated-testing/?utm_source=testingconferences
   twitter: UCCAT
-  status: Registration Opens December 14, 2026
 
 - name: STAREAST 2027
   location: Orlando, FL, USA and Online
@@ -144,7 +156,7 @@
   location: Gothenburg, Sweden
   dates: "May 19-20, 2027"
   url: https://testcoast.se/?utm_source=testingconferences
-  status: <a href="https://testcoast.se/call-for-papers?utm_source=testingconferences" target="_blank">CFP is Open</a> | <a href="https://tickets.testcoast.se/c/test-coast-2027/?utm_source=testingconferences" target="_blank">Tickets from €100 until December 31, 2026</a>
+  status: <a href="https://testcoast.se/call-for-papers?utm_source=testingconferences" target="_blank">CFP is Open</a> | <a href="https://tickets.testcoast.se/c/test-coast-2027/?utm_source=testingconferences" target="_blank">Early Bird Registration</a> until December 31, 2026
 
 - name: WeTest.Athens 2027
   location: Athens, Greece, Europe
@@ -189,7 +201,7 @@
   location: Leipzig, Germany
   dates: "September 15-16, 2027"
   url: https://tacon-konferenz.de?utm_source=testingconferences
-  status: Blind-Bird-Ticket phase
+  status: <a href="https://tacon-konferenz.de?utm_source=testingconferences" target="_blank">Blind Registration is Open</a>
 
 - name: MoTaCon 2027
   location: Brighton, UK
@@ -215,25 +227,22 @@
   location: Helsinki, Finland
   dates: "November 2-3, 2027"
   url: https://testingassembly.fistb.fi/?utm_source=testingconferences
-  status: Preliminary dates announced
+  status: Announced
   
 - name: QonfX Dallas 2027
   location: Dallas, TX, USA
   dates: "November 10, 2027"
   url: https://www.thetesttribe.com/qonfx/dallas/?utm_source=testingconferences&utm_medium=organic
   twitter: The_Test_Tribe
-  status: Registration Opens Soon
 
 - name: TestGuild IRL New York 2027
   location: New York, NY, USA
   dates: "2027 TBA"
   url: https://testguild.com/irl?utm_source=testingconferences
   twitter: testguilds
-  status: Postponed to 2027; date and details TBA
 
 - name: TestGuild IRL Boston 2027
   location: Boston, MA, USA
   dates: "2027 TBA"
   url: https://testguild.com/irl?utm_source=testingconferences
   twitter: testguilds
-  status: Postponed to 2027; date and details TBA
