@@ -46,7 +46,7 @@ Changes to `.github/workflows/deploy.yml`, release tags, Pages deployment, or ve
 - [ ] **Formatting Expectations**: Document a supported Prettier command and intentionally add any further linting or pre-commit tooling only when it fits the repository.
 - [x] **AI Contextualization**: Create a `.github/copilot-instructions.md` to help GitHub Copilot understand the conference data schema and project goals.
 - [ ] **Prompt Imports**: Build a library of standardized prompts to assist contributors in formatting and validating new conference submissions.
-- [ ] **Maintenance Script Documentation**: Document the scripts in `tools/`, especially `tools/identify_updates.rb`, `tools/monthly_data.rb`, and `tools/status_find.rb`, or remove/replace scripts that are no longer part of the workflow.
+- [ ] **Maintenance Script Documentation**: Document the scripts in `tools/`, especially `tools/identify_updates.rb` and `tools/status_find.rb`, or remove/replace scripts that are no longer part of the workflow.
 - [ ] **Local Verification Docs**: Make the local build and validation paths reliable and clear for both Docker and non-Docker setups.
 
 ### WebMCP experiment
@@ -80,14 +80,14 @@ References:
 
 ### Platform-neutral draft generator
 
-- [ ] **Define the Newsletter Format**: Document the recurring sections, selection rules, tone, subject-line pattern, and optional editorial or sponsor content using representative past issues.
-- [ ] **Replace the Monthly Data Prototype**: Upgrade or replace `tools/monthly_data.rb` with a non-interactive command that accepts a target month such as `--month 2026-09`.
-- [ ] **Generate Markdown**: Read `_data/current.yml`, select the relevant conferences, and render a polished Markdown draft rather than raw YAML.
-- [ ] **Highlight Timely Information**: Group supported CFP, registration, and early-bird information without inventing details that are absent from the conference data.
-- [ ] **Support Editorial Review**: Include clearly marked areas for an introduction, sponsor copy, announcements, and final notes.
-- [ ] **Keep Drafts Reviewable**: Store generated drafts in a predictable, version-controlled location and make repeated generation deterministic.
-- [ ] **Add Focused Tests**: Cover month selection, chronological order, missing or ambiguous dates, escaping, links, and empty-month behavior.
-- [ ] **Document the Workflow**: Add the local command, expected output, review checklist, and troubleshooting guidance.
+- [x] **Define the Newsletter Format**: Document the recurring sections, selection rules, tone, subject-line pattern, and optional editorial or sponsor content using representative past issues.
+- [x] **Replace the Monthly Data Prototype**: Upgrade or replace `tools/monthly_data.rb` with a non-interactive command that accepts a target month such as `--month 2026-09`.
+- [x] **Generate Markdown**: Read `_data/current.yml`, select the relevant conferences, and render a polished Markdown draft rather than raw YAML.
+- [x] **Highlight Timely Information**: Group supported CFP, registration, and early-bird information without inventing details that are absent from the conference data.
+- [x] **Support Editorial Review**: Include clearly marked areas for an introduction, sponsor copy, announcements, and final notes.
+- [x] **Keep Drafts Reviewable**: Store generated drafts in a predictable, version-controlled location and make repeated generation deterministic.
+- [x] **Add Focused Tests**: Cover month selection, chronological order, missing or ambiguous dates, escaping, links, and empty-month behavior.
+- [x] **Document the Workflow**: Add the local command, expected output, review checklist, and troubleshooting guidance.
 
 ### Buttondown trial
 
