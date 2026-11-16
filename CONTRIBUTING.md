@@ -97,7 +97,7 @@ With the Ruby bundle installed and Node.js 22 available, run these commands from
 
 ```sh
 bundle exec jekyll build
-cd test/browser
+cd .github/browser-tests
 npm ci
 npx playwright install --only-shell chromium
 npm test

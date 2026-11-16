@@ -40,7 +40,7 @@ jobs:
           node-version: '22'
 
       - name: Run browser smoke test
-        working-directory: test/browser
+        working-directory: .github/browser-tests
         run: |
           npm ci
           npx playwright install --with-deps --only-shell chromium

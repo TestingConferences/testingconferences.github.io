@@ -14,8 +14,6 @@ plugins:
 
 # Build settings
 markdown: kramdown
-exclude:
-  - test/browser
 defaults:
   - values:
       author: "Chris Kenst"
