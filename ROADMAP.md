@@ -29,6 +29,27 @@ The July 2026 readiness assessment found the repository ready for supervised con
 - [x] **Conference Data Validator**: Add a machine-checkable validator for `_data/current.yml`, `_data/past.yml`, and `_data/closed.yml` covering required fields, allowed fields, duplicate names, chronological ordering, URL tracking parameters, and `twitter` formatting.
 - [x] **PR Validation**: Add a pull request workflow that runs the conference data validator, Jekyll build, and htmlproofer before merge.
 
+### Risk coverage
+
+| Risk | Primary check | Coverage |
+| --- | --- | --- |
+| Malformed YAML, missing required fields, or bad URL and handle formats | Validation | The Ruby validator checks the conference files and reports some legacy archive problems as warnings. |
+| Duplicate listings or upcoming conferences in the wrong order | Validation | The validator warns on duplicate names and out-of-order parseable dates in the upcoming list. |
+| Plausible but stale dates, locations, or CFP and registration statuses | Validation | Contributors verify these fields against official organizer sources during data review. |
+| Liquid, Sass, or plugin failures prevent the site from being generated | Build | CI builds the site with Jekyll using the locked Ruby dependencies. |
+| Published internal links, anchors, or asset paths break | Link checking | CI runs htmlproofer against the generated site. |
+| Organizer, registration, or recording links stop working or point to the wrong event | Link checking | External requests are disabled in CI. Check the destination during data review and track recurring dead links under Link Integrity. |
+| A valid build leaves a reader unable to find a listing, navigate the archive, find a recording, or use the newsletter form | Browser testing | CI covers archive navigation in Chromium. The other journeys below record the remaining browser coverage. |
+
+### Critical browser journeys
+
+| Journey | What the reader should be able to do | Coverage |
+| --- | --- | --- |
+| Find an upcoming conference | Open Upcoming, see an event name, dates, and location, and follow the event link to the organizer. | Planned |
+| Browse past conferences | Start on Upcoming, click Past, and see linked entries on the archive page. | Chromium smoke test in CI |
+| Find conference recordings | Click Videos, find a recent conference under its year, and follow its Watch Event Videos link. | Planned |
+| Subscribe to the newsletter | Click Newsletter, find the labeled email and consent fields, and submit the form to the configured mailing-list endpoint. Intercept the submission in automation. | Planned |
+
 ### Proposed implementation
 
 - Store one entry per released version in `_data/quality_log.yml`, with stable fields for `version`, `release_date`, `commit_sha`, Lighthouse scores, broken links, build time, and the workflow run URL.
