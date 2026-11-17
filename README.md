@@ -45,6 +45,7 @@ The list of events is driven by files in the ```_data``` folder - if you have an
     - Registration is open / closed
     - Feel free to put in dates about when things expire
     - Feel free to put the status as a link to the correct place
+    - Prefer the most useful current status. If registration or ticket sales have a status, omit `CFP is Closed`; use it only when no more useful status is available.
   - Optionally include a link to a conference video playlist. This will only appear for past conferences and can be added directly to the ```past.yml``` file.
     - These should be videos from the conference presentations or talks. No marketing videos please.  
 
@@ -52,6 +53,7 @@ Use official sources for event updates:
   - Prefer the conference website or the organizer's official registration, CFP, or schedule page.
   - Use official social accounts only when the website is stale or incomplete.
   - When sources conflict, prefer the most specific current-year event page over a generic homepage or archived page.
+  - Preserve tracking or affiliate parameters supplied by the organizer. Add `utm_source=testingconferences` only when the official URL has no tracking parameter.
   - Do not guess dates, locations, prices, CFP deadlines, or registration status.
   - If useful for visitors, preserve uncertainty in the ```status``` field rather than presenting unclear information as confirmed.
 
