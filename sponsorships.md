@@ -21,14 +21,6 @@ change month to month and year to year as traffic grows. We do offer multi-month
 
 <table style="width:50%" align="center">
   <tr>
-    <td>September 2026</td>
-    <td>PNSQC</td>
-  </tr>
-  <tr>
-    <td>October 2026</td>
-    <td>TestingUnited</td>
-  </tr>
-  <tr>
     <td>November 2026</td>
     <td>Open</td>
   </tr>
