@@ -33,3 +33,15 @@ jobs:
 
       - name: Validate generated site
         run: bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\/\//'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run Vibium browser smoke test
+        working-directory: .github/browser-tests
+        run: |
+          VIBIUM_SKIP_BROWSER_DOWNLOAD=1 npm ci
+          npx vibium install
+          npm test

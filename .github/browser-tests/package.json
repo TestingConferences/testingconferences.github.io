@@ -1,0 +1,10 @@
+{
+  "name": "tcorg-browser-tests",
+  "private": true,
+  "scripts": {
+    "test": "bash ./test.sh"
+  },
+  "devDependencies": {
+    "vibium": "26.11.16"
+  }
+}
