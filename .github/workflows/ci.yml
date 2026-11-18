@@ -41,6 +41,9 @@ jobs:
 
       - name: Run Vibium browser smoke test
         working-directory: .github/browser-tests
+        env:
+          # Ubuntu restricts unprivileged user namespaces for downloaded Chrome.
+          CHROME_DEVEL_SANDBOX: /opt/google/chrome/chrome-sandbox
         run: |
           VIBIUM_SKIP_BROWSER_DOWNLOAD=1 npm ci
           npx vibium install
