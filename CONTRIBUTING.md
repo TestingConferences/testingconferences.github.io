@@ -89,7 +89,23 @@ This is intentionally scoped to the files changed in a PR rather than a full rep
 - CSS/SCSS: use two-space indentation and keep related selectors grouped logically.
 - JavaScript: format with Prettier defaults and avoid unrelated refactors in the same change.
 
-The main validation path remains the repo's existing checks: `ruby tools/validate_data.rb`, the valid-data tests, and the Jekyll/htmlproofer build. Additional linting tooling should only be added if it catches real issues without overhead or conflicts with the current workflow.
+The main validation path uses `ruby tools/validate_data.rb`, `ruby test/validate_data_test.rb`, the Jekyll build, htmlproofer, and the browser smoke test below. Additional linting tooling should only be added if it catches real issues without overhead or conflicts with the current workflow.
+
+### Run the browser smoke test
+
+With the Ruby bundle installed and Node.js 22 available, run these commands from the repository root.
+
+```sh
+bundle exec jekyll build
+cd .github/browser-tests
+VIBIUM_SKIP_BROWSER_DOWNLOAD=1 npm ci
+npx vibium install
+npm test
+```
+
+The test uses Vibium to drive headless Chrome for Testing. Its runner serves the generated site on `127.0.0.1:4174`. Rebuild after editing site content. See [Risk coverage](ROADMAP.md#risk-coverage) for the checks and browser journeys.
+
+The npm lockfile records the Vibium version for reproducing results. See the [Vibium releases](https://github.com/VibiumDev/vibium/releases) and [upstream contributing guide](https://github.com/VibiumDev/vibium/blob/main/CONTRIBUTING.md).
 
 ## Community Guidelines
 
