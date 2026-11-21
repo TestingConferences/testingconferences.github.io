@@ -1,3 +1,19 @@
+- name: "StackConnect World Tour: Hyderabad 2026"
+  location: Hyderabad, India
+  dates: "November 19, 2026"
+  url: https://www.browserstack.com/events/stackconnect-world-tour-hyderabad-november-2026?utm_source=testingconferences
+  twitter: browserstack
+
+- name: Software Quality Summit Columbus 2026
+  location: Columbus, OH, USA
+  dates: "November 19, 2026"
+  url: https://www.testingmind.com/event/software-quality-summit-Columbus/?utm_source=testingconferences
+
+- name: Agile Testing Days 2026
+  location: Potsdam, Germany and Online
+  dates: "November 16-19, 2026"
+  url: https://agiletestingdays.com/?utm_source=testingconferences
+
 - name: QA Leadership Summit - Winter 2026 Edition
   location: Online
   dates: "November 18, 2026"
