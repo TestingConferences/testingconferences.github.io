@@ -11,7 +11,7 @@
   status: Registration is Open and Free
 
 - name: January Conference
-  location: Paris, France
+  location: Paris, France and Online
   dates: "January 8-9, 2027"
   url: https://example.com/january?utm_source=testingconferences
 
@@ -71,7 +71,7 @@
   url: https://example.com/open-cfp?utm_source=testingconferences
   status: <a href="https://example.com/cfp?utm_source=testingconferences">CFP is Open</a> until January 15, 2027
 
-- name: Open Call for Papers Conference
+- name: Alternate Open Call for Papers Conference
   location: Athens, Greece
   dates: "August 11, 2027"
   url: https://example.com/open-papers?utm_source=testingconferences
