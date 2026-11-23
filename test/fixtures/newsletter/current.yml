@@ -1,0 +1,88 @@
+- name: December Conference
+  location: Berlin, Germany
+  dates: "December 3, 2026"
+  url: https://example.com/december?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Beta November Conference
+  location: Online
+  dates: "November 18, 2026"
+  url: https://example.com/beta?utm_source=testingconferences
+  status: Registration is Open and Free
+
+- name: January Conference
+  location: Paris, France and Online
+  dates: "January 8-9, 2027"
+  url: https://example.com/january?utm_source=testingconferences
+
+- name: Alpha November Conference
+  location: London, UK
+  dates: "November 18, 2026"
+  url: https://example.com/alpha?utm_source=testingconferences
+
+- name: Cross-Month Conference
+  location: New York, USA
+  dates: "November 30 - December 2, 2026"
+  url: https://example.com/cross-month?utm_source=testingconferences
+
+- name: February Conference
+  location: Rome, Italy
+  dates: "February 1, 2027"
+  url: https://example.com/february?utm_source=testingconferences
+
+- name: Date To Be Announced Conference
+  location: Online
+  dates: "2027 TBA"
+  url: https://example.com/tba?utm_source=testingconferences
+
+- name: Early Bird Conference
+  location: Hilversum, Netherlands
+  dates: "March 5, 2027"
+  url: https://example.com/early-bird?utm_source=testingconferences
+  status: <a href="https://example.com/tickets?utm_source=testingconferences&amp;plan=early">Early Bird Registration is Open</a> until December 1, 2026
+
+- name: Blind Ticket Conference
+  location: Helsinki, Finland
+  dates: "April 7-9, 2027"
+  url: https://example.com/blind-tickets?utm_source=testingconferences
+  status: <strong>Blind Tickets are On Sale</strong>
+
+- name: Blind Registration Conference
+  location: Leipzig, Germany
+  dates: "April 10, 2027"
+  url: https://example.com/blind-registration?utm_source=testingconferences
+  status: Blind Registration is Open
+
+- name: Closed Discount Conference
+  location: Vienna, Austria
+  dates: "May 4, 2027"
+  url: https://example.com/closed-discount?utm_source=testingconferences
+  status: Early Bird Registration is Closed
+
+- name: Registration Only Conference
+  location: Madrid, Spain
+  dates: "June 2, 2027"
+  url: https://example.com/registration?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Open CFP Conference
+  location: Paris, France
+  dates: "July 8, 2027"
+  url: https://example.com/open-cfp?utm_source=testingconferences
+  status: <a href="https://example.com/cfp?utm_source=testingconferences">CFP is Open</a> until January 15, 2027
+
+- name: Alternate Open Call for Papers Conference
+  location: Athens, Greece
+  dates: "August 11, 2027"
+  url: https://example.com/open-papers?utm_source=testingconferences
+  status: Call for Papers is Open
+
+- name: Closed CFP Conference
+  location: Oslo, Norway
+  dates: "September 9, 2027"
+  url: https://example.com/closed-cfp?utm_source=testingconferences
+  status: CFP is Closed
+
+- name: Missing Date Conference
+  location: Online
+  url: https://example.com/missing-date?utm_source=testingconferences
