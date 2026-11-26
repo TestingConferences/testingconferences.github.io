@@ -33,3 +33,24 @@ jobs:
 
       - name: Validate generated site
         run: bundle exec htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href --ignore-urls '/^\/\//'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run Vibium browser smoke test
+        working-directory: .github/browser-tests
+        run: |
+          VIBIUM_SKIP_BROWSER_DOWNLOAD=1 npm ci
+          npx vibium install
+          # Let this Chrome binary create the user namespace it needs for its sandbox.
+          chrome_path=$(npx vibium paths --json | jq -er '.result.chrome')
+          sudo apparmor_parser -r <<EOF
+          abi <abi/4.0>,
+          include <tunables/global>
+          profile tcorg-vibium-chrome "$chrome_path" flags=(unconfined) {
+            userns,
+          }
+          EOF
+          npm test
